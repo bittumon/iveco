@@ -1,15 +1,15 @@
 {
-    "last_update": "2024-02-14 07:43:50",
-    "ac_power": 4.6,
+    "last_update": "2024-02-17 07:53:52",
+    "ac_power": 24.1,
     "month_name": "FEBRUARY",
     "current_year": 2024,
-    "carbon": 1175,
-    "alberi": 1607,
-    "t_evita": 990,
+    "carbon": 1194,
+    "alberi": 1633,
+    "t_evita": 1006,
     "total_dayenergy": [
-        "0"
+        "0.0999999999985448"
     ],
-    "life_energy": 2474929,
+    "life_energy": 2515392,
     "acEnergy_hour_day": [
         "0",
         "0"
@@ -24,7 +24,7 @@
     ],
     "all_years_data": [
         "2119282.6",
-        "355646.20000000007"
+        "396109.8000000001"
     ],
     "all_daymonth_list": [
         "01",
@@ -40,7 +40,10 @@
         "11",
         "12",
         "13",
-        "14"
+        "14",
+        "15",
+        "16",
+        "17"
     ],
     "all_daymonth_data": [
         "3249.9999999999927",
@@ -56,7 +59,10 @@
         "3681.499999999982",
         "8210.800000000021",
         "15691.900000000029",
-        "0"
+        "15679.4",
+        "11990.999999999982",
+        "12793.200000000012",
+        "0.0999999999985448"
     ],
     "all_monthyear_list": [
         "September",
@@ -72,21 +78,21 @@
         "176055.80000000005",
         "1763088.7",
         "251258.60000000003",
-        "104387.60000000003"
+        "144851.20000000007"
     ],
-    "temperature_2m": "3.8 \u00b0C",
-    "relative_humidity_2m": "84 %",
-    "apparent_temperature": "1.1 \u00b0C",
+    "temperature_2m": "7.2 \u00b0C",
+    "relative_humidity_2m": "91 %",
+    "apparent_temperature": "6.1 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Sunny",
+    "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "0 %",
-    "pressure_msl": "1024.9 hPa",
-    "surface_pressure": "1007.1 hPa",
-    "wind_speed_10m": "5.6 km/h",
-    "wind_direction_10m": "40 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
+    "cloud_cover": "100 %",
+    "pressure_msl": "1025.7 hPa",
+    "surface_pressure": "1008.1 hPa",
+    "wind_speed_10m": "1.0 km/h",
+    "wind_direction_10m": "45 \u00b0"
 }
