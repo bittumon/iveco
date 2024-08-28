@@ -1,12 +1,14 @@
 {
-    "last_update": "2024-08-28 16:18:50",
+    "last_update": "2024-08-28 16:31:02",
     "ac_power": 2367.35,
     "month_name": "AUGUST",
     "current_year": 2024,
     "carbon": 5608,
     "alberi": 7669,
     "t_evita": 4724,
-    "total_dayenergy": 15961.700000000026,
+    "total_dayenergy": [
+        "15961.700000000026"
+    ],
     "life_energy": 11809591,
     "acEnergy_hour_day": [
         "6",
@@ -128,7 +130,7 @@
     ],
     "temperature_2m": "30.8 \u00b0C",
     "relative_humidity_2m": "43 %",
-    "apparent_temperature": "32.2 \u00b0C",
+    "apparent_temperature": "32.0 \u00b0C",
     "is_day": 1,
     "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
@@ -139,6 +141,6 @@
     "cloud_cover": "0 %",
     "pressure_msl": "1016.7 hPa",
     "surface_pressure": "1000.6 hPa",
-    "wind_speed_10m": "7.6 km/h",
-    "wind_direction_10m": "278 \u00b0"
+    "wind_speed_10m": "7.8 km/h",
+    "wind_direction_10m": "283 \u00b0"
 }
