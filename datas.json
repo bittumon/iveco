@@ -1,12 +1,14 @@
 {
-    "last_update": "2024-09-03 19:48:50",
+    "last_update": "2024-09-03 20:01:02",
     "ac_power": 29.05,
     "month_name": "SEPTEMBER",
     "current_year": 2024,
     "carbon": 5669,
     "alberi": 7752,
     "t_evita": 4775,
-    "total_dayenergy": 22395.000000000102,
+    "total_dayenergy": [
+        "23157.20000000004"
+    ],
     "life_energy": 11938683,
     "acEnergy_hour_day": [
         "6",
@@ -20,7 +22,8 @@
         "14",
         "15",
         "16",
-        "17"
+        "17",
+        "18"
     ],
     "acEnergy_hour": [
         "1.099999999976717",
@@ -34,7 +37,8 @@
         "2941.799999999974",
         "2698.6999999999825",
         "2266.100000000064",
-        "1710.6000000000497"
+        "1710.6000000000497",
+        "688.1999999998807"
     ],
     "all_years_list": [
         "2023",
@@ -52,7 +56,7 @@
     "all_daymonth_data": [
         "22450.699999999968",
         "15503.800000000016",
-        "19622.200000000084"
+        "23157.20000000004"
     ],
     "all_monthyear_list": [
         "September",
@@ -84,19 +88,19 @@
         "743196.2999999998",
         "52950.30000000003"
     ],
-    "temperature_2m": "24.7 \u00b0C",
-    "relative_humidity_2m": "58 %",
+    "temperature_2m": "24.8 \u00b0C",
+    "relative_humidity_2m": "57 %",
     "apparent_temperature": "25.7 \u00b0C",
-    "is_day": 1,
-    "weather_exp": "Mainly Sunny",
+    "is_day": 0,
+    "weather_exp": "Clear",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "39 %",
-    "pressure_msl": "1014.9 hPa",
-    "surface_pressure": "998.5 hPa",
-    "wind_speed_10m": "7.2 km/h",
-    "wind_direction_10m": "27 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
+    "cloud_cover": "0 %",
+    "pressure_msl": "1015.0 hPa",
+    "surface_pressure": "998.6 hPa",
+    "wind_speed_10m": "6.9 km/h",
+    "wind_direction_10m": "28 \u00b0"
 }
