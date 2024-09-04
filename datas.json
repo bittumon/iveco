@@ -1,20 +1,23 @@
 {
-    "last_update": "2024-09-04 14:48:50",
+    "last_update": "2024-09-04 15:01:03",
     "ac_power": 3110.53,
     "month_name": "SEPTEMBER",
     "current_year": 2024,
-    "carbon": 5673,
-    "alberi": 7758,
-    "t_evita": 4779,
-    "total_dayenergy": 9500.50000000003,
-    "life_energy": 11946845,
+    "carbon": 5680,
+    "alberi": 7767,
+    "t_evita": 4785,
+    "total_dayenergy": [
+        "11835.499999999984"
+    ],
+    "life_energy": 11961784,
     "acEnergy_hour_day": [
         "7",
         "8",
         "9",
         "10",
         "11",
-        "12"
+        "12",
+        "13"
     ],
     "acEnergy_hour": [
         "129.20000000004077",
@@ -22,7 +25,8 @@
         "1305.7999999999738",
         "2181.5999999999767",
         "2576.70000000007",
-        "2881.300000000032"
+        "2881.300000000032",
+        "3134.7999999999447"
     ],
     "all_years_list": [
         "2023",
@@ -30,7 +34,7 @@
     ],
     "all_years_data": [
         "3449970.699999999",
-        "8496874.099999996"
+        "8511813.799999995"
     ],
     "all_daymonth_list": [
         "01",
@@ -72,21 +76,21 @@
         "2143373.299999999",
         "1008722.1",
         "743196.2999999998",
-        "61111.90000000004"
+        "76051.59999999996"
     ],
     "temperature_2m": "30.5 \u00b0C",
     "relative_humidity_2m": "38 %",
     "apparent_temperature": "30.6 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Partly Cloudy",
+    "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "15 %",
-    "pressure_msl": "1013.1 hPa",
-    "surface_pressure": "997.1 hPa",
-    "wind_speed_10m": "9.1 km/h",
-    "wind_direction_10m": "99 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
+    "cloud_cover": "97 %",
+    "pressure_msl": "1012.9 hPa",
+    "surface_pressure": "996.9 hPa",
+    "wind_speed_10m": "9.4 km/h",
+    "wind_direction_10m": "97 \u00b0"
 }
