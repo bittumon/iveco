@@ -1,22 +1,26 @@
 {
-    "last_update": "2024-09-07 11:48:51",
+    "last_update": "2024-09-07 12:01:03",
     "ac_power": 2218.7,
     "month_name": "SEPTEMBER",
     "current_year": 2024,
     "carbon": 5694,
     "alberi": 7786,
     "t_evita": 4796,
-    "total_dayenergy": 2117.8000000000175,
+    "total_dayenergy": [
+        "63.50000000005821"
+    ],
     "life_energy": 11990804,
     "acEnergy_hour_day": [
         "7",
         "8",
-        "9"
+        "9",
+        "10"
     ],
     "acEnergy_hour": [
         "124.70000000001164",
         "569.9000000000087",
-        "1423.199999999997"
+        "1423.199999999997",
+        "2213.600000000108"
     ],
     "all_years_list": [
         "2023",
@@ -75,7 +79,7 @@
         "105071.59999999996"
     ],
     "temperature_2m": "24.5 \u00b0C",
-    "relative_humidity_2m": "74 %",
+    "relative_humidity_2m": "73 %",
     "apparent_temperature": "27.2 \u00b0C",
     "is_day": 1,
     "weather_exp": "Partly Cloudy",
@@ -84,7 +88,7 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "72 %",
+    "cloud_cover": "68 %",
     "pressure_msl": "1017.3 hPa",
     "surface_pressure": "1000.9 hPa",
     "wind_speed_10m": "5.8 km/h",
