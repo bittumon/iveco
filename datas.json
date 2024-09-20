@@ -1,12 +1,14 @@
 {
-    "last_update": "2024-09-20 01:58:50",
+    "last_update": "2024-09-20 02:16:02",
     "ac_power": 0.0,
     "month_name": "SEPTEMBER",
     "current_year": 2024,
     "carbon": 5780,
     "alberi": 7904,
     "t_evita": 4869,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 12171691,
     "acEnergy_hour_day": [
         "0",
@@ -43,7 +45,8 @@
         "16",
         "17",
         "18",
-        "19"
+        "19",
+        "20"
     ],
     "all_daymonth_data": [
         "22450.699999999968",
@@ -64,7 +67,8 @@
         "16160.700000000026",
         "10647.300000000005",
         "6062.999999999898",
-        "11073.40000000011"
+        "11073.40000000011",
+        "0"
     ],
     "all_monthyear_list": [
         "September",
@@ -96,7 +100,7 @@
         "743196.2999999998",
         "285958.2000000001"
     ],
-    "temperature_2m": "15.8 \u00b0C",
+    "temperature_2m": "15.7 \u00b0C",
     "relative_humidity_2m": "66 %",
     "apparent_temperature": "14.6 \u00b0C",
     "is_day": 0,
