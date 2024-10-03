@@ -1,12 +1,14 @@
 {
-    "last_update": "2024-10-03 17:58:50",
+    "last_update": "2024-10-03 18:16:06",
     "ac_power": 6.5,
     "month_name": "OCTOBER",
     "current_year": 2024,
     "carbon": 5865,
     "alberi": 8021,
     "t_evita": 4941,
-    "total_dayenergy": 2507.1000000000204,
+    "total_dayenergy": [
+        "1987.499999999971"
+    ],
     "life_energy": 12351849,
     "acEnergy_hour_day": [
         "8",
@@ -16,7 +18,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "36.29999999998836",
@@ -26,7 +29,8 @@
         "421.5000000001746",
         "564.2999999999593",
         "513.8999999999651",
-        "428.50000000001455"
+        "428.50000000001455",
+        "181.99999999995637"
     ],
     "all_years_list": [
         "2023",
@@ -78,13 +82,13 @@
         "454279.3999999999",
         "11837"
     ],
-    "temperature_2m": "14.2 \u00b0C",
+    "temperature_2m": "14.1 \u00b0C",
     "relative_humidity_2m": "94 %",
-    "apparent_temperature": "13.8 \u00b0C",
+    "apparent_temperature": "13.7 \u00b0C",
     "is_day": 1,
     "weather_exp": "Light Rain",
-    "precipitation": "0.3 mm",
-    "rain": "0.3 mm",
+    "precipitation": "0.4 mm",
+    "rain": "0.4 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/10d@2x.png",
