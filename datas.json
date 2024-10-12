@@ -1,12 +1,14 @@
 {
-    "last_update": "2024-10-12 02:08:50",
+    "last_update": "2024-10-12 02:16:03",
     "ac_power": 0.0,
     "month_name": "OCTOBER",
     "current_year": 2024,
     "carbon": 5896,
     "alberi": 8063,
     "t_evita": 4967,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 12417463,
     "acEnergy_hour_day": [
         "0",
@@ -50,7 +52,7 @@
         "10834.599999999962",
         "3747.499999999971",
         "19065.099999999948",
-        "None"
+        "0"
     ],
     "all_monthyear_list": [
         "September",
@@ -84,7 +86,7 @@
         "454279.3999999999",
         "77450.30000000005"
     ],
-    "temperature_2m": "13.0 \u00b0C",
+    "temperature_2m": "12.9 \u00b0C",
     "relative_humidity_2m": "84 %",
     "apparent_temperature": "11.9 \u00b0C",
     "is_day": 0,
@@ -95,8 +97,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
     "cloud_cover": "16 %",
-    "pressure_msl": "1017.0 hPa",
-    "surface_pressure": "999.9 hPa",
-    "wind_speed_10m": "8.0 km/h",
-    "wind_direction_10m": "27 \u00b0"
+    "pressure_msl": "1017.1 hPa",
+    "surface_pressure": "1000.0 hPa",
+    "wind_speed_10m": "8.2 km/h",
+    "wind_direction_10m": "29 \u00b0"
 }
