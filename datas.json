@@ -1,12 +1,14 @@
 {
-    "last_update": "2024-10-16 17:58:50",
+    "last_update": "2024-10-16 18:01:05",
     "ac_power": 2.1,
     "month_name": "OCTOBER",
     "current_year": 2024,
     "carbon": 5921,
     "alberi": 8097,
     "t_evita": 4988,
-    "total_dayenergy": 1833.300000000032,
+    "total_dayenergy": [
+        "1297.600000000035"
+    ],
     "life_energy": 12468800,
     "acEnergy_hour_day": [
         "8",
@@ -16,7 +18,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "42.49999999998545",
@@ -26,7 +29,8 @@
         "302.5999999999476",
         "248.3000000000029",
         "111.80000000004657",
-        "356.59999999996217"
+        "356.59999999996217",
+        "148"
     ],
     "all_years_list": [
         "2023",
@@ -104,19 +108,19 @@
         "454279.3999999999",
         "128787.80000000002"
     ],
-    "temperature_2m": "16.5 \u00b0C",
+    "temperature_2m": "16.4 \u00b0C",
     "relative_humidity_2m": "90 %",
-    "apparent_temperature": "17.3 \u00b0C",
+    "apparent_temperature": "17.2 \u00b0C",
     "is_day": 1,
     "weather_exp": "Light Rain",
-    "precipitation": "0.0 mm",
-    "rain": "0.0 mm",
+    "precipitation": "0.1 mm",
+    "rain": "0.1 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/10d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1020.6 hPa",
-    "surface_pressure": "1003.7 hPa",
-    "wind_speed_10m": "5.2 km/h",
-    "wind_direction_10m": "168 \u00b0"
+    "pressure_msl": "1020.7 hPa",
+    "surface_pressure": "1003.8 hPa",
+    "wind_speed_10m": "5.1 km/h",
+    "wind_direction_10m": "176 \u00b0"
 }
