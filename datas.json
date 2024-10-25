@@ -1,12 +1,14 @@
 {
-    "last_update": "2024-10-25 23:08:51",
+    "last_update": "2024-10-25 23:16:02",
     "ac_power": 0.0,
     "month_name": "OCTOBER",
     "current_year": 2024,
     "carbon": 5945,
     "alberi": 8130,
     "t_evita": 5008,
-    "total_dayenergy": 3380.900000000038,
+    "total_dayenergy": [
+        "3380.900000000038"
+    ],
     "life_energy": 12520565,
     "acEnergy_hour_day": [
         "8",
@@ -131,8 +133,8 @@
     "apparent_temperature": "17.5 \u00b0C",
     "is_day": 0,
     "weather_exp": "Light Rain",
-    "precipitation": "0.1 mm",
-    "rain": "0.1 mm",
+    "precipitation": "0.3 mm",
+    "rain": "0.3 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/10n@2x.png",
