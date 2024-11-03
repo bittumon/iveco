@@ -1,12 +1,14 @@
 {
-    "last_update": "2024-11-03 15:08:50",
+    "last_update": "2024-11-03 15:16:03",
     "ac_power": 1478.8,
     "month_name": "NOVEMBER",
     "current_year": 2024,
     "carbon": 5996,
     "alberi": 8199,
     "t_evita": 5051,
-    "total_dayenergy": 12052.499999999913,
+    "total_dayenergy": [
+        "8365.599999999933"
+    ],
     "life_energy": 12626730,
     "acEnergy_hour_day": [
         "7",
@@ -26,7 +28,7 @@
         "2366.9000000000237",
         "2433.80000000012",
         "2195.199999999997",
-        "485.09999999984575"
+        "1578.9999999997965"
     ],
     "all_years_list": [
         "2023",
@@ -80,8 +82,8 @@
         "247731.80000000005",
         "38985.89999999995"
     ],
-    "temperature_2m": "17.0 \u00b0C",
-    "relative_humidity_2m": "64 %",
+    "temperature_2m": "16.9 \u00b0C",
+    "relative_humidity_2m": "65 %",
     "apparent_temperature": "16.3 \u00b0C",
     "is_day": 1,
     "weather_exp": "Mainly Sunny",
@@ -93,6 +95,6 @@
     "cloud_cover": "7 %",
     "pressure_msl": "1027.2 hPa",
     "surface_pressure": "1010.2 hPa",
-    "wind_speed_10m": "5.4 km/h",
+    "wind_speed_10m": "5.1 km/h",
     "wind_direction_10m": "172 \u00b0"
 }
