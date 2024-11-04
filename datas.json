@@ -1,12 +1,14 @@
 {
-    "last_update": "2024-11-04 03:58:50",
+    "last_update": "2024-11-04 04:01:02",
     "ac_power": 0.0,
     "month_name": "NOVEMBER",
     "current_year": 2024,
     "carbon": 5997,
     "alberi": 8201,
     "t_evita": 5052,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 12630176,
     "acEnergy_hour_day": [
         "0",
@@ -72,7 +74,7 @@
     ],
     "temperature_2m": "9.1 \u00b0C",
     "relative_humidity_2m": "92 %",
-    "apparent_temperature": "7.8 \u00b0C",
+    "apparent_temperature": "7.7 \u00b0C",
     "is_day": 0,
     "weather_exp": "Mainly Clear",
     "precipitation": "0.0 mm",
@@ -80,7 +82,7 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
-    "cloud_cover": "20 %",
+    "cloud_cover": "0 %",
     "pressure_msl": "1027.4 hPa",
     "surface_pressure": "1009.9 hPa",
     "wind_speed_10m": "5.2 km/h",
