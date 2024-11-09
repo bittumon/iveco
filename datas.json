@@ -1,20 +1,23 @@
 {
-    "last_update": "2024-11-09 13:58:51",
+    "last_update": "2024-11-09 14:01:03",
     "ac_power": 1205.4,
     "month_name": "NOVEMBER",
     "current_year": 2024,
-    "carbon": 6028,
-    "alberi": 8244,
-    "t_evita": 5078,
-    "total_dayenergy": 6523.100000000006,
-    "life_energy": 12695110,
+    "carbon": 6032,
+    "alberi": 8248,
+    "t_evita": 5081,
+    "total_dayenergy": [
+        "5458.700000000099"
+    ],
+    "life_energy": 12702595,
     "acEnergy_hour_day": [
         "7",
         "8",
         "9",
         "10",
         "11",
-        "12"
+        "12",
+        "13"
     ],
     "acEnergy_hour": [
         "38.000000000029104",
@@ -22,7 +25,8 @@
         "443.8999999998923",
         "1535.1000000000497",
         "2077.600000000093",
-        "2195.299999999872"
+        "2195.299999999872",
+        "491.4000000000233"
     ],
     "all_years_list": [
         "2023",
@@ -30,7 +34,7 @@
     ],
     "all_years_data": [
         "3449970.699999999",
-        "9245139.399999997"
+        "9252624.399999997"
     ],
     "all_daymonth_list": [
         "01",
@@ -86,9 +90,9 @@
         "743196.2999999998",
         "454279.3999999999",
         "247731.80000000005",
-        "107365.99999999993"
+        "114851"
     ],
-    "temperature_2m": "13.9 \u00b0C",
+    "temperature_2m": "14.0 \u00b0C",
     "relative_humidity_2m": "73 %",
     "apparent_temperature": "12.8 \u00b0C",
     "is_day": 1,
@@ -98,9 +102,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
-    "cloud_cover": "100 %",
-    "pressure_msl": "1026.0 hPa",
-    "surface_pressure": "1008.8 hPa",
-    "wind_speed_10m": "6.6 km/h",
-    "wind_direction_10m": "257 \u00b0"
+    "cloud_cover": "93 %",
+    "pressure_msl": "1025.9 hPa",
+    "surface_pressure": "1008.7 hPa",
+    "wind_speed_10m": "7.1 km/h",
+    "wind_direction_10m": "255 \u00b0"
 }
