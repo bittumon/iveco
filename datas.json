@@ -1,26 +1,30 @@
 {
-    "last_update": "2024-11-09 12:58:51",
+    "last_update": "2024-11-09 13:01:03",
     "ac_power": 1524.5,
     "month_name": "NOVEMBER",
     "current_year": 2024,
     "carbon": 6028,
     "alberi": 8244,
     "t_evita": 5078,
-    "total_dayenergy": 4327.800000000134,
+    "total_dayenergy": [
+        "5458.700000000099"
+    ],
     "life_energy": 12695110,
     "acEnergy_hour_day": [
         "7",
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "38.000000000029104",
         "233.20000000006985",
         "443.8999999998923",
         "1535.1000000000497",
-        "2077.600000000093"
+        "2077.600000000093",
+        "563.699999999968"
     ],
     "all_years_list": [
         "2023",
@@ -50,7 +54,7 @@
         "13823.099999999948",
         "13725.89999999998",
         "10255.899999999994",
-        "0"
+        "5458.700000000099"
     ],
     "all_monthyear_list": [
         "September",
@@ -86,9 +90,9 @@
         "247731.80000000005",
         "107365.99999999993"
     ],
-    "temperature_2m": "13.4 \u00b0C",
-    "relative_humidity_2m": "76 %",
-    "apparent_temperature": "12.4 \u00b0C",
+    "temperature_2m": "13.6 \u00b0C",
+    "relative_humidity_2m": "75 %",
+    "apparent_temperature": "12.6 \u00b0C",
     "is_day": 1,
     "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
@@ -96,9 +100,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
-    "cloud_cover": "96 %",
-    "pressure_msl": "1026.5 hPa",
-    "surface_pressure": "1009.3 hPa",
+    "cloud_cover": "100 %",
+    "pressure_msl": "1026.3 hPa",
+    "surface_pressure": "1009.1 hPa",
     "wind_speed_10m": "5.8 km/h",
-    "wind_direction_10m": "263 \u00b0"
+    "wind_direction_10m": "266 \u00b0"
 }
