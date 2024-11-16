@@ -1,20 +1,23 @@
 {
-    "last_update": "2024-11-16 13:58:50",
+    "last_update": "2024-11-16 14:01:02",
     "ac_power": 1756.4,
     "month_name": "NOVEMBER",
     "current_year": 2024,
-    "carbon": 6067,
-    "alberi": 8296,
-    "t_evita": 5111,
-    "total_dayenergy": 8069.599999999991,
-    "life_energy": 12776587,
+    "carbon": 6071,
+    "alberi": 8302,
+    "t_evita": 5114,
+    "total_dayenergy": [
+        "7174.599999999991"
+    ],
+    "life_energy": 12785620,
     "acEnergy_hour_day": [
         "7",
         "8",
         "9",
         "10",
         "11",
-        "12"
+        "12",
+        "13"
     ],
     "acEnergy_hour": [
         "62.800000000119326",
@@ -22,7 +25,8 @@
         "1315.7999999999593",
         "1836.800000000061",
         "2147.7000000000407",
-        "2126.8999999998778"
+        "2126.8999999998778",
+        "495.20000000006985"
     ],
     "all_years_list": [
         "2023",
@@ -30,7 +34,7 @@
     ],
     "all_years_data": [
         "3449970.699999999",
-        "9326616.299999997"
+        "9335649.099999996"
     ],
     "all_daymonth_list": [
         "01",
@@ -100,21 +104,21 @@
         "743196.2999999998",
         "454279.3999999999",
         "247731.80000000005",
-        "188842.8999999999"
+        "197875.7"
     ],
-    "temperature_2m": "10.3 \u00b0C",
-    "relative_humidity_2m": "64 %",
-    "apparent_temperature": "7.9 \u00b0C",
+    "temperature_2m": "10.4 \u00b0C",
+    "relative_humidity_2m": "63 %",
+    "apparent_temperature": "8.1 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Mainly Sunny",
+    "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "7 %",
-    "pressure_msl": "1022.0 hPa",
-    "surface_pressure": "1004.7 hPa",
+    "cloud_cover": "2 %",
+    "pressure_msl": "1021.8 hPa",
+    "surface_pressure": "1004.5 hPa",
     "wind_speed_10m": "6.1 km/h",
-    "wind_direction_10m": "273 \u00b0"
+    "wind_direction_10m": "270 \u00b0"
 }
