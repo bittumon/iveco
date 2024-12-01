@@ -1,12 +1,14 @@
 {
-    "last_update": "2024-12-01 00:46:03",
+    "last_update": "2024-12-01 01:01:03",
     "ac_power": 0.0,
     "month_name": "DECEMBER",
     "current_year": 2024,
     "carbon": 6117,
     "alberi": 8365,
     "t_evita": 5153,
-    "total_dayenergy": [],
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 12882203,
     "acEnergy_hour_day": [
         "0",
@@ -24,8 +26,12 @@
         "3449970.699999999",
         "9432232.499999996"
     ],
-    "all_daymonth_list": [],
-    "all_daymonth_data": [],
+    "all_daymonth_list": [
+        "01"
+    ],
+    "all_daymonth_data": [
+        "0"
+    ],
     "all_monthyear_list": [
         "September",
         "October",
@@ -41,7 +47,8 @@
         "August",
         "September",
         "October",
-        "November"
+        "November",
+        "December"
     ],
     "all_monthyear_data": [
         "5535.099999999991",
@@ -58,11 +65,12 @@
         "743196.2999999998",
         "454279.3999999999",
         "247731.80000000005",
-        "294459.1"
+        "294459.1",
+        "None"
     ],
-    "temperature_2m": "1.4 \u00b0C",
-    "relative_humidity_2m": "89 %",
-    "apparent_temperature": "-1.3 \u00b0C",
+    "temperature_2m": "1.1 \u00b0C",
+    "relative_humidity_2m": "90 %",
+    "apparent_temperature": "-1.7 \u00b0C",
     "is_day": 0,
     "weather_exp": "Mainly Clear",
     "precipitation": "0.0 mm",
@@ -71,8 +79,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1030.2 hPa",
-    "surface_pressure": "1012.2 hPa",
-    "wind_speed_10m": "3.6 km/h",
-    "wind_direction_10m": "354 \u00b0"
+    "pressure_msl": "1030.1 hPa",
+    "surface_pressure": "1012.1 hPa",
+    "wind_speed_10m": "4.0 km/h",
+    "wind_direction_10m": "355 \u00b0"
 }
