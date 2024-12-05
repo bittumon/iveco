@@ -1,20 +1,23 @@
 {
-    "last_update": "2024-12-05 13:58:50",
+    "last_update": "2024-12-05 14:01:03",
     "ac_power": 960.4,
     "month_name": "DECEMBER",
     "current_year": 2024,
-    "carbon": 6132,
-    "alberi": 8386,
-    "t_evita": 5166,
-    "total_dayenergy": 4809.200000000055,
-    "life_energy": 12914763,
+    "carbon": 6135,
+    "alberi": 8390,
+    "t_evita": 5168,
+    "total_dayenergy": [
+        "3989.200000000172"
+    ],
+    "life_energy": 12920436,
     "acEnergy_hour_day": [
         "7",
         "8",
         "9",
         "10",
         "11",
-        "12"
+        "12",
+        "13"
     ],
     "acEnergy_hour": [
         "8.400000000066939",
@@ -22,7 +25,8 @@
         "843.8999999999214",
         "641.4000000000378",
         "1478",
-        "1552.0999999999622"
+        "1552.0999999999622",
+        "450.0999999999476"
     ],
     "all_years_list": [
         "2023",
@@ -30,7 +34,7 @@
     ],
     "all_years_data": [
         "3449970.699999999",
-        "9464792.499999996"
+        "9470465.099999998"
     ],
     "all_daymonth_list": [
         "01",
@@ -80,21 +84,21 @@
         "454279.3999999999",
         "247731.80000000005",
         "296587.80000000016",
-        "30431.2999999998"
+        "36103.89999999986"
     ],
     "temperature_2m": "8.5 \u00b0C",
-    "relative_humidity_2m": "59 %",
-    "apparent_temperature": "5.7 \u00b0C",
+    "relative_humidity_2m": "58 %",
+    "apparent_temperature": "5.6 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Mainly Sunny",
+    "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "31 %",
-    "pressure_msl": "1025.4 hPa",
-    "surface_pressure": "1007.9 hPa",
-    "wind_speed_10m": "5.7 km/h",
-    "wind_direction_10m": "215 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
+    "cloud_cover": "54 %",
+    "pressure_msl": "1025.5 hPa",
+    "surface_pressure": "1008.0 hPa",
+    "wind_speed_10m": "5.9 km/h",
+    "wind_direction_10m": "218 \u00b0"
 }
