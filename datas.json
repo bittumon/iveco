@@ -1,32 +1,22 @@
 {
-    "last_update": "2025-01-12 15:38:50",
-    "ac_power": 564.1,
+    "last_update": "2025-01-13 08:37:55",
+    "ac_power": 43.73,
     "month_name": "JANUARY",
     "current_year": 2025,
-    "carbon": 6244,
-    "alberi": 8539,
-    "t_evita": 5260,
-    "total_dayenergy": 10535.000000000087,
-    "life_energy": 13150339,
+    "carbon": 6246,
+    "alberi": 8541,
+    "t_evita": 5261,
+    "total_dayenergy": [
+        "0.7000000000407454"
+    ],
+    "life_energy": 13153293,
     "acEnergy_hour_day": [
-        "7",
-        "8",
-        "9",
-        "10",
-        "11",
-        "12",
-        "13",
-        "14"
+        "0",
+        "0"
     ],
     "acEnergy_hour": [
-        "0.3000000000174623",
-        "305.6000000000204",
-        "1058.100000000035",
-        "1747.399999999965",
-        "2112.200000000026",
-        "2224.6999999999825",
-        "2076.799999999974",
-        "1009.9000000000668"
+        "0",
+        "0"
     ],
     "all_years_list": [
         "2023",
@@ -36,7 +26,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "47776.49999999997"
+        "50730.60000000008"
     ],
     "all_daymonth_list": [
         "01",
@@ -50,7 +40,8 @@
         "09",
         "10",
         "11",
-        "12"
+        "12",
+        "13"
     ],
     "all_daymonth_data": [
         "9105.700000000012",
@@ -64,7 +55,8 @@
         "960.2000000001136",
         "6625.899999999951",
         "4650.099999999919",
-        "10890.999999999942"
+        "11480.200000000114",
+        "0.7000000000407454"
     ],
     "all_monthyear_list": [
         "September",
@@ -102,11 +94,11 @@
         "247731.80000000005",
         "296587.80000000016",
         "218230.7999999999",
-        "47776.49999999997"
+        "50730.60000000008"
     ],
-    "temperature_2m": "6.8 \u00b0C",
-    "relative_humidity_2m": "44 %",
-    "apparent_temperature": "3.3 \u00b0C",
+    "temperature_2m": "-2.7 \u00b0C",
+    "relative_humidity_2m": "87 %",
+    "apparent_temperature": "-5.7 \u00b0C",
     "is_day": 1,
     "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
@@ -115,8 +107,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1026.1 hPa",
-    "surface_pressure": "1008.5 hPa",
-    "wind_speed_10m": "5.4 km/h",
-    "wind_direction_10m": "222 \u00b0"
+    "pressure_msl": "1031.8 hPa",
+    "surface_pressure": "1013.5 hPa",
+    "wind_speed_10m": "2.2 km/h",
+    "wind_direction_10m": "270 \u00b0"
 }
