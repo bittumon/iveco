@@ -1,26 +1,30 @@
 {
-    "last_update": "2025-01-28 12:48:50",
-    "ac_power": 2068.47,
+    "last_update": "2025-01-28 13:01:12",
+    "ac_power": 979.2,
     "month_name": "JANUARY",
     "current_year": 2025,
     "carbon": 6289,
     "alberi": 8601,
     "t_evita": 5298,
-    "total_dayenergy": 4504.299999999814,
+    "total_dayenergy": [
+        "4802.399999999892"
+    ],
     "life_energy": 13245634,
     "acEnergy_hour_day": [
         "7",
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "13.999999999839927",
         "316.19999999995343",
         "1093.7000000000407",
         "1782.9000000000524",
-        "1297.4999999999272"
+        "1297.4999999999272",
+        "298.1000000000786"
     ],
     "all_years_list": [
         "2023",
@@ -90,7 +94,7 @@
         "1546.9000000000524",
         "963.8999999998632",
         "856.3000000002212",
-        "4695.799999999828"
+        "4802.399999999892"
     ],
     "all_monthyear_list": [
         "September",
@@ -130,19 +134,19 @@
         "218230.7999999999",
         "143071.7000000001"
     ],
-    "temperature_2m": "11.3 \u00b0C",
+    "temperature_2m": "11.1 \u00b0C",
     "relative_humidity_2m": "88 %",
-    "apparent_temperature": "9.6 \u00b0C",
+    "apparent_temperature": "9.2 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Light Showers",
-    "precipitation": "0.1 mm",
-    "rain": "0.0 mm",
+    "weather_exp": "Light Rain",
+    "precipitation": "0.2 mm",
+    "rain": "0.1 mm",
     "showers": "0.1 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/09d@2x.png",
-    "cloud_cover": "96 %",
+    "weather_code": "http://openweathermap.org/img/wn/10d@2x.png",
+    "cloud_cover": "100 %",
     "pressure_msl": "999.1 hPa",
     "surface_pressure": "982.2 hPa",
-    "wind_speed_10m": "10.9 km/h",
-    "wind_direction_10m": "236 \u00b0"
+    "wind_speed_10m": "11.4 km/h",
+    "wind_direction_10m": "246 \u00b0"
 }
