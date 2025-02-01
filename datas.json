@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-02-01 00:58:50",
+    "last_update": "2025-02-01 01:01:03",
     "ac_power": 0.0,
     "month_name": "FEBRUARY",
     "current_year": 2025,
     "carbon": 6301,
     "alberi": 8616,
     "t_evita": 5308,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 13269274,
     "acEnergy_hour_day": [
         "0",
@@ -26,8 +28,12 @@
         "9652591.999999998",
         "166711.3"
     ],
-    "all_daymonth_list": [],
-    "all_daymonth_data": [],
+    "all_daymonth_list": [
+        "01"
+    ],
+    "all_daymonth_data": [
+        "0"
+    ],
     "all_monthyear_list": [
         "September",
         "October",
@@ -45,7 +51,8 @@
         "October",
         "November",
         "December",
-        "January"
+        "January",
+        "February"
     ],
     "all_monthyear_data": [
         "5535.099999999991",
@@ -64,7 +71,8 @@
         "247731.80000000005",
         "296587.80000000016",
         "218230.7999999999",
-        "166711.3"
+        "166711.3",
+        "None"
     ],
     "temperature_2m": "6.2 \u00b0C",
     "relative_humidity_2m": "99 %",
