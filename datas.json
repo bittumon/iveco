@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-02-05 07:08:50",
+    "last_update": "2025-02-05 07:16:03",
     "ac_power": 0.0,
     "month_name": "FEBRUARY",
     "current_year": 2025,
     "carbon": 6324,
     "alberi": 8648,
     "t_evita": 5327,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 13317495,
     "acEnergy_hour_day": [
         "0",
@@ -91,8 +93,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/50n@2x.png",
     "cloud_cover": "70 %",
-    "pressure_msl": "1032.6 hPa",
-    "surface_pressure": "1014.4 hPa",
+    "pressure_msl": "1032.7 hPa",
+    "surface_pressure": "1014.5 hPa",
     "wind_speed_10m": "3.3 km/h",
     "wind_direction_10m": "347 \u00b0"
 }
