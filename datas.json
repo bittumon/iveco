@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-02-11 15:08:51",
+    "last_update": "2025-02-11 15:16:03",
     "ac_power": 155.87,
     "month_name": "FEBRUARY",
     "current_year": 2025,
     "carbon": 6344,
     "alberi": 8676,
     "t_evita": 5344,
-    "total_dayenergy": 1218.0000000000146,
+    "total_dayenergy": [
+        "1165.100000000035"
+    ],
     "life_energy": 13360298,
     "acEnergy_hour_day": [
         "8",
@@ -24,7 +26,7 @@
         "349.7999999999884",
         "285.7000000000553",
         "194.2999999999156",
-        "52.89999999997963"
+        "131.40000000000873"
     ],
     "all_years_list": [
         "2023",
@@ -113,8 +115,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1024.2 hPa",
-    "surface_pressure": "1006.8 hPa",
+    "pressure_msl": "1024.1 hPa",
+    "surface_pressure": "1006.7 hPa",
     "wind_speed_10m": "3.3 km/h",
     "wind_direction_10m": "264 \u00b0"
 }
