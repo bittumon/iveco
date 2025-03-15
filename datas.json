@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-03-15 13:48:50",
+    "last_update": "2025-03-15 14:01:02",
     "ac_power": 413.8,
     "month_name": "MARCH",
     "current_year": 2025,
-    "carbon": 6500,
-    "alberi": 8889,
-    "t_evita": 5476,
-    "total_dayenergy": 1968.3999999999942,
-    "life_energy": 13689388,
+    "carbon": 6501,
+    "alberi": 8891,
+    "t_evita": 5477,
+    "total_dayenergy": [
+        "2076.500000000029"
+    ],
+    "life_energy": 13691563,
     "acEnergy_hour_day": [
         "6",
         "7",
@@ -15,7 +17,8 @@
         "9",
         "10",
         "11",
-        "12"
+        "12",
+        "13"
     ],
     "acEnergy_hour": [
         "5.499999999985448",
@@ -24,7 +27,8 @@
         "606.000000000131",
         "301.4000000000524",
         "205.39999999987776",
-        "290.8000000000029"
+        "290.8000000000029",
+        "108.10000000003492"
     ],
     "all_years_list": [
         "2023",
@@ -34,7 +38,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "586825.2999999999"
+        "589000.7999999998"
     ],
     "all_daymonth_list": [
         "01",
@@ -110,21 +114,21 @@
         "218230.7999999999",
         "172600.99999999994",
         "220613.20000000004",
-        "193611.09999999995"
+        "195786.59999999992"
     ],
     "temperature_2m": "12.8 \u00b0C",
     "relative_humidity_2m": "76 %",
     "apparent_temperature": "10.8 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Light Showers",
+    "weather_exp": "Light Rain",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/09d@2x.png",
+    "weather_code": "http://openweathermap.org/img/wn/10d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1006.8 hPa",
-    "surface_pressure": "989.9 hPa",
-    "wind_speed_10m": "11.0 km/h",
-    "wind_direction_10m": "122 \u00b0"
+    "pressure_msl": "1006.7 hPa",
+    "surface_pressure": "989.8 hPa",
+    "wind_speed_10m": "10.7 km/h",
+    "wind_direction_10m": "123 \u00b0"
 }
