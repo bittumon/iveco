@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-03-23 14:48:51",
+    "last_update": "2025-03-23 15:01:03",
     "ac_power": 976.33,
     "month_name": "MARCH",
     "current_year": 2025,
     "carbon": 6551,
     "alberi": 8959,
     "t_evita": 5519,
-    "total_dayenergy": 6902.6999999999825,
+    "total_dayenergy": [
+        "7425.299999999974"
+    ],
     "life_energy": 13796435,
     "acEnergy_hour_day": [
         "6",
@@ -16,7 +18,8 @@
         "10",
         "11",
         "12",
-        "13"
+        "13",
+        "14"
     ],
     "acEnergy_hour": [
         "32.499999999970896",
@@ -26,7 +29,8 @@
         "1880.7000000001424",
         "2053.9999999998545",
         "1183.4000000000378",
-        "689.6999999999534"
+        "689.6999999999534",
+        "522.5999999999913"
     ],
     "all_years_list": [
         "2023",
@@ -86,7 +90,7 @@
         "21056.499999999985",
         "7541.900000000009",
         "2723.8000000000466",
-        "6921.999999999971"
+        "7425.299999999974"
     ],
     "all_monthyear_list": [
         "September",
@@ -132,7 +136,7 @@
     ],
     "temperature_2m": "14.3 \u00b0C",
     "relative_humidity_2m": "64 %",
-    "apparent_temperature": "13.3 \u00b0C",
+    "apparent_temperature": "13.4 \u00b0C",
     "is_day": 1,
     "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
@@ -141,8 +145,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1009.8 hPa",
-    "surface_pressure": "992.9 hPa",
-    "wind_speed_10m": "2.4 km/h",
-    "wind_direction_10m": "153 \u00b0"
+    "pressure_msl": "1009.9 hPa",
+    "surface_pressure": "993.0 hPa",
+    "wind_speed_10m": "2.2 km/h",
+    "wind_direction_10m": "171 \u00b0"
 }
