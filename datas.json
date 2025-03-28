@@ -1,26 +1,30 @@
 {
-    "last_update": "2025-03-28 11:48:51",
-    "ac_power": 1905.3,
+    "last_update": "2025-03-28 12:01:04",
+    "ac_power": 3762.0,
     "month_name": "MARCH",
     "current_year": 2025,
     "carbon": 6551,
     "alberi": 8959,
     "t_evita": 5519,
-    "total_dayenergy": 4382.100000000035,
+    "total_dayenergy": [
+        "5835.199999999983"
+    ],
     "life_energy": 13796435,
     "acEnergy_hour_day": [
         "6",
         "7",
         "8",
         "9",
-        "10"
+        "10",
+        "11"
     ],
     "acEnergy_hour": [
         "136.3000000000029",
         "404.4000000001106",
         "1042.5999999999476",
         "1257.8000000000466",
-        "1540.9999999999272"
+        "1540.9999999999272",
+        "1453.0999999999476"
     ],
     "all_years_list": [
         "2023",
@@ -90,7 +94,7 @@
         "13090.500000000044",
         "12866.800000000005",
         "19972.999999999985",
-        "4382.100000000035"
+        "5835.199999999983"
     ],
     "all_monthyear_list": [
         "September",
@@ -134,19 +138,19 @@
         "220613.20000000004",
         "300658.1"
     ],
-    "temperature_2m": "17.0 \u00b0C",
-    "relative_humidity_2m": "51 %",
-    "apparent_temperature": "16.0 \u00b0C",
+    "temperature_2m": "17.2 \u00b0C",
+    "relative_humidity_2m": "50 %",
+    "apparent_temperature": "16.4 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Cloudy",
+    "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
-    "cloud_cover": "82 %",
-    "pressure_msl": "1006.5 hPa",
-    "surface_pressure": "989.8 hPa",
-    "wind_speed_10m": "3.4 km/h",
-    "wind_direction_10m": "238 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
+    "cloud_cover": "55 %",
+    "pressure_msl": "1006.3 hPa",
+    "surface_pressure": "989.7 hPa",
+    "wind_speed_10m": "4.1 km/h",
+    "wind_direction_10m": "232 \u00b0"
 }
