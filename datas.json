@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-03-28 02:08:50",
+    "last_update": "2025-03-28 02:16:05",
     "ac_power": 0.0,
     "month_name": "MARCH",
     "current_year": 2025,
     "carbon": 6551,
     "alberi": 8959,
     "t_evita": 5519,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 13796435,
     "acEnergy_hour_day": [
         "0",
@@ -128,9 +130,9 @@
         "220613.20000000004",
         "300658.1"
     ],
-    "temperature_2m": "11.6 \u00b0C",
+    "temperature_2m": "11.4 \u00b0C",
     "relative_humidity_2m": "74 %",
-    "apparent_temperature": "10.1 \u00b0C",
+    "apparent_temperature": "9.9 \u00b0C",
     "is_day": 0,
     "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
@@ -139,8 +141,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/03n@2x.png",
     "cloud_cover": "87 %",
-    "pressure_msl": "1010.4 hPa",
-    "surface_pressure": "993.4 hPa",
+    "pressure_msl": "1010.2 hPa",
+    "surface_pressure": "993.2 hPa",
     "wind_speed_10m": "5.0 km/h",
     "wind_direction_10m": "21 \u00b0"
 }
