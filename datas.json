@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-04-09 19:48:51",
-    "ac_power": 114.42,
+    "last_update": "2025-04-09 20:01:06",
+    "ac_power": 6.9,
     "month_name": "APRIL",
     "current_year": 2025,
     "carbon": 6704,
     "alberi": 9168,
     "t_evita": 5647,
-    "total_dayenergy": 20436.399999999965,
+    "total_dayenergy": [
+        "20995.20000000001"
+    ],
     "life_energy": 14118002,
     "acEnergy_hour_day": [
         "6",
@@ -20,7 +22,8 @@
         "14",
         "15",
         "16",
-        "17"
+        "17",
+        "18"
     ],
     "acEnergy_hour": [
         "12.999999999970896",
@@ -34,7 +37,8 @@
         "2806.900000000081",
         "2579.4000000000237",
         "2021.700000000012",
-        "1330.399999999965"
+        "1330.399999999965",
+        "535.4000000000233"
     ],
     "all_years_list": [
         "2023",
@@ -66,7 +70,7 @@
         "23511.60000000001",
         "17192.800000000017",
         "23374.400000000023",
-        "20971.79999999999"
+        "20995.20000000001"
     ],
     "all_monthyear_list": [
         "September",
@@ -112,19 +116,19 @@
         "443760.5",
         "178465"
     ],
-    "temperature_2m": "15.1 \u00b0C",
-    "relative_humidity_2m": "58 %",
-    "apparent_temperature": "13.6 \u00b0C",
-    "is_day": 1,
-    "weather_exp": "Mainly Sunny",
+    "temperature_2m": "14.9 \u00b0C",
+    "relative_humidity_2m": "60 %",
+    "apparent_temperature": "13.5 \u00b0C",
+    "is_day": 0,
+    "weather_exp": "Mainly Clear",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "4 %",
-    "pressure_msl": "1018.7 hPa",
-    "surface_pressure": "1001.7 hPa",
-    "wind_speed_10m": "5.0 km/h",
-    "wind_direction_10m": "249 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
+    "cloud_cover": "12 %",
+    "pressure_msl": "1018.8 hPa",
+    "surface_pressure": "1001.8 hPa",
+    "wind_speed_10m": "4.3 km/h",
+    "wind_direction_10m": "246 \u00b0"
 }
