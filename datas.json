@@ -1,18 +1,22 @@
 {
-    "last_update": "2025-04-13 09:48:51",
-    "ac_power": 360.57,
+    "last_update": "2025-04-13 10:01:03",
+    "ac_power": 180.5,
     "month_name": "APRIL",
     "current_year": 2025,
     "carbon": 6732,
     "alberi": 9207,
     "t_evita": 5671,
-    "total_dayenergy": 8.699999999895226,
+    "total_dayenergy": [
+        "205.19999999989523"
+    ],
     "life_energy": 14178226,
     "acEnergy_hour_day": [
-        "7"
+        "7",
+        "8"
     ],
     "acEnergy_hour": [
-        "8.699999999895226"
+        "8.699999999895226",
+        "104.39999999999418"
     ],
     "all_years_list": [
         "2023",
@@ -52,7 +56,7 @@
         "19781.99999999997",
         "23497.699999999983",
         "19335.50000000006",
-        "113.0999999998894"
+        "205.19999999989523"
     ],
     "all_monthyear_list": [
         "September",
@@ -99,7 +103,7 @@
         "238688.6"
     ],
     "temperature_2m": "13.6 \u00b0C",
-    "relative_humidity_2m": "84 %",
+    "relative_humidity_2m": "83 %",
     "apparent_temperature": "13.1 \u00b0C",
     "is_day": 1,
     "weather_exp": "Light Rain",
@@ -108,9 +112,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/10d@2x.png",
-    "cloud_cover": "100 %",
-    "pressure_msl": "1015.2 hPa",
-    "surface_pressure": "998.2 hPa",
-    "wind_speed_10m": "5.1 km/h",
-    "wind_direction_10m": "231 \u00b0"
+    "cloud_cover": "98 %",
+    "pressure_msl": "1015.3 hPa",
+    "surface_pressure": "998.3 hPa",
+    "wind_speed_10m": "5.6 km/h",
+    "wind_direction_10m": "225 \u00b0"
 }
