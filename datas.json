@@ -1,22 +1,26 @@
 {
-    "last_update": "2025-04-15 11:48:50",
-    "ac_power": 354.95,
+    "last_update": "2025-04-15 12:01:03",
+    "ac_power": 344.6,
     "month_name": "APRIL",
     "current_year": 2025,
     "carbon": 6742,
-    "alberi": 9220,
+    "alberi": 9221,
     "t_evita": 5680,
-    "total_dayenergy": 348.5999999999767,
-    "life_energy": 14199506,
+    "total_dayenergy": [
+        "838.5999999999476"
+    ],
+    "life_energy": 14199649,
     "acEnergy_hour_day": [
         "7",
         "8",
-        "9"
+        "9",
+        "10"
     ],
     "acEnergy_hour": [
         "13.699999999982538",
         "114.00000000008733",
-        "220.89999999990687"
+        "220.89999999990687",
+        "405.79999999990105"
     ],
     "all_years_list": [
         "2023",
@@ -26,7 +30,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "1096942.9"
+        "1097086.8"
     ],
     "all_daymonth_list": [
         "01",
@@ -60,7 +64,7 @@
         "19335.50000000006",
         "5684.099999999977",
         "4622",
-        "754.3999999998778"
+        "838.5999999999476"
     ],
     "all_monthyear_list": [
         "September",
@@ -104,21 +108,21 @@
         "172600.99999999994",
         "220613.20000000004",
         "443760.5",
-        "259968.1999999999"
+        "260112.1000000001"
     ],
-    "temperature_2m": "14.0 \u00b0C",
-    "relative_humidity_2m": "92 %",
+    "temperature_2m": "14.1 \u00b0C",
+    "relative_humidity_2m": "91 %",
     "apparent_temperature": "14.4 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Light Rain",
+    "weather_exp": "Light Showers",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/10d@2x.png",
+    "weather_code": "http://openweathermap.org/img/wn/09d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1005.4 hPa",
-    "surface_pressure": "988.6 hPa",
-    "wind_speed_10m": "2.8 km/h",
-    "wind_direction_10m": "230 \u00b0"
+    "pressure_msl": "1005.5 hPa",
+    "surface_pressure": "988.7 hPa",
+    "wind_speed_10m": "3.8 km/h",
+    "wind_direction_10m": "229 \u00b0"
 }
