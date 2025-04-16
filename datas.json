@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-04-16 14:48:50",
+    "last_update": "2025-04-16 15:01:03",
     "ac_power": 1072.0,
     "month_name": "APRIL",
     "current_year": 2025,
     "carbon": 6751,
     "alberi": 9232,
     "t_evita": 5687,
-    "total_dayenergy": 10145.599999999948,
+    "total_dayenergy": [
+        "13168.79999999996"
+    ],
     "life_energy": 14217405,
     "acEnergy_hour_day": [
         "6",
@@ -15,7 +17,8 @@
         "9",
         "10",
         "11",
-        "12"
+        "12",
+        "13"
     ],
     "acEnergy_hour": [
         "29.89999999999418",
@@ -24,7 +27,8 @@
         "1440.8000000000757",
         "2297.5999999999767",
         "2903.7999999999597",
-        "2800.7000000000407"
+        "2800.7000000000407",
+        "2340.100000000006"
     ],
     "all_years_list": [
         "2023",
@@ -70,7 +74,7 @@
         "5684.099999999977",
         "4622",
         "5780.700000000041",
-        "12720.699999999895"
+        "13168.79999999996"
     ],
     "all_monthyear_list": [
         "September",
@@ -116,19 +120,19 @@
         "443760.5",
         "277868.0999999999"
     ],
-    "temperature_2m": "17.5 \u00b0C",
-    "relative_humidity_2m": "72 %",
-    "apparent_temperature": "15.2 \u00b0C",
+    "temperature_2m": "17.4 \u00b0C",
+    "relative_humidity_2m": "73 %",
+    "apparent_temperature": "15.1 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Cloudy",
+    "weather_exp": "Light Rain",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
+    "weather_code": "http://openweathermap.org/img/wn/10d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1009.9 hPa",
-    "surface_pressure": "993.2 hPa",
+    "pressure_msl": "1009.8 hPa",
+    "surface_pressure": "993.1 hPa",
     "wind_speed_10m": "21.3 km/h",
     "wind_direction_10m": "112 \u00b0"
 }
