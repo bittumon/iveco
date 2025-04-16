@@ -1,24 +1,28 @@
 {
-    "last_update": "2025-04-16 11:48:50",
-    "ac_power": 2805.83,
+    "last_update": "2025-04-16 12:01:03",
+    "ac_power": 1783.9,
     "month_name": "APRIL",
     "current_year": 2025,
     "carbon": 6745,
     "alberi": 9224,
     "t_evita": 5682,
-    "total_dayenergy": 2143.499999999971,
+    "total_dayenergy": [
+        "5127.499999999913"
+    ],
     "life_energy": 14204611,
     "acEnergy_hour_day": [
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10"
     ],
     "acEnergy_hour": [
         "29.89999999999418",
         "157.5000000000582",
         "515.2999999998428",
-        "1440.8000000000757"
+        "1440.8000000000757",
+        "2297.5999999999767"
     ],
     "all_years_list": [
         "2023",
@@ -64,7 +68,7 @@
         "5684.099999999977",
         "4622",
         "5780.700000000041",
-        "4441.099999999948"
+        "5127.499999999913"
     ],
     "all_monthyear_list": [
         "September",
@@ -110,19 +114,19 @@
         "443760.5",
         "265074"
     ],
-    "temperature_2m": "18.3 \u00b0C",
-    "relative_humidity_2m": "70 %",
-    "apparent_temperature": "16.3 \u00b0C",
+    "temperature_2m": "18.5 \u00b0C",
+    "relative_humidity_2m": "69 %",
+    "apparent_temperature": "16.2 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Partly Cloudy",
+    "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "63 %",
-    "pressure_msl": "1010.9 hPa",
-    "surface_pressure": "994.2 hPa",
-    "wind_speed_10m": "22.6 km/h",
-    "wind_direction_10m": "107 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
+    "cloud_cover": "96 %",
+    "pressure_msl": "1010.8 hPa",
+    "surface_pressure": "994.1 hPa",
+    "wind_speed_10m": "22.9 km/h",
+    "wind_direction_10m": "106 \u00b0"
 }
