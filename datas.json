@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-04-17 13:48:50",
-    "ac_power": 700.7,
+    "last_update": "2025-04-17 14:01:02",
+    "ac_power": 997.5,
     "month_name": "APRIL",
     "current_year": 2025,
     "carbon": 6751,
     "alberi": 9232,
     "t_evita": 5687,
-    "total_dayenergy": 3978.899999999965,
+    "total_dayenergy": [
+        "6866.100000000006"
+    ],
     "life_energy": 14217405,
     "acEnergy_hour_day": [
         "6",
@@ -14,7 +16,8 @@
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "2.200000000069849",
@@ -22,7 +25,8 @@
         "33.20000000009895",
         "229.5999999998894",
         "1542.8000000000757",
-        "2157.0999999999185"
+        "2157.0999999999185",
+        "2370.400000000081"
     ],
     "all_years_list": [
         "2023",
@@ -70,7 +74,7 @@
         "4622",
         "5780.700000000041",
         "16230.499999999913",
-        "6349.300000000047"
+        "6866.100000000006"
     ],
     "all_monthyear_list": [
         "September",
@@ -116,19 +120,19 @@
         "443760.5",
         "277868.0999999999"
     ],
-    "temperature_2m": "16.4 \u00b0C",
-    "relative_humidity_2m": "67 %",
-    "apparent_temperature": "13.8 \u00b0C",
+    "temperature_2m": "16.0 \u00b0C",
+    "relative_humidity_2m": "69 %",
+    "apparent_temperature": "13.2 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Light Showers",
-    "precipitation": "0.3 mm",
-    "rain": "0.3 mm",
+    "weather_exp": "Light Rain",
+    "precipitation": "1.2 mm",
+    "rain": "1.2 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/09d@2x.png",
-    "cloud_cover": "94 %",
-    "pressure_msl": "1003.4 hPa",
-    "surface_pressure": "986.8 hPa",
-    "wind_speed_10m": "18.8 km/h",
-    "wind_direction_10m": "102 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/10d@2x.png",
+    "cloud_cover": "100 %",
+    "pressure_msl": "1003.6 hPa",
+    "surface_pressure": "986.9 hPa",
+    "wind_speed_10m": "20.6 km/h",
+    "wind_direction_10m": "106 \u00b0"
 }
