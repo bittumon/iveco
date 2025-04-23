@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-04-23 18:48:51",
+    "last_update": "2025-04-23 19:01:01",
     "ac_power": 806.0,
     "month_name": "APRIL",
     "current_year": 2025,
     "carbon": 6802,
     "alberi": 9302,
     "t_evita": 5730,
-    "total_dayenergy": 14171.600000000064,
+    "total_dayenergy": [
+        "15647.5"
+    ],
     "life_energy": 14325795,
     "acEnergy_hour_day": [
         "6",
@@ -19,7 +21,8 @@
         "13",
         "14",
         "15",
-        "16"
+        "16",
+        "17"
     ],
     "acEnergy_hour": [
         "26.30000000004657",
@@ -32,7 +35,8 @@
         "1237.8000000000757",
         "2810.799999999843",
         "2806.800000000163",
-        "2304.6999999999825"
+        "2304.6999999999825",
+        "1352.9999999999418"
     ],
     "all_years_list": [
         "2023",
@@ -92,7 +96,7 @@
         "11624.999999999942",
         "17430.29999999999",
         "23831.199999999957",
-        "15046.400000000052"
+        "15647.5"
     ],
     "all_monthyear_list": [
         "September",
@@ -138,19 +142,19 @@
         "443760.5",
         "386257.5"
     ],
-    "temperature_2m": "19.7 \u00b0C",
-    "relative_humidity_2m": "64 %",
-    "apparent_temperature": "19.3 \u00b0C",
+    "temperature_2m": "19.3 \u00b0C",
+    "relative_humidity_2m": "66 %",
+    "apparent_temperature": "19.0 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Partly Cloudy",
+    "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "39 %",
-    "pressure_msl": "1010.1 hPa",
-    "surface_pressure": "993.5 hPa",
-    "wind_speed_10m": "8.4 km/h",
-    "wind_direction_10m": "190 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
+    "cloud_cover": "100 %",
+    "pressure_msl": "1010.0 hPa",
+    "surface_pressure": "993.4 hPa",
+    "wind_speed_10m": "8.3 km/h",
+    "wind_direction_10m": "198 \u00b0"
 }
