@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-05-02 18:48:50",
+    "last_update": "2025-05-02 19:01:02",
     "ac_power": 1241.57,
     "month_name": "MAY",
     "current_year": 2025,
     "carbon": 6892,
     "alberi": 9425,
     "t_evita": 5806,
-    "total_dayenergy": 22954.400000000052,
+    "total_dayenergy": [
+        "24802.600000000035"
+    ],
     "life_energy": 14514768,
     "acEnergy_hour_day": [
         "6",
@@ -19,7 +21,8 @@
         "13",
         "14",
         "15",
-        "16"
+        "16",
+        "17"
     ],
     "acEnergy_hour": [
         "89.80000000019209",
@@ -32,7 +35,8 @@
         "3171.6999999999825",
         "3074.100000000035",
         "2745.399999999907",
-        "2245.899999999994"
+        "2245.899999999994",
+        "1453.7000000000698"
     ],
     "all_years_list": [
         "2023",
@@ -50,7 +54,7 @@
     ],
     "all_daymonth_data": [
         "25028.699999999862",
-        "23393.500000000146"
+        "24802.600000000035"
     ],
     "all_monthyear_list": [
         "September",
@@ -98,19 +102,19 @@
         "526423.7000000001",
         "48807.2999999999"
     ],
-    "temperature_2m": "27.3 \u00b0C",
-    "relative_humidity_2m": "32 %",
-    "apparent_temperature": "25.8 \u00b0C",
+    "temperature_2m": "27.2 \u00b0C",
+    "relative_humidity_2m": "31 %",
+    "apparent_temperature": "25.6 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Partly Cloudy",
+    "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "54 %",
-    "pressure_msl": "1016.6 hPa",
-    "surface_pressure": "1000.3 hPa",
-    "wind_speed_10m": "9.0 km/h",
-    "wind_direction_10m": "270 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
+    "cloud_cover": "97 %",
+    "pressure_msl": "1016.4 hPa",
+    "surface_pressure": "1000.1 hPa",
+    "wind_speed_10m": "8.6 km/h",
+    "wind_direction_10m": "272 \u00b0"
 }
