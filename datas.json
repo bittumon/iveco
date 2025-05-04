@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-05-04 13:48:51",
+    "last_update": "2025-05-04 14:01:02",
     "ac_power": 2019.15,
     "month_name": "MAY",
     "current_year": 2025,
-    "carbon": 6902,
-    "alberi": 9438,
-    "t_evita": 5814,
-    "total_dayenergy": 7846.599999999948,
-    "life_energy": 14535140,
+    "carbon": 6906,
+    "alberi": 9444,
+    "t_evita": 5818,
+    "total_dayenergy": [
+        "10471.099999999977"
+    ],
+    "life_energy": 14543952,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -15,7 +17,8 @@
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "0.10000000000582077",
@@ -24,7 +27,8 @@
         "1043.5",
         "1644.499999999971",
         "2343.5000000000878",
-        "2320.699999999895"
+        "2320.699999999895",
+        "2058.2999999999597"
     ],
     "all_years_list": [
         "2023",
@@ -34,7 +38,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "1432577.2999999998"
+        "1441389.0"
     ],
     "all_daymonth_list": [
         "01",
@@ -46,7 +50,7 @@
         "25028.699999999862",
         "25092.300000000105",
         "16723.300000000017",
-        "8319.800000000017"
+        "10471.099999999977"
     ],
     "all_monthyear_list": [
         "September",
@@ -92,21 +96,21 @@
         "220613.20000000004",
         "443760.5",
         "526423.7000000001",
-        "69178.89999999997"
+        "77990.59999999998"
     ],
-    "temperature_2m": "20.2 \u00b0C",
+    "temperature_2m": "20.3 \u00b0C",
     "relative_humidity_2m": "67 %",
-    "apparent_temperature": "20.0 \u00b0C",
+    "apparent_temperature": "20.3 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Light Rain",
+    "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/10d@2x.png",
+    "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1008.0 hPa",
-    "surface_pressure": "991.5 hPa",
-    "wind_speed_10m": "10.0 km/h",
-    "wind_direction_10m": "283 \u00b0"
+    "pressure_msl": "1007.9 hPa",
+    "surface_pressure": "991.4 hPa",
+    "wind_speed_10m": "9.0 km/h",
+    "wind_direction_10m": "286 \u00b0"
 }
