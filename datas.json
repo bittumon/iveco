@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-05-04 04:08:50",
+    "last_update": "2025-05-04 04:16:02",
     "ac_power": 0.0,
     "month_name": "MAY",
     "current_year": 2025,
     "carbon": 6901,
     "alberi": 9437,
     "t_evita": 5813,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 14532805,
     "acEnergy_hour_day": [
         "0",
@@ -95,8 +97,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1011.0 hPa",
-    "surface_pressure": "994.3 hPa",
+    "pressure_msl": "1010.9 hPa",
+    "surface_pressure": "994.2 hPa",
     "wind_speed_10m": "12.7 km/h",
     "wind_direction_10m": "325 \u00b0"
 }
