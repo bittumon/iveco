@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-05-06 15:48:50",
+    "last_update": "2025-05-06 16:01:02",
     "ac_power": 373.4,
     "month_name": "MAY",
     "current_year": 2025,
     "carbon": 6921,
     "alberi": 9465,
     "t_evita": 5830,
-    "total_dayenergy": 6729.79999999993,
+    "total_dayenergy": [
+        "7464.700000000012"
+    ],
     "life_energy": 14575649,
     "acEnergy_hour_day": [
         "6",
@@ -16,7 +18,8 @@
         "10",
         "11",
         "12",
-        "13"
+        "13",
+        "14"
     ],
     "acEnergy_hour": [
         "62.69999999998254",
@@ -26,7 +29,8 @@
         "1082.2000000000698",
         "1481.2999999999593",
         "945.5000000000582",
-        "1145.999999999971"
+        "1310.999999999971",
+        "473.899999999936"
     ],
     "all_years_list": [
         "2023",
@@ -52,7 +56,7 @@
         "16723.300000000017",
         "16448.79999999993",
         "19956.100000000093",
-        "6894.79999999993"
+        "7464.700000000012"
     ],
     "all_monthyear_list": [
         "September",
@@ -100,19 +104,19 @@
         "526423.7000000001",
         "109687.49999999994"
     ],
-    "temperature_2m": "18.3 \u00b0C",
+    "temperature_2m": "18.4 \u00b0C",
     "relative_humidity_2m": "65 %",
     "apparent_temperature": "17.0 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Cloudy",
+    "weather_exp": "Light Showers",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
-    "cloud_cover": "100 %",
+    "weather_code": "http://openweathermap.org/img/wn/09d@2x.png",
+    "cloud_cover": "85 %",
     "pressure_msl": "1008.3 hPa",
     "surface_pressure": "991.7 hPa",
-    "wind_speed_10m": "12.6 km/h",
-    "wind_direction_10m": "121 \u00b0"
+    "wind_speed_10m": "12.7 km/h",
+    "wind_direction_10m": "119 \u00b0"
 }
