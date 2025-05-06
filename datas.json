@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-05-06 01:48:50",
+    "last_update": "2025-05-06 02:01:02",
     "ac_power": 0.0,
     "month_name": "MAY",
     "current_year": 2025,
     "carbon": 6918,
     "alberi": 9460,
     "t_evita": 5828,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 14568951,
     "acEnergy_hour_day": [
         "0",
@@ -31,14 +33,16 @@
         "02",
         "03",
         "04",
-        "05"
+        "05",
+        "06"
     ],
     "all_daymonth_data": [
         "25028.699999999862",
         "25092.300000000105",
         "16723.300000000017",
         "16448.79999999993",
-        "19956.100000000093"
+        "19956.100000000093",
+        "0"
     ],
     "all_monthyear_list": [
         "September",
@@ -86,8 +90,8 @@
         "526423.7000000001",
         "102990.29999999992"
     ],
-    "temperature_2m": "15.9 \u00b0C",
-    "relative_humidity_2m": "75 %",
+    "temperature_2m": "15.8 \u00b0C",
+    "relative_humidity_2m": "74 %",
     "apparent_temperature": "14.9 \u00b0C",
     "is_day": 0,
     "weather_exp": "Light Rain",
@@ -99,6 +103,6 @@
     "cloud_cover": "100 %",
     "pressure_msl": "1004.8 hPa",
     "surface_pressure": "988.1 hPa",
-    "wind_speed_10m": "9.6 km/h",
-    "wind_direction_10m": "103 \u00b0"
+    "wind_speed_10m": "8.9 km/h",
+    "wind_direction_10m": "111 \u00b0"
 }
