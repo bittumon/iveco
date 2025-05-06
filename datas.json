@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-05-06 21:48:50",
+    "last_update": "2025-05-06 22:01:02",
     "ac_power": 0.0,
     "month_name": "MAY",
     "current_year": 2025,
     "carbon": 6922,
     "alberi": 9466,
     "t_evita": 5831,
-    "total_dayenergy": 8426.300000000017,
-    "life_energy": 14577472,
+    "total_dayenergy": [
+        "8426.399999999994"
+    ],
+    "life_energy": 14577637,
     "acEnergy_hour_day": [
         "6",
         "7",
@@ -22,7 +24,8 @@
         "16",
         "17",
         "18",
-        "19"
+        "19",
+        "20"
     ],
     "acEnergy_hour": [
         "62.69999999998254",
@@ -38,7 +41,8 @@
         "300.79999999995925",
         "134.39999999996508",
         "82.10000000006403",
-        "31.39999999999418"
+        "31.39999999999418",
+        "0.09999999997671694"
     ],
     "all_years_list": [
         "2023",
@@ -48,7 +52,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "1474909.7999999998"
+        "1475074.0"
     ],
     "all_daymonth_list": [
         "01",
@@ -64,7 +68,7 @@
         "16723.300000000017",
         "16448.79999999993",
         "19956.100000000093",
-        "8426.300000000017"
+        "8426.399999999994"
     ],
     "all_monthyear_list": [
         "September",
@@ -110,21 +114,21 @@
         "220613.20000000004",
         "443760.5",
         "526423.7000000001",
-        "111511.39999999997"
+        "111675.6"
     ],
     "temperature_2m": "15.8 \u00b0C",
-    "relative_humidity_2m": "77 %",
-    "apparent_temperature": "15.3 \u00b0C",
+    "relative_humidity_2m": "76 %",
+    "apparent_temperature": "15.2 \u00b0C",
     "is_day": 0,
     "weather_exp": "Light Rain",
-    "precipitation": "0.1 mm",
-    "rain": "0.1 mm",
+    "precipitation": "0.0 mm",
+    "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/10n@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1011.0 hPa",
-    "surface_pressure": "994.2 hPa",
-    "wind_speed_10m": "7.4 km/h",
-    "wind_direction_10m": "104 \u00b0"
+    "pressure_msl": "1011.1 hPa",
+    "surface_pressure": "994.3 hPa",
+    "wind_speed_10m": "7.1 km/h",
+    "wind_direction_10m": "105 \u00b0"
 }
