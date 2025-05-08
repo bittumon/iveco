@@ -1,20 +1,23 @@
 {
-    "last_update": "2025-05-08 13:48:50",
+    "last_update": "2025-05-08 14:01:02",
     "ac_power": 533.75,
     "month_name": "MAY",
     "current_year": 2025,
-    "carbon": 6929,
-    "alberi": 9475,
-    "t_evita": 5837,
-    "total_dayenergy": 3233.9999999998836,
-    "life_energy": 14592257,
+    "carbon": 6930,
+    "alberi": 9477,
+    "t_evita": 5838,
+    "total_dayenergy": [
+        "4087.600000000006"
+    ],
+    "life_energy": 14595000,
     "acEnergy_hour_day": [
         "6",
         "7",
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "73.89999999981956",
@@ -22,7 +25,8 @@
         "732.8999999999942",
         "817.9000000000233",
         "611.5000000000291",
-        "661.1999999999243"
+        "661.1999999999243",
+        "666.0000000000291"
     ],
     "all_years_list": [
         "2023",
@@ -32,7 +36,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "1489693.9"
+        "1492437.0"
     ],
     "all_daymonth_list": [
         "01",
@@ -52,7 +56,7 @@
         "19956.100000000093",
         "8426.399999999994",
         "13234.400000000023",
-        "3511.499999999942"
+        "4087.600000000006"
     ],
     "all_monthyear_list": [
         "September",
@@ -98,11 +102,11 @@
         "220613.20000000004",
         "443760.5",
         "526423.7000000001",
-        "126295.49999999996"
+        "129038.6"
     ],
-    "temperature_2m": "15.9 \u00b0C",
+    "temperature_2m": "16.0 \u00b0C",
     "relative_humidity_2m": "75 %",
-    "apparent_temperature": "15.5 \u00b0C",
+    "apparent_temperature": "15.8 \u00b0C",
     "is_day": 1,
     "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
@@ -110,9 +114,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
-    "cloud_cover": "96 %",
+    "cloud_cover": "100 %",
     "pressure_msl": "1011.1 hPa",
     "surface_pressure": "994.3 hPa",
-    "wind_speed_10m": "5.9 km/h",
-    "wind_direction_10m": "169 \u00b0"
+    "wind_speed_10m": "5.4 km/h",
+    "wind_direction_10m": "172 \u00b0"
 }
