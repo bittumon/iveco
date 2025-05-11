@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-05-11 17:48:51",
+    "last_update": "2025-05-11 18:01:02",
     "ac_power": 2331.2,
     "month_name": "MAY",
     "current_year": 2025,
-    "carbon": 6958,
-    "alberi": 9516,
-    "t_evita": 5862,
-    "total_dayenergy": 21423.399999999965,
-    "life_energy": 14653987,
+    "carbon": 6963,
+    "alberi": 9523,
+    "t_evita": 5866,
+    "total_dayenergy": [
+        "24441.399999999998"
+    ],
+    "life_energy": 14665114,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -19,7 +21,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "5.200000000040745",
@@ -32,7 +35,8 @@
         "3191.5999999999185",
         "3345.400000000081",
         "3248.5999999999767",
-        "2951.800000000017"
+        "2951.800000000017",
+        "2471.9000000000524"
     ],
     "all_years_list": [
         "2023",
@@ -42,7 +46,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "1551423.9"
+        "1562551.5999999999"
     ],
     "all_daymonth_list": [
         "01",
@@ -68,7 +72,7 @@
         "10943.399999999963",
         "19479.599999999948",
         "19102.80000000008",
-        "22082.29999999999"
+        "24441.399999999998"
     ],
     "all_monthyear_list": [
         "September",
@@ -114,10 +118,10 @@
         "220613.20000000004",
         "443760.5",
         "526423.7000000001",
-        "188025.5"
+        "199153.19999999995"
     ],
-    "temperature_2m": "22.8 \u00b0C",
-    "relative_humidity_2m": "42 %",
+    "temperature_2m": "22.7 \u00b0C",
+    "relative_humidity_2m": "43 %",
     "apparent_temperature": "21.4 \u00b0C",
     "is_day": 1,
     "weather_exp": "Mainly Sunny",
@@ -129,6 +133,6 @@
     "cloud_cover": "0 %",
     "pressure_msl": "1011.1 hPa",
     "surface_pressure": "994.7 hPa",
-    "wind_speed_10m": "7.6 km/h",
-    "wind_direction_10m": "205 \u00b0"
+    "wind_speed_10m": "8.0 km/h",
+    "wind_direction_10m": "198 \u00b0"
 }
