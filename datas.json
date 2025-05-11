@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-05-11 15:48:51",
+    "last_update": "2025-05-11 16:01:02",
     "ac_power": 3229.25,
     "month_name": "MAY",
     "current_year": 2025,
     "carbon": 6958,
     "alberi": 9516,
     "t_evita": 5862,
-    "total_dayenergy": 15222.99999999997,
+    "total_dayenergy": [
+        "19243.199999999924"
+    ],
     "life_energy": 14653987,
     "acEnergy_hour_day": [
         "5",
@@ -17,7 +19,8 @@
         "10",
         "11",
         "12",
-        "13"
+        "13",
+        "14"
     ],
     "acEnergy_hour": [
         "5.200000000040745",
@@ -28,7 +31,8 @@
         "2544.6999999999243",
         "2981.9000000000237",
         "3191.5999999999185",
-        "3345.400000000081"
+        "3345.400000000081",
+        "3248.5999999999767"
     ],
     "all_years_list": [
         "2023",
@@ -64,7 +68,7 @@
         "10943.399999999963",
         "19479.599999999948",
         "19102.80000000008",
-        "14375.59999999992"
+        "19243.199999999924"
     ],
     "all_monthyear_list": [
         "September",
@@ -112,19 +116,19 @@
         "526423.7000000001",
         "188025.5"
     ],
-    "temperature_2m": "23.2 \u00b0C",
-    "relative_humidity_2m": "40 %",
-    "apparent_temperature": "22.8 \u00b0C",
+    "temperature_2m": "23.4 \u00b0C",
+    "relative_humidity_2m": "39 %",
+    "apparent_temperature": "22.5 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Mainly Sunny",
+    "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "14 %",
-    "pressure_msl": "1011.3 hPa",
-    "surface_pressure": "994.9 hPa",
-    "wind_speed_10m": "7.0 km/h",
-    "wind_direction_10m": "258 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
+    "cloud_cover": "97 %",
+    "pressure_msl": "1011.1 hPa",
+    "surface_pressure": "994.7 hPa",
+    "wind_speed_10m": "7.2 km/h",
+    "wind_direction_10m": "267 \u00b0"
 }
