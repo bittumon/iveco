@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-05-14 21:48:50",
+    "last_update": "2025-05-14 22:01:02",
     "ac_power": 0.0,
     "month_name": "MAY",
     "current_year": 2025,
-    "carbon": 6993,
-    "alberi": 9563,
-    "t_evita": 5891,
-    "total_dayenergy": 22192.999999999884,
-    "life_energy": 14726886,
+    "carbon": 6994,
+    "alberi": 9564,
+    "t_evita": 5892,
+    "total_dayenergy": [
+        "22196.399999999965"
+    ],
+    "life_energy": 14729073,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -23,7 +25,8 @@
         "16",
         "17",
         "18",
-        "19"
+        "19",
+        "20"
     ],
     "acEnergy_hour": [
         "6.399999999877764",
@@ -40,7 +43,8 @@
         "2305.600000000064",
         "1707.7000000000698",
         "796.8999999999942",
-        "182.399999999936"
+        "182.399999999936",
+        "3.4000000000814907"
     ],
     "all_years_list": [
         "2023",
@@ -50,7 +54,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "1624323.4"
+        "1626510.7"
     ],
     "all_daymonth_list": [
         "01",
@@ -128,11 +132,11 @@
         "220613.20000000004",
         "443760.5",
         "526423.7000000001",
-        "260925.00000000003"
+        "263112.30000000005"
     ],
-    "temperature_2m": "19.0 \u00b0C",
-    "relative_humidity_2m": "70 %",
-    "apparent_temperature": "19.8 \u00b0C",
+    "temperature_2m": "18.9 \u00b0C",
+    "relative_humidity_2m": "71 %",
+    "apparent_temperature": "19.5 \u00b0C",
     "is_day": 0,
     "weather_exp": "Clear",
     "precipitation": "0.0 mm",
@@ -141,8 +145,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1013.7 hPa",
-    "surface_pressure": "997.0 hPa",
-    "wind_speed_10m": "2.2 km/h",
-    "wind_direction_10m": "360 \u00b0"
+    "pressure_msl": "1013.8 hPa",
+    "surface_pressure": "997.1 hPa",
+    "wind_speed_10m": "3.0 km/h",
+    "wind_direction_10m": "14 \u00b0"
 }
