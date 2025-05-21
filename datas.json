@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-05-21 17:48:50",
+    "last_update": "2025-05-21 18:01:03",
     "ac_power": 94.4,
     "month_name": "MAY",
     "current_year": 2025,
-    "carbon": 7058,
-    "alberi": 9652,
-    "t_evita": 5946,
-    "total_dayenergy": 18639.5,
-    "life_energy": 14864806,
+    "carbon": 7061,
+    "alberi": 9657,
+    "t_evita": 5948,
+    "total_dayenergy": [
+        "18956.90000000005"
+    ],
+    "life_energy": 14871152,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -19,7 +21,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "11.10000000000582",
@@ -32,7 +35,8 @@
         "2842.700000000099",
         "2414.300000000017",
         "2700.199999999953",
-        "1707.3000000000466"
+        "1707.3000000000466",
+        "193.0000000000291"
     ],
     "all_years_list": [
         "2023",
@@ -42,7 +46,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "1762243.6"
+        "1768589.7999999998"
     ],
     "all_daymonth_list": [
         "01",
@@ -88,7 +92,7 @@
         "26771.000000000204",
         "22312.99999999997",
         "8268.199999999924",
-        "18743.70000000001"
+        "18956.90000000005"
     ],
     "all_monthyear_list": [
         "September",
@@ -134,11 +138,11 @@
         "220613.20000000004",
         "443760.5",
         "526423.7000000001",
-        "398845.20000000007"
+        "405191.4"
     ],
     "temperature_2m": "23.2 \u00b0C",
     "relative_humidity_2m": "48 %",
-    "apparent_temperature": "23.3 \u00b0C",
+    "apparent_temperature": "23.4 \u00b0C",
     "is_day": 1,
     "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
@@ -149,6 +153,6 @@
     "cloud_cover": "100 %",
     "pressure_msl": "1009.6 hPa",
     "surface_pressure": "993.2 hPa",
-    "wind_speed_10m": "3.0 km/h",
-    "wind_direction_10m": "194 \u00b0"
+    "wind_speed_10m": "2.2 km/h",
+    "wind_direction_10m": "180 \u00b0"
 }
