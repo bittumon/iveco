@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-05-27 21:48:50",
+    "last_update": "2025-05-27 22:01:04",
     "ac_power": 0.0,
     "month_name": "MAY",
     "current_year": 2025,
     "carbon": 7110,
-    "alberi": 9723,
-    "t_evita": 5989,
-    "total_dayenergy": 9757.000000000087,
-    "life_energy": 14972762,
+    "alberi": 9724,
+    "t_evita": 5990,
+    "total_dayenergy": [
+        "9770.000000000058"
+    ],
+    "life_energy": 14974377,
     "acEnergy_hour_day": [
         "6",
         "7",
@@ -22,7 +24,8 @@
         "16",
         "17",
         "18",
-        "19"
+        "19",
+        "20"
     ],
     "acEnergy_hour": [
         "4.900000000052387",
@@ -38,7 +41,8 @@
         "348.5999999999767",
         "495.399999999936",
         "941.600000000064",
-        "266.9000000000233"
+        "266.9000000000233",
+        "12.999999999970896"
     ],
     "all_years_list": [
         "2023",
@@ -48,7 +52,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "1870199.7999999998"
+        "1871814.1"
     ],
     "all_daymonth_list": [
         "01",
@@ -106,7 +110,7 @@
         "25541.29999999996",
         "25259.00000000012",
         "22457.9999999998",
-        "9767.899999999994"
+        "9770.000000000058"
     ],
     "all_monthyear_list": [
         "September",
@@ -152,21 +156,21 @@
         "220613.20000000004",
         "443760.5",
         "526423.7000000001",
-        "506801.3999999999"
+        "508415.7000000001"
     ],
-    "temperature_2m": "17.9 \u00b0C",
-    "relative_humidity_2m": "80 %",
-    "apparent_temperature": "19.2 \u00b0C",
+    "temperature_2m": "17.8 \u00b0C",
+    "relative_humidity_2m": "81 %",
+    "apparent_temperature": "19.1 \u00b0C",
     "is_day": 0,
-    "weather_exp": "Mainly Clear",
+    "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
-    "cloud_cover": "42 %",
+    "weather_code": "http://openweathermap.org/img/wn/03n@2x.png",
+    "cloud_cover": "100 %",
     "pressure_msl": "1019.5 hPa",
     "surface_pressure": "1002.7 hPa",
-    "wind_speed_10m": "1.1 km/h",
-    "wind_direction_10m": "162 \u00b0"
+    "wind_speed_10m": "1.0 km/h",
+    "wind_direction_10m": "135 \u00b0"
 }
