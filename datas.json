@@ -1,48 +1,22 @@
 {
-    "last_update": "2025-05-28 23:48:50",
+    "last_update": "2025-05-29 00:01:05",
     "ac_power": 0.0,
     "month_name": "MAY",
     "current_year": 2025,
     "carbon": 7120,
     "alberi": 9737,
     "t_evita": 5998,
-    "total_dayenergy": 21046.999999999913,
+    "total_dayenergy": [
+        "21046.999999999916"
+    ],
     "life_energy": 14995424,
     "acEnergy_hour_day": [
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "11",
-        "12",
-        "13",
-        "14",
-        "15",
-        "16",
-        "17",
-        "18",
-        "19",
-        "20"
+        "0",
+        "0"
     ],
     "acEnergy_hour": [
-        "15.600000000034925",
-        "176.5999999998603",
-        "608.8000000001048",
-        "1115.8000000001048",
-        "1782.8999999998778",
-        "2438.000000000029",
-        "2798.6999999999825",
-        "2571.200000000012",
-        "2212.7999999999597",
-        "1877.0999999999767",
-        "2035.2999999999597",
-        "1863.0000000000584",
-        "928.100000000064",
-        "483.0999999999767",
-        "132.89999999999418",
-        "7.099999999918509"
+        "0",
+        "0"
     ],
     "all_years_list": [
         "2023",
@@ -160,19 +134,19 @@
         "526423.7000000001",
         "529462.7"
     ],
-    "temperature_2m": "19.9 \u00b0C",
+    "temperature_2m": "19.6 \u00b0C",
     "relative_humidity_2m": "74 %",
-    "apparent_temperature": "21.0 \u00b0C",
+    "apparent_temperature": "20.6 \u00b0C",
     "is_day": 0,
-    "weather_exp": "Cloudy",
+    "weather_exp": "Mainly Clear",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/03n@2x.png",
-    "cloud_cover": "100 %",
+    "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
+    "cloud_cover": "13 %",
     "pressure_msl": "1014.3 hPa",
     "surface_pressure": "997.7 hPa",
     "wind_speed_10m": "4.0 km/h",
-    "wind_direction_10m": "5 \u00b0"
+    "wind_direction_10m": "10 \u00b0"
 }
