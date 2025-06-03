@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-06-03 19:58:50",
+    "last_update": "2025-06-03 20:01:04",
     "ac_power": 407.4,
     "month_name": "JUNE",
     "current_year": 2025,
     "carbon": 7187,
     "alberi": 9828,
     "t_evita": 6054,
-    "total_dayenergy": 20603.70000000004,
+    "total_dayenergy": [
+        "21524.10000000012"
+    ],
     "life_energy": 15135588,
     "acEnergy_hour_day": [
         "5",
@@ -21,7 +23,8 @@
         "14",
         "15",
         "16",
-        "17"
+        "17",
+        "18"
     ],
     "acEnergy_hour": [
         "34.60000000012224",
@@ -36,7 +39,8 @@
         "2258.599999999948",
         "2557.100000000209",
         "2253.199999999895",
-        "1457.999999999971"
+        "1457.999999999971",
+        "821.5000000000291"
     ],
     "all_years_list": [
         "2023",
@@ -106,9 +110,9 @@
         "607625.2000000001",
         "62001.59999999998"
     ],
-    "temperature_2m": "26.0 \u00b0C",
+    "temperature_2m": "25.9 \u00b0C",
     "relative_humidity_2m": "49 %",
-    "apparent_temperature": "26.9 \u00b0C",
+    "apparent_temperature": "26.6 \u00b0C",
     "is_day": 1,
     "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
@@ -116,9 +120,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "55 %",
+    "cloud_cover": "75 %",
     "pressure_msl": "1015.5 hPa",
     "surface_pressure": "999.2 hPa",
-    "wind_speed_10m": "4.2 km/h",
-    "wind_direction_10m": "301 \u00b0"
+    "wind_speed_10m": "4.5 km/h",
+    "wind_direction_10m": "299 \u00b0"
 }
