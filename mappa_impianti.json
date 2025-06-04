@@ -316,7 +316,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 75%",
     "classepre": "E",
     "classepost": "A2",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 75% → E",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> E → A2",
     "latitude": "45.42013561571323",
     "longitude": "9.260721656361013"
   },
@@ -355,7 +355,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 71%",
     "classepre": "G",
     "classepost": "D",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 71% → G",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> G → D",
     "latitude": "45.1725852",
     "longitude": "9.4752799"
   },
@@ -393,7 +393,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 82%",
     "classepre": "E",
     "classepost": "A4",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 82% → E",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> E → A4",
     "latitude": "45.4087128",
     "longitude": "9.6270164"
   },
@@ -431,7 +431,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 65%",
     "classepre": "C",
     "classepost": "A3",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 65% → C",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> C → A3",
     "latitude": "40.61904840621488",
     "longitude": "16.12702469557333"
   },
@@ -468,7 +468,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 66%",
     "classepre": "G",
     "classepost": "D",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 66% → G",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> G → D",
     "latitude": "44.93577765517878 ",
     "longitude": "10.229783508539436"
   },
@@ -506,7 +506,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 89%",
     "classepre": "G",
     "classepost": "A3",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 89% → G",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> G → A3",
     "latitude": "45.3633498",
     "longitude": "9.6115256"
   },
@@ -542,7 +542,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 33%",
     "classepre": "F",
     "classepost": "D",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 33% → F",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> F → D",
     "latitude": "45.4217673",
     "longitude": "9.6172496"
   },
@@ -581,7 +581,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 58%",
     "classepre": "F",
     "classepost": "B",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 58% → F",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> F → B",
     "latitude": "45.41307",
     "longitude": "9.26737"
   },
@@ -1632,6 +1632,7 @@
     "battery": 5.12,
     "order": 13,
     "activation.cer.data": "2025-03-12T23:00:00.000Z",
+    "cer.desc": 555,
     "cabina.primaria": "AC001E01422",
     "latitude": "45.6487019",
     "longitude": "9.1573702"
