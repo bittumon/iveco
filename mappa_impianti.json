@@ -86,7 +86,7 @@
     "longitude": "12.4900"
   },
   {
-    "CTR": "SRES24_029 - PLESTRA FRANCESCO ",
+    "CTR": "C",
     "Code": "sr24029pf",
     "Nominativo": "Efficientamento ",
     "Coordinate X": "45.324317316181876",
@@ -316,7 +316,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 75%",
     "classepre": "E",
     "classepost": "A2",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> E → A2",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 75% → E",
     "latitude": "45.42013561571323",
     "longitude": "9.260721656361013"
   },
@@ -355,7 +355,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 71%",
     "classepre": "G",
     "classepost": "D",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> G → D",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 71% → G",
     "latitude": "45.1725852",
     "longitude": "9.4752799"
   },
@@ -393,7 +393,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 82%",
     "classepre": "E",
     "classepost": "A4",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> E → A4",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 82% → E",
     "latitude": "45.4087128",
     "longitude": "9.6270164"
   },
@@ -431,7 +431,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 65%",
     "classepre": "C",
     "classepost": "A3",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> C → A3",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 65% → C",
     "latitude": "40.61904840621488",
     "longitude": "16.12702469557333"
   },
@@ -468,7 +468,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 66%",
     "classepre": "G",
     "classepost": "D",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> G → D",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 66% → G",
     "latitude": "44.93577765517878 ",
     "longitude": "10.229783508539436"
   },
@@ -506,7 +506,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 89%",
     "classepre": "G",
     "classepost": "A3",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> G → A3",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 89% → G",
     "latitude": "45.3633498",
     "longitude": "9.6115256"
   },
@@ -542,7 +542,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 33%",
     "classepre": "F",
     "classepost": "D",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> F → D",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 33% → F",
     "latitude": "45.4217673",
     "longitude": "9.6172496"
   },
@@ -581,7 +581,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 58%",
     "classepre": "F",
     "classepost": "B",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> F → B",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 58% → F",
     "latitude": "45.41307",
     "longitude": "9.26737"
   },
@@ -1631,6 +1631,8 @@
     "descdettailed": "Titolo Proposto: Verso l'Energia Condivisa: Impianto Fotovoltaico a Seveso (MB) per la Comunità Energetica\n\nTesto:\n\nA Seveso (MB), Myenergy ha realizzato un impianto fotovoltaico residenziale all'avanguardia, progettato non solo per l'autonomia energetica della singola abitazione ma anche come elemento attivo di una nascente Comunità Energetica Rinnovabile (CER) locale. Questo progetto rappresenta un passo significativo verso un modello di energia condivisa e sostenibile sul territorio.\n\nSulla copertura a tegole dell'abitazione è stato installato un potente impianto fotovoltaico da 8,30 kWp, composto da 20 moduli ad alta efficienza. Per ottimizzare l'autoconsumo e facilitare la gestione dei flussi energetici nell'ottica della CER, è stato scelto un sistema compatto ZCS All-in-One. Questa unità integra un inverter ibrido monofase da 6 kW e una batteria di accumulo da 10,24 kWh, con possibilità di espansione futura fino a oltre 20 kWh.\n\nL'accumulo permette di massimizzare l'utilizzo dell'energia solare prodotta in loco e apre le porte ai benefici della condivisione dell'energia pulita all'interno della Comunità Energetica. L'intervento ha incluso anche l'installazione di una linea vita permanente, garantendo la massima sicurezza per le future manutenzioni sul tetto.\n\nOltre ai vantaggi individuali in termini di risparmio e indipendenza energetica, questo impianto consente al proprietario di contribuire attivamente alla transizione energetica della sua comunità. Con una produzione annua stimata di quasi 8.900 kWh, l'impianto riduce significativamente l'impronta ecologica dell'abitazione (circa 57 tonnellate di CO2 evitate in 25 anni, pari a 347 alberi piantati) e immette energia pulita nella rete locale, a beneficio della CER. L'impianto è coperto da 2 anni di manutenzione ordinaria.",
     "battery": 5.12,
     "order": 13,
+    "activation.data": "2025-03-12T23:00:00.000Z",
+    "cabinaprimaria": "AC001E01422",
     "latitude": "45.6487019",
     "longitude": "9.1573702"
   },
@@ -1989,6 +1991,8 @@
     "descdettailed": "Titolo Proposto: Riqualificazione Energetica Integrata a Bubbiano (MI): Fotovoltaico con Accumulo e Nuova Caldaia a Condensazione\n\nTesto:\n\nA Bubbiano, in provincia di Milano, Myenergy ha realizzato un intervento di riqualificazione energetica completa per una casa unifamiliare, combinando l'installazione di un impianto fotovoltaico avanzato con la sostituzione del sistema di riscaldamento, ottimizzando l'accesso a diverse forme di incentivazione fiscale.\n\nÈ stato installato un potente impianto fotovoltaico da 8,80 kWp, composto da 20 moduli (Longi 440Wp). Per massimizzare la resa energetica di ciascun pannello, sono stati utilizzati 20 ottimizzatori di potenza. Il sistema di gestione energetica Huawei include un inverter monofase da 6 kW e un accumulo LUNA2000 da 10 kWh, garantendo ampia disponibilità di energia solare autoprodotta. Questa parte dell'intervento ha usufruito della Detrazione Fiscale 50% per le ristrutturazioni edilizie.\n\nParallelamente, per migliorare l'efficienza termica dell'abitazione, si è proceduto alla sostituzione della vecchia caldaia con un moderno modello a condensazione Immergas Victrix Zeus Superior da 30 kW, installando anche 12 nuove valvole termostatiche per una migliore regolazione del calore negli ambienti. Questo specifico intervento è rientrato nell'ambito dell'Ecobonus 65%.\n\nA completamento dei lavori sul tetto, è stata installata una linea vita permanente per garantire la sicurezza.\n\nQuesto approccio integrato assicura una significativa riduzione dei consumi energetici complessivi dell'abitazione. L'impianto fotovoltaico, con una produzione annua stimata di quasi 9.500 kWh, abbatte i costi elettrici, mentre la nuova caldaia ottimizza quelli per il riscaldamento. L'impatto ambientale positivo si traduce in un risparmio di circa 60,5 tonnellate di CO2 in 25 anni (equivalente a 370 alberi piantati).\nQuesto intervento combinato, probabilmente realizzato usufruendo delle detrazioni fiscali per l'efficienza energetica, permette una gestione ottimale dei consumi dell'abitazione. L'impianto fotovoltaico è stimato produrre quasi 9.500 kWh all'anno, riducendo drasticamente la dipendenza dalla rete elettrica e l'impatto ambientale (circa 60,5 tonnellate di CO2 evitate in 25 anni, l'equivalente di 370 alberi piantati).",
     "battery": 10,
     "order": 13,
+    "activation.data": "2025-04-14T22:00:00.000Z",
+    "cabinaprimaria": "AC001E01191",
     "latitude": "45.324291",
     "longitude": "9.0143854"
   },
@@ -4186,7 +4190,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> -196%",
     "classepre": "F",
     "classepost": "B",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> F → B",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> -196% → F",
     "latitude": "37.9361474",
     "longitude": "15.7394452"
   },
@@ -4222,7 +4226,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 62%",
     "classepre": "G",
     "classepost": "C",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> G → C",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 62% → G",
     "latitude": "45.13405934638249",
     "longitude": "9.756200957747598"
   },
@@ -4261,7 +4265,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 44%",
     "classepre": "E",
     "classepost": "C",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> E → C",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 44% → E",
     "latitude": "45.2988869",
     "longitude": "9.4245741"
   },
@@ -4300,7 +4304,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 63%",
     "classepre": "F",
     "classepost": "A1",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> F → A1",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 63% → F",
     "latitude": "45.4448543",
     "longitude": "9.2958286"
   },
@@ -4339,7 +4343,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 67%",
     "classepre": "F",
     "classepost": "A1",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> F → A1",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 67% → F",
     "latitude": "45.4080338",
     "longitude": "8.9147589"
   },
@@ -4378,7 +4382,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 68%",
     "classepre": "E",
     "classepost": "A1",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> E → A1",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 68% → E",
     "latitude": "45.0058919",
     "longitude": "8.6435624"
   },
@@ -4414,7 +4418,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 36%",
     "classepre": "G",
     "classepost": "D",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> G → D",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 36% → G",
     "latitude": "45.3000493",
     "longitude": "9.5111066"
   },
@@ -4453,7 +4457,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 42%",
     "classepre": "F",
     "classepost": "D",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> F → D",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 42% → F",
     "latitude": "45.4680564",
     "longitude": "9.7230612"
   },
@@ -4492,7 +4496,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 89%",
     "classepre": "E",
     "classepost": "A4",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> E → A4",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 89% → E",
     "latitude": "45.3773923",
     "longitude": "9.7448424"
   },
@@ -4531,7 +4535,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 64%",
     "classepre": "G",
     "classepost": "D",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> G → D",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 64% → G",
     "latitude": "45.6662552",
     "longitude": "9.1381204"
   },
@@ -4570,7 +4574,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 49%",
     "classepre": "F",
     "classepost": "C",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> F → C",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 49% → F",
     "latitude": "45.4103247",
     "longitude": "9.2641848"
   },
@@ -5113,7 +5117,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 40%",
     "classepre": "E",
     "classepost": "C",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> E → C",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 40% → E",
     "latitude": "45.6495819",
     "longitude": "9.0330151"
   },
@@ -5151,7 +5155,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 89%",
     "classepre": "G",
     "classepost": "A4",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> G → A4",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 89% → G",
     "latitude": "40.6168815",
     "longitude": "16.141898"
   },
@@ -5189,7 +5193,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 92%",
     "classepre": "G",
     "classepost": "A3",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> G → A3",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 92% → G",
     "latitude": "40.6120533",
     "longitude": "16.1349085"
   },
@@ -5225,7 +5229,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 33%",
     "classepre": "F",
     "classepost": "D",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> F → D",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 33% → F",
     "latitude": "40.62285909",
     "longitude": "16.154664765"
   },
@@ -5264,7 +5268,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 79%",
     "classepre": "G",
     "classepost": "A1",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> G → A1",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 79% → G",
     "latitude": "41.0885513",
     "longitude": "16.98328822"
   },
@@ -5302,7 +5306,7 @@
     "risparmiostima": "<strong>Consumi evitati:</strong> 90%",
     "classepre": "F",
     "classepost": "A4",
-    "salto.classe": "<strong>Salto Classe Energetica:</strong> F → A4",
+    "salto.classe": "<strong>Salto Classe Energetica:</strong> <strong>Consumi evitati:</strong> 90% → F",
     "latitude": "41.159578799",
     "longitude": "16.77736692"
   },
