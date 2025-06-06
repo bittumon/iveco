@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-06-06 21:58:50",
+    "last_update": "2025-06-06 22:01:02",
     "ac_power": 0.0,
     "month_name": "JUNE",
     "current_year": 2025,
-    "carbon": 7212,
-    "alberi": 9863,
+    "carbon": 7213,
+    "alberi": 9864,
     "t_evita": 6076,
-    "total_dayenergy": 22370.199999999895,
-    "life_energy": 15189228,
+    "total_dayenergy": [
+        "22380.699999999862"
+    ],
+    "life_energy": 15190597,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -23,7 +25,8 @@
         "16",
         "17",
         "18",
-        "19"
+        "19",
+        "20"
     ],
     "acEnergy_hour": [
         "33.499999999883585",
@@ -40,7 +43,8 @@
         "2201.2999999999884",
         "1514.2000000000407",
         "517.4999999999709",
-        "161.20000000001164"
+        "161.20000000001164",
+        "10.499999999970896"
     ],
     "all_years_list": [
         "2023",
@@ -50,7 +54,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "2086665.0"
+        "2088034.8"
     ],
     "all_daymonth_list": [
         "01",
@@ -114,21 +118,21 @@
         "443760.5",
         "526423.7000000001",
         "607625.2000000001",
-        "115641.39999999983"
+        "117011.19999999992"
     ],
-    "temperature_2m": "24.1 \u00b0C",
-    "relative_humidity_2m": "69 %",
-    "apparent_temperature": "26.7 \u00b0C",
+    "temperature_2m": "23.9 \u00b0C",
+    "relative_humidity_2m": "71 %",
+    "apparent_temperature": "26.6 \u00b0C",
     "is_day": 0,
-    "weather_exp": "Cloudy",
+    "weather_exp": "Mainly Clear",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/03n@2x.png",
-    "cloud_cover": "100 %",
-    "pressure_msl": "1016.2 hPa",
-    "surface_pressure": "999.8 hPa",
-    "wind_speed_10m": "2.2 km/h",
-    "wind_direction_10m": "360 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
+    "cloud_cover": "16 %",
+    "pressure_msl": "1016.3 hPa",
+    "surface_pressure": "999.9 hPa",
+    "wind_speed_10m": "2.5 km/h",
+    "wind_direction_10m": "8 \u00b0"
 }
