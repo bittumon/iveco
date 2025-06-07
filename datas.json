@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-06-07 21:58:50",
+    "last_update": "2025-06-07 22:01:02",
     "ac_power": 0.0,
     "month_name": "JUNE",
     "current_year": 2025,
     "carbon": 7222,
     "alberi": 9876,
-    "t_evita": 6083,
-    "total_dayenergy": 18931.800000000134,
-    "life_energy": 15208545,
+    "t_evita": 6084,
+    "total_dayenergy": [
+        "18946.899999999965"
+    ],
+    "life_energy": 15209544,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -23,7 +25,8 @@
         "16",
         "17",
         "18",
-        "19"
+        "19",
+        "20"
     ],
     "acEnergy_hour": [
         "19.30000000004657",
@@ -40,7 +43,8 @@
         "937.2999999999593",
         "578.8000000000466",
         "409.9999999999709",
-        "145.60000000018044"
+        "145.60000000018044",
+        "15.099999999831198"
     ],
     "all_years_list": [
         "2023",
@@ -50,7 +54,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "2105982.7"
+        "2106981.7"
     ],
     "all_daymonth_list": [
         "01",
@@ -116,11 +120,11 @@
         "443760.5",
         "526423.7000000001",
         "607625.2000000001",
-        "134959.10000000003"
+        "135958.0999999999"
     ],
-    "temperature_2m": "25.2 \u00b0C",
-    "relative_humidity_2m": "65 %",
-    "apparent_temperature": "28.0 \u00b0C",
+    "temperature_2m": "25.0 \u00b0C",
+    "relative_humidity_2m": "67 %",
+    "apparent_temperature": "27.7 \u00b0C",
     "is_day": 0,
     "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
@@ -128,9 +132,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/02n@2x.png",
-    "cloud_cover": "58 %",
-    "pressure_msl": "1012.0 hPa",
-    "surface_pressure": "995.7 hPa",
-    "wind_speed_10m": "1.8 km/h",
-    "wind_direction_10m": "53 \u00b0"
+    "cloud_cover": "83 %",
+    "pressure_msl": "1012.1 hPa",
+    "surface_pressure": "995.8 hPa",
+    "wind_speed_10m": "2.3 km/h",
+    "wind_direction_10m": "39 \u00b0"
 }
