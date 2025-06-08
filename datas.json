@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-06-08 21:58:51",
+    "last_update": "2025-06-08 22:01:03",
     "ac_power": 0.0,
     "month_name": "JUNE",
     "current_year": 2025,
-    "carbon": 7232,
-    "alberi": 9889,
-    "t_evita": 6092,
-    "total_dayenergy": 22202.49999999994,
-    "life_energy": 15229791,
+    "carbon": 7233,
+    "alberi": 9891,
+    "t_evita": 6093,
+    "total_dayenergy": [
+        "22227.699999999983"
+    ],
+    "life_energy": 15231772,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -23,7 +25,8 @@
         "16",
         "17",
         "18",
-        "19"
+        "19",
+        "20"
     ],
     "acEnergy_hour": [
         "8.100000000093132",
@@ -40,7 +43,8 @@
         "2152.2999999999884",
         "1539.700000000128",
         "854.3999999999942",
-        "266.29999999984284"
+        "266.29999999984284",
+        "25.200000000040745"
     ],
     "all_years_list": [
         "2023",
@@ -50,7 +54,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "2127228.0"
+        "2129209.4"
     ],
     "all_daymonth_list": [
         "01",
@@ -118,11 +122,11 @@
         "443760.5",
         "526423.7000000001",
         "607625.2000000001",
-        "156204.4"
+        "158185.79999999987"
     ],
-    "temperature_2m": "25.1 \u00b0C",
-    "relative_humidity_2m": "66 %",
-    "apparent_temperature": "27.8 \u00b0C",
+    "temperature_2m": "25.0 \u00b0C",
+    "relative_humidity_2m": "68 %",
+    "apparent_temperature": "27.7 \u00b0C",
     "is_day": 0,
     "weather_exp": "Clear",
     "precipitation": "0.0 mm",
@@ -131,8 +135,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1012.4 hPa",
-    "surface_pressure": "996.1 hPa",
-    "wind_speed_10m": "3.0 km/h",
-    "wind_direction_10m": "346 \u00b0"
+    "pressure_msl": "1012.5 hPa",
+    "surface_pressure": "996.2 hPa",
+    "wind_speed_10m": "3.2 km/h",
+    "wind_direction_10m": "360 \u00b0"
 }
