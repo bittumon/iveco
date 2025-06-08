@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-06-08 13:58:50",
+    "last_update": "2025-06-08 14:01:03",
     "ac_power": 2671.5,
     "month_name": "JUNE",
     "current_year": 2025,
-    "carbon": 7223,
-    "alberi": 9878,
-    "t_evita": 6085,
-    "total_dayenergy": 6512.40000000014,
-    "life_energy": 15211579,
+    "carbon": 7227,
+    "alberi": 9883,
+    "t_evita": 6088,
+    "total_dayenergy": [
+        "9886.40000000008"
+    ],
+    "life_energy": 15219431,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -15,7 +17,8 @@
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "8.100000000093132",
@@ -24,7 +27,8 @@
         "969.399999999936",
         "1463.0000000000873",
         "1440.0999999998894",
-        "2118.5000000001164"
+        "2118.5000000001164",
+        "2699.000000000029"
     ],
     "all_years_list": [
         "2023",
@@ -34,7 +38,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "2109016.1"
+        "2116868.1"
     ],
     "all_daymonth_list": [
         "01",
@@ -102,19 +106,19 @@
         "443760.5",
         "526423.7000000001",
         "607625.2000000001",
-        "137992.49999999994"
+        "145844.49999999997"
     ],
-    "temperature_2m": "27.4 \u00b0C",
+    "temperature_2m": "27.5 \u00b0C",
     "relative_humidity_2m": "52 %",
-    "apparent_temperature": "29.3 \u00b0C",
+    "apparent_temperature": "29.6 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Partly Cloudy",
+    "weather_exp": "Mainly Sunny",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "76 %",
+    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
+    "cloud_cover": "3 %",
     "pressure_msl": "1011.8 hPa",
     "surface_pressure": "995.6 hPa",
     "wind_speed_10m": "11.6 km/h",
