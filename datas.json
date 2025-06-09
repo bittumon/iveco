@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-06-09 23:08:51",
+    "last_update": "2025-06-09 23:16:03",
     "ac_power": 0.0,
     "month_name": "JUNE",
     "current_year": 2025,
     "carbon": 7244,
     "alberi": 9907,
     "t_evita": 6103,
-    "total_dayenergy": 24721.00000000003,
+    "total_dayenergy": [
+        "24721.00000000003"
+    ],
     "life_energy": 15256493,
     "acEnergy_hour_day": [
         "5",
@@ -124,9 +126,9 @@
         "607625.2000000001",
         "182906.7999999999"
     ],
-    "temperature_2m": "22.4 \u00b0C",
-    "relative_humidity_2m": "49 %",
-    "apparent_temperature": "22.0 \u00b0C",
+    "temperature_2m": "22.2 \u00b0C",
+    "relative_humidity_2m": "51 %",
+    "apparent_temperature": "21.9 \u00b0C",
     "is_day": 0,
     "weather_exp": "Clear",
     "precipitation": "0.0 mm",
@@ -135,8 +137,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1021.1 hPa",
-    "surface_pressure": "1004.5 hPa",
+    "pressure_msl": "1021.2 hPa",
+    "surface_pressure": "1004.6 hPa",
     "wind_speed_10m": "5.4 km/h",
     "wind_direction_10m": "86 \u00b0"
 }
