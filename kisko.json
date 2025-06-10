@@ -305,6 +305,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2025-02-20",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 1,
       "tck": "",
@@ -636,6 +637,7 @@
       "Stato": "",
       "problemi": "Impianto offline offline da ieri 15:05 22/01/2025",
       "Allaciato": "2024-11-11",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 2,
       "tck": 6188,
@@ -967,6 +969,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-11-19",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 3,
       "tck": "",
@@ -1298,6 +1301,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2025-03-26",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 4,
       "tck": "",
@@ -1455,12 +1459,12 @@
           "10:25": 6.16,
           "10:30": 6.29,
           "10:35": 6.39,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 6.45,
+          "10:45": 6.56,
+          "10:50": 6.68,
+          "10:55": 6.81,
+          "11:00": 6.88,
+          "11:05": 7.02,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -1617,7 +1621,7 @@
           "23:55": null
         }
       },
-      "currentPower": "6.39"
+      "currentPower": "7.02"
     },
     "stationOverview": {
       "stationName": "BURGIO - POSTE ITALIANE",
@@ -1629,6 +1633,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-01-11",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 5,
       "tck": "",
@@ -1638,20 +1643,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2978.12,
+      "co2ReductionByYear": 2979.71,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 8411.4,
+      "standardCoalSavings": 8412.74,
       "componentFlag": 0,
       "equivalentTreePlanting": 14,
-      "co2Reduction": 9988.54,
-      "standardCoalSavingsByYear": 2507.89
+      "co2Reduction": 9990.13,
+      "standardCoalSavingsByYear": 2509.23
     },
     "realKpi": {
-      "realTimePower": 6.39,
-      "cumulativeEnergy": 21028.51,
-      "monthEnergy": 602.83,
-      "dailyEnergy": 10.58,
-      "yearEnergy": 6269.73
+      "realTimePower": 7.02,
+      "cumulativeEnergy": 21031.86,
+      "monthEnergy": 606.18,
+      "dailyEnergy": 13.93,
+      "yearEnergy": 6273.08
     }
   },
   "Poste Italiane Calamonaci": {
@@ -1786,12 +1791,12 @@
           "10:25": 7.68,
           "10:30": 7.88,
           "10:35": 7.97,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 8.15,
+          "10:45": 8.27,
+          "10:50": 8.46,
+          "10:55": 8.58,
+          "11:00": 8.69,
+          "11:05": 8.81,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -1948,7 +1953,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.96"
+      "currentPower": "8.82"
     },
     "stationOverview": {
       "stationName": "CALAMONACI - POSTE ITALIANE",
@@ -1960,6 +1965,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-01-11",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 6,
       "tck": "",
@@ -1969,20 +1975,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3891.13,
+      "co2ReductionByYear": 3893.13,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 10954.46,
+      "standardCoalSavings": 10956.15,
       "componentFlag": 0,
       "equivalentTreePlanting": 18,
-      "co2Reduction": 13008.43,
-      "standardCoalSavingsByYear": 3276.74
+      "co2Reduction": 13010.43,
+      "standardCoalSavingsByYear": 3278.42
     },
     "realKpi": {
-      "realTimePower": 7.96,
-      "cumulativeEnergy": 27386.16,
-      "monthEnergy": 769.49,
-      "dailyEnergy": 16.53,
-      "yearEnergy": 8191.85
+      "realTimePower": 8.82,
+      "cumulativeEnergy": 27390.37,
+      "monthEnergy": 773.7,
+      "dailyEnergy": 20.74,
+      "yearEnergy": 8196.06
     }
   },
   "Poste Italiane Campobello di Mazara": {
@@ -2118,11 +2124,11 @@
           "10:30": 21.65,
           "10:35": 22.01,
           "10:40": 22.33,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:45": 22.53,
+          "10:50": 22.72,
+          "10:55": 23.06,
+          "11:00": 23.41,
+          "11:05": 23.61,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -2279,7 +2285,7 @@
           "23:55": null
         }
       },
-      "currentPower": "22.07"
+      "currentPower": "23.59"
     },
     "stationOverview": {
       "stationName": "CAMPOBELLO DI MAZARA - POSTE ITALIANE",
@@ -2291,6 +2297,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-10-08",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 7,
       "tck": "",
@@ -2300,20 +2307,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 10271.07,
+      "co2ReductionByYear": 10276.49,
       "equivalentTreePlantingByYear": 15,
-      "standardCoalSavings": 10091.75,
+      "standardCoalSavings": 10096.32,
       "componentFlag": 0,
       "equivalentTreePlanting": 17,
-      "co2Reduction": 11983.96,
-      "standardCoalSavingsByYear": 8649.32
+      "co2Reduction": 11989.38,
+      "standardCoalSavingsByYear": 8653.88
     },
     "realKpi": {
-      "realTimePower": 22.07,
-      "cumulativeEnergy": 25229.38,
-      "monthEnergy": 2086.13,
-      "dailyEnergy": 47.2,
-      "yearEnergy": 21623.3
+      "realTimePower": 23.59,
+      "cumulativeEnergy": 25240.79,
+      "monthEnergy": 2097.54,
+      "dailyEnergy": 58.61,
+      "yearEnergy": 21634.71
     }
   },
   "Poste Italiane Campofranco": {
@@ -2622,6 +2629,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2025-01-16",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 8,
       "tck": "",
@@ -2779,12 +2787,12 @@
           "10:25": 38.92,
           "10:30": 39.54,
           "10:35": 40,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 40.59,
+          "10:45": 41.16,
+          "10:50": 41.63,
+          "10:55": 42.16,
+          "11:00": 42.49,
+          "11:05": 43.13,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -2941,7 +2949,7 @@
           "23:55": null
         }
       },
-      "currentPower": "40"
+      "currentPower": "43.13"
     },
     "stationOverview": {
       "stationName": "CARINI - POSTE ITALIANE",
@@ -2953,6 +2961,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2022-12-07",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 9,
       "tck": "",
@@ -2962,20 +2971,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 15550.26,
+      "co2ReductionByYear": 15560.14,
       "equivalentTreePlantingByYear": 22,
-      "standardCoalSavings": 62271.03,
+      "standardCoalSavings": 62279.36,
       "componentFlag": 0,
       "equivalentTreePlanting": 102,
-      "co2Reduction": 73946.85,
-      "standardCoalSavingsByYear": 13094.95
+      "co2Reduction": 73956.74,
+      "standardCoalSavingsByYear": 13103.28
     },
     "realKpi": {
-      "realTimePower": 40,
-      "cumulativeEnergy": 155677.58,
-      "monthEnergy": 3469.1,
-      "dailyEnergy": 84.48,
-      "yearEnergy": 32737.38
+      "realTimePower": 43.13,
+      "cumulativeEnergy": 155698.39,
+      "monthEnergy": 3489.91,
+      "dailyEnergy": 105.29,
+      "yearEnergy": 32758.19
     }
   },
   "Poste Italiane Cassaro": {
@@ -3284,6 +3293,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2025-03-17",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 10,
       "tck": "",
@@ -3603,7 +3613,7 @@
           "23:55": null
         }
       },
-      "currentPower": "13.17"
+      "currentPower": "0"
     },
     "stationOverview": {
       "stationName": "CASTELBUONO - POSTE ITALIANE",
@@ -3615,6 +3625,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-04-17",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 11,
       "tck": "",
@@ -3633,7 +3644,7 @@
       "standardCoalSavingsByYear": 5327.63
     },
     "realKpi": {
-      "realTimePower": 13.17,
+      "realTimePower": 0,
       "cumulativeEnergy": 38172.54,
       "monthEnergy": 1493.66,
       "dailyEnergy": 21.07,
@@ -3772,12 +3783,12 @@
           "10:25": 11.67,
           "10:30": 11.8,
           "10:35": 11.87,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 11.98,
+          "10:45": 11.98,
+          "10:50": 12.34,
+          "10:55": 12.4,
+          "11:00": 12.47,
+          "11:05": 12.77,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -3934,7 +3945,7 @@
           "23:55": null
         }
       },
-      "currentPower": "11.9"
+      "currentPower": "12.76"
     },
     "stationOverview": {
       "stationName": "CASTELNOVETTO - SCUOLA",
@@ -3946,6 +3957,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-02-07",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 12,
       "tck": "",
@@ -3955,20 +3967,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 4860.61,
+      "co2ReductionByYear": 4863.52,
       "equivalentTreePlantingByYear": 7,
-      "standardCoalSavings": 12725.98,
+      "standardCoalSavings": 12728.42,
       "componentFlag": 0,
       "equivalentTreePlanting": 21,
-      "co2Reduction": 15112.1,
-      "standardCoalSavingsByYear": 4093.15
+      "co2Reduction": 15115,
+      "standardCoalSavingsByYear": 4095.59
     },
     "realKpi": {
-      "realTimePower": 11.9,
-      "cumulativeEnergy": 31814.95,
-      "monthEnergy": 737.91,
-      "dailyEnergy": 25.07,
-      "yearEnergy": 10232.87
+      "realTimePower": 12.76,
+      "cumulativeEnergy": 31821.06,
+      "monthEnergy": 744.02,
+      "dailyEnergy": 31.18,
+      "yearEnergy": 10238.98
     }
   },
   "Poste Italiane Casteltermini": {
@@ -4103,12 +4115,12 @@
           "10:25": 20.79,
           "10:30": 21.01,
           "10:35": 21.27,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 21.44,
+          "10:45": 21.76,
+          "10:50": 21.92,
+          "10:55": 21.94,
+          "11:00": 22.18,
+          "11:05": 22.48,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -4265,7 +4277,7 @@
           "23:55": null
         }
       },
-      "currentPower": "21.24"
+      "currentPower": "22.48"
     },
     "stationOverview": {
       "stationName": "CASTELTERMINI - POSTE ITALIANE",
@@ -4277,6 +4289,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-01-23",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 13,
       "tck": "",
@@ -4286,20 +4299,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 7914.67,
+      "co2ReductionByYear": 7919.86,
       "equivalentTreePlantingByYear": 11,
-      "standardCoalSavings": 22753.55,
+      "standardCoalSavings": 22757.92,
       "componentFlag": 0,
       "equivalentTreePlanting": 37,
-      "co2Reduction": 27019.84,
-      "standardCoalSavingsByYear": 6664.98
+      "co2Reduction": 27025.03,
+      "standardCoalSavingsByYear": 6669.35
     },
     "realKpi": {
-      "realTimePower": 21.24,
-      "cumulativeEnergy": 56883.87,
-      "monthEnergy": 1827.4,
-      "dailyEnergy": 45.96,
-      "yearEnergy": 16662.46
+      "realTimePower": 22.48,
+      "cumulativeEnergy": 56894.79,
+      "monthEnergy": 1838.32,
+      "dailyEnergy": 56.88,
+      "yearEnergy": 16673.38
     }
   },
   "CASTELVETRANO - POSTE ITALIANE": {
@@ -4608,6 +4621,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-02-10",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 14,
       "tck": "",
@@ -4939,6 +4953,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-02-16",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 15,
       "tck": "",
@@ -5270,6 +5285,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-09-18",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 16,
       "tck": "",
@@ -5428,12 +5444,12 @@
           "10:30": 7.96,
           "10:35": 8.03,
           "10:40": 8.18,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 8.27,
+          "10:50": 8.34,
+          "10:55": 8.45,
+          "11:00": 8.5,
+          "11:05": 8.53,
+          "11:10": 8.6,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -5589,7 +5605,7 @@
           "23:55": null
         }
       },
-      "currentPower": "8.18"
+      "currentPower": "8.52"
     },
     "stationOverview": {
       "stationName": "CONTESSA ENTELLINA - POSTE ITALIANE",
@@ -5601,6 +5617,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-09-18",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 17,
       "tck": "",
@@ -5610,20 +5627,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3227.59,
+      "co2ReductionByYear": 3229.25,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 3897.4,
+      "standardCoalSavings": 3898.8,
       "componentFlag": 0,
       "equivalentTreePlanting": 7,
-      "co2Reduction": 4628.16,
-      "standardCoalSavingsByYear": 2717.97
+      "co2Reduction": 4629.82,
+      "standardCoalSavingsByYear": 2719.37
     },
     "realKpi": {
-      "realTimePower": 8.18,
-      "cumulativeEnergy": 9743.5,
-      "monthEnergy": 702.24,
-      "dailyEnergy": 17.47,
-      "yearEnergy": 6794.93
+      "realTimePower": 8.52,
+      "cumulativeEnergy": 9746.99,
+      "monthEnergy": 705.73,
+      "dailyEnergy": 20.96,
+      "yearEnergy": 6798.42
     }
   },
   "Poste Italiane Custonaci": {
@@ -5759,12 +5776,12 @@
           "10:30": 5.79,
           "10:35": 5.86,
           "10:40": 5.95,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 6.06,
+          "10:50": 6.12,
+          "10:55": 6.2,
+          "11:00": 6.31,
+          "11:05": 6.42,
+          "11:10": 6.43,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -5920,7 +5937,7 @@
           "23:55": null
         }
       },
-      "currentPower": "5.96"
+      "currentPower": "6.48"
     },
     "stationOverview": {
       "stationName": "CUSTONACI - POSTE ITALIANE",
@@ -5932,6 +5949,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-10-15",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 18,
       "tck": "",
@@ -5941,20 +5959,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2640.45,
+      "co2ReductionByYear": 2641.93,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 2770.77,
+      "standardCoalSavings": 2772.02,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3290.29,
-      "standardCoalSavingsByYear": 2223.54
+      "co2Reduction": 3291.77,
+      "standardCoalSavingsByYear": 2224.78
     },
     "realKpi": {
-      "realTimePower": 5.96,
-      "cumulativeEnergy": 6926.93,
-      "monthEnergy": 541.47,
-      "dailyEnergy": 13,
-      "yearEnergy": 5558.85
+      "realTimePower": 6.48,
+      "cumulativeEnergy": 6930.04,
+      "monthEnergy": 544.58,
+      "dailyEnergy": 16.11,
+      "yearEnergy": 5561.96
     }
   },
   "Danesi": {
@@ -6263,6 +6281,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2020-07-30",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 19,
       "tck": "",
@@ -6594,6 +6613,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-05-29",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 20,
       "tck": "",
@@ -6751,12 +6771,12 @@
           "10:25": 3.84,
           "10:30": 3.93,
           "10:35": 4.01,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 4.14,
+          "10:45": 6.54,
+          "10:50": 7.08,
+          "10:55": 7.16,
+          "11:00": 7.34,
+          "11:05": 7.95,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -6913,7 +6933,7 @@
           "23:55": null
         }
       },
-      "currentPower": "4.02"
+      "currentPower": "7.96"
     },
     "stationOverview": {
       "stationName": "FRANCAVILLA DI SICILIA - POSTE ITALIANE",
@@ -6925,6 +6945,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-07-10",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 21,
       "tck": "",
@@ -6934,20 +6955,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2625.36,
+      "co2ReductionByYear": 2626.86,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 4655.06,
+      "standardCoalSavings": 4656.32,
       "componentFlag": 0,
       "equivalentTreePlanting": 8,
-      "co2Reduction": 5527.88,
-      "standardCoalSavingsByYear": 2210.83
+      "co2Reduction": 5529.38,
+      "standardCoalSavingsByYear": 2212.1
     },
     "realKpi": {
-      "realTimePower": 4.02,
-      "cumulativeEnergy": 11637.65,
-      "monthEnergy": 584.61,
-      "dailyEnergy": 4.57,
-      "yearEnergy": 5527.08
+      "realTimePower": 7.96,
+      "cumulativeEnergy": 11640.81,
+      "monthEnergy": 587.77,
+      "dailyEnergy": 7.73,
+      "yearEnergy": 5530.24
     }
   },
   "Poste Italiane Giardini Naxos": {
@@ -7082,12 +7103,12 @@
           "10:25": 7.3,
           "10:30": 7.51,
           "10:35": 7.6,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 7.72,
+          "10:45": 7.78,
+          "10:50": 7.81,
+          "10:55": 7.97,
+          "11:00": 8.05,
+          "11:05": 8.14,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -7244,7 +7265,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.6"
+      "currentPower": "8.13"
     },
     "stationOverview": {
       "stationName": "GIARDINI NAXOS - POSTE ITALIANE",
@@ -7256,6 +7277,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-07-10",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 22,
       "tck": "",
@@ -7265,20 +7287,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2599.16,
+      "co2ReductionByYear": 2601.03,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 4367.28,
+      "standardCoalSavings": 4368.86,
       "componentFlag": 0,
       "equivalentTreePlanting": 8,
-      "co2Reduction": 5186.15,
-      "standardCoalSavingsByYear": 2188.77
+      "co2Reduction": 5188.02,
+      "standardCoalSavingsByYear": 2190.34
     },
     "realKpi": {
-      "realTimePower": 7.6,
-      "cumulativeEnergy": 10918.21,
-      "monthEnergy": 574.32,
-      "dailyEnergy": 11.14,
-      "yearEnergy": 5471.92
+      "realTimePower": 8.13,
+      "cumulativeEnergy": 10922.15,
+      "monthEnergy": 578.26,
+      "dailyEnergy": 15.08,
+      "yearEnergy": 5475.86
     }
   },
   "Poste Italiane Giarratana": {
@@ -7587,6 +7609,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2025-03-10",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 23,
       "tck": "",
@@ -7918,6 +7941,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-01-25",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 24,
       "tck": "",
@@ -8249,6 +8273,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-11-21",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 25,
       "tck": "",
@@ -8580,6 +8605,7 @@
       "Stato": "",
       "problemi": "In aspetto di allaccio.",
       "Allaciato": "2024-11-05",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 26,
       "tck": 9839,
@@ -8737,12 +8763,12 @@
           "10:25": 10.55,
           "10:30": 10.71,
           "10:35": 10.83,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 11.02,
+          "10:45": 11.1,
+          "10:50": 11.19,
+          "10:55": 11.33,
+          "11:00": 11.45,
+          "11:05": 11.59,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -8899,7 +8925,7 @@
           "23:55": null
         }
       },
-      "currentPower": "10.83"
+      "currentPower": "11.59"
     },
     "stationOverview": {
       "stationName": "LINGUAGLOSSA - POSTE ITALIANE",
@@ -8911,6 +8937,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-01-10",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 27,
       "tck": "",
@@ -8920,20 +8947,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 4078.44,
+      "co2ReductionByYear": 4081.1,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 11681.88,
+      "standardCoalSavings": 11684.12,
       "componentFlag": 0,
       "equivalentTreePlanting": 19,
-      "co2Reduction": 13872.23,
-      "standardCoalSavingsByYear": 3434.47
+      "co2Reduction": 13874.89,
+      "standardCoalSavingsByYear": 3436.71
     },
     "realKpi": {
-      "realTimePower": 10.83,
-      "cumulativeEnergy": 29204.69,
-      "monthEnergy": 980.25,
-      "dailyEnergy": 24.55,
-      "yearEnergy": 8586.18
+      "realTimePower": 11.59,
+      "cumulativeEnergy": 29210.29,
+      "monthEnergy": 985.85,
+      "dailyEnergy": 30.15,
+      "yearEnergy": 8591.78
     }
   },
   "Poste Italiane Lucca Sicula": {
@@ -9068,12 +9095,12 @@
           "10:25": 6.81,
           "10:30": 6.96,
           "10:35": 7.04,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 7.13,
+          "10:45": 7.26,
+          "10:50": 7.42,
+          "10:55": 7.52,
+          "11:00": 7.63,
+          "11:05": 7.64,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -9230,7 +9257,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.04"
+      "currentPower": "7.65"
     },
     "stationOverview": {
       "stationName": "LUCCA SICULA - POSTE ITALIANE",
@@ -9242,6 +9269,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-01-23",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 28,
       "tck": "",
@@ -9251,20 +9279,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3278.19,
+      "co2ReductionByYear": 3279.95,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 9257.72,
+      "standardCoalSavings": 9259.2,
       "componentFlag": 0,
       "equivalentTreePlanting": 16,
-      "co2Reduction": 10993.55,
-      "standardCoalSavingsByYear": 2760.58
+      "co2Reduction": 10995.3,
+      "standardCoalSavingsByYear": 2762.06
     },
     "realKpi": {
-      "realTimePower": 7.04,
-      "cumulativeEnergy": 23144.31,
-      "monthEnergy": 690.87,
-      "dailyEnergy": 14.98,
-      "yearEnergy": 6901.46
+      "realTimePower": 7.65,
+      "cumulativeEnergy": 23148,
+      "monthEnergy": 694.56,
+      "dailyEnergy": 18.67,
+      "yearEnergy": 6905.15
     }
   },
   "MAZARA DEL VALLO - POSTE ITALIANE": {
@@ -9573,6 +9601,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-02-10",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 29,
       "tck": "",
@@ -9731,12 +9760,12 @@
           "10:30": 0,
           "10:35": 28.61,
           "10:40": 29.1,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 29.41,
+          "10:50": 29.65,
+          "10:55": 0,
+          "11:00": 10.47,
+          "11:05": 30.28,
+          "11:10": 30.74,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -9892,7 +9921,7 @@
           "23:55": null
         }
       },
-      "currentPower": "29.08"
+      "currentPower": "30.74"
     },
     "stationOverview": {
       "stationName": "MAZZARINO - POSTE ITALIANE",
@@ -9904,6 +9933,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-07-24",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 30,
       "tck": "",
@@ -9913,20 +9943,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 107.77,
+      "co2ReductionByYear": 112.84,
       "equivalentTreePlantingByYear": 1,
-      "standardCoalSavings": 101.7,
+      "standardCoalSavings": 105.97,
       "componentFlag": 0,
       "equivalentTreePlanting": 1,
-      "co2Reduction": 120.76,
-      "standardCoalSavingsByYear": 90.75
+      "co2Reduction": 125.84,
+      "standardCoalSavingsByYear": 95.02
     },
     "realKpi": {
-      "realTimePower": 29.08,
-      "cumulativeEnergy": 254.24,
-      "monthEnergy": 226.88,
-      "dailyEnergy": 64.28,
-      "yearEnergy": 226.88
+      "realTimePower": 30.74,
+      "cumulativeEnergy": 264.92,
+      "monthEnergy": 237.56,
+      "dailyEnergy": 74.96,
+      "yearEnergy": 237.56
     }
   },
   "Poste Italiane Milena": {
@@ -10235,6 +10265,7 @@
       "Stato": "",
       "problemi": "In attesa di allaccio",
       "Allaciato": "2025-02-21",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 31,
       "tck": 2641,
@@ -10566,6 +10597,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-04-06",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 32,
       "tck": "",
@@ -10723,12 +10755,12 @@
           "10:25": 13.99,
           "10:30": 14.05,
           "10:35": 14.11,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 14.4,
+          "10:45": 14.51,
+          "10:50": 14.72,
+          "10:55": 14.67,
+          "11:00": 14.88,
+          "11:05": 15.06,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -10885,7 +10917,7 @@
           "23:55": null
         }
       },
-      "currentPower": "14.16"
+      "currentPower": "15.06"
     },
     "stationOverview": {
       "stationName": "MIRABELLA IMBACCARI - POSTE ITALIANE",
@@ -10897,6 +10929,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-03-20",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 33,
       "tck": "",
@@ -10906,20 +10939,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 5668.06,
+      "co2ReductionByYear": 5671.54,
       "equivalentTreePlantingByYear": 8,
-      "standardCoalSavings": 14542.27,
+      "standardCoalSavings": 14545.21,
       "componentFlag": 0,
       "equivalentTreePlanting": 24,
-      "co2Reduction": 17268.95,
-      "standardCoalSavingsByYear": 4773.1
+      "co2Reduction": 17272.43,
+      "standardCoalSavingsByYear": 4776.04
     },
     "realKpi": {
-      "realTimePower": 14.16,
-      "cumulativeEnergy": 36355.68,
-      "monthEnergy": 1192.51,
-      "dailyEnergy": 30.55,
-      "yearEnergy": 11932.75
+      "realTimePower": 15.06,
+      "cumulativeEnergy": 36363.02,
+      "monthEnergy": 1199.85,
+      "dailyEnergy": 37.89,
+      "yearEnergy": 11940.09
     }
   },
   "MISILMERI - POSTE ITALIANE": {
@@ -11228,6 +11261,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-02-01",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 34,
       "tck": "",
@@ -11559,6 +11593,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-05-16",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 35,
       "tck": "",
@@ -11717,12 +11752,12 @@
           "10:30": 6.05,
           "10:35": 6.02,
           "10:40": 6.25,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 6.3,
+          "10:50": 6.39,
+          "10:55": 6.48,
+          "11:00": 6.55,
+          "11:05": 6.61,
+          "11:10": 6.69,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -11878,7 +11913,7 @@
           "23:55": null
         }
       },
-      "currentPower": "6.25"
+      "currentPower": "6.69"
     },
     "stationOverview": {
       "stationName": "MONTEVAGO - POSTE ITALIANE",
@@ -11890,6 +11925,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-11-07",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 36,
       "tck": "",
@@ -11899,20 +11935,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2789.18,
+      "co2ReductionByYear": 2790.72,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 2725.94,
+      "standardCoalSavings": 2727.23,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3237.05,
-      "standardCoalSavingsByYear": 2348.78
+      "co2Reduction": 3238.59,
+      "standardCoalSavingsByYear": 2350.08
     },
     "realKpi": {
-      "realTimePower": 6.25,
-      "cumulativeEnergy": 6814.84,
-      "monthEnergy": 572.15,
-      "dailyEnergy": 13.51,
-      "yearEnergy": 5871.96
+      "realTimePower": 6.69,
+      "cumulativeEnergy": 6818.08,
+      "monthEnergy": 575.39,
+      "dailyEnergy": 16.75,
+      "yearEnergy": 5875.2
     }
   },
   "Poste Italiane Nicolosi": {
@@ -12047,12 +12083,12 @@
           "10:25": 9.72,
           "10:30": 9.84,
           "10:35": 9.93,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 10.05,
+          "10:45": 10.1,
+          "10:50": 10.24,
+          "10:55": 10.27,
+          "11:00": 10.42,
+          "11:05": 10.52,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -12209,7 +12245,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.94"
+      "currentPower": "10.49"
     },
     "stationOverview": {
       "stationName": "NICOLOSI - POSTE ITALIANE",
@@ -12221,6 +12257,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-01-10",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 37,
       "tck": "",
@@ -12230,20 +12267,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3743.63,
+      "co2ReductionByYear": 3746.06,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 9355.01,
+      "standardCoalSavings": 9357.06,
       "componentFlag": 0,
       "equivalentTreePlanting": 16,
-      "co2Reduction": 11109.07,
-      "standardCoalSavingsByYear": 3152.53
+      "co2Reduction": 11111.5,
+      "standardCoalSavingsByYear": 3154.58
     },
     "realKpi": {
-      "realTimePower": 9.94,
-      "cumulativeEnergy": 23387.52,
-      "monthEnergy": 878.62,
-      "dailyEnergy": 23.06,
-      "yearEnergy": 7881.33
+      "realTimePower": 10.49,
+      "cumulativeEnergy": 23392.64,
+      "monthEnergy": 883.74,
+      "dailyEnergy": 28.18,
+      "yearEnergy": 7886.45
     }
   },
   "Poste Italiane Nissoria": {
@@ -12379,12 +12416,12 @@
           "10:30": 7.67,
           "10:35": 7.86,
           "10:40": 7.94,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 8.03,
+          "10:50": 8.21,
+          "10:55": 8.28,
+          "11:00": 8.38,
+          "11:05": 8.6,
+          "11:10": 8.64,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -12540,7 +12577,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.81"
+      "currentPower": "8.64"
     },
     "stationOverview": {
       "stationName": "NISSORIA - POSTE ITALIANE",
@@ -12552,6 +12589,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-12-09",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 38,
       "tck": "",
@@ -12561,20 +12599,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3008.27,
+      "co2ReductionByYear": 3010.23,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 2630.34,
+      "standardCoalSavings": 2631.99,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3123.52,
-      "standardCoalSavingsByYear": 2533.28
+      "co2Reduction": 3125.49,
+      "standardCoalSavingsByYear": 2534.93
     },
     "realKpi": {
-      "realTimePower": 7.81,
-      "cumulativeEnergy": 6575.84,
-      "monthEnergy": 660.91,
-      "dailyEnergy": 14.55,
-      "yearEnergy": 6333.19
+      "realTimePower": 8.64,
+      "cumulativeEnergy": 6579.98,
+      "monthEnergy": 665.05,
+      "dailyEnergy": 18.69,
+      "yearEnergy": 6337.33
     }
   },
   "Parrocchia san Lorenzo": {
@@ -12883,6 +12921,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2020-04-30",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 39,
       "tck": "",
@@ -13041,12 +13080,12 @@
           "10:30": 20.81,
           "10:35": 21.12,
           "10:40": 21.38,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 21.64,
+          "10:50": 21.93,
+          "10:55": 22.19,
+          "11:00": 22.46,
+          "11:05": 22.65,
+          "11:10": 22.89,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -13202,7 +13241,7 @@
           "23:55": null
         }
       },
-      "currentPower": "21.37"
+      "currentPower": "22.9"
     },
     "stationOverview": {
       "stationName": "PARTANNA - POSTE ITALIANE",
@@ -13214,6 +13253,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-12-12",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 40,
       "tck": "",
@@ -13223,20 +13263,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 8727.93,
+      "co2ReductionByYear": 8733.2,
       "equivalentTreePlantingByYear": 12,
-      "standardCoalSavings": 7857.31,
+      "standardCoalSavings": 7861.75,
       "componentFlag": 0,
       "equivalentTreePlanting": 13,
-      "co2Reduction": 9330.56,
-      "standardCoalSavingsByYear": 7349.83
+      "co2Reduction": 9335.83,
+      "standardCoalSavingsByYear": 7354.27
     },
     "realKpi": {
-      "realTimePower": 21.37,
-      "cumulativeEnergy": 19643.28,
-      "monthEnergy": 1960.35,
-      "dailyEnergy": 42.98,
-      "yearEnergy": 18374.58
+      "realTimePower": 22.9,
+      "cumulativeEnergy": 19654.38,
+      "monthEnergy": 1971.45,
+      "dailyEnergy": 54.08,
+      "yearEnergy": 18385.68
     }
   },
   "PARTINICO - POSTE ITALIANE": {
@@ -13545,6 +13585,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-02-10",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 41,
       "tck": "",
@@ -13876,6 +13917,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-03-19",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 42,
       "tck": "",
@@ -14207,6 +14249,7 @@
       "Stato": "",
       "problemi": "Impianto non ancora comunica dopo perdano comunicazione il 15:00 da 15/05/2025",
       "Allaciato": "2024-10-22",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 43,
       "tck": 4140,
@@ -14538,6 +14581,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2025-03-17",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 44,
       "tck": "",
@@ -14696,12 +14740,12 @@
           "10:30": 6.87,
           "10:35": 6.96,
           "10:40": 7.05,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 7.15,
+          "10:50": 7.26,
+          "10:55": 7.34,
+          "11:00": 7.39,
+          "11:05": 7.47,
+          "11:10": 7.59,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -14857,7 +14901,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.05"
+      "currentPower": "7.58"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE  - OSOPPO",
@@ -14869,6 +14913,7 @@
       "Stato": "",
       "problemi": "Polis in lavoro",
       "Allaciato": "2024-10-01",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 45,
       "tck": 2450,
@@ -14878,20 +14923,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 109.73,
+      "co2ReductionByYear": 111.47,
       "equivalentTreePlantingByYear": 1,
-      "standardCoalSavings": 93.12,
+      "standardCoalSavings": 94.58,
       "componentFlag": 0,
       "equivalentTreePlanting": 1,
-      "co2Reduction": 110.58,
-      "standardCoalSavingsByYear": 92.41
+      "co2Reduction": 112.32,
+      "standardCoalSavingsByYear": 93.87
     },
     "realKpi": {
-      "realTimePower": 7.05,
-      "cumulativeEnergy": 232.8,
-      "monthEnergy": 12.96,
-      "dailyEnergy": 12.96,
-      "yearEnergy": 231.02
+      "realTimePower": 7.58,
+      "cumulativeEnergy": 236.46,
+      "monthEnergy": 16.62,
+      "dailyEnergy": 16.62,
+      "yearEnergy": 234.68
     }
   },
   "Poste Italiane Anzola dell'Emilia": {
@@ -15200,6 +15245,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2025-01-14",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 46,
       "tck": "",
@@ -15531,6 +15577,7 @@
       "Stato": "",
       "problemi": "In attesa di allaccio",
       "Allaciato": "2024-10-01",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 47,
       "tck": 7642,
@@ -15862,6 +15909,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-06-21",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 48,
       "tck": "",
@@ -16020,12 +16068,12 @@
           "10:30": 2.91,
           "10:35": 2.95,
           "10:40": 2.98,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 3.04,
+          "10:50": 3.16,
+          "10:55": 3.3,
+          "11:00": 3.45,
+          "11:05": 3.57,
+          "11:10": 3.6,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -16181,7 +16229,7 @@
           "23:55": null
         }
       },
-      "currentPower": "2.98"
+      "currentPower": "3.6"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - BONDENO",
@@ -16193,6 +16241,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-07-22",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 49,
       "tck": "",
@@ -16202,20 +16251,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1242.13,
+      "co2ReductionByYear": 1242.91,
       "equivalentTreePlantingByYear": 2,
-      "standardCoalSavings": 1912.04,
+      "standardCoalSavings": 1912.7,
       "componentFlag": 0,
       "equivalentTreePlanting": 4,
-      "co2Reduction": 2270.54,
-      "standardCoalSavingsByYear": 1046
+      "co2Reduction": 2271.33,
+      "standardCoalSavingsByYear": 1046.66
     },
     "realKpi": {
-      "realTimePower": 2.98,
-      "cumulativeEnergy": 4780.09,
-      "monthEnergy": 280.61,
-      "dailyEnergy": 5.69,
-      "yearEnergy": 2615
+      "realTimePower": 3.6,
+      "cumulativeEnergy": 4781.74,
+      "monthEnergy": 282.26,
+      "dailyEnergy": 7.34,
+      "yearEnergy": 2616.65
     }
   },
   "Poste Italiane - Brescia": {
@@ -16524,6 +16573,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2022-11-03",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 50,
       "tck": "",
@@ -16681,12 +16731,12 @@
           "10:25": 4.93,
           "10:30": 5.06,
           "10:35": 5.14,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 5.21,
+          "10:45": 5.33,
+          "10:50": 5.42,
+          "10:55": 5.48,
+          "11:00": 5.57,
+          "11:05": 5.58,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -16843,7 +16893,7 @@
           "23:55": null
         }
       },
-      "currentPower": "5.14"
+      "currentPower": "5.58"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - CALESTANO",
@@ -16855,6 +16905,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-03-26",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 51,
       "tck": "",
@@ -16864,20 +16915,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1899.37,
+      "co2ReductionByYear": 1900.65,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 4823.62,
+      "standardCoalSavings": 4824.7,
       "componentFlag": 0,
       "equivalentTreePlanting": 8,
-      "co2Reduction": 5728.05,
-      "standardCoalSavingsByYear": 1599.47
+      "co2Reduction": 5729.34,
+      "standardCoalSavingsByYear": 1600.55
     },
     "realKpi": {
-      "realTimePower": 5.14,
-      "cumulativeEnergy": 12059.06,
-      "monthEnergy": 472.4,
-      "dailyEnergy": 8.08,
-      "yearEnergy": 3998.67
+      "realTimePower": 5.58,
+      "cumulativeEnergy": 12061.76,
+      "monthEnergy": 475.1,
+      "dailyEnergy": 10.78,
+      "yearEnergy": 4001.37
     }
   },
   "Poste Italiane Caorso": {
@@ -17013,11 +17064,11 @@
           "10:30": 6.15,
           "10:35": 6.02,
           "10:40": 6.25,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:45": 6.8,
+          "10:50": 7.01,
+          "10:55": 7.15,
+          "11:00": 7.29,
+          "11:05": 7.46,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -17174,7 +17225,7 @@
           "23:55": null
         }
       },
-      "currentPower": "6.24"
+      "currentPower": "7.45"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - CAORSO",
@@ -17186,6 +17237,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-05-07",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 52,
       "tck": "",
@@ -17195,20 +17247,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3103.67,
+      "co2ReductionByYear": 3105.07,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 6902.93,
+      "standardCoalSavings": 6904.1,
       "componentFlag": 0,
       "equivalentTreePlanting": 12,
-      "co2Reduction": 8197.23,
-      "standardCoalSavingsByYear": 2613.62
+      "co2Reduction": 8198.62,
+      "standardCoalSavingsByYear": 2614.79
     },
     "realKpi": {
-      "realTimePower": 6.24,
-      "cumulativeEnergy": 17257.32,
-      "monthEnergy": 662.45,
-      "dailyEnergy": 11.1,
-      "yearEnergy": 6534.05
+      "realTimePower": 7.45,
+      "cumulativeEnergy": 17260.25,
+      "monthEnergy": 665.38,
+      "dailyEnergy": 14.03,
+      "yearEnergy": 6536.98
     }
   },
   "Poste Italiane Dovadola": {
@@ -17343,12 +17395,12 @@
           "10:25": 3.59,
           "10:30": 3.63,
           "10:35": 3.71,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 3.77,
+          "10:45": 3.85,
+          "10:50": 4.15,
+          "10:55": 4.31,
+          "11:00": 4.45,
+          "11:05": 4.49,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -17505,7 +17557,7 @@
           "23:55": null
         }
       },
-      "currentPower": "3.69"
+      "currentPower": "4.49"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - DOVADOLA",
@@ -17517,6 +17569,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-02-12",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 53,
       "tck": "",
@@ -17526,20 +17579,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1399.27,
+      "co2ReductionByYear": 1400.25,
       "equivalentTreePlantingByYear": 2,
-      "standardCoalSavings": 2781.88,
+      "standardCoalSavings": 2782.7,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3303.48,
-      "standardCoalSavingsByYear": 1178.34
+      "co2Reduction": 3304.45,
+      "standardCoalSavingsByYear": 1179.16
     },
     "realKpi": {
-      "realTimePower": 3.69,
-      "cumulativeEnergy": 6954.69,
-      "monthEnergy": 353.84,
-      "dailyEnergy": 4.99,
-      "yearEnergy": 2945.84
+      "realTimePower": 4.49,
+      "cumulativeEnergy": 6956.74,
+      "monthEnergy": 355.89,
+      "dailyEnergy": 7.04,
+      "yearEnergy": 2947.89
     }
   },
   "Poste Italiane Langhirano": {
@@ -17848,6 +17901,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2025-03-18",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 54,
       "tck": "",
@@ -18179,6 +18233,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2025-01-15",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 55,
       "tck": "",
@@ -18510,6 +18565,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-10-17",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 56,
       "tck": "",
@@ -18841,6 +18897,7 @@
       "Stato": "",
       "problemi": "Due inverter spenti tempo fa causa di problema in MT.",
       "Allaciato": "2023-03-08",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 57,
       "tck": 9597,
@@ -19172,6 +19229,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2022-11-30",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 58,
       "tck": "",
@@ -19503,6 +19561,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2022-10-20",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 59,
       "tck": "",
@@ -19834,6 +19893,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2025-01-14",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 60,
       "tck": "",
@@ -19992,12 +20052,12 @@
           "10:30": 4.73,
           "10:35": 4.79,
           "10:40": 4.83,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 4.87,
+          "10:50": 4.93,
+          "10:55": 4.97,
+          "11:00": 5.02,
+          "11:05": 5.06,
+          "11:10": 5.11,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -20153,7 +20213,7 @@
           "23:55": null
         }
       },
-      "currentPower": "4.82"
+      "currentPower": "5.11"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - MERETO DI TOMBA",
@@ -20165,6 +20225,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-09-02",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 61,
       "tck": "",
@@ -20174,20 +20235,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1500.22,
+      "co2ReductionByYear": 1501.4,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 1785.9,
+      "standardCoalSavings": 1786.9,
       "componentFlag": 0,
       "equivalentTreePlanting": 3,
-      "co2Reduction": 2120.76,
-      "standardCoalSavingsByYear": 1263.34
+      "co2Reduction": 2121.94,
+      "standardCoalSavingsByYear": 1264.34
     },
     "realKpi": {
-      "realTimePower": 4.82,
-      "cumulativeEnergy": 4464.75,
-      "monthEnergy": 320.22,
-      "dailyEnergy": 10.08,
-      "yearEnergy": 3158.35
+      "realTimePower": 5.11,
+      "cumulativeEnergy": 4467.24,
+      "monthEnergy": 322.71,
+      "dailyEnergy": 12.57,
+      "yearEnergy": 3160.84
     }
   },
   "Poste Italiane - Mira Oriago": {
@@ -20496,6 +20557,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2022-10-21",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 62,
       "tck": "",
@@ -20654,12 +20716,12 @@
           "10:30": 7.41,
           "10:35": 7.53,
           "10:40": 7.62,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 7.73,
+          "10:50": 7.85,
+          "10:55": 7.94,
+          "11:00": 8.09,
+          "11:05": 8.15,
+          "11:10": 8.26,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -20815,7 +20877,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.62"
+      "currentPower": "8.26"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - OVARO",
@@ -20827,6 +20889,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-09-04",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 63,
       "tck": "",
@@ -20836,20 +20899,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2637.12,
+      "co2ReductionByYear": 2639.01,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 3212.58,
+      "standardCoalSavings": 3214.17,
       "componentFlag": 0,
       "equivalentTreePlanting": 6,
-      "co2Reduction": 3814.93,
-      "standardCoalSavingsByYear": 2220.74
+      "co2Reduction": 3816.82,
+      "standardCoalSavingsByYear": 2222.33
     },
     "realKpi": {
-      "realTimePower": 7.62,
-      "cumulativeEnergy": 8031.44,
-      "monthEnergy": 451.76,
-      "dailyEnergy": 19.38,
-      "yearEnergy": 5551.84
+      "realTimePower": 8.26,
+      "cumulativeEnergy": 8035.42,
+      "monthEnergy": 455.74,
+      "dailyEnergy": 23.36,
+      "yearEnergy": 5555.82
     }
   },
   "Poste Italiane - Mestre": {
@@ -21158,6 +21221,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2022-10-20",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 64,
       "tck": "",
@@ -21489,6 +21553,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2022-11-30",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 65,
       "tck": "",
@@ -21647,12 +21712,12 @@
           "10:30": 5.61,
           "10:35": 5.68,
           "10:40": 5.77,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 5.85,
+          "10:50": 5.91,
+          "10:55": 5.99,
+          "11:00": 6.05,
+          "11:05": 6.11,
+          "11:10": 6.16,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -21808,7 +21873,7 @@
           "23:55": null
         }
       },
-      "currentPower": "5.77"
+      "currentPower": "6.16"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - RAGOGNA",
@@ -21820,6 +21885,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-10-01",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 66,
       "tck": "",
@@ -21829,20 +21895,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 276.66,
+      "co2ReductionByYear": 278.08,
       "equivalentTreePlantingByYear": 1,
-      "standardCoalSavings": 233.07,
+      "standardCoalSavings": 234.26,
       "componentFlag": 0,
       "equivalentTreePlanting": 1,
-      "co2Reduction": 276.77,
-      "standardCoalSavingsByYear": 232.98
+      "co2Reduction": 278.18,
+      "standardCoalSavingsByYear": 234.17
     },
     "realKpi": {
-      "realTimePower": 5.77,
-      "cumulativeEnergy": 582.67,
-      "monthEnergy": 355.74,
-      "dailyEnergy": 13.39,
-      "yearEnergy": 582.45
+      "realTimePower": 6.16,
+      "cumulativeEnergy": 585.65,
+      "monthEnergy": 358.72,
+      "dailyEnergy": 16.37,
+      "yearEnergy": 585.43
     }
   },
   "Poste Italiane Rolo": {
@@ -21978,12 +22044,12 @@
           "10:30": 9.48,
           "10:35": 9.67,
           "10:40": 9.85,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 9.94,
+          "10:50": 10.06,
+          "10:55": 10.22,
+          "11:00": 10.32,
+          "11:05": 10.47,
+          "11:10": 10.55,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -22139,7 +22205,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.86"
+      "currentPower": "10.55"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - ROLO",
@@ -22151,6 +22217,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-07-22",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 67,
       "tck": "",
@@ -22160,20 +22227,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3700.1,
+      "co2ReductionByYear": 3702.53,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 5584.99,
+      "standardCoalSavings": 5587.03,
       "componentFlag": 0,
       "equivalentTreePlanting": 10,
-      "co2Reduction": 6632.17,
-      "standardCoalSavingsByYear": 3115.88
+      "co2Reduction": 6634.6,
+      "standardCoalSavingsByYear": 3117.92
     },
     "realKpi": {
-      "realTimePower": 9.86,
-      "cumulativeEnergy": 13962.47,
-      "monthEnergy": 885.9,
-      "dailyEnergy": 22.12,
-      "yearEnergy": 7789.69
+      "realTimePower": 10.55,
+      "cumulativeEnergy": 13967.57,
+      "monthEnergy": 891,
+      "dailyEnergy": 27.22,
+      "yearEnergy": 7794.79
     }
   },
   "Poste Italiane - Roserio": {
@@ -22482,6 +22549,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2022-12-19",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 68,
       "tck": "",
@@ -22640,12 +22708,12 @@
           "10:30": 11.32,
           "10:35": 12.06,
           "10:40": 12.38,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 12.45,
+          "10:50": 12.66,
+          "10:55": 12.82,
+          "11:00": 13.1,
+          "11:05": 13.23,
+          "11:10": 13.46,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -22801,7 +22869,7 @@
           "23:55": null
         }
       },
-      "currentPower": "12.36"
+      "currentPower": "13.26"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - SAN MAURO PASCOLI",
@@ -22813,6 +22881,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-06-06",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 69,
       "tck": "",
@@ -22822,20 +22891,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 4467.94,
+      "co2ReductionByYear": 4470.47,
       "equivalentTreePlantingByYear": 7,
-      "standardCoalSavings": 8689.94,
+      "standardCoalSavings": 8692.07,
       "componentFlag": 0,
       "equivalentTreePlanting": 15,
-      "co2Reduction": 10319.3,
-      "standardCoalSavingsByYear": 3762.48
+      "co2Reduction": 10321.84,
+      "standardCoalSavingsByYear": 3764.61
     },
     "realKpi": {
-      "realTimePower": 12.36,
-      "cumulativeEnergy": 21724.85,
-      "monthEnergy": 1024.27,
-      "dailyEnergy": 22.36,
-      "yearEnergy": 9406.19
+      "realTimePower": 13.26,
+      "cumulativeEnergy": 21730.18,
+      "monthEnergy": 1029.6,
+      "dailyEnergy": 27.69,
+      "yearEnergy": 9411.52
     }
   },
   "Poste Italiane Sant'Agata Feltria": {
@@ -22970,12 +23039,12 @@
           "10:25": 3.74,
           "10:30": 3.8,
           "10:35": 3.87,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 3.93,
+          "10:45": 4.01,
+          "10:50": 4.07,
+          "10:55": 4.13,
+          "11:00": 4.18,
+          "11:05": 4.23,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -23132,7 +23201,7 @@
           "23:55": null
         }
       },
-      "currentPower": "3.87"
+      "currentPower": "4.24"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - SANTA AGATA FELTRIA",
@@ -23144,6 +23213,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-02-14",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 70,
       "tck": "",
@@ -23153,20 +23223,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1512.32,
+      "co2ReductionByYear": 1513.28,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 3046.93,
+      "standardCoalSavings": 3047.74,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3618.23,
-      "standardCoalSavingsByYear": 1273.53
+      "co2Reduction": 3619.2,
+      "standardCoalSavingsByYear": 1274.34
     },
     "realKpi": {
-      "realTimePower": 3.87,
-      "cumulativeEnergy": 7617.33,
-      "monthEnergy": 347.38,
-      "dailyEnergy": 7.61,
-      "yearEnergy": 3183.83
+      "realTimePower": 4.24,
+      "cumulativeEnergy": 7619.36,
+      "monthEnergy": 349.41,
+      "dailyEnergy": 9.64,
+      "yearEnergy": 3185.86
     }
   },
   "Poste Italiane - Santa Maria di Sala": {
@@ -23475,6 +23545,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2022-10-21",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 71,
       "tck": "",
@@ -23632,12 +23703,12 @@
           "10:25": 5.42,
           "10:30": 5.48,
           "10:35": 5.57,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 5.66,
+          "10:45": 5.75,
+          "10:50": 5.81,
+          "10:55": 5.9,
+          "11:00": 5.96,
+          "11:05": 6,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -23794,7 +23865,7 @@
           "23:55": null
         }
       },
-      "currentPower": "5.57"
+      "currentPower": "6"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - SARSINA",
@@ -23806,6 +23877,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-02-13",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 72,
       "tck": "",
@@ -23815,20 +23887,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1871.41,
+      "co2ReductionByYear": 1872.8,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 4434.64,
+      "standardCoalSavings": 4435.81,
       "componentFlag": 0,
       "equivalentTreePlanting": 8,
-      "co2Reduction": 5266.14,
-      "standardCoalSavingsByYear": 1575.93
+      "co2Reduction": 5267.52,
+      "standardCoalSavingsByYear": 1577.09
     },
     "realKpi": {
-      "realTimePower": 5.57,
-      "cumulativeEnergy": 11086.61,
-      "monthEnergy": 385.76,
-      "dailyEnergy": 12.47,
-      "yearEnergy": 3939.82
+      "realTimePower": 6,
+      "cumulativeEnergy": 11089.52,
+      "monthEnergy": 388.67,
+      "dailyEnergy": 15.38,
+      "yearEnergy": 3942.73
     }
   },
   "Poste Italiane - Sequals": {
@@ -23964,12 +24036,12 @@
           "10:30": 5.82,
           "10:35": 5.89,
           "10:40": 5.98,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 6,
+          "10:50": 6,
+          "10:55": 6,
+          "11:00": 6,
+          "11:05": 6,
+          "11:10": 6,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -24125,7 +24197,7 @@
           "23:55": null
         }
       },
-      "currentPower": "5.98"
+      "currentPower": "6"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - SEQUALS",
@@ -24137,6 +24209,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-09-04",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 73,
       "tck": "",
@@ -24146,20 +24219,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2032.8,
+      "co2ReductionByYear": 2034.23,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 2634.3,
+      "standardCoalSavings": 2635.5,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3128.23,
-      "standardCoalSavingsByYear": 1711.83
+      "co2Reduction": 3129.65,
+      "standardCoalSavingsByYear": 1713.03
     },
     "realKpi": {
-      "realTimePower": 5.98,
-      "cumulativeEnergy": 6585.74,
-      "monthEnergy": 324.2,
-      "dailyEnergy": 13.06,
-      "yearEnergy": 4279.58
+      "realTimePower": 6,
+      "cumulativeEnergy": 6588.74,
+      "monthEnergy": 327.2,
+      "dailyEnergy": 16.06,
+      "yearEnergy": 4282.58
     }
   },
   "Poste Italiane Villanova": {
@@ -24295,12 +24368,12 @@
           "10:30": 4.64,
           "10:35": 4.75,
           "10:40": 4.85,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 4.94,
+          "10:50": 5,
+          "10:55": 5.05,
+          "11:00": 5.13,
+          "11:05": 5.24,
+          "11:10": 5.32,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -24456,7 +24529,7 @@
           "23:55": null
         }
       },
-      "currentPower": "4.86"
+      "currentPower": "5.21"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - VILLANOVA SULL ARDA",
@@ -24468,6 +24541,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-05-06",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 74,
       "tck": "",
@@ -24477,20 +24551,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1923.42,
+      "co2ReductionByYear": 1924.42,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 4303.43,
+      "standardCoalSavings": 4304.27,
       "componentFlag": 0,
       "equivalentTreePlanting": 7,
-      "co2Reduction": 5110.32,
-      "standardCoalSavingsByYear": 1619.72
+      "co2Reduction": 5111.32,
+      "standardCoalSavingsByYear": 1620.56
     },
     "realKpi": {
-      "realTimePower": 4.86,
-      "cumulativeEnergy": 10758.57,
-      "monthEnergy": 394.48,
-      "dailyEnergy": 9.13,
-      "yearEnergy": 4049.3
+      "realTimePower": 5.21,
+      "cumulativeEnergy": 10760.67,
+      "monthEnergy": 396.58,
+      "dailyEnergy": 11.23,
+      "yearEnergy": 4051.4
     }
   },
   "POSTE SETTIMO MILANESE": {
@@ -24799,6 +24873,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-12-19",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 75,
       "tck": "",
@@ -25130,6 +25205,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2022-10-12",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 76,
       "tck": "",
@@ -25287,12 +25363,12 @@
           "10:25": 10.09,
           "10:30": 10.25,
           "10:35": 9.6,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 10.58,
+          "10:45": 10.64,
+          "10:50": 10.97,
+          "10:55": 11.13,
+          "11:00": 11.23,
+          "11:05": 11.31,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -25449,7 +25525,7 @@
           "23:55": null
         }
       },
-      "currentPower": "10.31"
+      "currentPower": "11.25"
     },
     "stationOverview": {
       "stationName": "PRATICO ANTONIO",
@@ -25461,6 +25537,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-02-17",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 77,
       "tck": "",
@@ -25470,20 +25547,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3753.85,
+      "co2ReductionByYear": 3756.42,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 9767.39,
+      "standardCoalSavings": 9769.55,
       "componentFlag": 0,
       "equivalentTreePlanting": 16,
-      "co2Reduction": 11598.77,
-      "standardCoalSavingsByYear": 3161.14
+      "co2Reduction": 11601.34,
+      "standardCoalSavingsByYear": 3163.3
     },
     "realKpi": {
-      "realTimePower": 10.31,
-      "cumulativeEnergy": 24418.47,
-      "monthEnergy": 642.32,
-      "dailyEnergy": 18.08,
-      "yearEnergy": 7902.84
+      "realTimePower": 11.25,
+      "cumulativeEnergy": 24423.88,
+      "monthEnergy": 647.73,
+      "dailyEnergy": 23.49,
+      "yearEnergy": 7908.25
     }
   },
   "Poste Italiane Priolo Gargallo": {
@@ -25792,6 +25869,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-03-13",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 78,
       "tck": "",
@@ -26123,6 +26201,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-02-28",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 79,
       "tck": "",
@@ -26454,6 +26533,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-03-20",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 80,
       "tck": "",
@@ -26785,6 +26865,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-01-19",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 81,
       "tck": "",
@@ -27116,6 +27197,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2025-02-20",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 82,
       "tck": "",
@@ -27447,6 +27529,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-02-16",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 83,
       "tck": "",
@@ -27605,11 +27688,11 @@
           "10:30": 7.51,
           "10:35": 7.57,
           "10:40": 7.73,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:45": 7.84,
+          "10:50": 7.91,
+          "10:55": 8.02,
+          "11:00": 8.1,
+          "11:05": 8.18,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -27766,7 +27849,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.73"
+      "currentPower": "8.18"
     },
     "stationOverview": {
       "stationName": "ROCCAMENA - POSTE ITALIANE",
@@ -27778,6 +27861,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-09-10",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 84,
       "tck": "",
@@ -27787,20 +27871,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3384.07,
+      "co2ReductionByYear": 3385.65,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 4259.38,
+      "standardCoalSavings": 4260.71,
       "componentFlag": 0,
       "equivalentTreePlanting": 7,
-      "co2Reduction": 5058.01,
-      "standardCoalSavingsByYear": 2849.74
+      "co2Reduction": 5059.59,
+      "standardCoalSavingsByYear": 2851.08
     },
     "realKpi": {
-      "realTimePower": 7.73,
-      "cumulativeEnergy": 10648.44,
-      "monthEnergy": 704.55,
-      "dailyEnergy": 16.35,
-      "yearEnergy": 7124.36
+      "realTimePower": 8.18,
+      "cumulativeEnergy": 10651.77,
+      "monthEnergy": 707.88,
+      "dailyEnergy": 19.68,
+      "yearEnergy": 7127.69
     }
   },
   "ROCCOPIRRI - POSTE ITALIANE": {
@@ -28109,6 +28193,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-10-20",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 85,
       "tck": "",
@@ -28266,12 +28351,12 @@
           "10:25": 299.59,
           "10:30": 303.09,
           "10:35": 306.88,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 310.08,
+          "10:45": 313.98,
+          "10:50": 316.89,
+          "10:55": 319.35,
+          "11:00": 323.61,
+          "11:05": 327.23,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -28428,7 +28513,7 @@
           "23:55": null
         }
       },
-      "currentPower": "307.09"
+      "currentPower": "327.42"
     },
     "stationOverview": {
       "stationName": "ROSSI GIANT",
@@ -28440,6 +28525,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-02-28",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 86,
       "tck": "",
@@ -28449,20 +28535,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 115990.6,
+      "co2ReductionByYear": 116065.91,
       "equivalentTreePlantingByYear": 159,
-      "standardCoalSavings": 270904.74,
+      "standardCoalSavings": 270968.17,
       "componentFlag": 0,
       "equivalentTreePlanting": 440,
-      "co2Reduction": 321699.38,
-      "standardCoalSavingsByYear": 97676.29
+      "co2Reduction": 321774.7,
+      "standardCoalSavingsByYear": 97739.72
     },
     "realKpi": {
-      "realTimePower": 307.09,
-      "cumulativeEnergy": 677261.86,
-      "monthEnergy": 24489.23,
-      "dailyEnergy": 698.73,
-      "yearEnergy": 244190.73
+      "realTimePower": 327.42,
+      "cumulativeEnergy": 677420.42,
+      "monthEnergy": 24647.79,
+      "dailyEnergy": 857.29,
+      "yearEnergy": 244349.29
     }
   },
   "Poste Italiane Salaparuta": {
@@ -28597,12 +28683,12 @@
           "10:25": 9.49,
           "10:30": 9.61,
           "10:35": 9.74,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 9.82,
+          "10:45": 9.79,
+          "10:50": 10,
+          "10:55": 10.12,
+          "11:00": 10.18,
+          "11:05": 10.28,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -28759,7 +28845,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.73"
+      "currentPower": "10.28"
     },
     "stationOverview": {
       "stationName": "SALAPARUTA - POSTE ITALIANE",
@@ -28771,6 +28857,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-02-13",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 87,
       "tck": "",
@@ -28780,20 +28867,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 4193.87,
+      "co2ReductionByYear": 4196.25,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 11068.94,
+      "standardCoalSavings": 11070.94,
       "componentFlag": 0,
       "equivalentTreePlanting": 18,
-      "co2Reduction": 13144.36,
-      "standardCoalSavingsByYear": 3531.68
+      "co2Reduction": 13146.74,
+      "standardCoalSavingsByYear": 3533.68
     },
     "realKpi": {
-      "realTimePower": 9.73,
-      "cumulativeEnergy": 27672.34,
-      "monthEnergy": 867.38,
-      "dailyEnergy": 22.06,
-      "yearEnergy": 8829.21
+      "realTimePower": 10.28,
+      "cumulativeEnergy": 27677.34,
+      "monthEnergy": 872.38,
+      "dailyEnergy": 27.06,
+      "yearEnergy": 8834.21
     }
   },
   "Poste Italiane Sambuca di Sicilia": {
@@ -28929,12 +29016,12 @@
           "10:30": 7.61,
           "10:35": 7.7,
           "10:40": 7.78,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 7.8,
+          "10:50": 8,
+          "10:55": 8.06,
+          "11:00": 8.15,
+          "11:05": 8.21,
+          "11:10": 8.31,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -29090,7 +29177,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.78"
+      "currentPower": "8.3"
     },
     "stationOverview": {
       "stationName": "SAMBUCA DI SICILIA - POSTE ITALIANE",
@@ -29102,6 +29189,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-11-20",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 88,
       "tck": "",
@@ -29111,20 +29199,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2958.64,
+      "co2ReductionByYear": 2960.56,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 2684.9,
+      "standardCoalSavings": 2686.51,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3188.31,
-      "standardCoalSavingsByYear": 2491.49
+      "co2Reduction": 3190.23,
+      "standardCoalSavingsByYear": 2493.1
     },
     "realKpi": {
-      "realTimePower": 7.78,
-      "cumulativeEnergy": 6712.24,
-      "monthEnergy": 684.7,
-      "dailyEnergy": 16.37,
-      "yearEnergy": 6228.72
+      "realTimePower": 8.3,
+      "cumulativeEnergy": 6716.27,
+      "monthEnergy": 688.73,
+      "dailyEnergy": 20.4,
+      "yearEnergy": 6232.75
     }
   },
   "Poste Italiane San Cipirello": {
@@ -29433,6 +29521,7 @@
       "Stato": "",
       "problemi": "In attesa di allaccio",
       "Allaciato": "2024-05-23",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 89,
       "tck": 7559,
@@ -29764,6 +29853,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2025-02-21",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 90,
       "tck": "",
@@ -30095,6 +30185,7 @@
       "Stato": "",
       "problemi": "Perdita di Rete, 05/06/2025 15:00",
       "Allaciato": "2024-05-15",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 91,
       "tck": 2354,
@@ -30426,6 +30517,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-04-24",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 92,
       "tck": "",
@@ -30757,6 +30849,7 @@
       "Stato": "",
       "problemi": "In attesa di allaccio",
       "Allaciato": "2024-08-01",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 93,
       "tck": 5459,
@@ -30915,12 +31008,12 @@
           "10:30": 23.7,
           "10:35": 23.91,
           "10:40": 24.17,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 24.44,
+          "10:50": 24.69,
+          "10:55": 24.98,
+          "11:00": 25.1,
+          "11:05": 25.3,
+          "11:10": 25.46,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -31076,7 +31169,7 @@
           "23:55": null
         }
       },
-      "currentPower": "24.19"
+      "currentPower": "25.44"
     },
     "stationOverview": {
       "stationName": "SANTA TERESA DI RIVA - POSTE ITALIANE",
@@ -31088,6 +31181,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-11-19",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 94,
       "tck": "",
@@ -31097,20 +31191,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 8939.25,
+      "co2ReductionByYear": 8945.16,
       "equivalentTreePlantingByYear": 13,
-      "standardCoalSavings": 8596.48,
+      "standardCoalSavings": 8601.46,
       "componentFlag": 0,
       "equivalentTreePlanting": 14,
-      "co2Reduction": 10208.32,
-      "standardCoalSavingsByYear": 7527.79
+      "co2Reduction": 10214.23,
+      "standardCoalSavingsByYear": 7532.77
     },
     "realKpi": {
-      "realTimePower": 24.19,
-      "cumulativeEnergy": 21491.2,
-      "monthEnergy": 2027.25,
-      "dailyEnergy": 57.17,
-      "yearEnergy": 18819.47
+      "realTimePower": 25.44,
+      "cumulativeEnergy": 21503.65,
+      "monthEnergy": 2039.7,
+      "dailyEnergy": 69.62,
+      "yearEnergy": 18831.92
     }
   },
   "SEIDITA": {
@@ -31246,12 +31340,12 @@
           "10:30": 76.93,
           "10:35": 77.88,
           "10:40": 78.99,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 79.7,
+          "10:50": 80.75,
+          "10:55": 81.27,
+          "11:00": 82.5,
+          "11:05": 83.43,
+          "11:10": 84.2,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -31407,7 +31501,7 @@
           "23:55": null
         }
       },
-      "currentPower": "78.96"
+      "currentPower": "84.09"
     },
     "stationOverview": {
       "stationName": "SEIDITA",
@@ -31419,6 +31513,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-06-10",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 95,
       "tck": "",
@@ -31428,20 +31523,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 34900.8,
+      "co2ReductionByYear": 34920.18,
       "equivalentTreePlantingByYear": 48,
-      "standardCoalSavings": 63126.39,
+      "standardCoalSavings": 63142.71,
       "componentFlag": 0,
       "equivalentTreePlanting": 103,
-      "co2Reduction": 74962.59,
-      "standardCoalSavingsByYear": 29390.14
+      "co2Reduction": 74981.97,
+      "standardCoalSavingsByYear": 29406.46
     },
     "realKpi": {
-      "realTimePower": 78.96,
-      "cumulativeEnergy": 157815.97,
-      "monthEnergy": 7167.71,
-      "dailyEnergy": 187.76,
-      "yearEnergy": 73475.36
+      "realTimePower": 84.09,
+      "cumulativeEnergy": 157856.77,
+      "monthEnergy": 7208.51,
+      "dailyEnergy": 228.56,
+      "yearEnergy": 73516.16
     }
   },
   "Poste Italiane Serradifalco": {
@@ -31750,6 +31845,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-03-12",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 96,
       "tck": "",
@@ -32081,6 +32177,7 @@
       "Stato": "",
       "problemi": "Impianto non comunica da 13/01/2025",
       "Allaciato": "2024-11-07",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 97,
       "tck": 3431,
@@ -32239,12 +32336,12 @@
           "10:30": 14,
           "10:35": 14.18,
           "10:40": 14.38,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 14.63,
+          "10:50": 14.82,
+          "10:55": 15.02,
+          "11:00": 15.21,
+          "11:05": 15.41,
+          "11:10": 15.58,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -32400,7 +32497,7 @@
           "23:55": null
         }
       },
-      "currentPower": "14.41"
+      "currentPower": "15.57"
     },
     "stationOverview": {
       "stationName": "SPADAFORA - POSTE ITALIANE",
@@ -32412,6 +32509,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-10-31",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 98,
       "tck": "",
@@ -32421,20 +32519,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 6554.21,
+      "co2ReductionByYear": 6557.78,
       "equivalentTreePlantingByYear": 9,
-      "standardCoalSavings": 6470.48,
+      "standardCoalSavings": 6473.48,
       "componentFlag": 0,
       "equivalentTreePlanting": 11,
-      "co2Reduction": 7683.69,
-      "standardCoalSavingsByYear": 5519.34
+      "co2Reduction": 7687.26,
+      "standardCoalSavingsByYear": 5522.34
     },
     "realKpi": {
-      "realTimePower": 14.41,
-      "cumulativeEnergy": 16176.2,
-      "monthEnergy": 1370.75,
-      "dailyEnergy": 31.54,
-      "yearEnergy": 13798.34
+      "realTimePower": 15.57,
+      "cumulativeEnergy": 16183.71,
+      "monthEnergy": 1378.26,
+      "dailyEnergy": 39.05,
+      "yearEnergy": 13805.85
     }
   },
   "SPERONE - POSTE ITALIANE": {
@@ -32743,6 +32841,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-01-24",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 99,
       "tck": "",
@@ -32901,12 +33000,12 @@
           "10:30": 5.61,
           "10:35": 5.79,
           "10:40": 5.89,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 6.06,
+          "10:50": 6.21,
+          "10:55": 6.28,
+          "11:00": 6.39,
+          "11:05": 6.14,
+          "11:10": 6.48,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -33062,7 +33161,7 @@
           "23:55": null
         }
       },
-      "currentPower": "5.89"
+      "currentPower": "6.48"
     },
     "stationOverview": {
       "stationName": "SUTERA - POSTE ITALIANE",
@@ -33074,6 +33173,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2025-01-16",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 100,
       "tck": "",
@@ -33083,20 +33183,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1815.46,
+      "co2ReductionByYear": 1816.94,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 1528.81,
+      "standardCoalSavings": 1530.06,
       "componentFlag": 0,
       "equivalentTreePlanting": 3,
-      "co2Reduction": 1815.46,
-      "standardCoalSavingsByYear": 1528.81
+      "co2Reduction": 1816.94,
+      "standardCoalSavingsByYear": 1530.06
     },
     "realKpi": {
-      "realTimePower": 5.89,
-      "cumulativeEnergy": 3822.03,
-      "monthEnergy": 508.16,
-      "dailyEnergy": 11.8,
-      "yearEnergy": 3822.03
+      "realTimePower": 6.48,
+      "cumulativeEnergy": 3825.14,
+      "monthEnergy": 511.27,
+      "dailyEnergy": 14.91,
+      "yearEnergy": 3825.14
     }
   },
   "Poste Italiane Terme Vigliatore": {
@@ -33232,12 +33332,12 @@
           "10:30": 7.7,
           "10:35": 7.86,
           "10:40": 7.96,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 8.05,
+          "10:50": 8.08,
+          "10:55": 8.2,
+          "11:00": 8.28,
+          "11:05": 8.37,
+          "11:10": 8.41,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -33393,7 +33493,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.96"
+      "currentPower": "8.41"
     },
     "stationOverview": {
       "stationName": "TERME VIGLIATORE - POSTE ITALIANE",
@@ -33405,6 +33505,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-10-16",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 101,
       "tck": "",
@@ -33414,20 +33515,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3147.33,
+      "co2ReductionByYear": 3149.27,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 3376.34,
+      "standardCoalSavings": 3377.98,
       "componentFlag": 0,
       "equivalentTreePlanting": 6,
-      "co2Reduction": 4009.4,
-      "standardCoalSavingsByYear": 2650.38
+      "co2Reduction": 4011.35,
+      "standardCoalSavingsByYear": 2652.02
     },
     "realKpi": {
-      "realTimePower": 7.96,
-      "cumulativeEnergy": 8440.85,
-      "monthEnergy": 526.2,
-      "dailyEnergy": 16.6,
-      "yearEnergy": 6625.95
+      "realTimePower": 8.41,
+      "cumulativeEnergy": 8444.94,
+      "monthEnergy": 530.29,
+      "dailyEnergy": 20.69,
+      "yearEnergy": 6630.04
     }
   },
   "Poste Italiane Valledolmo": {
@@ -33736,6 +33837,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-04-09",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 102,
       "tck": "",
@@ -34067,6 +34169,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2022-07-08",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 103,
       "tck": "",
@@ -34398,6 +34501,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-12-20",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 104,
       "tck": "",
@@ -34729,6 +34833,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-02-13",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 105,
       "tck": "",
@@ -35060,6 +35165,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-06-18",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 106,
       "tck": "",
@@ -35391,6 +35497,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2025-03-07",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 107,
       "tck": "",
@@ -35722,6 +35829,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-06-01",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 108,
       "tck": "",
@@ -36053,6 +36161,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-06-01",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 109,
       "tck": "",
@@ -36384,6 +36493,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2024-06-01",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 110,
       "tck": "",
@@ -36715,6 +36825,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-06-01",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 111,
       "tck": "",
@@ -37046,6 +37157,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-09-01",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 112,
       "tck": "",
@@ -37377,6 +37489,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-06-15",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 113,
       "tck": "",
@@ -37708,6 +37821,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-10-05",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 114,
       "tck": "",
@@ -38039,6 +38153,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-09-21",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 115,
       "tck": "",
@@ -38370,6 +38485,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "2023-06-01",
+      "Address": "",
       "portal": "Fusion Solar",
       "id": 116,
       "tck": "",
@@ -38701,6 +38817,7 @@
       "Stato": "",
       "problemi": "",
       "Allaciato": "",
+      "Address": "",
       "portal": "Ennox",
       "id": 118,
       "tck": "",
@@ -38868,12 +38985,12 @@
           "10:30": 4.05,
           "10:35": 4.38,
           "10:40": 4.87,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
-          "11:10": null,
+          "10:45": 4.88,
+          "10:50": 4.75,
+          "10:55": 4.92,
+          "11:00": 4.78,
+          "11:05": 4.94,
+          "11:10": 5.05,
           "11:15": null,
           "11:20": null,
           "11:25": null,
@@ -39029,7 +39146,7 @@
           "23:55": null
         }
       },
-      "currentPower": "4.71"
+      "currentPower": "5.05"
     },
     "stationOverview": {
       "stationName": "Poste Italiane - San Pietro al Natisone",
@@ -39041,6 +39158,7 @@
       "Stato": "",
       "problemi": "Inverter 11 non comunica da nuovo il 10:\"10 03/04/2025",
       "Allaciato": "",
+      "Address": "",
       "portal": "Meteocontrol",
       "id": 143,
       "tck": 3295,
@@ -39050,20 +39168,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 1388.29,
+      "co2ReductionByYear": 1389.44,
       "equivalentTreePlantingByYear": 2,
-      "standardCoalSavings": 1680.95,
+      "standardCoalSavings": 1681.92,
       "componentFlag": 0,
       "equivalentTreePlanting": 3,
-      "co2Reduction": 1996.13,
-      "standardCoalSavingsByYear": 1169.09
+      "co2Reduction": 1997.28,
+      "standardCoalSavingsByYear": 1170.05
     },
     "realKpi": {
-      "realTimePower": 4.71,
-      "cumulativeEnergy": 4202.38,
-      "monthEnergy": 320.91,
-      "dailyEnergy": 7.46,
-      "yearEnergy": 2922.72
+      "realTimePower": 5.05,
+      "cumulativeEnergy": 4204.79,
+      "monthEnergy": 323.32,
+      "dailyEnergy": 9.87,
+      "yearEnergy": 2925.13
     }
   },
   "Poste Italiane - Laives": {
