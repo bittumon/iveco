@@ -301,7 +301,7 @@
       "stationDn": "NE=160970919",
       "Impianto": "Poste Italiane Acquaviva Platani",
       "station_code": "24DefFNMzbLrww96GMeqwr2sHqEKLADB",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 10.92,
       "Stato": "",
       "problemi": "",
@@ -634,7 +634,7 @@
       "stationDn": "NE=157960133",
       "Impianto": "Poste Italiane Aidone",
       "station_code": "Fgx7jnMuKBfFgPEqE1x03keqLL4vP9rD",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 10.92,
       "Stato": "",
       "problemi": "Impianto offline offline da ieri 15:05 22/01/2025",
@@ -1300,7 +1300,7 @@
       "stationDn": "NE=161747203",
       "Impianto": "Poste Italiane Buccheri",
       "station_code": "GO5HqPknEoxFpKE7yw4zy9bbgehlIfrf",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 10.92,
       "Stato": "",
       "problemi": "",
@@ -1633,7 +1633,7 @@
       "stationDn": "NE=138785014",
       "Impianto": "Poste Italiane Burgio",
       "station_code": "p6g37yo5tnD1I9ACygC9fglmot8ecvvq",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 10.5,
       "Stato": "",
       "problemi": "",
@@ -1966,7 +1966,7 @@
       "stationDn": "NE=138792253",
       "Impianto": "Poste Italiane Calamonaci",
       "station_code": "pHgEGGa63uHIIziiDlswqABL72sJy9l8",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 12.375,
       "Stato": "",
       "problemi": "",
@@ -2632,7 +2632,7 @@
       "stationDn": "NE=160101463",
       "Impianto": "Poste Italiane Campofranco",
       "station_code": "ACHv4Mf4GFq3c8zrgO8HoNvFq15Nte32",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 8.82,
       "Stato": "",
       "problemi": "",
@@ -3298,7 +3298,7 @@
       "stationDn": "NE=161732121",
       "Impianto": "Poste Italiane Cassaro",
       "station_code": "kmGdgA9x9v31aQF290A2mv6OyLIhlFwC",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 8.82,
       "Stato": "",
       "problemi": "",
@@ -3631,7 +3631,7 @@
       "stationDn": "NE=148392580",
       "Impianto": "Poste Italiane Castelbuono",
       "station_code": "mJe3pkMdmP7ftDpyA8NpawMOArPGq6KD",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 23.52,
       "Stato": "",
       "problemi": "",
@@ -3964,7 +3964,7 @@
       "stationDn": "NE=148392280",
       "Impianto": "CASTELNOVETTO - SCUOLA",
       "station_code": "AwwBDP7nmBEsCINMNuONHH7drEGxfu07",
-      "group": "",
+      "group": "MYENERGY",
       "Potenza": 18.91,
       "Stato": "",
       "problemi": "",
@@ -4499,14 +4499,14 @@
           "13:40": 13.36,
           "13:45": 13.3,
           "13:50": 13.32,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
-          "14:20": null,
-          "14:25": null,
-          "14:30": null,
+          "13:55": 13.24,
+          "14:00": 13.21,
+          "14:05": 13.15,
+          "14:10": 13.13,
+          "14:15": 12.98,
+          "14:20": 12.9,
+          "14:25": 12.81,
+          "14:30": 12.74,
           "14:35": null,
           "14:40": null,
           "14:45": null,
@@ -4622,7 +4622,7 @@
           "23:55": null
         }
       },
-      "currentPower": "13.32"
+      "currentPower": "12.8"
     },
     "stationOverview": {
       "stationName": "CASTELVETRANO - POSTE ITALIANE",
@@ -4645,20 +4645,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 5159.63,
+      "co2ReductionByYear": 5163.25,
       "equivalentTreePlantingByYear": 8,
-      "standardCoalSavings": 21939.22,
+      "standardCoalSavings": 21942.28,
       "componentFlag": 0,
       "equivalentTreePlanting": 36,
-      "co2Reduction": 26052.83,
-      "standardCoalSavingsByYear": 4344.95
+      "co2Reduction": 26056.45,
+      "standardCoalSavingsByYear": 4348
     },
     "realKpi": {
-      "realTimePower": 13.32,
-      "cumulativeEnergy": 54848.06,
-      "monthEnergy": 1082,
-      "dailyEnergy": 63.77,
-      "yearEnergy": 10862.37
+      "realTimePower": 12.8,
+      "cumulativeEnergy": 54855.69,
+      "monthEnergy": 1089.63,
+      "dailyEnergy": 71.4,
+      "yearEnergy": 10870
     }
   },
   "Poste Italiane Castrofilippo": {
@@ -5629,7 +5629,7 @@
       "stationDn": "NE=152608692",
       "Impianto": "Poste Italiane Contessa Entellina",
       "station_code": "Oqk8h43393rfCO8c35dK9FKnkqGL643p",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 10.92,
       "Stato": "",
       "problemi": "",
@@ -6165,12 +6165,12 @@
           "13:45": 43.33,
           "13:50": 43.45,
           "13:55": 42.59,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
-          "14:20": null,
-          "14:25": null,
+          "14:00": 42.1,
+          "14:05": 41.6,
+          "14:10": 42.09,
+          "14:15": 43.21,
+          "14:20": 41.43,
+          "14:25": 42.22,
           "14:30": null,
           "14:35": null,
           "14:40": null,
@@ -6287,7 +6287,7 @@
           "23:55": null
         }
       },
-      "currentPower": "42.59"
+      "currentPower": "42.22"
     },
     "stationOverview": {
       "stationName": "Danesi",
@@ -6310,20 +6310,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 12804.55,
+      "co2ReductionByYear": 12814.48,
       "equivalentTreePlantingByYear": 18,
-      "standardCoalSavings": 128996.91,
+      "standardCoalSavings": 129005.27,
       "componentFlag": 0,
       "equivalentTreePlanting": 210,
-      "co2Reduction": 153183.83,
-      "standardCoalSavingsByYear": 10782.78
+      "co2Reduction": 153193.76,
+      "standardCoalSavingsByYear": 10791.14
     },
     "realKpi": {
-      "realTimePower": 42.59,
-      "cumulativeEnergy": 322492.27,
-      "monthEnergy": 1810.41,
-      "dailyEnergy": 164.94,
-      "yearEnergy": 26956.94
+      "realTimePower": 42.22,
+      "cumulativeEnergy": 322513.18,
+      "monthEnergy": 1831.32,
+      "dailyEnergy": 185.85,
+      "yearEnergy": 26977.85
     }
   },
   "MM - Depuratore San Rocco": {
@@ -6499,12 +6499,12 @@
           "13:50": 445.98,
           "13:55": 445.16,
           "14:00": 444.67,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
-          "14:20": null,
-          "14:25": null,
-          "14:30": null,
+          "14:05": 441.74,
+          "14:10": 442.09,
+          "14:15": 436.28,
+          "14:20": 439.73,
+          "14:25": 436.96,
+          "14:30": 431.64,
           "14:35": null,
           "14:40": null,
           "14:45": null,
@@ -6620,7 +6620,7 @@
           "23:55": null
         }
       },
-      "currentPower": "444.68"
+      "currentPower": "432.46"
     },
     "stationOverview": {
       "stationName": "DEPURATORE S ROCCO - MM SPA",
@@ -6643,20 +6643,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 151902.57,
+      "co2ReductionByYear": 152007,
       "equivalentTreePlantingByYear": 208,
-      "standardCoalSavings": 562043.97,
+      "standardCoalSavings": 562131.91,
       "componentFlag": 0,
       "equivalentTreePlanting": 912,
-      "co2Reduction": 667427.21,
-      "standardCoalSavingsByYear": 127917.95
+      "co2Reduction": 667531.64,
+      "standardCoalSavingsByYear": 128005.89
     },
     "realKpi": {
-      "realTimePower": 444.68,
-      "cumulativeEnergy": 1405109.92,
-      "monthEnergy": 27897.08,
-      "dailyEnergy": 2199.88,
-      "yearEnergy": 319794.88
+      "realTimePower": 432.46,
+      "cumulativeEnergy": 1405329.77,
+      "monthEnergy": 28116.93,
+      "dailyEnergy": 2419.73,
+      "yearEnergy": 320014.73
     }
   },
   "Poste Italiane Francavilla di Sicilia": {
@@ -7627,7 +7627,7 @@
       "stationDn": "NE=161423695",
       "Impianto": "Poste Italiane Giarratana",
       "station_code": "3MCwCbuolu5xqxjnt8QAN4hN8byN0CLC",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 10.92,
       "Stato": "",
       "problemi": "",
@@ -9495,12 +9495,12 @@
           "13:45": 6.14,
           "13:50": 6.03,
           "13:55": 6.04,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
-          "14:20": null,
-          "14:25": null,
+          "14:00": 6.07,
+          "14:05": 6.01,
+          "14:10": 5.96,
+          "14:15": 5.95,
+          "14:20": 5.89,
+          "14:25": 5.87,
           "14:30": null,
           "14:35": null,
           "14:40": null,
@@ -9617,7 +9617,7 @@
           "23:55": null
         }
       },
-      "currentPower": "6.01"
+      "currentPower": "5.87"
     },
     "stationOverview": {
       "stationName": "MAZARA DEL VALLO - POSTE ITALIANE",
@@ -9625,7 +9625,7 @@
       "stationDn": "NE=135647624",
       "Impianto": "MAZARA DEL VALLO - POSTE ITALIANE",
       "station_code": "Od2lJGC7e5a3dcyHjEqrNlErD1tg5dNd",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 9,
       "Stato": "",
       "problemi": "",
@@ -9640,20 +9640,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2145.42,
+      "co2ReductionByYear": 2146.83,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 9711.64,
+      "standardCoalSavings": 9712.84,
       "componentFlag": 0,
       "equivalentTreePlanting": 16,
-      "co2Reduction": 11532.58,
-      "standardCoalSavingsByYear": 1806.67
+      "co2Reduction": 11533.99,
+      "standardCoalSavingsByYear": 1807.86
     },
     "realKpi": {
-      "realTimePower": 6.01,
-      "cumulativeEnergy": 24279.11,
-      "monthEnergy": 470.43,
-      "dailyEnergy": 27.29,
-      "yearEnergy": 4516.67
+      "realTimePower": 5.87,
+      "cumulativeEnergy": 24282.09,
+      "monthEnergy": 473.41,
+      "dailyEnergy": 30.27,
+      "yearEnergy": 4519.65
     }
   },
   "Poste Italiane Mazzarino": {
@@ -9958,7 +9958,7 @@
       "stationDn": "NE=155325759",
       "Impianto": "Poste Italiane Mazzarino",
       "station_code": "gec9ArmOgAI7zhhvlOfMoAbpL6NulbFA",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 40.74,
       "Stato": "",
       "problemi": "",
@@ -10291,7 +10291,7 @@
       "stationDn": "NE=160086769",
       "Impianto": "Poste Italiane Milena",
       "station_code": "J6e9iK1ruNdJr6awb9uMPtfgOkOOpxr5",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 12.6,
       "Stato": "",
       "problemi": "In attesa di allaccio",
@@ -10495,12 +10495,12 @@
           "13:50": 27.32,
           "13:55": 27.4,
           "14:00": 27.85,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
-          "14:20": null,
-          "14:25": null,
-          "14:30": null,
+          "14:05": 27.13,
+          "14:10": 27.09,
+          "14:15": 26.88,
+          "14:20": 27.16,
+          "14:25": 27.23,
+          "14:30": 27.29,
           "14:35": null,
           "14:40": null,
           "14:45": null,
@@ -10616,7 +10616,7 @@
           "23:55": null
         }
       },
-      "currentPower": "27.94"
+      "currentPower": "26.99"
     },
     "stationOverview": {
       "stationName": "Minervino ",
@@ -10639,20 +10639,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 11208.14,
+      "co2ReductionByYear": 11214.59,
       "equivalentTreePlantingByYear": 16,
-      "standardCoalSavings": 45861.21,
+      "standardCoalSavings": 45866.64,
       "componentFlag": 0,
       "equivalentTreePlanting": 75,
-      "co2Reduction": 54460.18,
-      "standardCoalSavingsByYear": 9438.43
+      "co2Reduction": 54466.64,
+      "standardCoalSavingsByYear": 9443.86
     },
     "realKpi": {
-      "realTimePower": 27.94,
-      "cumulativeEnergy": 114653.02,
-      "monthEnergy": 2201.31,
-      "dailyEnergy": 146.98,
-      "yearEnergy": 23596.08
+      "realTimePower": 26.99,
+      "cumulativeEnergy": 114666.6,
+      "monthEnergy": 2214.89,
+      "dailyEnergy": 160.56,
+      "yearEnergy": 23609.66
     }
   },
   "Poste Italiane Mirabella Imbaccari": {
@@ -11161,12 +11161,12 @@
           "13:50": 7.92,
           "13:55": 7.89,
           "14:00": 7.75,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
-          "14:20": null,
-          "14:25": null,
-          "14:30": null,
+          "14:05": 7.81,
+          "14:10": 7.71,
+          "14:15": 7.69,
+          "14:20": 7.47,
+          "14:25": 7.39,
+          "14:30": 7.35,
           "14:35": null,
           "14:40": null,
           "14:45": null,
@@ -11282,7 +11282,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.89"
+      "currentPower": "7.39"
     },
     "stationOverview": {
       "stationName": "MISILMERI - POSTE ITALIANE",
@@ -11305,20 +11305,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2807.49,
+      "co2ReductionByYear": 2809.31,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 13241.48,
+      "standardCoalSavings": 13243,
       "componentFlag": 0,
       "equivalentTreePlanting": 22,
-      "co2Reduction": 15724.25,
-      "standardCoalSavingsByYear": 2364.2
+      "co2Reduction": 15726.07,
+      "standardCoalSavingsByYear": 2365.73
     },
     "realKpi": {
-      "realTimePower": 7.89,
-      "cumulativeEnergy": 33103.69,
-      "monthEnergy": 616.49,
-      "dailyEnergy": 40.67,
-      "yearEnergy": 5910.51
+      "realTimePower": 7.39,
+      "cumulativeEnergy": 33107.51,
+      "monthEnergy": 620.31,
+      "dailyEnergy": 44.49,
+      "yearEnergy": 5914.33
     }
   },
   "Poste Italiane Mistretta": {
@@ -11956,7 +11956,7 @@
       "stationDn": "NE=156002527",
       "Impianto": "Poste Italiane Montevago",
       "station_code": "K66BuMCC8Dvh1laMvlHKJ0eJdmKcvmAm",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 8.82,
       "Stato": "",
       "problemi": "",
@@ -12622,7 +12622,7 @@
       "stationDn": "NE=159083713",
       "Impianto": "Poste Italiane Nissoria",
       "station_code": "ANNJNsEoer861Mir4xngKc7vqH9KPQkL",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 10.92,
       "Stato": "",
       "problemi": "",
@@ -12825,11 +12825,11 @@
           "13:45": 50.01,
           "13:50": 50.14,
           "13:55": 50.17,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
-          "14:20": null,
+          "14:00": 49.88,
+          "14:05": 49.35,
+          "14:10": 49.57,
+          "14:15": 49.32,
+          "14:20": 49.09,
           "14:25": null,
           "14:30": null,
           "14:35": null,
@@ -12947,7 +12947,7 @@
           "23:55": null
         }
       },
-      "currentPower": "50.17"
+      "currentPower": "49.09"
     },
     "stationOverview": {
       "stationName": "Parrocchia san Lorenzo",
@@ -12955,7 +12955,7 @@
       "stationDn": "NE=135058685",
       "Impianto": "Parrocchia san Lorenzo",
       "station_code": "B0hFBcesenvNQigytvJHgf4yPxHuLQfi",
-      "group": "POSTE SICILIA",
+      "group": "MYENERGY",
       "Potenza": 96.8,
       "Stato": "",
       "problemi": "",
@@ -12970,20 +12970,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 16391.14,
+      "co2ReductionByYear": 16400.96,
       "equivalentTreePlantingByYear": 23,
-      "standardCoalSavings": 167975.54,
+      "standardCoalSavings": 167983.82,
       "componentFlag": 0,
       "equivalentTreePlanting": 273,
-      "co2Reduction": 199470.96,
-      "standardCoalSavingsByYear": 13803.06
+      "co2Reduction": 199480.78,
+      "standardCoalSavingsByYear": 13811.34
     },
     "realKpi": {
-      "realTimePower": 50.17,
-      "cumulativeEnergy": 419938.86,
-      "monthEnergy": 3265.22,
-      "dailyEnergy": 241.16,
-      "yearEnergy": 34507.66
+      "realTimePower": 49.09,
+      "cumulativeEnergy": 419959.54,
+      "monthEnergy": 3285.9,
+      "dailyEnergy": 261.84,
+      "yearEnergy": 34528.34
     }
   },
   "Poste Italiane Partanna": {
@@ -13288,7 +13288,7 @@
       "stationDn": "NE=156015187",
       "Impianto": "Poste Italiane Partanna",
       "station_code": "f9e30HEHg4JjJpAQlLBjNa33N0Cc0rAi",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 30.66,
       "Stato": "",
       "problemi": "",
@@ -13492,12 +13492,12 @@
           "13:50": 8.02,
           "13:55": 8.04,
           "14:00": 8.01,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
-          "14:20": null,
-          "14:25": null,
-          "14:30": null,
+          "14:05": 7.99,
+          "14:10": 7.93,
+          "14:15": 7.86,
+          "14:20": 7.84,
+          "14:25": 7.76,
+          "14:30": 7.73,
           "14:35": null,
           "14:40": null,
           "14:45": null,
@@ -13613,7 +13613,7 @@
           "23:55": null
         }
       },
-      "currentPower": "8.01"
+      "currentPower": "7.76"
     },
     "stationOverview": {
       "stationName": "PARTINICO - POSTE ITALIANE",
@@ -13636,20 +13636,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2987.49,
+      "co2ReductionByYear": 2989.05,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 13266.06,
+      "standardCoalSavings": 13267.37,
       "componentFlag": 0,
       "equivalentTreePlanting": 22,
-      "co2Reduction": 15753.44,
-      "standardCoalSavingsByYear": 2515.78
+      "co2Reduction": 15755,
+      "standardCoalSavingsByYear": 2517.09
     },
     "realKpi": {
-      "realTimePower": 8.01,
-      "cumulativeEnergy": 33165.14,
-      "monthEnergy": 626.48,
-      "dailyEnergy": 38.14,
-      "yearEnergy": 6289.45
+      "realTimePower": 7.76,
+      "cumulativeEnergy": 33168.42,
+      "monthEnergy": 629.76,
+      "dailyEnergy": 41.42,
+      "yearEnergy": 6292.73
     }
   },
   "Poste Italiane Pedara": {
@@ -14620,7 +14620,7 @@
       "stationDn": "NE=162627502",
       "Impianto": "Poste Italiane Portopalo",
       "station_code": "d0MlQ1KLeFhyNOE8g3zAjBNKqNpPFk2l",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 10.92,
       "Stato": "",
       "problemi": "",
@@ -15823,12 +15823,12 @@
           "13:50": 120.07,
           "13:55": 121.98,
           "14:00": 121.29,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
-          "14:20": null,
-          "14:25": null,
-          "14:30": null,
+          "14:05": 118.07,
+          "14:10": 120.91,
+          "14:15": 118.33,
+          "14:20": 118.93,
+          "14:25": 118.76,
+          "14:30": 116.59,
           "14:35": null,
           "14:40": null,
           "14:45": null,
@@ -15944,7 +15944,7 @@
           "23:55": null
         }
       },
-      "currentPower": "121.26"
+      "currentPower": "116.49"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - BAGGIO",
@@ -15967,20 +15967,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 37138.82,
+      "co2ReductionByYear": 37167.08,
       "equivalentTreePlantingByYear": 51,
-      "standardCoalSavings": 39884.69,
+      "standardCoalSavings": 39908.49,
       "componentFlag": 0,
       "equivalentTreePlanting": 65,
-      "co2Reduction": 47363.07,
-      "standardCoalSavingsByYear": 31274.79
+      "co2Reduction": 47391.33,
+      "standardCoalSavingsByYear": 31298.59
     },
     "realKpi": {
-      "realTimePower": 121.26,
-      "cumulativeEnergy": 99711.72,
-      "monthEnergy": 7329.69,
-      "dailyEnergy": 617.08,
-      "yearEnergy": 78186.98
+      "realTimePower": 116.49,
+      "cumulativeEnergy": 99771.22,
+      "monthEnergy": 7389.19,
+      "dailyEnergy": 676.58,
+      "yearEnergy": 78246.48
     }
   },
   "Poste Italiane Bondeno": {
@@ -18820,12 +18820,12 @@
           "13:50": 86.77,
           "13:55": 87.49,
           "14:00": 86.84,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
-          "14:20": null,
-          "14:25": null,
-          "14:30": null,
+          "14:05": 86.56,
+          "14:10": 86.9,
+          "14:15": 86.55,
+          "14:20": 86.29,
+          "14:25": 86.2,
+          "14:30": 85.75,
           "14:35": null,
           "14:40": null,
           "14:45": null,
@@ -18941,7 +18941,7 @@
           "23:55": null
         }
       },
-      "currentPower": "87.45"
+      "currentPower": "86.17"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - MANTOVA",
@@ -18964,20 +18964,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 30002.08,
-      "equivalentTreePlantingByYear": 41,
-      "standardCoalSavings": 88452.34,
+      "co2ReductionByYear": 30022.67,
+      "equivalentTreePlantingByYear": 42,
+      "standardCoalSavings": 88469.68,
       "componentFlag": 0,
       "equivalentTreePlanting": 144,
-      "co2Reduction": 105037.15,
-      "standardCoalSavingsByYear": 25264.91
+      "co2Reduction": 105057.75,
+      "standardCoalSavingsByYear": 25282.25
     },
     "realKpi": {
-      "realTimePower": 87.45,
-      "cumulativeEnergy": 221130.85,
-      "monthEnergy": 6525.87,
-      "dailyEnergy": 428.97,
-      "yearEnergy": 63162.27
+      "realTimePower": 86.17,
+      "cumulativeEnergy": 221174.2,
+      "monthEnergy": 6569.22,
+      "dailyEnergy": 472.32,
+      "yearEnergy": 63205.62
     }
   },
   "Poste Italiane - Marcon": {
@@ -22482,12 +22482,12 @@
           "13:45": 347.47,
           "13:50": 351.01,
           "13:55": 350.91,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
-          "14:20": null,
-          "14:25": null,
+          "14:00": 353.23,
+          "14:05": 350.86,
+          "14:10": 352.38,
+          "14:15": 346.37,
+          "14:20": 348.17,
+          "14:25": 343.19,
           "14:30": null,
           "14:35": null,
           "14:40": null,
@@ -22604,7 +22604,7 @@
           "23:55": null
         }
       },
-      "currentPower": "350.91"
+      "currentPower": "343.19"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - ROSERIO",
@@ -22627,20 +22627,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 111281.47,
+      "co2ReductionByYear": 111364.41,
       "equivalentTreePlantingByYear": 153,
-      "standardCoalSavings": 503012.41,
+      "standardCoalSavings": 503082.26,
       "componentFlag": 0,
       "equivalentTreePlanting": 817,
-      "co2Reduction": 597327.24,
-      "standardCoalSavingsByYear": 93710.71
+      "co2Reduction": 597410.18,
+      "standardCoalSavingsByYear": 93780.56
     },
     "realKpi": {
-      "realTimePower": 350.91,
-      "cumulativeEnergy": 1257531.03,
-      "monthEnergy": 20889.18,
-      "dailyEnergy": 1606.78,
-      "yearEnergy": 234276.78
+      "realTimePower": 343.19,
+      "cumulativeEnergy": 1257705.64,
+      "monthEnergy": 21063.79,
+      "dailyEnergy": 1781.39,
+      "yearEnergy": 234451.39
     }
   },
   "Poste Italiane San Mauro Pascoli": {
@@ -23278,7 +23278,7 @@
       "stationDn": "NE=148587272",
       "Impianto": "Poste Italiane Sant'Agata Feltria",
       "station_code": "D5tDnkLx98COrauDpO8Ixg2b0iJz9yqN",
-      "group": "POSTE EMILIA",
+      "group": "",
       "Potenza": 6,
       "Stato": "",
       "problemi": "",
@@ -27274,7 +27274,7 @@
       "stationDn": "NE=160277163",
       "Impianto": "Poste Italiane Resuttano",
       "station_code": "dQv0LxDmgezp8KwPJuf3Ex9l2Pm4xQsa",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 12.6,
       "Stato": "",
       "problemi": "",
@@ -27940,7 +27940,7 @@
       "stationDn": "NE=152369820",
       "Impianto": "Poste Italiane Roccamena",
       "station_code": "6nMELpkhAHICj45ow92jnu0kqBtpKxlo",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 10.92,
       "Stato": "",
       "problemi": "",
@@ -29272,7 +29272,7 @@
       "stationDn": "NE=159691525",
       "Impianto": "Poste Italiane Sambuca di Sicilia",
       "station_code": "KsL9fzGscjtveut0nrNQvQEKOaA2JtjL",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 10.92,
       "Stato": "",
       "problemi": "",
@@ -29605,7 +29605,7 @@
       "stationDn": "NE=152348258",
       "Impianto": "Poste Italiane San Cipirello",
       "station_code": "upeL1JJ9L0sxzGONl6N6iG87f6p8FnaM",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 10.92,
       "Stato": "",
       "problemi": "In attesa di allaccio",
@@ -30937,7 +30937,7 @@
       "stationDn": "NE=155819857",
       "Impianto": "Poste Italiane S. Margherita Belice",
       "station_code": "ON4cLK53dOflLJuPrq2sDOKBmN6b8tQJ",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 62.16,
       "Stato": "",
       "problemi": "In attesa di allaccio",
@@ -31270,7 +31270,7 @@
       "stationDn": "NE=154460415",
       "Impianto": "Poste Italiane S. Teresa di Riva",
       "station_code": "OPkeGlnpHpB54JhEuKJ360M65mnbtFrz",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 32.34,
       "Stato": "",
       "problemi": "",
@@ -31603,7 +31603,7 @@
       "stationDn": "NE=153115948",
       "Impianto": "SEIDITA",
       "station_code": "bkNnd8Klnh95AMBPuoJy71yjLCNkcEBd",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 125.46,
       "Stato": "",
       "problemi": "",
@@ -32269,7 +32269,7 @@
       "stationDn": "NE=153614437",
       "Impianto": "Poste Italiane Sommatino",
       "station_code": "EhD1imMDiMbw0IL9a8OjrwCDs9vnPz6g",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 33.6,
       "Stato": "",
       "problemi": "Impianto non comunica da 13/01/2025",
@@ -32602,7 +32602,7 @@
       "stationDn": "NE=154485703",
       "Impianto": "Poste Italiane Spadafora",
       "station_code": "AiO4N6oe9oE8HI5OAsm9Pht8DyN9iPzk",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 23.52,
       "Stato": "",
       "problemi": "",
@@ -32806,11 +32806,11 @@
           "13:50": 61.91,
           "13:55": 62.22,
           "14:00": 61.56,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
-          "14:20": null,
-          "14:25": null,
+          "14:05": 61.23,
+          "14:10": 59.91,
+          "14:15": 60.28,
+          "14:20": 60.62,
+          "14:25": 60.03,
           "14:30": null,
           "14:35": null,
           "14:40": null,
@@ -32927,7 +32927,7 @@
           "23:55": null
         }
       },
-      "currentPower": "62.43"
+      "currentPower": "60.05"
     },
     "stationOverview": {
       "stationName": "SPERONE - POSTE ITALIANE",
@@ -32950,20 +32950,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 24897.5,
+      "co2ReductionByYear": 24911.95,
       "equivalentTreePlantingByYear": 35,
-      "standardCoalSavings": 99354.9,
+      "standardCoalSavings": 99367.07,
       "componentFlag": 0,
       "equivalentTreePlanting": 162,
-      "co2Reduction": 117983.95,
-      "standardCoalSavingsByYear": 20966.32
+      "co2Reduction": 117998.4,
+      "standardCoalSavingsByYear": 20978.48
     },
     "realKpi": {
-      "realTimePower": 62.43,
-      "cumulativeEnergy": 248387.26,
-      "monthEnergy": 5011.59,
-      "dailyEnergy": 316.69,
-      "yearEnergy": 52415.79
+      "realTimePower": 60.05,
+      "cumulativeEnergy": 248417.68,
+      "monthEnergy": 5042.01,
+      "dailyEnergy": 347.11,
+      "yearEnergy": 52446.21
     }
   },
   "Poste Italiane Sutera": {
@@ -33268,7 +33268,7 @@
       "stationDn": "NE=158566209",
       "Impianto": "Poste Italiane Sutera",
       "station_code": "jKGaP0CBkp1Kezuqp74y2Q9jrrPzz75C",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 8.82,
       "Stato": "",
       "problemi": "",
@@ -33601,7 +33601,7 @@
       "stationDn": "NE=154979903",
       "Impianto": "Poste Italiane Terme Vigliatore",
       "station_code": "Ms4NaAMj0sc8NIgD3G2Qh9wbCHK1OBIP",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 10.92,
       "Stato": "",
       "problemi": "",
@@ -33934,7 +33934,7 @@
       "stationDn": "NE=148150984",
       "Impianto": "Poste Italiane Valledolmo",
       "station_code": "Hsgju4u72PigsPI5w12gzJAP8dv1qcr0",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 10.92,
       "Stato": "",
       "problemi": "",
@@ -34600,7 +34600,7 @@
       "stationDn": "NE=160294917",
       "Impianto": "Poste Italiane Villalba",
       "station_code": "IwCvQK5mBQDoJoe4zFCiFNEpP2wrvGj6",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 10.92,
       "Stato": "",
       "problemi": "",
@@ -34933,7 +34933,7 @@
       "stationDn": "NE=148568460",
       "Impianto": "Poste Italiane Vita",
       "station_code": "kEeHnefrA2gHDDINtFk0O4t16ApszCJv",
-      "group": "POSTE SICILIA",
+      "group": "",
       "Potenza": 10.5,
       "Stato": "",
       "problemi": "",
