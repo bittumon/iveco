@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-06-11 12:58:50",
+    "last_update": "2025-06-11 13:01:03",
     "ac_power": 2111.5,
     "month_name": "JUNE",
     "current_year": 2025,
     "carbon": 7257,
     "alberi": 9925,
     "t_evita": 6114,
-    "total_dayenergy": 5892.199999999924,
+    "total_dayenergy": [
+        "9704.99999999997"
+    ],
     "life_energy": 15283845,
     "acEnergy_hour_day": [
         "5",
@@ -14,7 +16,8 @@
         "7",
         "8",
         "9",
-        "10"
+        "10",
+        "11"
     ],
     "acEnergy_hour": [
         "25.39999999993597",
@@ -22,7 +25,8 @@
         "510.0000000000873",
         "1081.8999999999942",
         "1788.3999999999942",
-        "2308.299999999901"
+        "2308.299999999901",
+        "2775.600000000152"
     ],
     "all_years_list": [
         "2023",
@@ -58,7 +62,7 @@
         "22227.699999999983",
         "24721.00000000003",
         "24920.40000000005",
-        "6554.70000000007"
+        "9704.99999999997"
     ],
     "all_monthyear_list": [
         "September",
@@ -108,19 +112,19 @@
         "607625.2000000001",
         "210258.4999999999"
     ],
-    "temperature_2m": "28.7 \u00b0C",
+    "temperature_2m": "28.9 \u00b0C",
     "relative_humidity_2m": "52 %",
-    "apparent_temperature": "32.4 \u00b0C",
+    "apparent_temperature": "32.6 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Sunny",
+    "weather_exp": "Mainly Sunny",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "0 %",
-    "pressure_msl": "1015.7 hPa",
-    "surface_pressure": "999.5 hPa",
+    "cloud_cover": "11 %",
+    "pressure_msl": "1015.6 hPa",
+    "surface_pressure": "999.4 hPa",
     "wind_speed_10m": "8.1 km/h",
     "wind_direction_10m": "148 \u00b0"
 }
