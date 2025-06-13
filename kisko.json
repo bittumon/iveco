@@ -304,6 +304,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -641,6 +642,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -978,6 +980,7 @@
       "group": "ALTRI",
       "Potenza": 102.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -1315,6 +1318,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -1533,12 +1537,12 @@
           "14:55": 7.69,
           "15:00": 7.58,
           "15:05": 7.81,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 7.7,
+          "15:15": 7.41,
+          "15:20": 7.8,
+          "15:25": 7.58,
+          "15:30": 7.5,
+          "15:35": 7.55,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -1641,7 +1645,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.81"
+      "currentPower": "7.55"
     },
     "stationOverview": {
       "stationName": "BURGIO - POSTE ITALIANE",
@@ -1652,6 +1656,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.5,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -1668,20 +1673,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3083.88,
+      "co2ReductionByYear": 3085.69,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 8500.46,
+      "standardCoalSavings": 8501.99,
       "componentFlag": 0,
       "equivalentTreePlanting": 14,
-      "co2Reduction": 10094.3,
-      "standardCoalSavingsByYear": 2596.95
+      "co2Reduction": 10096.11,
+      "standardCoalSavingsByYear": 2598.48
     },
     "realKpi": {
-      "realTimePower": 7.81,
-      "cumulativeEnergy": 21251.16,
-      "monthEnergy": 825.48,
-      "dailyEnergy": 42.34,
-      "yearEnergy": 6492.38
+      "realTimePower": 7.55,
+      "cumulativeEnergy": 21254.97,
+      "monthEnergy": 829.29,
+      "dailyEnergy": 46.15,
+      "yearEnergy": 6496.19
     }
   },
   "Poste Italiane Calamonaci": {
@@ -1870,12 +1875,12 @@
           "14:55": 9.17,
           "15:00": 9.08,
           "15:05": 9.07,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 8.91,
+          "15:15": 8.74,
+          "15:20": 8.79,
+          "15:25": 8.62,
+          "15:30": 8.56,
+          "15:35": 8.41,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -1978,7 +1983,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.07"
+      "currentPower": "8.41"
     },
     "stationOverview": {
       "stationName": "CALAMONACI - POSTE ITALIANE",
@@ -1989,6 +1994,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 12.375,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -2005,20 +2011,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 4025.72,
+      "co2ReductionByYear": 4027.79,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 11067.8,
+      "standardCoalSavings": 11069.54,
       "componentFlag": 0,
       "equivalentTreePlanting": 18,
-      "co2Reduction": 13143.01,
-      "standardCoalSavingsByYear": 3390.08
+      "co2Reduction": 13145.08,
+      "standardCoalSavingsByYear": 3391.82
     },
     "realKpi": {
-      "realTimePower": 9.07,
-      "cumulativeEnergy": 27669.5,
-      "monthEnergy": 1052.83,
-      "dailyEnergy": 57.17,
-      "yearEnergy": 8475.19
+      "realTimePower": 8.41,
+      "cumulativeEnergy": 27673.86,
+      "monthEnergy": 1057.19,
+      "dailyEnergy": 61.53,
+      "yearEnergy": 8479.55
     }
   },
   "Poste Italiane Campobello di Mazara": {
@@ -2207,12 +2213,12 @@
           "14:55": 23.71,
           "15:00": 23.5,
           "15:05": 23.25,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 23.17,
+          "15:15": 22.87,
+          "15:20": 22.5,
+          "15:25": 22.07,
+          "15:30": 21.86,
+          "15:35": 21.77,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -2315,7 +2321,7 @@
           "23:55": null
         }
       },
-      "currentPower": "23.21"
+      "currentPower": "21.78"
     },
     "stationOverview": {
       "stationName": "CAMPOBELLO DI MAZARA - POSTE ITALIANE",
@@ -2326,6 +2332,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 32.34,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -2342,20 +2349,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 10635.67,
+      "co2ReductionByYear": 10640.09,
       "equivalentTreePlantingByYear": 15,
-      "standardCoalSavings": 10398.77,
+      "standardCoalSavings": 10402.5,
       "componentFlag": 0,
       "equivalentTreePlanting": 17,
-      "co2Reduction": 12348.54,
-      "standardCoalSavingsByYear": 8956.35
+      "co2Reduction": 12352.96,
+      "standardCoalSavingsByYear": 8960.08
     },
     "realKpi": {
-      "realTimePower": 23.21,
-      "cumulativeEnergy": 25996.93,
-      "monthEnergy": 2853.68,
-      "dailyEnergy": 160.78,
-      "yearEnergy": 22390.88
+      "realTimePower": 21.78,
+      "cumulativeEnergy": 26006.24,
+      "monthEnergy": 2862.99,
+      "dailyEnergy": 170.09,
+      "yearEnergy": 22400.19
     }
   },
   "Poste Italiane Campofranco": {
@@ -2663,6 +2670,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 8.82,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -2881,12 +2889,12 @@
           "14:55": 42.59,
           "15:00": 42.23,
           "15:05": 41.95,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 41.44,
+          "15:15": 40.85,
+          "15:20": 40.57,
+          "15:25": 40.01,
+          "15:30": 39.6,
+          "15:35": 38.8,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -2989,7 +2997,7 @@
           "23:55": null
         }
       },
-      "currentPower": "41.95"
+      "currentPower": "38.8"
     },
     "stationOverview": {
       "stationName": "CARINI - POSTE ITALIANE",
@@ -3000,6 +3008,7 @@
       "group": "ALTRI",
       "Potenza": 61.5,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -3016,20 +3025,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 16175.92,
+      "co2ReductionByYear": 16185.54,
       "equivalentTreePlantingByYear": 23,
-      "standardCoalSavings": 62797.92,
+      "standardCoalSavings": 62806.02,
       "componentFlag": 0,
       "equivalentTreePlanting": 102,
-      "co2Reduction": 74572.53,
-      "standardCoalSavingsByYear": 13621.82
+      "co2Reduction": 74582.15,
+      "standardCoalSavingsByYear": 13629.93
     },
     "realKpi": {
-      "realTimePower": 41.95,
-      "cumulativeEnergy": 156994.79,
-      "monthEnergy": 4786.31,
-      "dailyEnergy": 282.06,
-      "yearEnergy": 34054.56
+      "realTimePower": 38.8,
+      "cumulativeEnergy": 157015.05,
+      "monthEnergy": 4806.57,
+      "dailyEnergy": 302.32,
+      "yearEnergy": 34074.82
     }
   },
   "Poste Italiane Cassaro": {
@@ -3337,6 +3346,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 8.82,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -3674,6 +3684,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 23.52,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -3892,12 +3903,12 @@
           "14:55": 11.32,
           "15:00": 11.18,
           "15:05": 11.06,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 10.73,
+          "15:15": 10.65,
+          "15:20": 10.53,
+          "15:25": 10.38,
+          "15:30": 10.23,
+          "15:35": 10.2,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -4000,7 +4011,7 @@
           "23:55": null
         }
       },
-      "currentPower": "11.06"
+      "currentPower": "10.24"
     },
     "stationOverview": {
       "stationName": "CASTELNOVETTO - SCUOLA",
@@ -4011,6 +4022,7 @@
       "group": "MYENERGY",
       "Potenza": 18.91,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -4027,20 +4039,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 5042.49,
+      "co2ReductionByYear": 5045,
       "equivalentTreePlantingByYear": 7,
-      "standardCoalSavings": 12879.12,
+      "standardCoalSavings": 12881.23,
       "componentFlag": 0,
       "equivalentTreePlanting": 21,
-      "co2Reduction": 15293.95,
-      "standardCoalSavingsByYear": 4246.31
+      "co2Reduction": 15296.46,
+      "standardCoalSavingsByYear": 4248.42
     },
     "realKpi": {
-      "realTimePower": 11.06,
-      "cumulativeEnergy": 32197.79,
-      "monthEnergy": 1120.75,
-      "dailyEnergy": 77.97,
-      "yearEnergy": 10615.77
+      "realTimePower": 10.24,
+      "cumulativeEnergy": 32203.07,
+      "monthEnergy": 1126.03,
+      "dailyEnergy": 83.25,
+      "yearEnergy": 10621.05
     }
   },
   "Poste Italiane Casteltermini": {
@@ -4228,13 +4240,13 @@
           "14:50": 8.48,
           "14:55": 23.94,
           "15:00": 7.8,
-          "15:05": null,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:05": 7.2,
+          "15:10": 6.59,
+          "15:15": 6.34,
+          "15:20": 5.77,
+          "15:25": 20.95,
+          "15:30": 7.26,
+          "15:35": 21.52,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -4337,7 +4349,7 @@
           "23:55": null
         }
       },
-      "currentPower": "22.19"
+      "currentPower": "21.55"
     },
     "stationOverview": {
       "stationName": "CASTELTERMINI - POSTE ITALIANE",
@@ -4348,6 +4360,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 30.75,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -4364,20 +4377,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 8223.39,
+      "co2ReductionByYear": 8227.76,
       "equivalentTreePlantingByYear": 12,
-      "standardCoalSavings": 23013.51,
+      "standardCoalSavings": 23017.2,
       "componentFlag": 0,
       "equivalentTreePlanting": 38,
-      "co2Reduction": 27328.54,
-      "standardCoalSavingsByYear": 6924.96
+      "co2Reduction": 27332.92,
+      "standardCoalSavingsByYear": 6928.64
     },
     "realKpi": {
-      "realTimePower": 22.19,
-      "cumulativeEnergy": 57533.77,
-      "monthEnergy": 2477.3,
-      "dailyEnergy": 141.29,
-      "yearEnergy": 17312.39
+      "realTimePower": 21.55,
+      "cumulativeEnergy": 57542.99,
+      "monthEnergy": 2486.52,
+      "dailyEnergy": 150.51,
+      "yearEnergy": 17321.61
     }
   },
   "CASTELVETRANO - POSTE ITALIANE": {
@@ -4685,6 +4698,7 @@
       "group": "ALTRI",
       "Potenza": 17.625,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -5022,6 +5036,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 8.82,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -5359,6 +5374,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 858,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -5578,12 +5594,12 @@
           "15:00": 8.19,
           "15:05": 8.12,
           "15:10": 7.94,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 7.88,
+          "15:20": 7.81,
+          "15:25": 7.73,
+          "15:30": 7.68,
+          "15:35": 7.62,
+          "15:40": 7.39,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -5685,7 +5701,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.94"
+      "currentPower": "7.39"
     },
     "stationOverview": {
       "stationName": "CONTESSA ENTELLINA - POSTE ITALIANE",
@@ -5696,6 +5712,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -5712,20 +5729,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3349.37,
+      "co2ReductionByYear": 3351.19,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 3999.95,
+      "standardCoalSavings": 4001.48,
       "componentFlag": 0,
       "equivalentTreePlanting": 7,
-      "co2Reduction": 4749.94,
-      "standardCoalSavingsByYear": 2820.52
+      "co2Reduction": 4751.76,
+      "standardCoalSavingsByYear": 2822.05
     },
     "realKpi": {
-      "realTimePower": 7.94,
-      "cumulativeEnergy": 9999.87,
-      "monthEnergy": 958.61,
-      "dailyEnergy": 54.75,
-      "yearEnergy": 7051.3
+      "realTimePower": 7.39,
+      "cumulativeEnergy": 10003.7,
+      "monthEnergy": 962.44,
+      "dailyEnergy": 58.58,
+      "yearEnergy": 7055.13
     }
   },
   "Poste Italiane Custonaci": {
@@ -5913,14 +5930,14 @@
           "14:50": 6.98,
           "14:55": 6.93,
           "15:00": 6.83,
-          "15:05": null,
+          "15:05": 6.79,
           "15:10": 6.69,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 6.64,
+          "15:20": 6.57,
+          "15:25": 6.51,
+          "15:30": 6.44,
+          "15:35": 6.35,
+          "15:40": 6.28,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -6022,7 +6039,7 @@
           "23:55": null
         }
       },
-      "currentPower": "6.69"
+      "currentPower": "6.28"
     },
     "stationOverview": {
       "stationName": "CUSTONACI - POSTE ITALIANE",
@@ -6033,6 +6050,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 8.82,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -6049,20 +6067,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2739.51,
+      "co2ReductionByYear": 2741.05,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 2854.18,
+      "standardCoalSavings": 2855.48,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3389.34,
-      "standardCoalSavingsByYear": 2306.95
+      "co2Reduction": 3390.89,
+      "standardCoalSavingsByYear": 2308.25
     },
     "realKpi": {
-      "realTimePower": 6.69,
-      "cumulativeEnergy": 7135.46,
-      "monthEnergy": 750,
-      "dailyEnergy": 45.9,
-      "yearEnergy": 5767.38
+      "realTimePower": 6.28,
+      "cumulativeEnergy": 7138.71,
+      "monthEnergy": 753.25,
+      "dailyEnergy": 49.15,
+      "yearEnergy": 5770.63
     }
   },
   "Danesi": {
@@ -6370,6 +6388,7 @@
       "group": "MYENERGY",
       "Potenza": 66.36,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -6707,6 +6726,7 @@
       "group": "POSTE VENETO",
       "Potenza": 816.72,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -6924,13 +6944,13 @@
           "14:50": 8,
           "14:55": 7.99,
           "15:00": 7.83,
-          "15:05": null,
+          "15:05": 7.63,
           "15:10": 7.6,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:15": 7.65,
+          "15:20": 7.5,
+          "15:25": 7.52,
+          "15:30": 7.43,
+          "15:35": 7.28,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -7033,7 +7053,7 @@
           "23:55": null
         }
       },
-      "currentPower": "8.22"
+      "currentPower": "7.28"
     },
     "stationOverview": {
       "stationName": "FRANCAVILLA DI SICILIA - POSTE ITALIANE",
@@ -7044,6 +7064,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -7060,20 +7081,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2727.66,
+      "co2ReductionByYear": 2730.71,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 4741.21,
+      "standardCoalSavings": 4743.77,
       "componentFlag": 0,
       "equivalentTreePlanting": 8,
-      "co2Reduction": 5630.18,
-      "standardCoalSavingsByYear": 2296.98
+      "co2Reduction": 5633.23,
+      "standardCoalSavingsByYear": 2299.54
     },
     "realKpi": {
-      "realTimePower": 8.22,
-      "cumulativeEnergy": 11853.02,
-      "monthEnergy": 799.98,
-      "dailyEnergy": 39.71,
-      "yearEnergy": 5742.45
+      "realTimePower": 7.28,
+      "cumulativeEnergy": 11859.43,
+      "monthEnergy": 806.39,
+      "dailyEnergy": 46.12,
+      "yearEnergy": 5748.86
     }
   },
   "Poste Italiane Giardini Naxos": {
@@ -7263,11 +7284,11 @@
           "15:00": 7.24,
           "15:05": 6.7,
           "15:10": 7.1,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:15": 7,
+          "15:20": 6.92,
+          "15:25": 6.83,
+          "15:30": 6.7,
+          "15:35": 6.59,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -7370,7 +7391,7 @@
           "23:55": null
         }
       },
-      "currentPower": "6.72"
+      "currentPower": "6.58"
     },
     "stationOverview": {
       "stationName": "GIARDINI NAXOS - POSTE ITALIANE",
@@ -7381,6 +7402,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -7397,20 +7419,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2706.16,
+      "co2ReductionByYear": 2707.78,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 4457.39,
+      "standardCoalSavings": 4458.76,
       "componentFlag": 0,
       "equivalentTreePlanting": 8,
-      "co2Reduction": 5293.15,
-      "standardCoalSavingsByYear": 2278.87
+      "co2Reduction": 5294.77,
+      "standardCoalSavingsByYear": 2280.24
     },
     "realKpi": {
-      "realTimePower": 6.72,
-      "cumulativeEnergy": 11143.47,
-      "monthEnergy": 799.58,
-      "dailyEnergy": 46.23,
-      "yearEnergy": 5697.18
+      "realTimePower": 6.58,
+      "cumulativeEnergy": 11146.89,
+      "monthEnergy": 803,
+      "dailyEnergy": 49.65,
+      "yearEnergy": 5700.6
     }
   },
   "Poste Italiane Giarratana": {
@@ -7718,6 +7740,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -8055,6 +8078,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 15.12,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -8392,6 +8416,7 @@
       "group": "EDISON",
       "Potenza": 82,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -8729,6 +8754,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 61.32,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -8947,12 +8973,12 @@
           "14:55": 10.98,
           "15:00": 10.84,
           "15:05": 10.77,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 10.65,
+          "15:15": 10.58,
+          "15:20": 10.37,
+          "15:25": 10.14,
+          "15:30": 9.98,
+          "15:35": 9.75,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -9055,7 +9081,7 @@
           "23:55": null
         }
       },
-      "currentPower": "10.77"
+      "currentPower": "9.74"
     },
     "stationOverview": {
       "stationName": "LINGUAGLOSSA - POSTE ITALIANE",
@@ -9066,6 +9092,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 15,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -9082,20 +9109,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 4244.16,
+      "co2ReductionByYear": 4246.61,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 11821.43,
+      "standardCoalSavings": 11823.5,
       "componentFlag": 0,
       "equivalentTreePlanting": 20,
-      "co2Reduction": 14037.95,
-      "standardCoalSavingsByYear": 3574.03
+      "co2Reduction": 14040.41,
+      "standardCoalSavingsByYear": 3576.1
     },
     "realKpi": {
-      "realTimePower": 10.77,
-      "cumulativeEnergy": 29553.58,
-      "monthEnergy": 1329.14,
-      "dailyEnergy": 76.06,
-      "yearEnergy": 8935.07
+      "realTimePower": 9.74,
+      "cumulativeEnergy": 29558.75,
+      "monthEnergy": 1334.31,
+      "dailyEnergy": 81.23,
+      "yearEnergy": 8940.24
     }
   },
   "Poste Italiane Lucca Sicula": {
@@ -9284,12 +9311,12 @@
           "14:55": 9.22,
           "15:00": 9.25,
           "15:05": 8.87,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 8.8,
+          "15:15": 8.92,
+          "15:20": 9.08,
+          "15:25": 8.97,
+          "15:30": 8.75,
+          "15:35": 8.78,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -9392,7 +9419,7 @@
           "23:55": null
         }
       },
-      "currentPower": "8.87"
+      "currentPower": "8.77"
     },
     "stationOverview": {
       "stationName": "LUCCA SICULA - POSTE ITALIANE",
@@ -9403,6 +9430,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -9419,20 +9447,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3397.85,
+      "co2ReductionByYear": 3399.93,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 9358.48,
+      "standardCoalSavings": 9360.24,
       "componentFlag": 0,
       "equivalentTreePlanting": 16,
-      "co2Reduction": 11113.2,
-      "standardCoalSavingsByYear": 2861.34
+      "co2Reduction": 11115.28,
+      "standardCoalSavingsByYear": 2863.1
     },
     "realKpi": {
-      "realTimePower": 8.87,
-      "cumulativeEnergy": 23396.21,
-      "monthEnergy": 942.77,
-      "dailyEnergy": 48.33,
-      "yearEnergy": 7153.36
+      "realTimePower": 8.77,
+      "cumulativeEnergy": 23400.59,
+      "monthEnergy": 947.15,
+      "dailyEnergy": 52.71,
+      "yearEnergy": 7157.74
     }
   },
   "MAZARA DEL VALLO - POSTE ITALIANE": {
@@ -9740,6 +9768,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 9,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -9959,12 +9988,12 @@
           "15:00": 29.33,
           "15:05": 29.66,
           "15:10": 29.96,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 29.61,
+          "15:20": 28.47,
+          "15:25": 15.95,
+          "15:30": 11.37,
+          "15:35": 24.71,
+          "15:40": 30.13,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -10066,7 +10095,7 @@
           "23:55": null
         }
       },
-      "currentPower": "30.06"
+      "currentPower": "29.98"
     },
     "stationOverview": {
       "stationName": "MAZZARINO - POSTE ITALIANE",
@@ -10077,6 +10106,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 40.74,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -10093,20 +10123,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 510.76,
+      "co2ReductionByYear": 516.09,
       "equivalentTreePlantingByYear": 1,
-      "standardCoalSavings": 441.06,
+      "standardCoalSavings": 445.54,
       "componentFlag": 0,
       "equivalentTreePlanting": 1,
-      "co2Reduction": 523.75,
-      "standardCoalSavingsByYear": 430.11
+      "co2Reduction": 529.08,
+      "standardCoalSavingsByYear": 434.6
     },
     "realKpi": {
-      "realTimePower": 30.06,
-      "cumulativeEnergy": 1102.64,
-      "monthEnergy": 1075.28,
-      "dailyEnergy": 205.45,
-      "yearEnergy": 1075.28
+      "realTimePower": 29.98,
+      "cumulativeEnergy": 1113.86,
+      "monthEnergy": 1086.5,
+      "dailyEnergy": 216.67,
+      "yearEnergy": 1086.5
     }
   },
   "Poste Italiane Milena": {
@@ -10414,6 +10444,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 12.6,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -10751,6 +10782,7 @@
       "group": "MYENERGY",
       "Potenza": 42,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -10970,12 +11002,12 @@
           "15:00": 13.99,
           "15:05": 13.77,
           "15:10": 13.91,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 13.73,
+          "15:20": 13.69,
+          "15:25": 13.47,
+          "15:30": 13.24,
+          "15:35": 13.14,
+          "15:40": 12.63,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -11077,7 +11109,7 @@
           "23:55": null
         }
       },
-      "currentPower": "13.78"
+      "currentPower": "13.13"
     },
     "stationOverview": {
       "stationName": "MIRABELLA IMBACCARI - POSTE ITALIANE",
@@ -11088,6 +11120,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 18.9,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -11104,20 +11137,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 5864.41,
+      "co2ReductionByYear": 5867.64,
       "equivalentTreePlantingByYear": 9,
-      "standardCoalSavings": 14707.65,
+      "standardCoalSavings": 14710.36,
       "componentFlag": 0,
       "equivalentTreePlanting": 24,
-      "co2Reduction": 17465.33,
-      "standardCoalSavingsByYear": 4938.45
+      "co2Reduction": 17468.56,
+      "standardCoalSavingsByYear": 4941.17
     },
     "realKpi": {
-      "realTimePower": 13.78,
-      "cumulativeEnergy": 36769.12,
-      "monthEnergy": 1605.95,
-      "dailyEnergy": 97.63,
-      "yearEnergy": 12346.13
+      "realTimePower": 13.13,
+      "cumulativeEnergy": 36775.91,
+      "monthEnergy": 1612.74,
+      "dailyEnergy": 104.42,
+      "yearEnergy": 12352.92
     }
   },
   "MISILMERI - POSTE ITALIANE": {
@@ -11425,6 +11458,7 @@
       "group": "ALTRI",
       "Potenza": 10.5,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -11762,6 +11796,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 8.82,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -11979,14 +12014,14 @@
           "14:50": 6.83,
           "14:55": 6.81,
           "15:00": 6.79,
-          "15:05": null,
+          "15:05": 6.76,
           "15:10": 6.67,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 6.57,
+          "15:20": 6.53,
+          "15:25": 6.43,
+          "15:30": 6.28,
+          "15:35": 6.26,
+          "15:40": 6.22,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -12088,7 +12123,7 @@
           "23:55": null
         }
       },
-      "currentPower": "6.67"
+      "currentPower": "6.22"
     },
     "stationOverview": {
       "stationName": "MONTEVAGO - POSTE ITALIANE",
@@ -12099,6 +12134,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 8.82,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -12115,20 +12151,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2891.82,
+      "co2ReductionByYear": 2893.35,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 2812.37,
+      "standardCoalSavings": 2813.66,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3339.69,
-      "standardCoalSavingsByYear": 2435.22
+      "co2Reduction": 3341.22,
+      "standardCoalSavingsByYear": 2436.5
     },
     "realKpi": {
-      "realTimePower": 6.67,
-      "cumulativeEnergy": 7030.93,
-      "monthEnergy": 788.24,
-      "dailyEnergy": 44.68,
-      "yearEnergy": 6088.05
+      "realTimePower": 6.22,
+      "cumulativeEnergy": 7034.14,
+      "monthEnergy": 791.45,
+      "dailyEnergy": 47.89,
+      "yearEnergy": 6091.26
     }
   },
   "Poste Italiane Nicolosi": {
@@ -12317,12 +12353,12 @@
           "14:55": 9.85,
           "15:00": 9.72,
           "15:05": 9.6,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 9.6,
+          "15:15": 9.52,
+          "15:20": 9.34,
+          "15:25": 8.96,
+          "15:30": 8.95,
+          "15:35": 9.03,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -12425,7 +12461,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.61"
+      "currentPower": "9.02"
     },
     "stationOverview": {
       "stationName": "NICOLOSI - POSTE ITALIANE",
@@ -12436,6 +12472,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 13.5,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -12452,20 +12489,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3886.27,
+      "co2ReductionByYear": 3888.48,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 9475.13,
+      "standardCoalSavings": 9476.98,
       "componentFlag": 0,
       "equivalentTreePlanting": 16,
-      "co2Reduction": 11251.71,
-      "standardCoalSavingsByYear": 3272.65
+      "co2Reduction": 11253.92,
+      "standardCoalSavingsByYear": 3274.51
     },
     "realKpi": {
-      "realTimePower": 9.61,
-      "cumulativeEnergy": 23687.82,
-      "monthEnergy": 1178.92,
-      "dailyEnergy": 64.65,
-      "yearEnergy": 8181.63
+      "realTimePower": 9.02,
+      "cumulativeEnergy": 23692.46,
+      "monthEnergy": 1183.56,
+      "dailyEnergy": 69.29,
+      "yearEnergy": 8186.27
     }
   },
   "Poste Italiane Nissoria": {
@@ -12773,6 +12810,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -13110,6 +13148,7 @@
       "group": "MYENERGY",
       "Potenza": 96.8,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -13329,12 +13368,12 @@
           "15:00": 23.22,
           "15:05": 22.99,
           "15:10": 22.92,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 22.7,
+          "15:20": 22.27,
+          "15:25": 22.04,
+          "15:30": 21.94,
+          "15:35": 21.69,
+          "15:40": 21.51,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -13436,7 +13475,7 @@
           "23:55": null
         }
       },
-      "currentPower": "22.89"
+      "currentPower": "21.52"
     },
     "stationOverview": {
       "stationName": "PARTANNA - POSTE ITALIANE",
@@ -13447,6 +13486,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 30.66,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -13463,20 +13503,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 9066.63,
+      "co2ReductionByYear": 9071.89,
       "equivalentTreePlantingByYear": 13,
-      "standardCoalSavings": 8142.53,
+      "standardCoalSavings": 8146.96,
       "componentFlag": 0,
       "equivalentTreePlanting": 14,
-      "co2Reduction": 9669.26,
-      "standardCoalSavingsByYear": 7635.06
+      "co2Reduction": 9674.52,
+      "standardCoalSavingsByYear": 7639.49
     },
     "realKpi": {
-      "realTimePower": 22.89,
-      "cumulativeEnergy": 20356.33,
-      "monthEnergy": 2673.4,
-      "dailyEnergy": 153.84,
-      "yearEnergy": 19087.64
+      "realTimePower": 21.52,
+      "cumulativeEnergy": 20367.41,
+      "monthEnergy": 2684.48,
+      "dailyEnergy": 164.92,
+      "yearEnergy": 19098.72
     }
   },
   "PARTINICO - POSTE ITALIANE": {
@@ -13784,6 +13824,7 @@
       "group": "ALTRI",
       "Potenza": 10.5,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -14121,6 +14162,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 30.66,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -14458,6 +14500,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 15.12,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -14795,6 +14838,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -15132,6 +15176,7 @@
       "group": "POSTE UDINE",
       "Potenza": 8,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -15469,6 +15514,7 @@
       "group": "POSTE EMILIA",
       "Potenza": 20,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -15806,6 +15852,7 @@
       "group": "POSTE UDINE",
       "Potenza": 15,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -16143,6 +16190,7 @@
       "group": "POSTE LOMBARDIA",
       "Potenza": 168,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -16362,12 +16410,12 @@
           "15:00": 3.82,
           "15:05": 3.79,
           "15:10": 3.74,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 3.7,
+          "15:20": 3.7,
+          "15:25": 3.64,
+          "15:30": 3.57,
+          "15:35": 3.45,
+          "15:40": 3.37,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -16469,7 +16517,7 @@
           "23:55": null
         }
       },
-      "currentPower": "3.74"
+      "currentPower": "3.37"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - BONDENO",
@@ -16480,6 +16528,7 @@
       "group": "POSTE EMILIA",
       "Potenza": 6,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -16496,20 +16545,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1295.78,
+      "co2ReductionByYear": 1296.64,
       "equivalentTreePlantingByYear": 2,
-      "standardCoalSavings": 1957.22,
+      "standardCoalSavings": 1957.94,
       "componentFlag": 0,
       "equivalentTreePlanting": 4,
-      "co2Reduction": 2324.2,
-      "standardCoalSavingsByYear": 1091.18
+      "co2Reduction": 2325.05,
+      "standardCoalSavingsByYear": 1091.9
     },
     "realKpi": {
-      "realTimePower": 3.74,
-      "cumulativeEnergy": 4893.05,
-      "monthEnergy": 393.57,
-      "dailyEnergy": 22.71,
-      "yearEnergy": 2727.96
+      "realTimePower": 3.37,
+      "cumulativeEnergy": 4894.85,
+      "monthEnergy": 395.37,
+      "dailyEnergy": 24.51,
+      "yearEnergy": 2729.76
     }
   },
   "Poste Italiane - Brescia": {
@@ -16696,14 +16745,14 @@
           "14:45": 206.01,
           "14:50": 208.26,
           "14:55": 206.21,
-          "15:00": 131.08,
+          "15:00": 204.27,
           "15:05": 206.21,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 202.49,
+          "15:15": 198.87,
+          "15:20": 191.56,
+          "15:25": 192.72,
+          "15:30": 191.64,
+          "15:35": 190.45,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -16806,7 +16855,7 @@
           "23:55": null
         }
       },
-      "currentPower": "206.17"
+      "currentPower": "190.5"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - BRESCIA",
@@ -16817,6 +16866,7 @@
       "group": "POSTE LOMBARDIA",
       "Potenza": 328.5,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -16833,20 +16883,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 78282.24,
-      "equivalentTreePlantingByYear": 107,
-      "standardCoalSavings": 344046.35,
+      "co2ReductionByYear": 78328.91,
+      "equivalentTreePlantingByYear": 108,
+      "standardCoalSavings": 344085.65,
       "componentFlag": 0,
       "equivalentTreePlanting": 559,
-      "co2Reduction": 408555.04,
-      "standardCoalSavingsByYear": 65921.88
+      "co2Reduction": 408601.71,
+      "standardCoalSavingsByYear": 65961.18
     },
     "realKpi": {
-      "realTimePower": 206.17,
-      "cumulativeEnergy": 860115.87,
-      "monthEnergy": 21618.21,
-      "dailyEnergy": 1352.71,
-      "yearEnergy": 164804.71
+      "realTimePower": 190.5,
+      "cumulativeEnergy": 860214.12,
+      "monthEnergy": 21716.46,
+      "dailyEnergy": 1450.96,
+      "yearEnergy": 164902.96
     }
   },
   "Poste Italiane Calestano": {
@@ -17033,14 +17083,14 @@
           "14:45": 6.38,
           "14:50": 6.26,
           "14:55": 6.22,
-          "15:00": null,
+          "15:00": 6.2,
           "15:05": 6.13,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 6.14,
+          "15:15": 6.11,
+          "15:20": 6.06,
+          "15:25": 6,
+          "15:30": 5.92,
+          "15:35": 5.83,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -17143,7 +17193,7 @@
           "23:55": null
         }
       },
-      "currentPower": "6.13"
+      "currentPower": "5.83"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - CALESTANO",
@@ -17154,6 +17204,7 @@
       "group": "POSTE EMILIA",
       "Potenza": 8.82,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -17170,20 +17221,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1989.51,
+      "co2ReductionByYear": 1990.94,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 4899.54,
+      "standardCoalSavings": 4900.74,
       "componentFlag": 0,
       "equivalentTreePlanting": 8,
-      "co2Reduction": 5818.2,
-      "standardCoalSavingsByYear": 1675.38
+      "co2Reduction": 5819.62,
+      "standardCoalSavingsByYear": 1676.58
     },
     "realKpi": {
-      "realTimePower": 6.13,
-      "cumulativeEnergy": 12248.84,
-      "monthEnergy": 662.18,
-      "dailyEnergy": 35.89,
-      "yearEnergy": 4188.45
+      "realTimePower": 5.83,
+      "cumulativeEnergy": 12251.84,
+      "monthEnergy": 665.18,
+      "dailyEnergy": 38.89,
+      "yearEnergy": 4191.45
     }
   },
   "Poste Italiane Caorso": {
@@ -17370,15 +17421,15 @@
           "14:45": 10.02,
           "14:50": 10.05,
           "14:55": 9.94,
-          "15:00": null,
-          "15:05": null,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:00": 10.01,
+          "15:05": 9.98,
+          "15:10": 10.06,
+          "15:15": 9.98,
+          "15:20": 9.91,
+          "15:25": 9.86,
+          "15:30": 9.74,
+          "15:35": 9.69,
+          "15:40": 9.68,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -17480,7 +17531,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.97"
+      "currentPower": "9.68"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - CAORSO",
@@ -17491,6 +17542,7 @@
       "group": "POSTE EMILIA",
       "Potenza": 15.54,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -17507,20 +17559,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3240.51,
+      "co2ReductionByYear": 3244.03,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 7018.16,
+      "standardCoalSavings": 7021.12,
       "componentFlag": 0,
       "equivalentTreePlanting": 12,
-      "co2Reduction": 8334.07,
-      "standardCoalSavingsByYear": 2728.85
+      "co2Reduction": 8337.58,
+      "standardCoalSavingsByYear": 2731.82
     },
     "realKpi": {
-      "realTimePower": 9.97,
-      "cumulativeEnergy": 17545.4,
-      "monthEnergy": 950.53,
-      "dailyEnergy": 48.48,
-      "yearEnergy": 6822.13
+      "realTimePower": 9.68,
+      "cumulativeEnergy": 17552.81,
+      "monthEnergy": 957.94,
+      "dailyEnergy": 55.89,
+      "yearEnergy": 6829.54
     }
   },
   "Poste Italiane Dovadola": {
@@ -17708,13 +17760,13 @@
           "14:50": 4.68,
           "14:55": 4.67,
           "15:00": 4.57,
-          "15:05": null,
+          "15:05": 4.44,
           "15:10": 4.44,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:15": 4.39,
+          "15:20": 4.37,
+          "15:25": 4.29,
+          "15:30": 4.21,
+          "15:35": 4.18,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -17817,7 +17869,7 @@
           "23:55": null
         }
       },
-      "currentPower": "4.76"
+      "currentPower": "4.16"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - DOVADOLA",
@@ -17828,6 +17880,7 @@
       "group": "POSTE EMILIA",
       "Potenza": 8.4,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -17844,20 +17897,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1464.45,
+      "co2ReductionByYear": 1466.21,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 2836.76,
+      "standardCoalSavings": 2838.24,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3368.65,
-      "standardCoalSavingsByYear": 1233.22
+      "co2Reduction": 3370.41,
+      "standardCoalSavingsByYear": 1234.7
     },
     "realKpi": {
-      "realTimePower": 4.76,
-      "cumulativeEnergy": 7091.9,
-      "monthEnergy": 491.05,
-      "dailyEnergy": 25.28,
-      "yearEnergy": 3083.05
+      "realTimePower": 4.16,
+      "cumulativeEnergy": 7095.6,
+      "monthEnergy": 494.75,
+      "dailyEnergy": 28.98,
+      "yearEnergy": 3086.75
     }
   },
   "Poste Italiane Langhirano": {
@@ -18165,6 +18218,7 @@
       "group": "POSTE EMILIA",
       "Potenza": 20,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -18502,6 +18556,7 @@
       "group": "ALTRI",
       "Potenza": 26.84,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -18839,6 +18894,7 @@
       "group": "POSTE LOMBARDIA",
       "Potenza": 81,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -19176,6 +19232,7 @@
       "group": "POSTE LOMBARDIA",
       "Potenza": 332.88,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -19394,12 +19451,12 @@
           "14:55": 13.42,
           "15:00": 13.5,
           "15:05": 13.24,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 12.57,
+          "15:15": 12.01,
+          "15:20": 12.72,
+          "15:25": 12.64,
+          "15:30": 12.62,
+          "15:35": 12.56,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -19502,7 +19559,7 @@
           "23:55": null
         }
       },
-      "currentPower": "13.24"
+      "currentPower": "12.56"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - MARCON",
@@ -19513,6 +19570,7 @@
       "group": "POSTE VENETO",
       "Potenza": 20.25,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -19529,20 +19587,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3742.94,
+      "co2ReductionByYear": 3745.93,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 17747.12,
+      "standardCoalSavings": 17749.63,
       "componentFlag": 0,
       "equivalentTreePlanting": 29,
-      "co2Reduction": 21074.7,
-      "standardCoalSavingsByYear": 3151.95
+      "co2Reduction": 21077.68,
+      "standardCoalSavingsByYear": 3154.46
     },
     "realKpi": {
-      "realTimePower": 13.24,
-      "cumulativeEnergy": 44367.79,
-      "monthEnergy": 1397.28,
-      "dailyEnergy": 84.59,
-      "yearEnergy": 7879.88
+      "realTimePower": 12.56,
+      "cumulativeEnergy": 44374.07,
+      "monthEnergy": 1403.56,
+      "dailyEnergy": 90.87,
+      "yearEnergy": 7886.16
     }
   },
   "Poste Italiane - Martellago": {
@@ -19850,6 +19908,7 @@
       "group": "POSTE VENETO",
       "Potenza": 24.75,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -20187,6 +20246,7 @@
       "group": "POSTE EMILIA",
       "Potenza": 10,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -20406,12 +20466,12 @@
           "15:00": 4.63,
           "15:05": 4.71,
           "15:10": 4.36,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 4.29,
+          "15:20": 4.31,
+          "15:25": 4.37,
+          "15:30": 4.38,
+          "15:35": 4.18,
+          "15:40": 3.98,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -20513,7 +20573,7 @@
           "23:55": null
         }
       },
-      "currentPower": "4.36"
+      "currentPower": "3.98"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - MERETO DI TOMBA",
@@ -20524,6 +20584,7 @@
       "group": "POSTE UDINE",
       "Potenza": 7.04,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -20540,20 +20601,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1571.92,
+      "co2ReductionByYear": 1572.94,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 1846.28,
+      "standardCoalSavings": 1847.14,
       "componentFlag": 0,
       "equivalentTreePlanting": 3,
-      "co2Reduction": 2192.46,
-      "standardCoalSavingsByYear": 1323.72
+      "co2Reduction": 2193.48,
+      "standardCoalSavingsByYear": 1324.58
     },
     "realKpi": {
-      "realTimePower": 4.36,
-      "cumulativeEnergy": 4615.71,
-      "monthEnergy": 471.18,
-      "dailyEnergy": 32.4,
-      "yearEnergy": 3309.31
+      "realTimePower": 3.98,
+      "cumulativeEnergy": 4617.86,
+      "monthEnergy": 473.33,
+      "dailyEnergy": 34.55,
+      "yearEnergy": 3311.46
     }
   },
   "Poste Italiane - Mira Oriago": {
@@ -20742,12 +20803,12 @@
           "14:55": 11.33,
           "15:00": 13.09,
           "15:05": 12.96,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 13.5,
+          "15:15": 13.45,
+          "15:20": 13.47,
+          "15:25": 13.36,
+          "15:30": 13.22,
+          "15:35": 12.94,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -20850,7 +20911,7 @@
           "23:55": null
         }
       },
-      "currentPower": "12.96"
+      "currentPower": "12.88"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - ORIAGO",
@@ -20861,6 +20922,7 @@
       "group": "POSTE VENETO",
       "Potenza": 22.5,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -20877,20 +20939,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 5375.92,
+      "co2ReductionByYear": 5379.06,
       "equivalentTreePlantingByYear": 8,
-      "standardCoalSavings": 23007.27,
+      "standardCoalSavings": 23009.92,
       "componentFlag": 0,
       "equivalentTreePlanting": 38,
-      "co2Reduction": 27321.13,
-      "standardCoalSavingsByYear": 4527.09
+      "co2Reduction": 27324.28,
+      "standardCoalSavingsByYear": 4529.74
     },
     "realKpi": {
-      "realTimePower": 12.96,
-      "cumulativeEnergy": 57518.17,
-      "monthEnergy": 1571.78,
-      "dailyEnergy": 99.52,
-      "yearEnergy": 11317.72
+      "realTimePower": 12.88,
+      "cumulativeEnergy": 57524.79,
+      "monthEnergy": 1578.4,
+      "dailyEnergy": 106.14,
+      "yearEnergy": 11324.34
     }
   },
   "Poste Italiane - Ovaro": {
@@ -21080,12 +21142,12 @@
           "15:00": 8.04,
           "15:05": 7.32,
           "15:10": 7.69,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 7.93,
+          "15:20": 7.75,
+          "15:25": 7.5,
+          "15:30": 7.02,
+          "15:35": 7.03,
+          "15:40": 6.97,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -21187,7 +21249,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.7"
+      "currentPower": "7"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - OVARO",
@@ -21198,6 +21260,7 @@
       "group": "POSTE UDINE",
       "Potenza": 13.2,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -21214,20 +21277,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2764.52,
+      "co2ReductionByYear": 2766.29,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 3319.86,
+      "standardCoalSavings": 3321.34,
       "componentFlag": 0,
       "equivalentTreePlanting": 6,
-      "co2Reduction": 3942.33,
-      "standardCoalSavingsByYear": 2328.02
+      "co2Reduction": 3944.1,
+      "standardCoalSavingsByYear": 2329.5
     },
     "realKpi": {
-      "realTimePower": 7.7,
-      "cumulativeEnergy": 8299.64,
-      "monthEnergy": 719.96,
-      "dailyEnergy": 56.56,
-      "yearEnergy": 5820.04
+      "realTimePower": 7,
+      "cumulativeEnergy": 8303.36,
+      "monthEnergy": 723.68,
+      "dailyEnergy": 60.28,
+      "yearEnergy": 5823.76
     }
   },
   "Poste Italiane - Mestre": {
@@ -21535,6 +21598,7 @@
       "group": "POSTE VENETO",
       "Potenza": 353.25,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -21753,12 +21817,12 @@
           "14:55": 18.17,
           "15:00": 17.86,
           "15:05": 17.88,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 17.98,
+          "15:15": 18.18,
+          "15:20": 17.53,
+          "15:25": 14.99,
+          "15:30": 13.58,
+          "15:35": 14.83,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -21861,7 +21925,7 @@
           "23:55": null
         }
       },
-      "currentPower": "17.88"
+      "currentPower": "14.83"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - PREGANZIOL",
@@ -21872,6 +21936,7 @@
       "group": "POSTE VENETO",
       "Potenza": 26.25,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -21888,20 +21953,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 6534.89,
+      "co2ReductionByYear": 6538.76,
       "equivalentTreePlantingByYear": 9,
-      "standardCoalSavings": 25117.44,
+      "standardCoalSavings": 25120.69,
       "componentFlag": 0,
       "equivalentTreePlanting": 41,
-      "co2Reduction": 29826.96,
-      "standardCoalSavingsByYear": 5503.07
+      "co2Reduction": 29830.82,
+      "standardCoalSavingsByYear": 5506.32
     },
     "realKpi": {
-      "realTimePower": 17.88,
-      "cumulativeEnergy": 62793.59,
-      "monthEnergy": 1960.68,
-      "dailyEnergy": 115.07,
-      "yearEnergy": 13757.67
+      "realTimePower": 14.83,
+      "cumulativeEnergy": 62801.73,
+      "monthEnergy": 1968.82,
+      "dailyEnergy": 123.21,
+      "yearEnergy": 13765.81
     }
   },
   "Poste Italiane - Ragogna": {
@@ -22209,6 +22274,7 @@
       "group": "POSTE UDINE",
       "Potenza": 8.8,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -22428,12 +22494,12 @@
           "15:00": 11.14,
           "15:05": 10.93,
           "15:10": 10.86,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 10.82,
+          "15:20": 10.77,
+          "15:25": 10.57,
+          "15:30": 10.5,
+          "15:35": 10.4,
+          "15:40": 10.19,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -22535,7 +22601,7 @@
           "23:55": null
         }
       },
-      "currentPower": "10.86"
+      "currentPower": "10.19"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - ROLO",
@@ -22546,6 +22612,7 @@
       "group": "POSTE EMILIA",
       "Potenza": 17.25,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -22562,20 +22629,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3868.86,
+      "co2ReductionByYear": 3871.37,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 5727.1,
+      "standardCoalSavings": 5729.22,
       "componentFlag": 0,
       "equivalentTreePlanting": 10,
-      "co2Reduction": 6800.93,
-      "standardCoalSavingsByYear": 3257.98
+      "co2Reduction": 6803.44,
+      "standardCoalSavingsByYear": 3260.1
     },
     "realKpi": {
-      "realTimePower": 10.86,
-      "cumulativeEnergy": 14317.74,
-      "monthEnergy": 1241.17,
-      "dailyEnergy": 72.05,
-      "yearEnergy": 8144.96
+      "realTimePower": 10.19,
+      "cumulativeEnergy": 14323.04,
+      "monthEnergy": 1246.47,
+      "dailyEnergy": 77.35,
+      "yearEnergy": 8150.26
     }
   },
   "Poste Italiane - Roserio": {
@@ -22883,6 +22950,7 @@
       "group": "POSTE LOMBARDIA",
       "Potenza": 452.25,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -23102,12 +23170,12 @@
           "15:00": 12.72,
           "15:05": 12.33,
           "15:10": 11.93,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 11.63,
+          "15:20": 11.45,
+          "15:25": 11.3,
+          "15:30": 11.11,
+          "15:35": 10.97,
+          "15:40": 10.8,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -23209,7 +23277,7 @@
           "23:55": null
         }
       },
-      "currentPower": "11.95"
+      "currentPower": "10.81"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - SAN MAURO PASCOLI",
@@ -23220,6 +23288,7 @@
       "group": "POSTE EMILIA",
       "Potenza": 20,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -23236,20 +23305,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 4660.52,
+      "co2ReductionByYear": 4663.2,
       "equivalentTreePlantingByYear": 7,
-      "standardCoalSavings": 8852.12,
+      "standardCoalSavings": 8854.37,
       "componentFlag": 0,
       "equivalentTreePlanting": 15,
-      "co2Reduction": 10511.89,
-      "standardCoalSavingsByYear": 3924.65
+      "co2Reduction": 10514.57,
+      "standardCoalSavingsByYear": 3926.91
     },
     "realKpi": {
-      "realTimePower": 11.95,
-      "cumulativeEnergy": 22130.29,
-      "monthEnergy": 1429.71,
-      "dailyEnergy": 84.42,
-      "yearEnergy": 9811.63
+      "realTimePower": 10.81,
+      "cumulativeEnergy": 22135.93,
+      "monthEnergy": 1435.35,
+      "dailyEnergy": 90.06,
+      "yearEnergy": 9817.27
     }
   },
   "Poste Italiane Sant'Agata Feltria": {
@@ -23439,11 +23508,11 @@
           "15:00": 4.37,
           "15:05": 4.34,
           "15:10": 4.28,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:15": 4.25,
+          "15:20": 4.22,
+          "15:25": 4.16,
+          "15:30": 4.1,
+          "15:35": 4.08,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -23546,7 +23615,7 @@
           "23:55": null
         }
       },
-      "currentPower": "4.34"
+      "currentPower": "4.08"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - SANTA AGATA FELTRIA",
@@ -23557,6 +23626,7 @@
       "group": "POSTE EMILIA",
       "Potenza": 6,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -23573,20 +23643,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1576.64,
+      "co2ReductionByYear": 1577.64,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 3101.1,
+      "standardCoalSavings": 3101.94,
       "componentFlag": 0,
       "equivalentTreePlanting": 6,
-      "co2Reduction": 3682.55,
-      "standardCoalSavingsByYear": 1327.7
+      "co2Reduction": 3683.55,
+      "standardCoalSavingsByYear": 1328.54
     },
     "realKpi": {
-      "realTimePower": 4.34,
-      "cumulativeEnergy": 7752.74,
-      "monthEnergy": 482.79,
-      "dailyEnergy": 27.52,
-      "yearEnergy": 3319.24
+      "realTimePower": 4.08,
+      "cumulativeEnergy": 7754.84,
+      "monthEnergy": 484.89,
+      "dailyEnergy": 29.62,
+      "yearEnergy": 3321.34
     }
   },
   "Poste Italiane - Santa Maria di Sala": {
@@ -23775,12 +23845,12 @@
           "14:55": 7.25,
           "15:00": 7.18,
           "15:05": 7.16,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 7.1,
+          "15:15": 6.96,
+          "15:20": 6.88,
+          "15:25": 6.75,
+          "15:30": 6.46,
+          "15:35": 6.45,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -23883,7 +23953,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.13"
+      "currentPower": "6.42"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - SANTA MARIA SALA",
@@ -23894,6 +23964,7 @@
       "group": "POSTE VENETO",
       "Potenza": 10.5,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -23910,20 +23981,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2292.98,
+      "co2ReductionByYear": 2294.6,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 9599.45,
+      "standardCoalSavings": 9600.82,
       "componentFlag": 0,
       "equivalentTreePlanting": 16,
-      "co2Reduction": 11399.35,
-      "standardCoalSavingsByYear": 1930.93
+      "co2Reduction": 11400.97,
+      "standardCoalSavingsByYear": 1932.29
     },
     "realKpi": {
-      "realTimePower": 7.13,
-      "cumulativeEnergy": 23998.63,
-      "monthEnergy": 706.32,
-      "dailyEnergy": 42.32,
-      "yearEnergy": 4827.32
+      "realTimePower": 6.42,
+      "cumulativeEnergy": 24002.04,
+      "monthEnergy": 709.73,
+      "dailyEnergy": 45.73,
+      "yearEnergy": 4830.73
     }
   },
   "Poste Italiane Sarsina": {
@@ -24112,12 +24183,12 @@
           "14:55": 5.43,
           "15:00": 5.36,
           "15:05": 5.24,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 5.21,
+          "15:15": 5.12,
+          "15:20": 5.02,
+          "15:25": 4.94,
+          "15:30": 4.5,
+          "15:35": 4.75,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -24220,7 +24291,7 @@
           "23:55": null
         }
       },
-      "currentPower": "5.53"
+      "currentPower": "4.75"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - SARSINA",
@@ -24231,6 +24302,7 @@
       "group": "POSTE EMILIA",
       "Potenza": 8.25,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -24247,20 +24319,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1952.45,
+      "co2ReductionByYear": 1954.49,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 4502.89,
+      "standardCoalSavings": 4504.6,
       "componentFlag": 0,
       "equivalentTreePlanting": 8,
-      "co2Reduction": 5347.18,
-      "standardCoalSavingsByYear": 1644.17
+      "co2Reduction": 5349.22,
+      "standardCoalSavingsByYear": 1645.89
     },
     "realKpi": {
-      "realTimePower": 5.53,
-      "cumulativeEnergy": 11257.22,
-      "monthEnergy": 556.37,
-      "dailyEnergy": 35.9,
-      "yearEnergy": 4110.43
+      "realTimePower": 4.75,
+      "cumulativeEnergy": 11261.51,
+      "monthEnergy": 560.66,
+      "dailyEnergy": 40.19,
+      "yearEnergy": 4114.72
     }
   },
   "Poste Italiane - Sequals": {
@@ -24450,12 +24522,12 @@
           "15:00": 6,
           "15:05": 6,
           "15:10": 6,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 5.98,
+          "15:20": 5.94,
+          "15:25": 5.94,
+          "15:30": 5.83,
+          "15:35": 5.7,
+          "15:40": 5.26,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -24557,7 +24629,7 @@
           "23:55": null
         }
       },
-      "currentPower": "6"
+      "currentPower": "5.23"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - SEQUALS",
@@ -24568,6 +24640,7 @@
       "group": "POSTE UDINE",
       "Potenza": 8.8,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -24584,20 +24657,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2120.66,
+      "co2ReductionByYear": 2122.05,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 2708.28,
+      "standardCoalSavings": 2709.46,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3216.09,
-      "standardCoalSavingsByYear": 1785.82
+      "co2Reduction": 3217.48,
+      "standardCoalSavingsByYear": 1786.99
     },
     "realKpi": {
-      "realTimePower": 6,
-      "cumulativeEnergy": 6770.71,
-      "monthEnergy": 509.17,
-      "dailyEnergy": 39.46,
-      "yearEnergy": 4464.55
+      "realTimePower": 5.23,
+      "cumulativeEnergy": 6773.64,
+      "monthEnergy": 512.1,
+      "dailyEnergy": 42.39,
+      "yearEnergy": 4467.48
     }
   },
   "Poste Italiane Villanova": {
@@ -24787,12 +24860,12 @@
           "15:00": 5.63,
           "15:05": 5.62,
           "15:10": 5.67,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 5.6,
+          "15:20": 5.51,
+          "15:25": 5.44,
+          "15:30": 5.42,
+          "15:35": 5.29,
+          "15:40": 5.3,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -24894,7 +24967,7 @@
           "23:55": null
         }
       },
-      "currentPower": "5.67"
+      "currentPower": "5.29"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - VILLANOVA SULL ARDA",
@@ -24905,6 +24978,7 @@
       "group": "POSTE EMILIA",
       "Potenza": 9.375,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -24921,20 +24995,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2005.24,
+      "co2ReductionByYear": 2006.33,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 4372.33,
+      "standardCoalSavings": 4373.25,
       "componentFlag": 0,
       "equivalentTreePlanting": 8,
-      "co2Reduction": 5192.14,
-      "standardCoalSavingsByYear": 1688.62
+      "co2Reduction": 5193.23,
+      "standardCoalSavingsByYear": 1689.54
     },
     "realKpi": {
-      "realTimePower": 5.67,
-      "cumulativeEnergy": 10930.83,
-      "monthEnergy": 566.74,
-      "dailyEnergy": 34.45,
-      "yearEnergy": 4221.56
+      "realTimePower": 5.29,
+      "cumulativeEnergy": 10933.12,
+      "monthEnergy": 569.03,
+      "dailyEnergy": 36.74,
+      "yearEnergy": 4223.85
     }
   },
   "POSTE SETTIMO MILANESE": {
@@ -25242,6 +25316,7 @@
       "group": "ALTRI",
       "Potenza": 20,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -25460,12 +25535,12 @@
           "14:55": 408.46,
           "15:00": 403.85,
           "15:05": 400.55,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 398.03,
+          "15:15": 393.76,
+          "15:20": 383.53,
+          "15:25": 385.36,
+          "15:30": 383.29,
+          "15:35": 381.61,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -25568,7 +25643,7 @@
           "23:55": null
         }
       },
-      "currentPower": "400.06"
+      "currentPower": "381.77"
     },
     "stationOverview": {
       "stationName": " Postel MELZO",
@@ -25579,6 +25654,7 @@
       "group": "POSTE LOMBARDIA",
       "Potenza": 668.04,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -25595,20 +25671,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 163150.03,
-      "equivalentTreePlantingByYear": 223,
-      "standardCoalSavings": 479274.58,
+      "co2ReductionByYear": 163242.51,
+      "equivalentTreePlantingByYear": 224,
+      "standardCoalSavings": 479352.46,
       "componentFlag": 0,
       "equivalentTreePlanting": 778,
-      "co2Reduction": 569138.56,
-      "standardCoalSavingsByYear": 137389.5
+      "co2Reduction": 569231.05,
+      "standardCoalSavingsByYear": 137467.38
     },
     "realKpi": {
-      "realTimePower": 400.06,
-      "cumulativeEnergy": 1198186.45,
-      "monthEnergy": 42224.55,
-      "dailyEnergy": 2642.75,
-      "yearEnergy": 343473.75
+      "realTimePower": 381.77,
+      "cumulativeEnergy": 1198381.15,
+      "monthEnergy": 42419.25,
+      "dailyEnergy": 2837.45,
+      "yearEnergy": 343668.45
     }
   },
   "PRATICO ANTONIO": {
@@ -25797,12 +25873,12 @@
           "14:55": 11.19,
           "15:00": 11.09,
           "15:05": 11.24,
-          "15:10": 10.89,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 11.16,
+          "15:15": 10.92,
+          "15:20": 10.81,
+          "15:25": 10.68,
+          "15:30": 10.6,
+          "15:35": 10.52,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -25905,7 +25981,7 @@
           "23:55": null
         }
       },
-      "currentPower": "11.22"
+      "currentPower": "10.54"
     },
     "stationOverview": {
       "stationName": "PRATICO ANTONIO",
@@ -25916,6 +25992,7 @@
       "group": "ALTRI",
       "Potenza": 20,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -25932,20 +26009,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3922.48,
+      "co2ReductionByYear": 3925.05,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 9909.4,
+      "standardCoalSavings": 9911.56,
       "componentFlag": 0,
       "equivalentTreePlanting": 17,
-      "co2Reduction": 11767.41,
-      "standardCoalSavingsByYear": 3303.14
+      "co2Reduction": 11769.97,
+      "standardCoalSavingsByYear": 3305.3
     },
     "realKpi": {
-      "realTimePower": 11.22,
-      "cumulativeEnergy": 24773.49,
-      "monthEnergy": 997.34,
-      "dailyEnergy": 70.78,
-      "yearEnergy": 8257.86
+      "realTimePower": 10.54,
+      "cumulativeEnergy": 24778.89,
+      "monthEnergy": 1002.74,
+      "dailyEnergy": 76.18,
+      "yearEnergy": 8263.26
     }
   },
   "Poste Italiane Priolo Gargallo": {
@@ -26253,6 +26330,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 48.72,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -26590,6 +26668,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 21,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -26927,6 +27006,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 32.34,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -27145,12 +27225,12 @@
           "14:55": 11.39,
           "15:00": 11.52,
           "15:05": 11.13,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 10.81,
+          "15:15": 10.72,
+          "15:20": 10.65,
+          "15:25": 10.62,
+          "15:30": 10.35,
+          "15:35": 10.14,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -27253,7 +27333,7 @@
           "23:55": null
         }
       },
-      "currentPower": "11.11"
+      "currentPower": "10.14"
     },
     "stationOverview": {
       "stationName": "RANDAZZO - POSTE ITALIANE",
@@ -27264,6 +27344,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 15,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -27280,20 +27361,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2436.18,
+      "co2ReductionByYear": 2438.71,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 9439.37,
+      "standardCoalSavings": 9441.49,
       "componentFlag": 0,
       "equivalentTreePlanting": 16,
-      "co2Reduction": 11209.25,
-      "standardCoalSavingsByYear": 2051.52
+      "co2Reduction": 11211.77,
+      "standardCoalSavingsByYear": 2053.65
     },
     "realKpi": {
-      "realTimePower": 11.11,
-      "cumulativeEnergy": 23598.42,
-      "monthEnergy": 1098.3,
-      "dailyEnergy": 66.93,
-      "yearEnergy": 5128.81
+      "realTimePower": 10.14,
+      "cumulativeEnergy": 23603.73,
+      "monthEnergy": 1103.61,
+      "dailyEnergy": 72.24,
+      "yearEnergy": 5134.12
     }
   },
   "Poste Italiane Resuttano": {
@@ -27601,6 +27682,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 12.6,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -27938,6 +28020,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 52.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -28157,12 +28240,12 @@
           "15:00": 8.54,
           "15:05": 8.36,
           "15:10": 8.36,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 8.28,
+          "15:20": 8.18,
+          "15:25": 8.16,
+          "15:30": 8.06,
+          "15:35": 7.94,
+          "15:40": 7.82,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -28264,7 +28347,7 @@
           "23:55": null
         }
       },
-      "currentPower": "8.36"
+      "currentPower": "7.96"
     },
     "stationOverview": {
       "stationName": "ROCCAMENA - POSTE ITALIANE",
@@ -28275,6 +28358,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -28291,20 +28375,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3489.46,
+      "co2ReductionByYear": 3491.07,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 4348.13,
+      "standardCoalSavings": 4349.48,
       "componentFlag": 0,
       "equivalentTreePlanting": 8,
-      "co2Reduction": 5163.4,
-      "standardCoalSavingsByYear": 2938.5
+      "co2Reduction": 5165.01,
+      "standardCoalSavingsByYear": 2939.85
     },
     "realKpi": {
-      "realTimePower": 8.36,
-      "cumulativeEnergy": 10870.32,
-      "monthEnergy": 926.43,
-      "dailyEnergy": 55.18,
-      "yearEnergy": 7346.24
+      "realTimePower": 7.96,
+      "cumulativeEnergy": 10873.71,
+      "monthEnergy": 929.82,
+      "dailyEnergy": 58.57,
+      "yearEnergy": 7349.63
     }
   },
   "ROCCOPIRRI - POSTE ITALIANE": {
@@ -28612,6 +28696,7 @@
       "group": "ALTRI",
       "Potenza": 32.25,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -28831,12 +28916,12 @@
           "15:00": 302.29,
           "15:05": 302.88,
           "15:10": 302.34,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 300.25,
+          "15:20": 295.24,
+          "15:25": 290.71,
+          "15:30": 287.35,
+          "15:35": 284.24,
+          "15:40": 69.35,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -28938,7 +29023,7 @@
           "23:55": null
         }
       },
-      "currentPower": "302.85"
+      "currentPower": "284.1"
     },
     "stationOverview": {
       "stationName": "ROSSI GIANT",
@@ -28949,6 +29034,7 @@
       "group": "EDISON",
       "Potenza": 532.59,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -28965,20 +29051,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 120908.01,
+      "co2ReductionByYear": 120978.04,
       "equivalentTreePlantingByYear": 166,
-      "standardCoalSavings": 275045.84,
+      "standardCoalSavings": 275104.81,
       "componentFlag": 0,
       "equivalentTreePlanting": 447,
-      "co2Reduction": 326616.94,
-      "standardCoalSavingsByYear": 101817.27
+      "co2Reduction": 326686.96,
+      "standardCoalSavingsByYear": 101876.24
     },
     "realKpi": {
-      "realTimePower": 302.85,
-      "cumulativeEnergy": 687614.61,
-      "monthEnergy": 34841.98,
-      "dailyEnergy": 2108.18,
-      "yearEnergy": 254543.18
+      "realTimePower": 284.1,
+      "cumulativeEnergy": 687762.03,
+      "monthEnergy": 34989.4,
+      "dailyEnergy": 2255.6,
+      "yearEnergy": 254690.6
     }
   },
   "Poste Italiane Salaparuta": {
@@ -29168,12 +29254,12 @@
           "15:00": 9.78,
           "15:05": 9.66,
           "15:10": 9.55,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 9.39,
+          "15:20": 9.34,
+          "15:25": 9.15,
+          "15:30": 9.03,
+          "15:35": 8.89,
+          "15:40": 8.81,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -29275,7 +29361,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.66"
+      "currentPower": "8.87"
     },
     "stationOverview": {
       "stationName": "SALAPARUTA - POSTE ITALIANE",
@@ -29286,6 +29372,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 13.5,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -29302,20 +29389,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 4344.05,
+      "co2ReductionByYear": 4346.25,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 11195.4,
+      "standardCoalSavings": 11197.26,
       "componentFlag": 0,
       "equivalentTreePlanting": 19,
-      "co2Reduction": 13294.54,
-      "standardCoalSavingsByYear": 3658.15
+      "co2Reduction": 13296.74,
+      "standardCoalSavingsByYear": 3660
     },
     "realKpi": {
-      "realTimePower": 9.66,
-      "cumulativeEnergy": 27988.5,
-      "monthEnergy": 1183.54,
-      "dailyEnergy": 69.51,
-      "yearEnergy": 9145.37
+      "realTimePower": 8.87,
+      "cumulativeEnergy": 27993.14,
+      "monthEnergy": 1188.18,
+      "dailyEnergy": 74.15,
+      "yearEnergy": 9150.01
     }
   },
   "Poste Italiane Sambuca di Sicilia": {
@@ -29623,6 +29710,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -29960,6 +30048,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -30297,6 +30386,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 23.52,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -30634,6 +30724,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 30.66,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -30852,12 +30943,12 @@
           "14:55": 11.16,
           "15:00": 11.05,
           "15:05": 10.78,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 10.86,
+          "15:15": 10.74,
+          "15:20": 10.52,
+          "15:25": 10.38,
+          "15:30": 10.3,
+          "15:35": 10.17,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -30960,7 +31051,7 @@
           "23:55": null
         }
       },
-      "currentPower": "10.79"
+      "currentPower": "10.18"
     },
     "stationOverview": {
       "stationName": "SANTA LUCIA DEL MELA - POSTE ITALIANE",
@@ -30971,6 +31062,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 15.12,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -30987,20 +31079,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 4547.62,
+      "co2ReductionByYear": 4550.13,
       "equivalentTreePlantingByYear": 7,
-      "standardCoalSavings": 10023.2,
+      "standardCoalSavings": 10025.31,
       "componentFlag": 0,
       "equivalentTreePlanting": 17,
-      "co2Reduction": 11902.55,
-      "standardCoalSavingsByYear": 3829.58
+      "co2Reduction": 11905.05,
+      "standardCoalSavingsByYear": 3831.69
     },
     "realKpi": {
-      "realTimePower": 10.79,
-      "cumulativeEnergy": 25057.99,
-      "monthEnergy": 1324.29,
-      "dailyEnergy": 72.77,
-      "yearEnergy": 9573.94
+      "realTimePower": 10.18,
+      "cumulativeEnergy": 25063.27,
+      "monthEnergy": 1329.57,
+      "dailyEnergy": 78.05,
+      "yearEnergy": 9579.22
     }
   },
   "Poste Italiane S. Margherita Belice": {
@@ -31308,6 +31400,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 62.16,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -31527,12 +31620,12 @@
           "15:00": 17.64,
           "15:05": 22.97,
           "15:10": 22.86,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 22.02,
+          "15:20": 22.24,
+          "15:25": 20.87,
+          "15:30": 20.42,
+          "15:35": 20.36,
+          "15:40": 20.09,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -31634,7 +31727,7 @@
           "23:55": null
         }
       },
-      "currentPower": "22.74"
+      "currentPower": "20.1"
     },
     "stationOverview": {
       "stationName": "SANTA TERESA DI RIVA - POSTE ITALIANE",
@@ -31645,6 +31738,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 32.34,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -31661,20 +31755,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 9286.59,
+      "co2ReductionByYear": 9291.61,
       "equivalentTreePlantingByYear": 13,
-      "standardCoalSavings": 8888.95,
+      "standardCoalSavings": 8893.18,
       "componentFlag": 0,
       "equivalentTreePlanting": 15,
-      "co2Reduction": 10555.63,
-      "standardCoalSavingsByYear": 7820.28
+      "co2Reduction": 10560.65,
+      "standardCoalSavingsByYear": 7824.52
     },
     "realKpi": {
-      "realTimePower": 22.74,
-      "cumulativeEnergy": 22222.37,
-      "monthEnergy": 2758.42,
-      "dailyEnergy": 157.81,
-      "yearEnergy": 19550.71
+      "realTimePower": 20.1,
+      "cumulativeEnergy": 22232.95,
+      "monthEnergy": 2769,
+      "dailyEnergy": 168.39,
+      "yearEnergy": 19561.29
     }
   },
   "SEIDITA": {
@@ -31864,12 +31958,12 @@
           "15:00": 79.65,
           "15:05": 78.6,
           "15:10": 77.73,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 76.66,
+          "15:20": 75.45,
+          "15:25": 74.61,
+          "15:30": 74.02,
+          "15:35": 72.44,
+          "15:40": 71.3,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -31971,7 +32065,7 @@
           "23:55": null
         }
       },
-      "currentPower": "77.64"
+      "currentPower": "71.44"
     },
     "stationOverview": {
       "stationName": "SEIDITA",
@@ -31982,6 +32076,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 125.46,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -31998,20 +32093,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 36160.49,
+      "co2ReductionByYear": 36178.27,
       "equivalentTreePlantingByYear": 50,
-      "standardCoalSavings": 64187.2,
+      "standardCoalSavings": 64202.17,
       "componentFlag": 0,
       "equivalentTreePlanting": 105,
-      "co2Reduction": 76222.3,
-      "standardCoalSavingsByYear": 30450.94
+      "co2Reduction": 76240.07,
+      "standardCoalSavingsByYear": 30465.91
     },
     "realKpi": {
-      "realTimePower": 77.64,
-      "cumulativeEnergy": 160467.99,
-      "monthEnergy": 9819.73,
-      "dailyEnergy": 562.35,
-      "yearEnergy": 76127.35
+      "realTimePower": 71.44,
+      "cumulativeEnergy": 160505.42,
+      "monthEnergy": 9857.16,
+      "dailyEnergy": 599.78,
+      "yearEnergy": 76164.78
     }
   },
   "Poste Italiane Serradifalco": {
@@ -32197,15 +32292,15 @@
           "14:40": 20.15,
           "14:45": 11.28,
           "14:50": 7.3,
-          "14:55": null,
-          "15:00": null,
-          "15:05": null,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "14:55": 8.23,
+          "15:00": 6.65,
+          "15:05": 19.69,
+          "15:10": 19.91,
+          "15:15": 7.4,
+          "15:20": 6.11,
+          "15:25": 18.69,
+          "15:30": 17.26,
+          "15:35": 6.51,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -32308,7 +32403,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.3"
+      "currentPower": "6.51"
     },
     "stationOverview": {
       "stationName": "SERRADIFALCO - POSTE ITALIANE",
@@ -32319,6 +32414,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 23.52,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -32335,20 +32431,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 7115.4,
+      "co2ReductionByYear": 7120.06,
       "equivalentTreePlantingByYear": 10,
-      "standardCoalSavings": 17682.38,
+      "standardCoalSavings": 17686.3,
       "componentFlag": 0,
       "equivalentTreePlanting": 29,
-      "co2Reduction": 20997.82,
-      "standardCoalSavingsByYear": 5991.92
+      "co2Reduction": 21002.48,
+      "standardCoalSavingsByYear": 5995.84
     },
     "realKpi": {
-      "realTimePower": 7.3,
-      "cumulativeEnergy": 44205.94,
-      "monthEnergy": 1841.54,
-      "dailyEnergy": 95.49,
-      "yearEnergy": 14979.79
+      "realTimePower": 6.51,
+      "cumulativeEnergy": 44215.74,
+      "monthEnergy": 1851.34,
+      "dailyEnergy": 105.29,
+      "yearEnergy": 14989.59
     }
   },
   "Poste Italiane Sommatino": {
@@ -32656,6 +32752,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 33.6,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -32875,12 +32972,12 @@
           "15:00": 15.32,
           "15:05": 15.21,
           "15:10": 14.96,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 14.74,
+          "15:20": 14.58,
+          "15:25": 14.45,
+          "15:30": 14.29,
+          "15:35": 14.02,
+          "15:40": 13.89,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -32982,7 +33079,7 @@
           "23:55": null
         }
       },
-      "currentPower": "14.97"
+      "currentPower": "13.87"
     },
     "stationOverview": {
       "stationName": "SPADAFORA - POSTE ITALIANE",
@@ -32993,6 +33090,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 23.52,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -33009,20 +33107,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 6790.43,
+      "co2ReductionByYear": 6793.86,
       "equivalentTreePlantingByYear": 10,
-      "standardCoalSavings": 6669.4,
+      "standardCoalSavings": 6672.28,
       "componentFlag": 0,
       "equivalentTreePlanting": 11,
-      "co2Reduction": 7919.91,
-      "standardCoalSavingsByYear": 5718.26
+      "co2Reduction": 7923.34,
+      "standardCoalSavingsByYear": 5721.14
     },
     "realKpi": {
-      "realTimePower": 14.97,
-      "cumulativeEnergy": 16673.49,
-      "monthEnergy": 1868.04,
-      "dailyEnergy": 103.44,
-      "yearEnergy": 14295.64
+      "realTimePower": 13.87,
+      "cumulativeEnergy": 16680.71,
+      "monthEnergy": 1875.26,
+      "dailyEnergy": 110.66,
+      "yearEnergy": 14302.86
     }
   },
   "SPERONE - POSTE ITALIANE": {
@@ -33330,6 +33428,7 @@
       "group": "ALTRI",
       "Potenza": 88.5,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -33667,6 +33766,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 8.82,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -33883,15 +33983,15 @@
           "14:45": 5.18,
           "14:50": 5.57,
           "14:55": 5.41,
-          "15:00": null,
+          "15:00": 7.04,
           "15:05": 7.22,
           "15:10": 7.14,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 7.23,
+          "15:20": 7.15,
+          "15:25": 7,
+          "15:30": 6.86,
+          "15:35": 6.77,
+          "15:40": 6.68,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -33993,7 +34093,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.14"
+      "currentPower": "6.67"
     },
     "stationOverview": {
       "stationName": "TERME VIGLIATORE - POSTE ITALIANE",
@@ -34004,6 +34104,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -34020,20 +34121,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3264.31,
+      "co2ReductionByYear": 3265.97,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 3474.86,
+      "standardCoalSavings": 3476.25,
       "componentFlag": 0,
       "equivalentTreePlanting": 6,
-      "co2Reduction": 4126.39,
-      "standardCoalSavingsByYear": 2748.9
+      "co2Reduction": 4128.05,
+      "standardCoalSavingsByYear": 2750.29
     },
     "realKpi": {
-      "realTimePower": 7.14,
-      "cumulativeEnergy": 8687.14,
-      "monthEnergy": 772.49,
-      "dailyEnergy": 52.82,
-      "yearEnergy": 6872.24
+      "realTimePower": 6.67,
+      "cumulativeEnergy": 8690.63,
+      "monthEnergy": 775.98,
+      "dailyEnergy": 56.31,
+      "yearEnergy": 6875.73
     }
   },
   "Poste Italiane Valledolmo": {
@@ -34222,12 +34323,12 @@
           "14:55": 8.56,
           "15:00": 8.4,
           "15:05": 8.26,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:10": 8.26,
+          "15:15": 8.2,
+          "15:20": 8.1,
+          "15:25": 7.98,
+          "15:30": 7.83,
+          "15:35": 7.76,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -34330,7 +34431,7 @@
           "23:55": null
         }
       },
-      "currentPower": "8.32"
+      "currentPower": "7.74"
     },
     "stationOverview": {
       "stationName": "VALLEDOLMO - POSTE ITALIANE",
@@ -34341,6 +34442,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -34357,20 +34459,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3362.62,
+      "co2ReductionByYear": 3364.53,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 7780.48,
+      "standardCoalSavings": 7782.09,
       "componentFlag": 0,
       "equivalentTreePlanting": 13,
-      "co2Reduction": 9239.32,
-      "standardCoalSavingsByYear": 2831.68
+      "co2Reduction": 9241.23,
+      "standardCoalSavingsByYear": 2833.29
     },
     "realKpi": {
-      "realTimePower": 8.32,
-      "cumulativeEnergy": 19451.19,
-      "monthEnergy": 924.52,
-      "dailyEnergy": 55.01,
-      "yearEnergy": 7079.19
+      "realTimePower": 7.74,
+      "cumulativeEnergy": 19455.22,
+      "monthEnergy": 928.55,
+      "dailyEnergy": 59.04,
+      "yearEnergy": 7083.22
     }
   },
   "Verwerkaf": {
@@ -34678,6 +34780,7 @@
       "group": "ALTRI",
       "Potenza": 383.51,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -35015,6 +35118,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.92,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -35232,13 +35336,13 @@
           "14:50": 8.01,
           "14:55": 7.97,
           "15:00": 7.89,
-          "15:05": null,
-          "15:10": null,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
+          "15:05": 7.82,
+          "15:10": 7.68,
+          "15:15": 7.64,
+          "15:20": 7.58,
+          "15:25": 7.51,
+          "15:30": 7.42,
+          "15:35": 7.27,
           "15:40": null,
           "15:45": null,
           "15:50": null,
@@ -35341,7 +35445,7 @@
           "23:55": null
         }
       },
-      "currentPower": "8.08"
+      "currentPower": "7.28"
     },
     "stationOverview": {
       "stationName": "VITA - POSTE ITALIANE",
@@ -35352,6 +35456,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 10.5,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -35368,20 +35473,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3314.87,
+      "co2ReductionByYear": 3317.93,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 8558.57,
+      "standardCoalSavings": 8561.14,
       "componentFlag": 0,
       "equivalentTreePlanting": 14,
-      "co2Reduction": 10163.3,
-      "standardCoalSavingsByYear": 2791.47
+      "co2Reduction": 10166.36,
+      "standardCoalSavingsByYear": 2794.04
     },
     "realKpi": {
-      "realTimePower": 8.08,
-      "cumulativeEnergy": 21396.43,
-      "monthEnergy": 921.37,
-      "dailyEnergy": 49.74,
-      "yearEnergy": 6978.68
+      "realTimePower": 7.28,
+      "cumulativeEnergy": 21402.86,
+      "monthEnergy": 927.8,
+      "dailyEnergy": 56.17,
+      "yearEnergy": 6985.11
     }
   },
   "Poste Italiane Zafferana Etna": {
@@ -35689,6 +35794,7 @@
       "group": "POSTE SICILIA",
       "Potenza": 17.64,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -36026,6 +36132,7 @@
       "group": "BENNET",
       "Potenza": 209.44,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -36363,6 +36470,7 @@
       "group": "BENNET",
       "Potenza": 716.38,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -36700,6 +36808,7 @@
       "group": "BENNET",
       "Potenza": 98.81,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -37037,6 +37146,7 @@
       "group": "BENNET",
       "Potenza": 290.4,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -37374,6 +37484,7 @@
       "group": "BENNET",
       "Potenza": 591.22,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -37711,6 +37822,7 @@
       "group": "BENNET",
       "Potenza": 246.82,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -38048,6 +38160,7 @@
       "group": "BENNET",
       "Potenza": 220.44,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -38385,6 +38498,7 @@
       "group": "BENNET",
       "Potenza": 259.94,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -38722,6 +38836,7 @@
       "group": "BENNET",
       "Potenza": 644.16,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -39059,6 +39174,7 @@
       "group": "BENNET",
       "Potenza": 206.64,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -39396,6 +39512,7 @@
       "group": "BENNET",
       "Potenza": 92.365,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -39452,6 +39569,7 @@
       "details": "",
       "json_data": "",
       "group": "POSTE UDINE",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -39663,12 +39781,12 @@
           "15:00": 5.45,
           "15:05": 5.63,
           "15:10": 5.39,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 5.45,
+          "15:20": 5.33,
+          "15:25": 5.23,
+          "15:30": 5.07,
+          "15:35": 5.09,
+          "15:40": 5.01,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -39770,7 +39888,7 @@
           "23:55": null
         }
       },
-      "currentPower": "5.4"
+      "currentPower": "5.01"
     },
     "stationOverview": {
       "stationName": "Poste Italiane - San Pietro al Natisone",
@@ -39781,6 +39899,7 @@
       "group": "POSTE UDINE",
       "Potenza": 16.5,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -39797,20 +39916,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 1463.71,
-      "equivalentTreePlantingByYear": 2,
-      "standardCoalSavings": 1744.46,
+      "co2ReductionByYear": 1464.96,
+      "equivalentTreePlantingByYear": 3,
+      "standardCoalSavings": 1745.51,
       "componentFlag": 0,
       "equivalentTreePlanting": 3,
-      "co2Reduction": 2071.55,
-      "standardCoalSavingsByYear": 1232.6
+      "co2Reduction": 2072.8,
+      "standardCoalSavingsByYear": 1233.65
     },
     "realKpi": {
-      "realTimePower": 5.4,
-      "cumulativeEnergy": 4361.16,
-      "monthEnergy": 479.69,
-      "dailyEnergy": 32.5,
-      "yearEnergy": 3081.5
+      "realTimePower": 5.01,
+      "cumulativeEnergy": 4363.78,
+      "monthEnergy": 482.31,
+      "dailyEnergy": 35.12,
+      "yearEnergy": 3084.12
     }
   },
   "Poste Italiane - Laives": {
@@ -39837,6 +39956,7 @@
       "details": "",
       "json_data": "{\"Poste Italiane - Laives\":{\"3570\":{\"Data\":\"Mon Jun 02 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TCK\":\"3570\",\"IMPIANTO\":\"Poste Italiane - Laives\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"15/03/2025\",\"DISPOSITIVO\":\"Spento per motivo 🔧\",\"PROBLEMI\":\"Non ancora sistemato per monitoraggio.\",\"ULTIMO AGGIORNAMENTO DATA\":\"Mon May 05 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"Alberto Giuliano\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"Aperto ❌\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-06 12:25:49</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-06-05 13:20:03</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Cambiato tipo di problemi.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-06-05 13:21:02</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Modificato tipo di problemi.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Modificato tipo di problemi.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1G1dEYT2uxz6rr44Mfw5yRX7lHYs2LjdP\"}}}",
       "group": "POSTE VENETO",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -39885,6 +40005,7 @@
       "details": "",
       "json_data": "",
       "group": "POSTE SICILIA",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -39933,6 +40054,7 @@
       "details": "",
       "json_data": "{\"Bobbio\":{\"2054\":{\"Data\":\"19/05/2025\",\"TCK\":\"2054\",\"IMPIANTO\":\"Bobbio\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"24/05/2025\",\"DISPOSITIVO\":\"Impianto☀️\",\"PROBLEMI\":\"Impianto tornato visibile come  spento  non comunicato il mattina il 19/05/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"Wed Feb 05 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"Alberto Giuliano\",\"STATO IMPAINTO\":\"Spento 🚩\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-05-19 14:28:56</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-06-02 12:48:22</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto tornato 11:15 il 31/06/2025</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Impianto tornato 11:15 il 31/06/2025\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1bja_wtNvh30dn4aIO2soviKBeK8bqomi\"},\"3700\":{\"Data\":\"25/02/2025\",\"TCK\":\"3700\",\"IMPIANTO\":\"Bobbio\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"28/02/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 6 e 7 non ancora partito. \",\"ULTIMO AGGIORNAMENTO DATA\":\"25/02/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-02-25 10:01:55</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-25 11:30:17</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tutti due inverter 6 e 7 partito dopo 11:00. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Tutti due inverter 6 e 7 partito dopo 11:00. \",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1Q00c3txdMrFh87rKb-XlQEN5xuuABVMu\"},\"6275\":{\"Data\":\"16/05/2025\",\"TCK\":\"6275\",\"IMPIANTO\":\"Bobbio\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"23/05/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 7 spento da 28/04/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"16/05/2025\",\"TECNICO ASSEGNATO\":\"Alberto Giuliano\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Aperto ❌\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-05-16 11:36:46</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\",\"ULTMIO AGGIORNAMENTO\":\"Alberto Giuliano confermato che verificherà questo problemi dopo il 19/05/2025.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1odxqWwU78-QtAtyrGKouUxkNEV-O5E2q\"},\"6719\":{\"Data\":\"Thu Dec 04 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TCK\":\"6719\",\"IMPIANTO\":\"Bobbio\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"17/05/2025\",\"DISPOSITIVO\":\"Impianto☀️\",\"PROBLEMI\":\"Impianto spento da mattina 11/05/2025.\",\"ULTIMO AGGIORNAMENTO DATA\":\"16/05/2025\",\"TECNICO ASSEGNATO\":\"Alberto Giuliano\",\"STATO IMPAINTO\":\"Spento 🚩\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-05-12 11:55:01</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-05-16 11:29:43</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto ripartito il 14:05 12/05/2025</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-05-16 11:30:34</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Cambiato stato ticket come Chiuso.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Cambiato stato ticket come Chiuso.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1O9Q-yGXuK5jatQo7IzPK5QOpk7Jqr2al\"},\"7037\":{\"Data\":\"20/02/2025\",\"TCK\":\"7037\",\"IMPIANTO\":\"Bobbio\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"28/02/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 15 Spento + Inverter 4 e 5 non visibile sul portale monitoraggio\",\"ULTIMO AGGIORNAMENTO DATA\":\"Thu Oct 02 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"Alberto Giuliano\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"Aperto ❌\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-02-20 16:55:08</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> simona.ciace</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-10 14:54:24</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Bisogna verificare anche problemi di string per \\r\\nInverter HUAWEI.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Bisogna verificare anche problemi di string per \\r\\nInverter HUAWEI.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/19p5PxjjaCJpeBzinMhFiLluOaTi7wMKY\"},\"7678\":{\"Data\":\"Mon Feb 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TCK\":\"7678\",\"IMPIANTO\":\"Bobbio\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"Thu Apr 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 7 non ancora partito \",\"ULTIMO AGGIORNAMENTO DATA\":\"Mon Mar 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-02 15:03:46</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-03 15:35:18</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tornato da solo il mattina 03/04/2025.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Tornato da solo il mattina 03/04/2025.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1PhI3x08UE06bEtwxZohbwBp-Fr2kQ6Jm\"}}}",
       "group": "MYENERGY",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -39981,6 +40103,7 @@
       "details": "",
       "json_data": "{\"Attis\":{\"4829\":{\"Data\":\"29/05/2025\",\"TCK\":\"4829\",\"IMPIANTO\":\"Attis\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"Thu Jun 05 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"DISPOSITIVO\":\"Impianto☀️\",\"PROBLEMI\":\"Impianto visibile spento da 9:30 il 29/05/2025. \",\"ULTIMO AGGIORNAMENTO DATA\":\"Mon May 05 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Spento 🚩\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-05-29 10:16:06</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-06-05 13:16:48</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto tornato fuziona da 11:40 il 05/06/2025.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Impianto tornato fuziona da 11:40 il 05/06/2025.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1unFcLoqMVxmZtCCurEfxSfp_05KcStIY\"}}}",
       "group": "MYENERGY",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40029,6 +40152,7 @@
       "details": "",
       "json_data": "",
       "group": "MYENERGY",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40077,6 +40201,7 @@
       "details": "",
       "json_data": "{\"CC Incontro 49\":{\"3749\":{\"Data\":\"20/05/2025\",\"TCK\":\"3749\",\"IMPIANTO\":\"CC Incontro 49\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"24/05/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter B Trio 20Kw funziona con problemi. Tensione DC tropo altro di levelo normale.\",\"ULTIMO AGGIORNAMENTO DATA\":\"Wed Nov 05 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Aperto ❌\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-05-20 10:22:21</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-06-11 10:38:33</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* In gestione di Alberto giuliano. Programmato intervento di tecnico.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"In gestione di Alberto giuliano. Programmato intervento di tecnico.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1xpq4U_pW-viKffq7iDDS8cmuv8BGhWn6\"}}}",
       "group": "MYENERGY",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40125,6 +40250,7 @@
       "details": "",
       "json_data": "{\"CC Incontro 56\":{\"4108\":{\"Data\":\"Wed Nov 05 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TCK\":\"4108\",\"IMPIANTO\":\"CC Incontro 56\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"18/06/2025\",\"DISPOSITIVO\":\"Impianto☀️\",\"PROBLEMI\":\"Impianto spento da 14:20 il 11/06/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"Fri Dec 05 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Spento 🚩\",\"STATO TCK\":\"Aperto ❌\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-06-11 15:08:48</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-06-12 12:26:15</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto riavviata e funziona da 11:06 il 12/06/2025</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-06-12 17:30:52</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto ancora spento da nuovo il 14:00 12/06/2025</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Impianto ancora spento da nuovo il 14:00 12/06/2025\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1kTluZvRaLAySuqKVe_gOpdB5AUiAArDt\"},\"5941\":{\"Data\":\"20/02/2025\",\"TCK\":\"5941\",\"IMPIANTO\":\"CC Incontro 56\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"28/02/2025\",\"DISPOSITIVO\":\"Comunicazione📶\",\"PROBLEMI\":\"Non comunica da 15/02/2025 sera\",\"ULTIMO AGGIORNAMENTO DATA\":\"Thu Oct 02 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-02-20 16:48:35</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> simona.ciace</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-22 12:59:35</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Ultmima versione FW 33.1.17 di datalogger aggiornato il 22/02/2025 da remoto a 33.1.12.  </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-22 13:03:38</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Per momento impianto visibile con data visibile da 21/02/2025.  </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-23 16:15:32</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Ancora offline da nuovo dal 23/02/2025</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-24 10:47:14</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto adesso visibile sul portale monitoraggio. Aspettiamo se problemi ancora tornera. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-28 16:09:27</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto comunica sensa problemi per ultimo  6 giorni. Ticket chiuso.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-09 10:20:27</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Ancora non comunica da nuovo da 09/03/2025. Verificherò il mattina 10/03/2025.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-10 12:43:58</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Data Logger comunica dopo il riavvio in seguito cambiare cavo comunicazione.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Data Logger comunica dopo il riavvio in seguito cambiare cavo comunicazione.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1YTrqIQMtwysAaK2As5gSbs57WX-0uOzq\"}}}",
       "group": "MYENERGY",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40173,6 +40299,7 @@
       "details": "",
       "json_data": "",
       "group": "MYENERGY",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40221,6 +40348,7 @@
       "details": "",
       "json_data": "{\"Tosca\":{\"4020\":{\"Data\":\"25/02/2025\",\"TCK\":\"4020\",\"IMPIANTO\":\"Tosca\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"28/02/2025\",\"DISPOSITIVO\":\"Altri📋\",\"PROBLEMI\":\"Tosca non comunica da 12:40 il 25/02/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"Sun Mar 02 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Spento 🚩\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-02-25 14:28:19</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-26 10:02:16</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Marco Rubio ha confermato che Tosca spento per motivo lavori e impianto tornerà visibili dopo settimana prossima.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-03 10:20:24</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto tornato visibile sul portale FIMER e FUSION Solar. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Impianto tornato visibile sul portale FIMER e FUSION Solar. \",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1V5hMHnZHB78VSAoP-Ie20EQuufeNah4w\"},\"9716\":{\"Data\":\"13/03/2025\",\"TCK\":\"9716\",\"IMPIANTO\":\"Tosca\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"21/03/2025\",\"DISPOSITIVO\":\"Comunicazione📶\",\"PROBLEMI\":\"Inverter di 20 KW sul portale FIMER non comunica\",\"ULTIMO AGGIORNAMENTO DATA\":\"14/03/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-13 16:09:50</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-14 10:54:46</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tornato visibile da solo.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Tornato visibile da solo.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/15THP4MFPu9HeV8qqiMDKNf5Db93p8eS6\"}}}",
       "group": "MYENERGY",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40269,6 +40397,7 @@
       "details": "",
       "json_data": "{\"Iveco\":{\"1752\":{\"Data\":\"15/04/2025\",\"TCK\":\"1752\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"18/04/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"SEZ 14 inverter A e B non comunica il 15/04/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"16/05/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-15 15:14:27</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-05-16 11:31:52</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tutti due inverter tornato visibile da solo.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Tutti due inverter tornato visibile da solo.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1EPnfz2uaT3S__dXa9MxNyFveNchMgQhz\"},\"1762\":{\"Data\":\"Thu Jul 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TCK\":\"1762\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"Mon Nov 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter R di Sez.4 spento da 06/04/2024 alle 16:00. Non ancora partito.\",\"ULTIMO AGGIORNAMENTO DATA\":\"Thu Jul 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Aperto ❌\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-07 09:54:38</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\",\"ULTMIO AGGIORNAMENTO\":\"Avvisato Interno\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/18HW5vrs-NGquVKi7z4bKJfKutY0ygQ1r\"},\"3430\":{\"Data\":\"29/05/2025\",\"TCK\":\"3430\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"Thu Jun 05 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"ED 4 INV I, Spento da 10:00 il 29/05/2025. Inverter anche spento e riavviato due volte automaticamente il 28/05/2025. \\r\\n\\r\\nED 4 INV R era spento da 06/04/2025. Tckt : 1762\",\"ULTIMO AGGIORNAMENTO DATA\":\"29/05/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Aperto ❌\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-05-29 10:26:52</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\",\"ULTMIO AGGIORNAMENTO\":\"Avvisato interno\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/179fre1oaDz4YagfbmehvIVH7DXiu96Hb\"},\"5748\":{\"Data\":\"20/02/2025\",\"TCK\":\"5748\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"28/02/2025\",\"DISPOSITIVO\":\"Altri📋\",\"PROBLEMI\":\"Sensore di irraggiamento - FV Plant Brescia 1 - SUNMETER_ED14_SUD 32° non comunica da 28/10/2024,\",\"ULTIMO AGGIORNAMENTO DATA\":\"25/02/2025\",\"TECNICO ASSEGNATO\":\"Alberto Giuliano\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Da programmare 🔜\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-02-20 16:52:46</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> simona.ciace</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-22 13:17:13</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Alberto Giulaino confermato che il problema al sensore verrà risolvera nel prossimo intervento presso IVECO Brescia.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-25 12:38:55</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Cambiato stato ticket a Da programmare.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Da programmare 🔜</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Cambiato stato ticket a Da programmare.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1fvbF1RkFP4twP5klN6B-WRxMCns4FUVL\"},\"9033\":{\"Data\":\"Mon Mar 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TCK\":\"9033\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"Mon Nov 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Due Inverter L, M di sezione 4 non comunica il 03/04/2025 .\",\"ULTIMO AGGIORNAMENTO DATA\":\"Thu Apr 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-03 15:19:56</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-04 11:44:52</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* tutti due inverter tornato visibile da solo dal mattina 04/04/2025.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"tutti due inverter tornato visibile da solo dal mattina 04/04/2025.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1SwfDAq-q-FhQRPpzO2rg89ZZUrXNk3oc\"}}}",
       "group": "EDISON",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40317,6 +40446,7 @@
       "details": "",
       "json_data": "{\"T.M.E Spa\":{\"8167\":{\"Data\":\"27/02/2025\",\"TCK\":\"8167\",\"IMPIANTO\":\"T.M.E Spa\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"Wed Jul 02 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Basso produzione da 25/02/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"Wed Jul 02 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-02-27 10:55:54</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-07 10:04:18</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Alberto Giuliano ha chiesto plenitude per configurare portale monitoraggio come altri impinati, quindi tutti dettaglio di problemi visibile durante monitoraggio.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Alberto Giuliano ha chiesto plenitude per configurare portale monitoraggio come altri impinati, quindi tutti dettaglio di problemi visibile durante monitoraggio.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/12UeA6ANWxMD1grqXXXiZNUvCQrQ4APMD\"}}}",
       "group": "EDISON",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40365,6 +40495,7 @@
       "details": "",
       "json_data": "{\"Klaist Srl\":{\"1852\":{\"Data\":\"31/03/2025\",\"TCK\":\"1852\",\"IMPIANTO\":\"Klaist Srl\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"Thu Apr 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"DISPOSITIVO\":\"Comunicazione📶\",\"PROBLEMI\":\"Impianto non comunica da 31/03/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"Fri Jan 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-31 10:56:52</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-01 11:37:33</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tornato visibile sul portale monitoraggio. Impianto funziona senza problemi.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Tornato visibile sul portale monitoraggio. Impianto funziona senza problemi.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/12zu166lowAX7Exb9GYNqL7drk6HQ2fBn\"},\"7802\":{\"Data\":\"21/02/2025\",\"TCK\":\"7802\",\"IMPIANTO\":\"Klaist Srl\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"28/02/2025\",\"DISPOSITIVO\":\"Comunicazione📶\",\"PROBLEMI\":\"Non comunica da mattina il //\",\"ULTIMO AGGIORNAMENTO DATA\":\"Wed Jul 02 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-02-21 10:25:18</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-22 12:53:03</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tornato visibile il mattina 22/02/2025. Data produzione per il giorno perso. Immagine allegato sul cartella ticket.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-23 12:24:23</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Ancora manca comunicazione di nuova stamattina 23/02/205. Bisogna risovere definitivamente.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-25 10:29:04</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Ancora perso dati di produzione causa di problemi di comunicazione.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-07 10:00:55</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Alberto Giuliano signelato problemi a plenitude.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Alberto Giuliano signelato problemi a plenitude.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1P_gZeHd-5XtGudbudnt4fVxInXDNXLza\"}}}",
       "group": "EDISON",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40413,6 +40544,7 @@
       "details": "",
       "json_data": "{\"G.E. Srl\":{\"9880\":{\"Data\":\"Fri Dec 05 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TCK\":\"9880\",\"IMPIANTO\":\"G.E. Srl\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"19/06/2025\",\"DISPOSITIVO\":\"Impianto☀️\",\"PROBLEMI\":\"Data manca, probabile spento o non comunica.\",\"ULTIMO AGGIORNAMENTO DATA\":\"Fri Dec 05 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Spento 🚩\",\"STATO TCK\":\"Aperto ❌\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-06-12 17:33:12</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\",\"ULTMIO AGGIORNAMENTO\":\"Avvisato Alberto Giulaiano, verificera appena posibile.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1CYiI_dBpTJEOkZnlxD8cNm_0ku2oqcPh\"}}}",
       "group": "EDISON",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40461,6 +40593,7 @@
       "details": "",
       "json_data": "",
       "group": "EDISON",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40509,6 +40642,7 @@
       "details": "",
       "json_data": "{\"CNH Modena\":{\"1206\":{\"Data\":\"26/03/2025\",\"TCK\":\"1206\",\"IMPIANTO\":\"CNH Modena\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"28/03/2025\",\"DISPOSITIVO\":\"Comunicazione📶\",\"PROBLEMI\":\"Impianto non ancora tornato visibile dopo 14:00 il 26/03/2025. \",\"ULTIMO AGGIORNAMENTO DATA\":\"27/03/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-26 17:10:51</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-27 09:16:48</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impainto tornato visibile, impainto era funzionando ma produzione manca sul portale monitoraggio. File allegato sul cartella drive.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Impainto tornato visibile, impainto era funzionando ma produzione manca sul portale monitoraggio. File allegato sul cartella drive.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1g3eF0cx6orGMMYE-POHPAfBsPt3UPLmw\"}}}",
       "group": "EDISON",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40557,6 +40691,7 @@
       "details": "",
       "json_data": "{\"Kornelio\":{\"2171\":{\"Data\":\"Tue Sep 02 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TCK\":\"2171\",\"IMPIANTO\":\"Kornelio\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"14/03/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 19 non partito da mattina 09/03/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"27/03/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-09 09:53:58</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-10 10:26:04</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Problemi di stringa, inverter riavviato dopo disconnessione pochi stinga. l'inverter funziona adesso con bassa potenza. Ian verificera in dettaglio apena possibile.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-27 15:39:21</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Problemi risolto, inverter funziona senza problemi.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Problemi risolto, inverter funziona senza problemi.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1jQCuc6Ws_H_TGnTVfc0IXtaTBXhPd9sz\"},\"3898\":{\"Data\":\"Fri May 02 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TCK\":\"3898\",\"IMPIANTO\":\"Kornelio\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"Wed Jul 02 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"DISPOSITIVO\":\"Comunicazione📶\",\"PROBLEMI\":\"Impianto non comunica da 13:00 il 05/03/2025. \",\"ULTIMO AGGIORNAMENTO DATA\":\"Fri May 02 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-05 15:42:51</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-05 15:50:45</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto tornato visibile dopo il reset di datalogger.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Impianto tornato visibile dopo il reset di datalogger.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1p4g_q13fTJjOp2SQ_7bI88xq-V8I6fob\"},\"4893\":{\"Data\":\"24/03/2025\",\"TCK\":\"4893\",\"IMPIANTO\":\"Kornelio\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"25/03/2025\",\"DISPOSITIVO\":\"Comunicazione📶\",\"PROBLEMI\":\"Impianto non aggiorna dati su portale monitoraggio dop 15:00 il 24/03/2025. Nessun allarme generato.\",\"ULTIMO AGGIORNAMENTO DATA\":\"25/03/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-24 17:56:02</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-24 18:01:20</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Intervento programmato per il 7:30 25/03/2025</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In programma 👨‍🔧</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-25 14:41:03</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto tornato visibile da solo il mattina 25/03/2025</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Impianto tornato visibile da solo il mattina 25/03/2025\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1yj5_fED2euuoOvWqqVclbZu_oXkNL8HF\"},\"6683\":{\"Data\":\"Thu Oct 02 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TCK\":\"6683\",\"IMPIANTO\":\"Kornelio\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"15/03/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 8 e 12 non ancora partito il 10/03/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"Thu Oct 02 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Spento 🚩\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-10 11:17:42</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-10 13:01:05</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Ian fatto intervento il 10/03/2025, inverter 8 e 12 tornato visibile sul portale, era problemi di RISO.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Ian fatto intervento il 10/03/2025, inverter 8 e 12 tornato visibile sul portale, era problemi di RISO.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1TSZnpC9_Pjl4LAdvDUaS06Rb6kjCP9Vo\"},\"8005\":{\"Data\":\"28/03/2025\",\"TCK\":\"8005\",\"IMPIANTO\":\"Kornelio\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"Mon Nov 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 3  é guasto, problemi  \\\" LV Latch\\\" Aperto CARE-02444144 con FIMER .\",\"ULTIMO AGGIORNAMENTO DATA\":\"Fri Jan 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Attessa assistenza ⏰\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-28 17:34:57</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-01 11:33:42</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Cambiato PM di inverter con spare , inverter funziona senza problemi.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Cambiato PM di inverter con spare , inverter funziona senza problemi.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1l6E-NuFGDgSslS3-om2H99lU0eAjTVqg\"}}}",
       "group": "MALTA",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40605,6 +40740,7 @@
       "details": "",
       "json_data": "{\"MIA car Park\":{\"1569\":{\"Data\":\"26/03/2025\",\"TCK\":\"1569\",\"IMPIANTO\":\"MIA car Park\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"28/03/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Impianto non comunicato da 13:00 il 26/ 03/2025. Tornato visibile é capito che spento.\",\"ULTIMO AGGIORNAMENTO DATA\":\"27/03/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Spento 🚩\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-26 15:57:37</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-26 16:46:27</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Problemi lato Grid di EniMalta,manca fase.  Avvisato Cliente per comunicare con EniMalta e risolvere appena possibile. L'energia persa verrà registrata.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-27 09:22:49</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* EniMalta risolto problemi é impianto funziona senza problemi.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"EniMalta risolto problemi é impianto funziona senza problemi.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1K88-XDa0-ILPnP3JIzTkwylQ2E6yxHUh\"}}}",
       "group": "MALTA",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40653,6 +40789,7 @@
       "details": "",
       "json_data": "{\"Ta Cenc 4\":{\"1473\":{\"Data\":\"Wed Feb 05 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TCK\":\"1473\",\"IMPIANTO\":\"Ta Cenc 4\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"Thu Jun 05 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 2 e 5 spento da 12:00 il 02/06/2025.\",\"ULTIMO AGGIORNAMENTO DATA\":\"Wed Mar 05 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-06-02 12:35:31</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-06-03 11:05:39</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Inverter spento per motivo di manutenzione ordinaria.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Inverter spento per motivo di manutenzione ordinaria.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1bjF3GKAH28dt4rWJsc2p_udZQn6CzGAO\"},\"8172\":{\"Data\":\"Thu Dec 04 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TCK\":\"8172\",\"IMPIANTO\":\"Ta Cenc 4\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"17/05/2025\",\"DISPOSITIVO\":\"Impianto☀️\",\"PROBLEMI\":\"Impainto non visibile o spento da 06/05/2025. Credo problemi di comunicazione.\",\"ULTIMO AGGIORNAMENTO DATA\":\"16/05/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Spento 🚩\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-05-12 11:57:15</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-05-16 11:25:55</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto tornato visibile il 17:15 12/05/2025. impianto era funziona. SOlo problemi di comunicazione</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-05-16 11:27:20</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Note: Data produzione perso su portale monitoraggio per periodo di manca comunicazione.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Note: Data produzione perso su portale monitoraggio per periodo di manca comunicazione.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1Yw0d-PoY3u4ZN3A2m9iGU6M1UDpSWOKd\"}}}",
       "group": "MALTA",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40701,6 +40838,7 @@
       "details": "",
       "json_data": "{\"MIA 1 MW\":{\"5373\":{\"Data\":\"Sun Nov 02 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TCK\":\"5373\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"14/03/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 3 non partito da mattina 11/03/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"Tue Dec 02 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-11 11:00:43</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-12 10:54:54</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Inverter era funzionando e tornato visibile. Risolto problemi di comunicazione.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Inverter era funzionando e tornato visibile. Risolto problemi di comunicazione.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1DxAHnurU1vzCbW8o_DSoI-yrlKEN1YP6\"},\"6734\":{\"Data\":\"23/03/2025\",\"TCK\":\"6734\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"24/03/2025\",\"DISPOSITIVO\":\"Impianto☀️\",\"PROBLEMI\":\"Impianto Spento da 10.00 il 23/03/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"16/05/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Attessa assistenza ⏰\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-23 12:07:05</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-23 13:51:53</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Problemi lato LV , impianto riavviato e funziona da 13:00 23/03/2025.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-24 12:27:03</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto era spento da nuovo questa mattina. L'aeroporto di MIA sta eseguendo un test con il generatore cuasa di spengimento. il relè non tornato perché l'UPS è difettoso e fuori garanzia quando verificato. Devo fare un preventivo per la sostituzione dell'UPS. Ian invierà un preventivo dopo aver verificato che decidiamo di procedere con quello o di spedire l'UPS da qui. Avvisato Adrian (cliente) la problemi. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Da programmare 🔜</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-24 12:30:47</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Stato di impianto - Impianto funziona</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Da programmare 🔜</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-03 15:50:47</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Inviato offerta cliente il 03/04/2025, In attesa di conferma.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Attessa cliente ✋🏼</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-08 15:22:38</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Il cliente ha accettato il preventivo il 04/08/2025, la sostituzione UPS programmata è prevista per il 04/09/2025.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In programma 👨‍🔧</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-05-16 11:54:15</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Installato UPS</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Installato UPS\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1IA5XhtLMKdJusUdTXk8If50Q27-APkwO\"},\"9107\":{\"Data\":\"Thu Apr 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TCK\":\"9107\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"Mon Nov 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 2 spento il 04/04/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"Thu Apr 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-04 12:05:15</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-04 17:40:05</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Problemi di RISO, inverter riavviato e funziona. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-04 17:41:17</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Chiuso</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Chiuso\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1QDOTlI9ITqH04QHLhMzTgyzkWZDXfmFc\"},\"9637\":{\"Data\":\"Sun Aug 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TCK\":\"9637\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"Mon Nov 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Impainto spento da 14:00 il 08/04/2025. \",\"ULTIMO AGGIORNAMENTO DATA\":\"Fri Oct 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Spento 🚩\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-08 15:03:44</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-08 15:27:18</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Problemi alla rete,Ian subito riarmara manualmente a causa di UPS guasto,anche installerà l'UPS il 09/04/2025. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-10 15:04:14</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Ian non è riuscito a installare l'UPS il 04/10/2025. Lo installerà il 04/11/2025. Impianto riavviato. funziona senza problemi.\\r\\n</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Ian non è riuscito a installare l'UPS il 04/10/2025. Lo installerà il 04/11/2025. Impianto riavviato. funziona senza problemi.\\r\\n\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1BV1vv0ENsNHyBR6mrxvg7NZ70L8nvYBE\"}}}",
       "group": "MALTA",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40749,6 +40887,7 @@
       "details": "",
       "json_data": "{\"MEL\":{\"1871\":{\"Data\":\"28/02/2025\",\"TCK\":\"1871\",\"IMPIANTO\":\"MEL\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"Wed Jul 02 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 11 spento da 14:00 il 28/02/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"Thu Jan 02 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-02-28 15:57:03</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-01 22:01:21</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Inverter era funzionando, solo problemi di comunicazione. Inverter tornato visibile sul portale dopo aggiornamento FW di meteocontrol datalogger e Inverter.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Inverter era funzionando, solo problemi di comunicazione. Inverter tornato visibile sul portale dopo aggiornamento FW di meteocontrol datalogger e Inverter.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/15Yl7dW7fG-YZZNyW-2_B2-fejHAkGyB6\"},\"2619\":{\"Data\":\"28/03/2025\",\"TCK\":\"2619\",\"IMPIANTO\":\"MEL\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"Thu Apr 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"L'inverter 13 e 11 non comunicano più dalle 13:30 del 27/03/2025. Perché problemi con portale Meteocontrol  identificato oggi.\",\"ULTIMO AGGIORNAMENTO DATA\":\"30/03/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-28 17:19:14</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-30 18:54:01</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Problemi resolo con assistenza di SMA.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Problemi resolo con assistenza di SMA.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1f70qe0u5qBD9BVzceDURR0O_-wObnlM3\"},\"3295\":{\"Data\":\"Mon Mar 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TCK\":\"3295\",\"IMPIANTO\":\"MEL\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"18/04/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 11 non comunica da nuovo il 10:\\\"10 03/04/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"16/05/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"In Attessa ⏳\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-03 15:30:19</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-04 17:42:20</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Inverter funziona solo problemi comunicazione</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-14 10:54:45</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Inverter communicano senza problemi , aperto ancora ticket con SMA. In programma intervento fare accesso remoto di SMA per fare test.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-05-16 11:53:09</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Ticket ancora in gestione di SMA.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Ticket ancora in gestione di SMA.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1QHCeu8GHHuTIoZm_6wCm33hr42DrogoB\"},\"4154\":{\"Data\":\"15/03/2025\",\"TCK\":\"4154\",\"IMPIANTO\":\"MEL\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"22/03/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 11 non comunica o spento.\",\"ULTIMO AGGIORNAMENTO DATA\":\"Fri Jan 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Attessa assistenza ⏰\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-15 14:30:13</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-19 11:50:28</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Inverter comunica senza problemi, ma aperto CARE con SMA.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-01 11:35:27</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Ian ha risolto il problema, inverter communica senza problemi.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Ian ha risolto il problema, inverter communica senza problemi.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/10uBHRyhGHapmwza3jF-pcRs5sbw8TJIZ\"},\"5375\":{\"Data\":\"Sun Mar 02 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TCK\":\"5375\",\"IMPIANTO\":\"MEL\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"14/03/2025\",\"DISPOSITIVO\":\"Comunicazione📶\",\"PROBLEMI\":\"Problemi comunicazioe + Inverter 13 spento\",\"ULTIMO AGGIORNAMENTO DATA\":\"Thu Oct 02 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-03 11:24:36</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-03 11:36:46</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Ian verificato il mattina 03/03/2025 e impianto torna visibile sul portale monitoraggio, problema era di rete. \\r\\n\\r\\nMa inverter 13 ancora spento causa di Low RISO. Oggi verranno effettuati i test di isolamento.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-03 12:15:33</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Inverter 13 partita dopo 11:45 il 03/03/2025. In programma altro intervento mattina per identificare stringa con problemi. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Da programmare 🔜</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-09 09:56:33</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Inverter 4,5 e 13 non ancora partito da mattina 09/03/2025. Avvisato Ian per verificare. Tempo giorno precedente era bruto.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-10 14:52:20</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tutti inverter tornato visibile dopo intervento di 10/03/2025.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Tutti inverter tornato visibile dopo intervento di 10/03/2025.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1hsgHMPICnBCkPp1Nw06Wcq87Xa-XztqO\"},\"5632\":{\"Data\":\"14/04/2025\",\"TCK\":\"5632\",\"IMPIANTO\":\"MEL\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"18/04/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 1 spento da mattina il 14/04/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"15/04/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-14 10:32:36</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-15 15:16:29</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tornato visibile da solo, verifico durente il prossimo intervento per sapere era spento o non comunicando.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Tornato visibile da solo, verifico durente il prossimo intervento per sapere era spento o non comunicando.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1L5Yceaw4j1aEJYXuRuBmUItDrq6X4o0S\"},\"6990\":{\"Data\":\"13/03/2025\",\"TCK\":\"6990\",\"IMPIANTO\":\"MEL\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"21/03/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 11 spento da 13:10 il 13/05/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"13/03/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-13 16:07:57</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-13 16:46:53</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Inverter funzionando, problemi era comunicazione tra inverter é datalogger. Data di produzione per il periodo non registarto sul server di meteocontrol.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Inverter funzionando, problemi era comunicazione tra inverter é datalogger. Data di produzione per il periodo non registarto sul server di meteocontrol.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/11fej2nevV3D1hRLlXrPo3wrQvBkaItyu\"}}}",
       "group": "MALTA",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -40960,12 +41099,12 @@
           "15:00": 104.29,
           "15:05": 101.65,
           "15:10": 102.51,
-          "15:15": null,
-          "15:20": null,
-          "15:25": null,
-          "15:30": null,
-          "15:35": null,
-          "15:40": null,
+          "15:15": 101.21,
+          "15:20": 100.59,
+          "15:25": 99.8,
+          "15:30": 97.67,
+          "15:35": 95.2,
+          "15:40": 94.08,
           "15:45": null,
           "15:50": null,
           "15:55": null,
@@ -41067,7 +41206,7 @@
           "23:55": null
         }
       },
-      "currentPower": "102.04"
+      "currentPower": "94.62"
     },
     "stationOverview": {
       "stationName": "Cantina Valtidone",
@@ -41078,6 +41217,7 @@
       "group": "ALTRI",
       "Potenza": 208.421,
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
@@ -41094,20 +41234,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 44220.99,
+      "co2ReductionByYear": 44244.47,
       "equivalentTreePlantingByYear": 61,
-      "standardCoalSavings": 39615.83,
+      "standardCoalSavings": 39635.6,
       "componentFlag": 0,
       "equivalentTreePlanting": 65,
-      "co2Reduction": 47043.8,
-      "standardCoalSavingsByYear": 37238.73
+      "co2Reduction": 47067.27,
+      "standardCoalSavingsByYear": 37258.5
     },
     "realKpi": {
-      "realTimePower": 102.04,
-      "cumulativeEnergy": 99039.58,
-      "monthEnergy": 11564.53,
-      "dailyEnergy": 718.13,
-      "yearEnergy": 93096.83
+      "realTimePower": 94.62,
+      "cumulativeEnergy": 99089,
+      "monthEnergy": 11613.95,
+      "dailyEnergy": 767.55,
+      "yearEnergy": 93146.25
     }
   },
   "Bennet Castelletto Ticino": {
@@ -41415,6 +41555,7 @@
       "group": "BENNET",
       "Potenza": "",
       "Stato": "",
+      "lat_long": "",
       "azimuth": "",
       "tilt": "",
       "module_type": "",
