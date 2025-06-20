@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-06-20 17:58:51",
+    "last_update": "2025-06-20 18:01:14",
     "ac_power": 1096.5,
     "month_name": "JUNE",
     "current_year": 2025,
-    "carbon": 7359,
-    "alberi": 10064,
-    "t_evita": 6199,
-    "total_dayenergy": 19136.800000000076,
-    "life_energy": 15498749,
+    "carbon": 7364,
+    "alberi": 10070,
+    "t_evita": 6203,
+    "total_dayenergy": [
+        "21658.00000000012"
+    ],
+    "life_energy": 15508104,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -19,7 +21,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "29.60000000012224",
@@ -32,7 +35,8 @@
         "2924.1999999999825",
         "2535.7999999999884",
         "2853.600000000035",
-        "2324.6999999999243"
+        "2324.6999999999243",
+        "2084.000000000029"
     ],
     "all_years_list": [
         "2023",
@@ -42,7 +46,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "2396186.1"
+        "2405540.9"
     ],
     "all_daymonth_list": [
         "01",
@@ -134,21 +138,21 @@
         "443760.5",
         "526423.7000000001",
         "607625.2000000001",
-        "425162.4999999999"
+        "434517.29999999993"
     ],
     "temperature_2m": "32.5 \u00b0C",
     "relative_humidity_2m": "42 %",
     "apparent_temperature": "33.7 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Mainly Sunny",
+    "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "44 %",
+    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
+    "cloud_cover": "95 %",
     "pressure_msl": "1015.8 hPa",
     "surface_pressure": "999.8 hPa",
-    "wind_speed_10m": "11.7 km/h",
-    "wind_direction_10m": "171 \u00b0"
+    "wind_speed_10m": "12.0 km/h",
+    "wind_direction_10m": "173 \u00b0"
 }
