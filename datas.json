@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-06-21 13:58:50",
+    "last_update": "2025-06-21 14:01:03",
     "ac_power": 2907.73,
     "month_name": "JUNE",
     "current_year": 2025,
-    "carbon": 7366,
-    "alberi": 10073,
-    "t_evita": 6205,
-    "total_dayenergy": 7759.100000000006,
-    "life_energy": 15512429,
+    "carbon": 7370,
+    "alberi": 10079,
+    "t_evita": 6209,
+    "total_dayenergy": [
+        "11386.799999999845"
+    ],
+    "life_energy": 15521384,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -15,7 +17,8 @@
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "33.199999999895226",
@@ -24,7 +27,8 @@
         "873.5999999999767",
         "1821.5",
         "1575.5999999999185",
-        "2752.9000000001106"
+        "2752.9000000001106",
+        "2845.4999999998545"
     ],
     "all_years_list": [
         "2023",
@@ -34,7 +38,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "2409866.3000000003"
+        "2418821.3"
     ],
     "all_daymonth_list": [
         "01",
@@ -128,21 +132,21 @@
         "443760.5",
         "526423.7000000001",
         "607625.2000000001",
-        "438842.70000000007"
+        "447797.69999999984"
     ],
-    "temperature_2m": "29.5 \u00b0C",
-    "relative_humidity_2m": "41 %",
-    "apparent_temperature": "30.5 \u00b0C",
+    "temperature_2m": "29.6 \u00b0C",
+    "relative_humidity_2m": "40 %",
+    "apparent_temperature": "30.7 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Partly Cloudy",
+    "weather_exp": "Mainly Sunny",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "59 %",
-    "pressure_msl": "1019.9 hPa",
-    "surface_pressure": "1003.7 hPa",
-    "wind_speed_10m": "13.7 km/h",
-    "wind_direction_10m": "113 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
+    "cloud_cover": "49 %",
+    "pressure_msl": "1019.7 hPa",
+    "surface_pressure": "1003.5 hPa",
+    "wind_speed_10m": "13.6 km/h",
+    "wind_direction_10m": "112 \u00b0"
 }
