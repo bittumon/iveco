@@ -4560,13 +4560,13 @@
           "13:30": 74.91,
           "13:35": 75.01,
           "13:40": 74.68,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:45": 74.25,
+          "13:50": 74.71,
+          "13:55": 73.64,
+          "14:00": 74.32,
+          "14:05": 73.36,
+          "14:10": 73.74,
+          "14:15": 73.66,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -4685,7 +4685,7 @@
           "23:55": null
         }
       },
-      "currentPower": "74.82"
+      "currentPower": "73.67"
     },
     "stationOverview": {
       "stationName": "Bomocaf",
@@ -4730,20 +4730,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 29731.03,
+      "co2ReductionByYear": 29748.6,
       "equivalentTreePlantingByYear": 41,
-      "standardCoalSavings": 26865.46,
+      "standardCoalSavings": 26880.25,
       "componentFlag": 0,
       "equivalentTreePlanting": 44,
-      "co2Reduction": 31902.73,
-      "standardCoalSavingsByYear": 25036.66
+      "co2Reduction": 31920.3,
+      "standardCoalSavingsByYear": 25051.46
     },
     "realKpi": {
-      "realTimePower": 74.82,
-      "cumulativeEnergy": 67163.64,
-      "monthEnergy": 13536.85,
-      "dailyEnergy": 353.95,
-      "yearEnergy": 62591.65
+      "realTimePower": 73.67,
+      "cumulativeEnergy": 67200.63,
+      "monthEnergy": 13573.84,
+      "dailyEnergy": 390.94,
+      "yearEnergy": 62628.64
     }
   },
   "Cantina Valtidone": {
@@ -4915,12 +4915,12 @@
           "13:30": 120.99,
           "13:35": 122.41,
           "13:40": 122.6,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
+          "13:45": 121.62,
+          "13:50": 120.9,
+          "13:55": 120.88,
+          "14:00": 120.26,
+          "14:05": 120.35,
+          "14:10": 119.03,
           "14:15": null,
           "14:20": null,
           "14:25": null,
@@ -5040,7 +5040,7 @@
           "23:55": null
         }
       },
-      "currentPower": "122.42"
+      "currentPower": "119.43"
     },
     "stationOverview": {
       "stationName": "Cantina Valtidone",
@@ -5085,20 +5085,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 49484.08,
+      "co2ReductionByYear": 49512.73,
       "equivalentTreePlantingByYear": 68,
-      "standardCoalSavings": 44047.98,
+      "standardCoalSavings": 44072.11,
       "componentFlag": 0,
       "equivalentTreePlanting": 72,
-      "co2Reduction": 52306.98,
-      "standardCoalSavingsByYear": 41670.8
+      "co2Reduction": 52335.63,
+      "standardCoalSavingsByYear": 41694.93
     },
     "realKpi": {
-      "realTimePower": 122.42,
-      "cumulativeEnergy": 110119.96,
-      "monthEnergy": 22644.9,
-      "dailyEnergy": 604,
-      "yearEnergy": 104177
+      "realTimePower": 119.43,
+      "cumulativeEnergy": 110180.28,
+      "monthEnergy": 22705.22,
+      "dailyEnergy": 664.32,
+      "yearEnergy": 104237.32
     }
   },
   "CARINI - POSTE ITALIANE": {
@@ -5409,7 +5409,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":23.2,\"max_temp\":29.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":23,\"max_temp\":30.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":23.7,\"max_temp\":30.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":24.2,\"max_temp\":29.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":23.2,\"max_temp\":29.3,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":22.9,\"max_temp\":30.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":23.7,\"max_temp\":30.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":24.2,\"max_temp\":29.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -6119,7 +6119,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.8,\"max_temp\":32.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.7,\"max_temp\":32.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.8,\"max_temp\":33.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.4,\"max_temp\":33.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.8,\"max_temp\":32.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.8,\"max_temp\":32.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.8,\"max_temp\":33.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.4,\"max_temp\":33.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -7580,7 +7580,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.7,\"max_temp\":32.6,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.4,\"max_temp\":33.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.5,\"max_temp\":34,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.2,\"max_temp\":36.1,\"weather\":{\"code\":45,\"emoji\":\"🌫️\",\"description\":\"Fog\",\"italian\":\"Nebbia\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.7,\"max_temp\":32.6,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.4,\"max_temp\":33.1,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.5,\"max_temp\":34,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.2,\"max_temp\":36.1,\"weather\":{\"code\":45,\"emoji\":\"🌫️\",\"description\":\"Fog\",\"italian\":\"Nebbia\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -7786,7 +7786,7 @@
       "tipo": "industriali",
       "pr": "",
       "garanzia": 1000,
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":23.5,\"max_temp\":31,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":24.6,\"max_temp\":32.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":23.2,\"max_temp\":33.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":25.2,\"max_temp\":34.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":23.5,\"max_temp\":31.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":24.4,\"max_temp\":32.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":23.2,\"max_temp\":33.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":25.2,\"max_temp\":34.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "free",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -8133,7 +8133,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19,\"max_temp\":28.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.2,\"max_temp\":28,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.1,\"max_temp\":28.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.7,\"max_temp\":29.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19,\"max_temp\":28.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":19,\"max_temp\":28,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.1,\"max_temp\":28.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.7,\"max_temp\":29.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -8207,7 +8207,7 @@
       "tipo": "industriali",
       "pr": "",
       "garanzia": 1000,
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":23.7,\"max_temp\":30.9,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":25,\"max_temp\":32,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":23.5,\"max_temp\":31.9,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":25.4,\"max_temp\":33.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":23.7,\"max_temp\":31,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":24.8,\"max_temp\":32,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":23.5,\"max_temp\":31.9,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":25.4,\"max_temp\":33.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "free",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -8273,7 +8273,7 @@
       "tipo": "industriali",
       "pr": "",
       "garanzia": 1000,
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":22.7,\"max_temp\":32,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":23.9,\"max_temp\":33.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":22.2,\"max_temp\":34.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":24.6,\"max_temp\":34,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":22.7,\"max_temp\":32.7,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":23.8,\"max_temp\":33.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":22.2,\"max_temp\":34.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":24.6,\"max_temp\":34,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "free",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -8339,7 +8339,7 @@
       "tipo": "industriali",
       "pr": "",
       "garanzia": 1000,
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":22.7,\"max_temp\":32,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":23.8,\"max_temp\":33.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":22.2,\"max_temp\":34.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":24.6,\"max_temp\":33.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":22.7,\"max_temp\":32.7,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":23.8,\"max_temp\":33.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":22.2,\"max_temp\":34.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":24.6,\"max_temp\":33.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "free",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -8686,7 +8686,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.3,\"max_temp\":33.8,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.1,\"max_temp\":35.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.4,\"max_temp\":36.7,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.2,\"max_temp\":36.3,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.3,\"max_temp\":33.6,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":20,\"max_temp\":35.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.4,\"max_temp\":36.7,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.2,\"max_temp\":36.3,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -9041,7 +9041,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":21.1,\"max_temp\":29.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.9,\"max_temp\":30.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.6,\"max_temp\":31.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.7,\"max_temp\":31.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":21.1,\"max_temp\":29.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.8,\"max_temp\":30.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.6,\"max_temp\":31.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.7,\"max_temp\":31.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -10172,7 +10172,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20.7,\"max_temp\":30.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.6,\"max_temp\":32.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.3,\"max_temp\":32.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.9,\"max_temp\":30.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20.7,\"max_temp\":30.7,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.4,\"max_temp\":32.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.3,\"max_temp\":32.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.9,\"max_temp\":30.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -11520,12 +11520,12 @@
           "13:35": 18.71,
           "13:40": 18.75,
           "13:45": 18.58,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:50": 18.42,
+          "13:55": 18.34,
+          "14:00": 18.07,
+          "14:05": 18.18,
+          "14:10": 18.43,
+          "14:15": 17.81,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -11644,7 +11644,7 @@
           "23:55": null
         }
       },
-      "currentPower": "18.74"
+      "currentPower": "17.85"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - LIMBIATE",
@@ -11689,20 +11689,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 5776.49,
+      "co2ReductionByYear": 5781.57,
       "equivalentTreePlantingByYear": 8,
-      "standardCoalSavings": 4864.41,
+      "standardCoalSavings": 4868.69,
       "componentFlag": 0,
       "equivalentTreePlanting": 8,
-      "co2Reduction": 5776.49,
-      "standardCoalSavingsByYear": 4864.41
+      "co2Reduction": 5781.57,
+      "standardCoalSavingsByYear": 4868.69
     },
     "realKpi": {
-      "realTimePower": 18.74,
-      "cumulativeEnergy": 12161.03,
-      "monthEnergy": 2094.95,
-      "dailyEnergy": 72.93,
-      "yearEnergy": 12161.03
+      "realTimePower": 17.85,
+      "cumulativeEnergy": 12171.72,
+      "monthEnergy": 2105.64,
+      "dailyEnergy": 83.62,
+      "yearEnergy": 12171.72
     }
   },
   "Poste Italiane - Lodi": {
@@ -13294,12 +13294,12 @@
           "13:30": 5.31,
           "13:35": 5.09,
           "13:40": 5.27,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
+          "13:45": 5.23,
+          "13:50": 5.26,
+          "13:55": 5.21,
+          "14:00": 5.14,
+          "14:05": 5.23,
+          "14:10": 5.25,
           "14:15": null,
           "14:20": null,
           "14:25": null,
@@ -13419,7 +13419,7 @@
           "23:55": null
         }
       },
-      "currentPower": "5.26"
+      "currentPower": "5.25"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - MERETO DI TOMBA",
@@ -13464,20 +13464,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1777.85,
+      "co2ReductionByYear": 1779.09,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 2019.7,
+      "standardCoalSavings": 2020.74,
       "componentFlag": 0,
       "equivalentTreePlanting": 4,
-      "co2Reduction": 2398.39,
-      "standardCoalSavingsByYear": 1497.14
+      "co2Reduction": 2399.63,
+      "standardCoalSavingsByYear": 1498.18
     },
     "realKpi": {
-      "realTimePower": 5.26,
-      "cumulativeEnergy": 5049.24,
-      "monthEnergy": 904.71,
-      "dailyEnergy": 24.71,
-      "yearEnergy": 3742.84
+      "realTimePower": 5.25,
+      "cumulativeEnergy": 5051.86,
+      "monthEnergy": 907.33,
+      "dailyEnergy": 27.33,
+      "yearEnergy": 3745.46
     }
   },
   "Poste Italiane - Mestre": {
@@ -14714,12 +14714,12 @@
           "13:30": 9.35,
           "13:35": 9.4,
           "13:40": 9.4,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
+          "13:45": 9.33,
+          "13:50": 9.37,
+          "13:55": 9.29,
+          "14:00": 9.27,
+          "14:05": 9.1,
+          "14:10": 9.22,
           "14:15": null,
           "14:20": null,
           "14:25": null,
@@ -14839,7 +14839,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.4"
+      "currentPower": "9.22"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - OVARO",
@@ -14884,20 +14884,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3117.75,
+      "co2ReductionByYear": 3119.91,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 3617.31,
+      "standardCoalSavings": 3619.14,
       "componentFlag": 0,
       "equivalentTreePlanting": 6,
-      "co2Reduction": 4295.56,
-      "standardCoalSavingsByYear": 2625.47
+      "co2Reduction": 4297.72,
+      "standardCoalSavingsByYear": 2627.3
     },
     "realKpi": {
-      "realTimePower": 9.4,
-      "cumulativeEnergy": 9043.28,
-      "monthEnergy": 1463.6,
-      "dailyEnergy": 45.87,
-      "yearEnergy": 6563.68
+      "realTimePower": 9.22,
+      "cumulativeEnergy": 9047.84,
+      "monthEnergy": 1468.16,
+      "dailyEnergy": 50.43,
+      "yearEnergy": 6568.24
     }
   },
   "Poste Italiane - Preganziol": {
@@ -15424,13 +15424,13 @@
           "13:30": 6.6,
           "13:35": 6.6,
           "13:40": 6.6,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:45": 6.6,
+          "13:50": 6.6,
+          "13:55": 6.58,
+          "14:00": 6.6,
+          "14:05": 6.6,
+          "14:10": 6.6,
+          "14:15": 6.52,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -15594,20 +15594,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 634.71,
+      "co2ReductionByYear": 636.28,
       "equivalentTreePlantingByYear": 1,
-      "standardCoalSavings": 534.58,
+      "standardCoalSavings": 535.9,
       "componentFlag": 0,
       "equivalentTreePlanting": 1,
-      "co2Reduction": 634.82,
-      "standardCoalSavingsByYear": 534.5
+      "co2Reduction": 636.39,
+      "standardCoalSavingsByYear": 535.82
     },
     "realKpi": {
       "realTimePower": 6.6,
-      "cumulativeEnergy": 1336.46,
-      "monthEnergy": 1109.53,
-      "dailyEnergy": 31.3,
-      "yearEnergy": 1336.24
+      "cumulativeEnergy": 1339.76,
+      "monthEnergy": 1112.83,
+      "dailyEnergy": 34.6,
+      "yearEnergy": 1339.54
     }
   },
   "Poste Italiane - Roserio": {
@@ -16134,12 +16134,12 @@
           "13:30": 5.45,
           "13:35": 6.6,
           "13:40": 4.78,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
+          "13:45": 2.58,
+          "13:50": 6.28,
+          "13:55": 6.25,
+          "14:00": 6.02,
+          "14:05": 5.89,
+          "14:10": 5.75,
           "14:15": null,
           "14:20": null,
           "14:25": null,
@@ -16259,7 +16259,7 @@
           "23:55": null
         }
       },
-      "currentPower": "5.33"
+      "currentPower": "5.7"
     },
     "stationOverview": {
       "stationName": "Poste Italiane - San Pietro al Natisone",
@@ -16304,20 +16304,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 1674.47,
+      "co2ReductionByYear": 1675.79,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 1921.95,
+      "standardCoalSavings": 1923.06,
       "componentFlag": 0,
       "equivalentTreePlanting": 4,
-      "co2Reduction": 2282.31,
-      "standardCoalSavingsByYear": 1410.08
+      "co2Reduction": 2283.63,
+      "standardCoalSavingsByYear": 1411.19
     },
     "realKpi": {
-      "realTimePower": 5.33,
-      "cumulativeEnergy": 4804.87,
-      "monthEnergy": 923.4,
-      "dailyEnergy": 21.43,
-      "yearEnergy": 3525.21
+      "realTimePower": 5.7,
+      "cumulativeEnergy": 4807.64,
+      "monthEnergy": 926.17,
+      "dailyEnergy": 24.2,
+      "yearEnergy": 3527.98
     }
   },
   "Poste Italiane - Santa Maria di Sala": {
@@ -16844,12 +16844,12 @@
           "13:30": 6,
           "13:35": 6,
           "13:40": 6,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
+          "13:45": 6,
+          "13:50": 6,
+          "13:55": 6,
+          "14:00": 6,
+          "14:05": 6,
+          "14:10": 6,
           "14:15": null,
           "14:20": null,
           "14:25": null,
@@ -17014,20 +17014,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2360.84,
+      "co2ReductionByYear": 2362.27,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 2910.54,
+      "standardCoalSavings": 2911.74,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3456.26,
-      "standardCoalSavingsByYear": 1988.07
+      "co2Reduction": 3457.69,
+      "standardCoalSavingsByYear": 1989.28
     },
     "realKpi": {
       "realTimePower": 6,
-      "cumulativeEnergy": 7276.34,
-      "monthEnergy": 1014.8,
-      "dailyEnergy": 29.74,
-      "yearEnergy": 4970.18
+      "cumulativeEnergy": 7279.35,
+      "monthEnergy": 1017.81,
+      "dailyEnergy": 32.75,
+      "yearEnergy": 4973.19
     }
   },
   "Poste Italiane Acquaviva Platani": {
@@ -17199,13 +17199,13 @@
           "13:30": 9.51,
           "13:35": 9.54,
           "13:40": 9.49,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:45": 9.43,
+          "13:50": 9.3,
+          "13:55": 9.35,
+          "14:00": 9.34,
+          "14:05": 9.3,
+          "14:10": 9.17,
+          "14:15": 9.18,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -17324,7 +17324,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.47"
+      "currentPower": "9.17"
     },
     "stationOverview": {
       "stationName": "ACQUAVIVA PLATANI - POSTE ITALIANE",
@@ -17338,7 +17338,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":16.7,\"max_temp\":31.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":16.3,\"max_temp\":34,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":17.8,\"max_temp\":34.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":19.8,\"max_temp\":34.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":16.7,\"max_temp\":31.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":16.5,\"max_temp\":33.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":17.8,\"max_temp\":34.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":19.8,\"max_temp\":34.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -17369,20 +17369,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3137.08,
+      "co2ReductionByYear": 3139.29,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 2642.68,
+      "standardCoalSavings": 2644.55,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3138.18,
-      "standardCoalSavingsByYear": 2641.75
+      "co2Reduction": 3140.4,
+      "standardCoalSavingsByYear": 2643.62
     },
     "realKpi": {
-      "realTimePower": 9.47,
-      "cumulativeEnergy": 6606.7,
-      "monthEnergy": 1681.18,
-      "dailyEnergy": 44.51,
-      "yearEnergy": 6604.37
+      "realTimePower": 9.17,
+      "cumulativeEnergy": 6611.37,
+      "monthEnergy": 1685.85,
+      "dailyEnergy": 49.18,
+      "yearEnergy": 6609.04
     }
   },
   "Poste Italiane Aidone": {
@@ -17693,7 +17693,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.5,\"max_temp\":29.8,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.3,\"max_temp\":31.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.8,\"max_temp\":32.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.3,\"max_temp\":33.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.5,\"max_temp\":29.8,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.2,\"max_temp\":31.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.8,\"max_temp\":32.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.3,\"max_temp\":33.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -17909,13 +17909,13 @@
           "13:30": 18.46,
           "13:35": 18.49,
           "13:40": 18.46,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:45": 18.46,
+          "13:50": 18.39,
+          "13:55": 18.37,
+          "14:00": 18.44,
+          "14:05": 18.29,
+          "14:10": 18.21,
+          "14:15": 18.19,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -18034,7 +18034,7 @@
           "23:55": null
         }
       },
-      "currentPower": "18.46"
+      "currentPower": "18.19"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - ANZOLA DELL EMILIA",
@@ -18079,20 +18079,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 6075.55,
+      "co2ReductionByYear": 6080.64,
       "equivalentTreePlantingByYear": 9,
-      "standardCoalSavings": 5116.25,
+      "standardCoalSavings": 5120.53,
       "componentFlag": 0,
       "equivalentTreePlanting": 9,
-      "co2Reduction": 6075.55,
-      "standardCoalSavingsByYear": 5116.26
+      "co2Reduction": 6080.63,
+      "standardCoalSavingsByYear": 5120.54
     },
     "realKpi": {
-      "realTimePower": 18.46,
-      "cumulativeEnergy": 12790.63,
-      "monthEnergy": 3265.72,
-      "dailyEnergy": 80.84,
-      "yearEnergy": 12790.64
+      "realTimePower": 18.19,
+      "cumulativeEnergy": 12801.33,
+      "monthEnergy": 3276.42,
+      "dailyEnergy": 91.54,
+      "yearEnergy": 12801.34
     }
   },
   "Poste Italiane Bondeno": {
@@ -18619,13 +18619,13 @@
           "13:30": 9.57,
           "13:35": 9.5,
           "13:40": 9.52,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:45": 9.52,
+          "13:50": 9.41,
+          "13:55": 9.44,
+          "14:00": 9.64,
+          "14:05": 9.65,
+          "14:10": 9.51,
+          "14:15": 9.71,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -18744,7 +18744,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.51"
+      "currentPower": "9.71"
     },
     "stationOverview": {
       "stationName": "BUCCHERI - POSTE ITALIANE",
@@ -18758,7 +18758,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.1,\"max_temp\":29.9,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":20,\"max_temp\":31,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.3,\"max_temp\":32.3,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.2,\"max_temp\":33.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.1,\"max_temp\":29.9,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.3,\"max_temp\":30.8,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.3,\"max_temp\":32.3,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.2,\"max_temp\":33.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -18789,20 +18789,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2441.51,
+      "co2ReductionByYear": 2444.15,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 2056.12,
+      "standardCoalSavings": 2058.34,
       "componentFlag": 0,
       "equivalentTreePlanting": 4,
-      "co2Reduction": 2441.64,
-      "standardCoalSavingsByYear": 2056.01
+      "co2Reduction": 2444.28,
+      "standardCoalSavingsByYear": 2058.23
     },
     "realKpi": {
-      "realTimePower": 9.51,
-      "cumulativeEnergy": 5140.3,
-      "monthEnergy": 1563.35,
-      "dailyEnergy": 45.29,
-      "yearEnergy": 5140.03
+      "realTimePower": 9.71,
+      "cumulativeEnergy": 5145.85,
+      "monthEnergy": 1568.9,
+      "dailyEnergy": 50.84,
+      "yearEnergy": 5145.58
     }
   },
   "Poste Italiane Burgio": {
@@ -19113,7 +19113,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20.8,\"max_temp\":29.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":21.6,\"max_temp\":29.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.6,\"max_temp\":30,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.8,\"max_temp\":33.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20.8,\"max_temp\":29.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":21.5,\"max_temp\":29.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.6,\"max_temp\":30,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.8,\"max_temp\":33.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -19468,7 +19468,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19,\"max_temp\":32.3,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.8,\"max_temp\":32,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.3,\"max_temp\":33.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.6,\"max_temp\":37.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19,\"max_temp\":32.4,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.9,\"max_temp\":31.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.3,\"max_temp\":33.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.6,\"max_temp\":37.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -19542,7 +19542,7 @@
       "tipo": "small",
       "pr": "",
       "garanzia": 1000,
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.9,\"max_temp\":30.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.7,\"max_temp\":31.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20,\"max_temp\":33.3,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.1,\"max_temp\":34.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.9,\"max_temp\":30.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.6,\"max_temp\":31.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20,\"max_temp\":33.3,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.1,\"max_temp\":34.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -20244,7 +20244,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.7,\"max_temp\":32.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":19,\"max_temp\":32.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.2,\"max_temp\":33.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.2,\"max_temp\":33.1,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.7,\"max_temp\":33,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.9,\"max_temp\":32.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.2,\"max_temp\":33.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.2,\"max_temp\":33.1,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -20460,13 +20460,13 @@
           "13:30": 7.11,
           "13:35": 7.18,
           "13:40": 7.12,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:45": 7.05,
+          "13:50": 7,
+          "13:55": 6.97,
+          "14:00": 7,
+          "14:05": 6.93,
+          "14:10": 6.87,
+          "14:15": 6.88,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -20585,7 +20585,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.12"
+      "currentPower": "6.87"
     },
     "stationOverview": {
       "stationName": "CAMPOFRANCO - POSTE ITALIANE",
@@ -20599,7 +20599,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.2,\"max_temp\":33.6,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":17.5,\"max_temp\":34.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.2,\"max_temp\":35.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.2,\"max_temp\":37.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.2,\"max_temp\":34.1,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":17.6,\"max_temp\":34.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.2,\"max_temp\":35.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.2,\"max_temp\":37.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -20630,20 +20630,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2397.46,
+      "co2ReductionByYear": 2399.12,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 2019.7,
+      "standardCoalSavings": 2021.1,
       "componentFlag": 0,
       "equivalentTreePlanting": 4,
-      "co2Reduction": 2398.39,
-      "standardCoalSavingsByYear": 2018.91
+      "co2Reduction": 2400.06,
+      "standardCoalSavingsByYear": 2020.31
     },
     "realKpi": {
-      "realTimePower": 7.12,
-      "cumulativeEnergy": 5049.25,
-      "monthEnergy": 1201.65,
-      "dailyEnergy": 34.45,
-      "yearEnergy": 5047.28
+      "realTimePower": 6.87,
+      "cumulativeEnergy": 5052.75,
+      "monthEnergy": 1205.15,
+      "dailyEnergy": 37.95,
+      "yearEnergy": 5050.78
     }
   },
   "Poste Italiane Caorso": {
@@ -21170,13 +21170,13 @@
           "13:30": 7.57,
           "13:35": 7.45,
           "13:40": 7.51,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:45": 7.5,
+          "13:50": 7.45,
+          "13:55": 7.48,
+          "14:00": 7.59,
+          "14:05": 7.46,
+          "14:10": 7.45,
+          "14:15": 7.35,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -21295,7 +21295,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.51"
+      "currentPower": "7.44"
     },
     "stationOverview": {
       "stationName": "CASSARO - POSTE ITALIANE",
@@ -21309,7 +21309,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.6,\"max_temp\":32.4,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.5,\"max_temp\":32.9,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.8,\"max_temp\":34.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.9,\"max_temp\":35.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.6,\"max_temp\":32.3,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.6,\"max_temp\":32.6,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.8,\"max_temp\":34.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.9,\"max_temp\":35.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -21340,20 +21340,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2025.57,
+      "co2ReductionByYear": 2027.35,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 1707.61,
+      "standardCoalSavings": 1709.11,
       "componentFlag": 0,
       "equivalentTreePlanting": 3,
-      "co2Reduction": 2027.79,
-      "standardCoalSavingsByYear": 1705.74
+      "co2Reduction": 2029.57,
+      "standardCoalSavingsByYear": 1707.24
     },
     "realKpi": {
-      "realTimePower": 7.51,
-      "cumulativeEnergy": 4269.03,
-      "monthEnergy": 1311.24,
-      "dailyEnergy": 36.9,
-      "yearEnergy": 4264.36
+      "realTimePower": 7.44,
+      "cumulativeEnergy": 4272.77,
+      "monthEnergy": 1314.98,
+      "dailyEnergy": 40.64,
+      "yearEnergy": 4268.1
     }
   },
   "Poste Italiane Castelbuono": {
@@ -21664,7 +21664,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.3,\"max_temp\":29.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.4,\"max_temp\":30.7,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.3,\"max_temp\":31.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.7,\"max_temp\":32.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.3,\"max_temp\":29.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.3,\"max_temp\":30.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.3,\"max_temp\":31.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.7,\"max_temp\":32.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -22019,7 +22019,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.6,\"max_temp\":31.5,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.7,\"max_temp\":32.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.9,\"max_temp\":33.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":24,\"max_temp\":34.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.6,\"max_temp\":31.5,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.8,\"max_temp\":32,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.9,\"max_temp\":33.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":24,\"max_temp\":34.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -22374,7 +22374,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.7,\"max_temp\":32.7,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.6,\"max_temp\":32.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.9,\"max_temp\":33.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22,\"max_temp\":37.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.7,\"max_temp\":33,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.7,\"max_temp\":32.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.9,\"max_temp\":33.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22,\"max_temp\":37.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -22729,7 +22729,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.5,\"max_temp\":30.9,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.2,\"max_temp\":31.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.8,\"max_temp\":32.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.5,\"max_temp\":33.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.5,\"max_temp\":30.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.2,\"max_temp\":31.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.8,\"max_temp\":32.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.5,\"max_temp\":33.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -23084,7 +23084,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20.3,\"max_temp\":30.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":21.3,\"max_temp\":31.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":22,\"max_temp\":31.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.8,\"max_temp\":29.1,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20.3,\"max_temp\":30.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":21.3,\"max_temp\":31.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":22,\"max_temp\":31.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.8,\"max_temp\":29.1,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -23794,7 +23794,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.1,\"max_temp\":31.1,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.1,\"max_temp\":31.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.7,\"max_temp\":33.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.6,\"max_temp\":34.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.1,\"max_temp\":31.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.3,\"max_temp\":31.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.7,\"max_temp\":33.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.6,\"max_temp\":34.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -24149,7 +24149,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":22.7,\"max_temp\":27.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":23.7,\"max_temp\":27.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":23.8,\"max_temp\":28.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":26.3,\"max_temp\":31.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":22.7,\"max_temp\":27.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":23.6,\"max_temp\":27.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":23.8,\"max_temp\":28.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":26.3,\"max_temp\":31.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -24365,13 +24365,13 @@
           "13:30": 9.56,
           "13:35": 9.56,
           "13:40": 9.52,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:45": 9.6,
+          "13:50": 9.65,
+          "13:55": 9.42,
+          "14:00": 8.9,
+          "14:05": 9.23,
+          "14:10": 9.3,
+          "14:15": 9.18,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -24490,7 +24490,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.52"
+      "currentPower": "9.3"
     },
     "stationOverview": {
       "stationName": "GIARRATANA - POSTE ITALIANE",
@@ -24504,7 +24504,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.8,\"max_temp\":32.1,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.5,\"max_temp\":32.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.8,\"max_temp\":33.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.9,\"max_temp\":35.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.8,\"max_temp\":32,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.1,\"max_temp\":32.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.8,\"max_temp\":33.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.9,\"max_temp\":35.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -24535,20 +24535,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2595.9,
+      "co2ReductionByYear": 2598.14,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 2186.73,
+      "standardCoalSavings": 2188.62,
       "componentFlag": 0,
       "equivalentTreePlanting": 4,
-      "co2Reduction": 2596.74,
-      "standardCoalSavingsByYear": 2186.02
+      "co2Reduction": 2598.99,
+      "standardCoalSavingsByYear": 2187.91
     },
     "realKpi": {
-      "realTimePower": 9.52,
-      "cumulativeEnergy": 5466.83,
-      "monthEnergy": 1569.6,
-      "dailyEnergy": 45.13,
-      "yearEnergy": 5465.05
+      "realTimePower": 9.3,
+      "cumulativeEnergy": 5471.55,
+      "monthEnergy": 1574.32,
+      "dailyEnergy": 49.85,
+      "yearEnergy": 5469.77
     }
   },
   "Poste Italiane Gibellina": {
@@ -24859,7 +24859,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.5,\"max_temp\":32,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.5,\"max_temp\":33.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.6,\"max_temp\":34.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":19.3,\"max_temp\":33.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.5,\"max_temp\":31.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.1,\"max_temp\":33.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.6,\"max_temp\":34.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":19.3,\"max_temp\":33.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -25076,12 +25076,12 @@
           "13:35": 18.47,
           "13:40": 19.31,
           "13:45": 10.24,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:50": 4.97,
+          "13:55": 19.15,
+          "14:00": 6.63,
+          "14:05": 8.69,
+          "14:10": 9.27,
+          "14:15": 8.88,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -25200,7 +25200,7 @@
           "23:55": null
         }
       },
-      "currentPower": "19.31"
+      "currentPower": "8.88"
     },
     "stationOverview": {
       "stationName": " Poste Italiane - Langhirano",
@@ -25245,20 +25245,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 4715.56,
+      "co2ReductionByYear": 4718.42,
       "equivalentTreePlantingByYear": 7,
-      "standardCoalSavings": 3971,
+      "standardCoalSavings": 3973.41,
       "componentFlag": 0,
       "equivalentTreePlanting": 7,
-      "co2Reduction": 4715.56,
-      "standardCoalSavingsByYear": 3971
+      "co2Reduction": 4718.42,
+      "standardCoalSavingsByYear": 3973.41
     },
     "realKpi": {
-      "realTimePower": 19.31,
-      "cumulativeEnergy": 9927.5,
-      "monthEnergy": 3110.82,
-      "dailyEnergy": 82.84,
-      "yearEnergy": 9927.5
+      "realTimePower": 8.88,
+      "cumulativeEnergy": 9933.52,
+      "monthEnergy": 3116.84,
+      "dailyEnergy": 88.86,
+      "yearEnergy": 9933.52
     }
   },
   "Poste Italiane Leonforte": {
@@ -25430,13 +25430,13 @@
           "13:30": 30.48,
           "13:35": 52.65,
           "13:40": 25.97,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:45": 25.94,
+          "13:50": 51.99,
+          "13:55": 26.09,
+          "14:00": 32.97,
+          "14:05": 51.01,
+          "14:10": 25.46,
+          "14:15": 48.93,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -25555,7 +25555,7 @@
           "23:55": null
         }
       },
-      "currentPower": "25.93"
+      "currentPower": "25.47"
     },
     "stationOverview": {
       "stationName": "LEONFORTE - POSTE ITALIANE",
@@ -25569,7 +25569,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":16.7,\"max_temp\":30.3,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":17.2,\"max_temp\":32.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.2,\"max_temp\":33.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.3,\"max_temp\":34.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":16.7,\"max_temp\":30.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":17.1,\"max_temp\":32.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.2,\"max_temp\":33.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.3,\"max_temp\":34.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -25600,20 +25600,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 1513.22,
+      "co2ReductionByYear": 1521.73,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 1282.66,
+      "standardCoalSavings": 1289.83,
       "componentFlag": 0,
       "equivalentTreePlanting": 3,
-      "co2Reduction": 1523.15,
-      "standardCoalSavingsByYear": 1274.29
+      "co2Reduction": 1531.67,
+      "standardCoalSavingsByYear": 1281.46
     },
     "realKpi": {
-      "realTimePower": 25.93,
-      "cumulativeEnergy": 3206.64,
-      "monthEnergy": 3185.72,
-      "dailyEnergy": 175.13,
-      "yearEnergy": 3185.72
+      "realTimePower": 25.47,
+      "cumulativeEnergy": 3224.57,
+      "monthEnergy": 3203.65,
+      "dailyEnergy": 193.06,
+      "yearEnergy": 3203.65
     }
   },
   "Poste Italiane Linguaglossa": {
@@ -25924,7 +25924,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.7,\"max_temp\":29.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":17.6,\"max_temp\":30.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.2,\"max_temp\":32.7,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.5,\"max_temp\":32.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.7,\"max_temp\":29.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":17.6,\"max_temp\":30.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.2,\"max_temp\":32.7,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.5,\"max_temp\":32.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -26279,7 +26279,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20.3,\"max_temp\":32,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.3,\"max_temp\":32.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.9,\"max_temp\":33.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":24.2,\"max_temp\":35.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20.3,\"max_temp\":31.8,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.3,\"max_temp\":32.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.9,\"max_temp\":33.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":24.2,\"max_temp\":35.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -26634,7 +26634,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.4,\"max_temp\":33.1,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.2,\"max_temp\":33,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.7,\"max_temp\":34.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.6,\"max_temp\":37.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.4,\"max_temp\":33.1,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.3,\"max_temp\":33.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.7,\"max_temp\":34.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.6,\"max_temp\":37.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -26851,12 +26851,12 @@
           "13:35": 10.76,
           "13:40": 10.77,
           "13:45": 10.65,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:50": 10.66,
+          "13:55": 10.71,
+          "14:00": 10.92,
+          "14:05": 2.74,
+          "14:10": 10.99,
+          "14:15": 10.37,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -26975,7 +26975,7 @@
           "23:55": null
         }
       },
-      "currentPower": "10.77"
+      "currentPower": "10.42"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - MELDOLA",
@@ -27020,20 +27020,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3085.35,
+      "co2ReductionByYear": 3088.07,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 2598.19,
+      "standardCoalSavings": 2600.48,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3085.35,
-      "standardCoalSavingsByYear": 2598.19
+      "co2Reduction": 3088.07,
+      "standardCoalSavingsByYear": 2600.48
     },
     "realKpi": {
-      "realTimePower": 10.77,
-      "cumulativeEnergy": 6495.48,
-      "monthEnergy": 1591.37,
-      "dailyEnergy": 41.66,
-      "yearEnergy": 6495.48
+      "realTimePower": 10.42,
+      "cumulativeEnergy": 6501.21,
+      "monthEnergy": 1597.1,
+      "dailyEnergy": 47.39,
+      "yearEnergy": 6501.21
     }
   },
   "Poste Italiane Milena": {
@@ -27205,12 +27205,12 @@
           "13:30": 0,
           "13:35": 0,
           "13:40": 8.34,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
+          "13:45": 10.32,
+          "13:50": 10.9,
+          "13:55": 10.43,
+          "14:00": 10.55,
+          "14:05": 10.7,
+          "14:10": 10.73,
           "14:15": null,
           "14:20": null,
           "14:25": null,
@@ -27330,7 +27330,7 @@
           "23:55": null
         }
       },
-      "currentPower": "8.42"
+      "currentPower": "10.74"
     },
     "stationOverview": {
       "stationName": " MILENA - POSTE ITALIANE",
@@ -27344,7 +27344,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.9,\"max_temp\":34,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.5,\"max_temp\":33.9,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20,\"max_temp\":35,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.4,\"max_temp\":37,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.9,\"max_temp\":33.8,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.6,\"max_temp\":34,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20,\"max_temp\":35,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.4,\"max_temp\":37,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -27375,20 +27375,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 18.6,
+      "co2ReductionByYear": 21.04,
       "equivalentTreePlantingByYear": 1,
-      "standardCoalSavings": 16.02,
+      "standardCoalSavings": 18.08,
       "componentFlag": 0,
       "equivalentTreePlanting": 1,
-      "co2Reduction": 19.02,
-      "standardCoalSavingsByYear": 15.66
+      "co2Reduction": 21.47,
+      "standardCoalSavingsByYear": 17.72
     },
     "realKpi": {
-      "realTimePower": 8.42,
-      "cumulativeEnergy": 40.05,
-      "monthEnergy": 39.15,
-      "dailyEnergy": 15.76,
-      "yearEnergy": 39.15
+      "realTimePower": 10.74,
+      "cumulativeEnergy": 45.19,
+      "monthEnergy": 44.29,
+      "dailyEnergy": 20.9,
+      "yearEnergy": 44.29
     }
   },
   "Poste Italiane Mirabella Imbaccari": {
@@ -27699,7 +27699,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.7,\"max_temp\":33.2,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.9,\"max_temp\":33.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.6,\"max_temp\":35,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.7,\"max_temp\":37.1,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.7,\"max_temp\":33.4,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":20,\"max_temp\":33.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.6,\"max_temp\":35,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.7,\"max_temp\":37.1,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -28054,7 +28054,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":16.8,\"max_temp\":25.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":17.2,\"max_temp\":28.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.6,\"max_temp\":27.7,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":19.2,\"max_temp\":28.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":16.8,\"max_temp\":25.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":17.1,\"max_temp\":27.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.6,\"max_temp\":27.7,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":19.2,\"max_temp\":28.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -28409,7 +28409,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.2,\"max_temp\":31.8,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.1,\"max_temp\":31.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.8,\"max_temp\":33.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.7,\"max_temp\":34.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.2,\"max_temp\":31.7,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.2,\"max_temp\":31.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.8,\"max_temp\":33.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.7,\"max_temp\":34.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -28764,7 +28764,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.1,\"max_temp\":29,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.1,\"max_temp\":30.3,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.4,\"max_temp\":31.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22,\"max_temp\":32.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.1,\"max_temp\":28.6,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":20,\"max_temp\":30.1,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.4,\"max_temp\":31.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22,\"max_temp\":32.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -28980,12 +28980,12 @@
           "13:30": 9.32,
           "13:35": 9.21,
           "13:40": 8.91,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
+          "13:45": 9.4,
+          "13:50": 9.27,
+          "13:55": 9.22,
+          "14:00": 9.28,
+          "14:05": 9.17,
+          "14:10": 9.17,
           "14:15": null,
           "14:20": null,
           "14:25": null,
@@ -29105,7 +29105,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.03"
+      "currentPower": "9.15"
     },
     "stationOverview": {
       "stationName": "NISSORIA - POSTE ITALIANE",
@@ -29119,7 +29119,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":16.6,\"max_temp\":29.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":16.1,\"max_temp\":31.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":17.4,\"max_temp\":32.9,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.1,\"max_temp\":32.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":16.6,\"max_temp\":29.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":16.1,\"max_temp\":31.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":17.4,\"max_temp\":32.9,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.1,\"max_temp\":32.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -29150,20 +29150,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3391.16,
+      "co2ReductionByYear": 3393.36,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 2952.77,
+      "standardCoalSavings": 2954.62,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3506.42,
-      "standardCoalSavingsByYear": 2855.71
+      "co2Reduction": 3508.62,
+      "standardCoalSavingsByYear": 2857.56
     },
     "realKpi": {
-      "realTimePower": 9.03,
-      "cumulativeEnergy": 7381.93,
-      "monthEnergy": 1467,
-      "dailyEnergy": 42.02,
-      "yearEnergy": 7139.28
+      "realTimePower": 9.15,
+      "cumulativeEnergy": 7386.56,
+      "monthEnergy": 1471.63,
+      "dailyEnergy": 46.65,
+      "yearEnergy": 7143.91
     }
   },
   "Poste Italiane Partanna": {
@@ -29474,7 +29474,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.5,\"max_temp\":31.8,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.6,\"max_temp\":32.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.7,\"max_temp\":33.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.2,\"max_temp\":34,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.5,\"max_temp\":31.6,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.7,\"max_temp\":32.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.7,\"max_temp\":33.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.2,\"max_temp\":34,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -29829,7 +29829,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.4,\"max_temp\":28.9,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.8,\"max_temp\":29.9,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-26\",\"min_temp\":22.1,\"max_temp\":31.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.9,\"max_temp\":32.1,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.4,\"max_temp\":28.7,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.7,\"max_temp\":29.7,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":22.1,\"max_temp\":31.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.9,\"max_temp\":32.1,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -30184,7 +30184,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20.2,\"max_temp\":27.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.4,\"max_temp\":27.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.6,\"max_temp\":28.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.8,\"max_temp\":27.8,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20.2,\"max_temp\":27.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.3,\"max_temp\":27.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.6,\"max_temp\":28.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.8,\"max_temp\":27.8,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -30401,12 +30401,12 @@
           "13:35": 9.22,
           "13:40": 9.2,
           "13:45": 9.19,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:50": 9.14,
+          "13:55": 9.04,
+          "14:00": 8.95,
+          "14:05": 8.91,
+          "14:10": 8.88,
+          "14:15": 8.79,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -30525,7 +30525,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.2"
+      "currentPower": "8.9"
     },
     "stationOverview": {
       "stationName": "PORTOPALO DI CAPO PASSERO - POSTE ITALIANE",
@@ -30539,7 +30539,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20.2,\"max_temp\":31.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.7,\"max_temp\":32,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.9,\"max_temp\":34.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.7,\"max_temp\":33.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20.2,\"max_temp\":31.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.6,\"max_temp\":31.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.9,\"max_temp\":34.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.7,\"max_temp\":33.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -30570,20 +30570,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2338.18,
+      "co2ReductionByYear": 2340.33,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 1969.42,
+      "standardCoalSavings": 1971.24,
       "componentFlag": 0,
       "equivalentTreePlanting": 4,
-      "co2Reduction": 2338.69,
-      "standardCoalSavingsByYear": 1969
+      "co2Reduction": 2340.84,
+      "standardCoalSavingsByYear": 1970.81
     },
     "realKpi": {
-      "realTimePower": 9.2,
-      "cumulativeEnergy": 4923.56,
-      "monthEnergy": 1735.01,
-      "dailyEnergy": 42.08,
-      "yearEnergy": 4922.49
+      "realTimePower": 8.9,
+      "cumulativeEnergy": 4928.09,
+      "monthEnergy": 1739.54,
+      "dailyEnergy": 46.61,
+      "yearEnergy": 4927.02
     }
   },
   "Poste Italiane Priolo Gargallo": {
@@ -30894,7 +30894,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":21.5,\"max_temp\":30.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":22.6,\"max_temp\":31.9,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.9,\"max_temp\":32.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.8,\"max_temp\":33.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":21.5,\"max_temp\":31,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":22.7,\"max_temp\":31.9,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.9,\"max_temp\":32.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.8,\"max_temp\":33.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -31249,7 +31249,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.4,\"max_temp\":32,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":17.7,\"max_temp\":32.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19,\"max_temp\":33.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.8,\"max_temp\":36.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.4,\"max_temp\":32.1,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":17.7,\"max_temp\":32.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19,\"max_temp\":33.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.8,\"max_temp\":36.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -31604,7 +31604,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.5,\"max_temp\":34,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.1,\"max_temp\":34.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19,\"max_temp\":36.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.2,\"max_temp\":37.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.5,\"max_temp\":33.7,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.1,\"max_temp\":34.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19,\"max_temp\":36.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.2,\"max_temp\":37.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -31959,7 +31959,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":16.8,\"max_temp\":27.3,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":17.2,\"max_temp\":29.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.7,\"max_temp\":29.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":19.2,\"max_temp\":30,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":16.8,\"max_temp\":27.1,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":17,\"max_temp\":29.3,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.7,\"max_temp\":29.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":19.2,\"max_temp\":30,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -32314,7 +32314,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.8,\"max_temp\":30.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.2,\"max_temp\":33.3,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.7,\"max_temp\":33.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.1,\"max_temp\":33.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.8,\"max_temp\":30.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.1,\"max_temp\":32.9,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.7,\"max_temp\":33.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.1,\"max_temp\":33.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -32669,7 +32669,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":16.6,\"max_temp\":33.1,\"weather\":{\"code\":45,\"emoji\":\"🌫️\",\"description\":\"Fog\",\"italian\":\"Nebbia\"}},{\"date\":\"2025-06-25\",\"min_temp\":17.6,\"max_temp\":32.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":17.2,\"max_temp\":34.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":19.2,\"max_temp\":38.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":16.6,\"max_temp\":33.3,\"weather\":{\"code\":45,\"emoji\":\"🌫️\",\"description\":\"Fog\",\"italian\":\"Nebbia\"}},{\"date\":\"2025-06-25\",\"min_temp\":17.7,\"max_temp\":33.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":17.2,\"max_temp\":34.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":19.2,\"max_temp\":38.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -33024,7 +33024,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.1,\"max_temp\":30.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.9,\"max_temp\":32.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.1,\"max_temp\":33.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.9,\"max_temp\":33.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.1,\"max_temp\":30.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.9,\"max_temp\":32.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.1,\"max_temp\":33.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.9,\"max_temp\":33.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -33734,7 +33734,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.1,\"max_temp\":31.8,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":18,\"max_temp\":31.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.8,\"max_temp\":33.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.6,\"max_temp\":34.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.1,\"max_temp\":31.7,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.1,\"max_temp\":31.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.8,\"max_temp\":33.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.6,\"max_temp\":34.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -34089,7 +34089,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":23,\"max_temp\":28.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":24.3,\"max_temp\":27.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":24.2,\"max_temp\":29.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":26.6,\"max_temp\":31.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":23,\"max_temp\":28.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":24.2,\"max_temp\":27.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":24.2,\"max_temp\":29.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":26.6,\"max_temp\":31.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -34444,7 +34444,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.7,\"max_temp\":32.7,\"weather\":{\"code\":45,\"emoji\":\"🌫️\",\"description\":\"Fog\",\"italian\":\"Nebbia\"}},{\"date\":\"2025-06-25\",\"min_temp\":16.8,\"max_temp\":34,\"weather\":{\"code\":45,\"emoji\":\"🌫️\",\"description\":\"Fog\",\"italian\":\"Nebbia\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.5,\"max_temp\":35.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":17.8,\"max_temp\":34.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.7,\"max_temp\":32.4,\"weather\":{\"code\":45,\"emoji\":\"🌫️\",\"description\":\"Fog\",\"italian\":\"Nebbia\"}},{\"date\":\"2025-06-25\",\"min_temp\":17,\"max_temp\":33.8,\"weather\":{\"code\":45,\"emoji\":\"🌫️\",\"description\":\"Fog\",\"italian\":\"Nebbia\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.5,\"max_temp\":35.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":17.8,\"max_temp\":34.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -34660,12 +34660,12 @@
           "13:30": 9.41,
           "13:35": 9.31,
           "13:40": 9.12,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
+          "13:45": 9.06,
+          "13:50": 9.07,
+          "13:55": 8.93,
+          "14:00": 8.93,
+          "14:05": 9.04,
+          "14:10": 8.97,
           "14:15": null,
           "14:20": null,
           "14:25": null,
@@ -34785,7 +34785,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.12"
+      "currentPower": "8.97"
     },
     "stationOverview": {
       "stationName": "SAMBUCA DI SICILIA - POSTE ITALIANE",
@@ -34799,7 +34799,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.9,\"max_temp\":32.5,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":21,\"max_temp\":32.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.1,\"max_temp\":33.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.5,\"max_temp\":35.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.9,\"max_temp\":32.5,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.9,\"max_temp\":32.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.1,\"max_temp\":33.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.5,\"max_temp\":35.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -34830,20 +34830,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3405.54,
+      "co2ReductionByYear": 3407.68,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 3061.23,
+      "standardCoalSavings": 3063.04,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3635.21,
-      "standardCoalSavingsByYear": 2867.82
+      "co2Reduction": 3637.36,
+      "standardCoalSavingsByYear": 2869.63
     },
     "realKpi": {
-      "realTimePower": 9.12,
-      "cumulativeEnergy": 7653.08,
-      "monthEnergy": 1625.54,
-      "dailyEnergy": 43.43,
-      "yearEnergy": 7169.56
+      "realTimePower": 8.97,
+      "cumulativeEnergy": 7657.59,
+      "monthEnergy": 1630.05,
+      "dailyEnergy": 47.94,
+      "yearEnergy": 7174.07
     }
   },
   "Poste Italiane San Cipirello": {
@@ -35154,7 +35154,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.3,\"max_temp\":30.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.8,\"max_temp\":32.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.1,\"max_temp\":32.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.8,\"max_temp\":32.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.3,\"max_temp\":30.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.8,\"max_temp\":32.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.1,\"max_temp\":32.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.8,\"max_temp\":32.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -35725,13 +35725,13 @@
           "13:30": 20.39,
           "13:35": 20.36,
           "13:40": 20.33,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:45": 20.37,
+          "13:50": 20.35,
+          "13:55": 20.24,
+          "14:00": 20.14,
+          "14:05": 20.04,
+          "14:10": 19.94,
+          "14:15": 19.78,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -35850,7 +35850,7 @@
           "23:55": null
         }
       },
-      "currentPower": "20.35"
+      "currentPower": "19.78"
     },
     "stationOverview": {
       "stationName": "SANT AGATA DI MILITELLO - POSTE ITALIANE",
@@ -35864,7 +35864,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":22.3,\"max_temp\":28.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":22.5,\"max_temp\":29.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":23.9,\"max_temp\":30.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.9,\"max_temp\":30.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":22.3,\"max_temp\":28.1,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":22.5,\"max_temp\":29.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":23.9,\"max_temp\":30.5,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.9,\"max_temp\":30.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -35895,20 +35895,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 5586.24,
+      "co2ReductionByYear": 5591.82,
       "equivalentTreePlantingByYear": 8,
-      "standardCoalSavings": 4704.98,
+      "standardCoalSavings": 4709.68,
       "componentFlag": 0,
       "equivalentTreePlanting": 8,
-      "co2Reduction": 5587.17,
-      "standardCoalSavingsByYear": 4704.2
+      "co2Reduction": 5592.75,
+      "standardCoalSavingsByYear": 4708.9
     },
     "realKpi": {
-      "realTimePower": 20.35,
-      "cumulativeEnergy": 11762.46,
-      "monthEnergy": 3523.05,
-      "dailyEnergy": 99.21,
-      "yearEnergy": 11760.51
+      "realTimePower": 19.78,
+      "cumulativeEnergy": 11774.21,
+      "monthEnergy": 3534.8,
+      "dailyEnergy": 110.96,
+      "yearEnergy": 11772.26
     }
   },
   "Poste Italiane Sant'Agata Feltria": {
@@ -36574,7 +36574,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20.4,\"max_temp\":31.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":21.9,\"max_temp\":32,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":23.1,\"max_temp\":33.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.8,\"max_temp\":34.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20.4,\"max_temp\":31.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":21.9,\"max_temp\":31.9,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":23.1,\"max_temp\":33.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.8,\"max_temp\":34.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -36929,7 +36929,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20,\"max_temp\":26.9,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.4,\"max_temp\":28.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.6,\"max_temp\":29.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.4,\"max_temp\":29.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":20,\"max_temp\":27,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":19.4,\"max_temp\":28.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.6,\"max_temp\":29.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.4,\"max_temp\":29.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -37639,7 +37639,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.7,\"max_temp\":33.5,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.1,\"max_temp\":34.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.3,\"max_temp\":35,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":19.8,\"max_temp\":36.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17.7,\"max_temp\":33.4,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.1,\"max_temp\":34.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.3,\"max_temp\":35,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":19.8,\"max_temp\":36.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -37994,7 +37994,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":16.5,\"max_temp\":34.3,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.1,\"max_temp\":33.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":17.9,\"max_temp\":34.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.3,\"max_temp\":38.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":16.5,\"max_temp\":34.1,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.1,\"max_temp\":33.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":17.9,\"max_temp\":34.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.3,\"max_temp\":38.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -38349,7 +38349,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":21.4,\"max_temp\":28.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.8,\"max_temp\":30.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.8,\"max_temp\":31.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.2,\"max_temp\":31.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":21.4,\"max_temp\":28.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.7,\"max_temp\":30,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.8,\"max_temp\":31.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.2,\"max_temp\":31.2,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -38565,12 +38565,12 @@
           "13:30": 7.43,
           "13:35": 7.44,
           "13:40": 7.36,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
+          "13:45": 7.33,
+          "13:50": 7.35,
+          "13:55": 7.29,
+          "14:00": 7.29,
+          "14:05": 7.27,
+          "14:10": 7.27,
           "14:15": null,
           "14:20": null,
           "14:25": null,
@@ -38690,7 +38690,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.36"
+      "currentPower": "7.27"
     },
     "stationOverview": {
       "stationName": "SUTERA - POSTE ITALIANE",
@@ -38704,7 +38704,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17,\"max_temp\":32.3,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":16.7,\"max_temp\":33.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.1,\"max_temp\":34.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.8,\"max_temp\":34.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17,\"max_temp\":32.1,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":16.9,\"max_temp\":33.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.1,\"max_temp\":34.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.8,\"max_temp\":34.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -38735,20 +38735,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2138.54,
+      "co2ReductionByYear": 2140.27,
       "equivalentTreePlantingByYear": 3,
-      "standardCoalSavings": 1800.88,
+      "standardCoalSavings": 1802.34,
       "componentFlag": 0,
       "equivalentTreePlanting": 3,
-      "co2Reduction": 2138.54,
-      "standardCoalSavingsByYear": 1800.88
+      "co2Reduction": 2140.27,
+      "standardCoalSavingsByYear": 1802.34
     },
     "realKpi": {
-      "realTimePower": 7.36,
-      "cumulativeEnergy": 4502.19,
-      "monthEnergy": 1188.32,
-      "dailyEnergy": 33,
-      "yearEnergy": 4502.19
+      "realTimePower": 7.27,
+      "cumulativeEnergy": 4505.84,
+      "monthEnergy": 1191.97,
+      "dailyEnergy": 36.65,
+      "yearEnergy": 4505.84
     }
   },
   "Poste Italiane Terme Vigliatore": {
@@ -39059,7 +39059,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":21.1,\"max_temp\":28.1,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.5,\"max_temp\":29.7,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.7,\"max_temp\":30.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.5,\"max_temp\":30.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":21.1,\"max_temp\":28.1,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.5,\"max_temp\":29.6,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.7,\"max_temp\":30.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.5,\"max_temp\":30.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -39414,7 +39414,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17,\"max_temp\":28.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.8,\"max_temp\":31.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.9,\"max_temp\":32.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":19.3,\"max_temp\":31.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17,\"max_temp\":28.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":18.8,\"max_temp\":31.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":19.9,\"max_temp\":32.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":19.3,\"max_temp\":31.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -39630,13 +39630,13 @@
           "13:30": 9.82,
           "13:35": 9.84,
           "13:40": 9.69,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:45": 9.67,
+          "13:50": 9.74,
+          "13:55": 9.73,
+          "14:00": 9.81,
+          "14:05": 9.53,
+          "14:10": 9.62,
+          "14:15": 9.72,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -39755,7 +39755,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.69"
+      "currentPower": "9.62"
     },
     "stationOverview": {
       "stationName": "VILLALBA - POSTE ITALIANE",
@@ -39769,7 +39769,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17,\"max_temp\":31.9,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":16.6,\"max_temp\":34.3,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.1,\"max_temp\":35.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.1,\"max_temp\":34.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":17,\"max_temp\":31.8,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":16.8,\"max_temp\":33.9,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":18.1,\"max_temp\":35.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":20.1,\"max_temp\":34.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -39800,20 +39800,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3710.57,
+      "co2ReductionByYear": 3712.88,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 3125,
+      "standardCoalSavings": 3126.95,
       "componentFlag": 0,
       "equivalentTreePlanting": 6,
-      "co2Reduction": 3710.94,
-      "standardCoalSavingsByYear": 3124.69
+      "co2Reduction": 3713.26,
+      "standardCoalSavingsByYear": 3126.64
     },
     "realKpi": {
-      "realTimePower": 9.69,
-      "cumulativeEnergy": 7812.51,
-      "monthEnergy": 1695.64,
-      "dailyEnergy": 44.1,
-      "yearEnergy": 7811.72
+      "realTimePower": 9.62,
+      "cumulativeEnergy": 7817.38,
+      "monthEnergy": 1700.51,
+      "dailyEnergy": 48.97,
+      "yearEnergy": 7816.59
     }
   },
   "Poste Italiane Villanova": {
@@ -40479,7 +40479,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.7,\"max_temp\":30.6,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.2,\"max_temp\":32.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.7,\"max_temp\":32.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.1,\"max_temp\":32.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":18.7,\"max_temp\":30.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.1,\"max_temp\":32,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.7,\"max_temp\":32.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.1,\"max_temp\":32.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -40834,7 +40834,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.4,\"max_temp\":29,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.8,\"max_temp\":29.9,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-26\",\"min_temp\":22.2,\"max_temp\":31.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.9,\"max_temp\":32.1,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":19.4,\"max_temp\":28.8,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.8,\"max_temp\":29.7,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":22.2,\"max_temp\":31.4,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.9,\"max_temp\":32.1,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -41050,13 +41050,13 @@
           "13:30": 15.82,
           "13:35": 15.96,
           "13:40": 15.99,
-          "13:45": null,
-          "13:50": null,
-          "13:55": null,
-          "14:00": null,
-          "14:05": null,
-          "14:10": null,
-          "14:15": null,
+          "13:45": 15.9,
+          "13:50": 15.83,
+          "13:55": 15.85,
+          "14:00": 15.63,
+          "14:05": 15.94,
+          "14:10": 15.59,
+          "14:15": 15.52,
           "14:20": null,
           "14:25": null,
           "14:30": null,
@@ -41175,7 +41175,7 @@
           "23:55": null
         }
       },
-      "currentPower": "15.99"
+      "currentPower": "15.52"
     },
     "stationOverview": {
       "stationName": "POSTE SETTIMO MILANESE",
@@ -41220,20 +41220,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 4625.99,
+      "co2ReductionByYear": 4630.35,
       "equivalentTreePlantingByYear": 7,
-      "standardCoalSavings": 3895.73,
+      "standardCoalSavings": 3899.4,
       "componentFlag": 0,
       "equivalentTreePlanting": 7,
-      "co2Reduction": 4626.18,
-      "standardCoalSavingsByYear": 3895.57
+      "co2Reduction": 4630.54,
+      "standardCoalSavingsByYear": 3899.24
     },
     "realKpi": {
-      "realTimePower": 15.99,
-      "cumulativeEnergy": 9739.32,
-      "monthEnergy": 2628.78,
-      "dailyEnergy": 70.61,
-      "yearEnergy": 9738.93
+      "realTimePower": 15.52,
+      "cumulativeEnergy": 9748.5,
+      "monthEnergy": 2637.96,
+      "dailyEnergy": 79.79,
+      "yearEnergy": 9748.11
     }
   },
   "Postel Melzo": {
@@ -42254,7 +42254,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":21.6,\"max_temp\":29.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":21.4,\"max_temp\":30.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21,\"max_temp\":30.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.1,\"max_temp\":31.1,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":21.6,\"max_temp\":29.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":21.3,\"max_temp\":30.2,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21,\"max_temp\":30.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.1,\"max_temp\":31.1,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -42964,7 +42964,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":21,\"max_temp\":28.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.8,\"max_temp\":29.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.5,\"max_temp\":30.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.5,\"max_temp\":30.6,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":21,\"max_temp\":28.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":20.7,\"max_temp\":29.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":20.5,\"max_temp\":30.1,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":21.5,\"max_temp\":30.6,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -43319,7 +43319,7 @@
       "pr": "",
       "garanzia": 1000,
       "Stato": "",
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":21.6,\"max_temp\":29.4,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":21.4,\"max_temp\":30.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.1,\"max_temp\":30.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.1,\"max_temp\":31.2,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":21.6,\"max_temp\":29.5,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-25\",\"min_temp\":21.3,\"max_temp\":30.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":21.1,\"max_temp\":30.7,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":22.1,\"max_temp\":31.2,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -43459,7 +43459,7 @@
       "tipo": "industriali",
       "pr": "",
       "garanzia": 1000,
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":23.8,\"max_temp\":27.7,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":25.1,\"max_temp\":28.8,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":24.2,\"max_temp\":29.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":25.7,\"max_temp\":29.3,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":23.8,\"max_temp\":27.9,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-25\",\"min_temp\":25.1,\"max_temp\":28.9,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-26\",\"min_temp\":24.2,\"max_temp\":29.3,\"weather\":{\"code\":0,\"emoji\":\"☀️\",\"description\":\"Clear sky\",\"italian\":\"Cielo sereno\"}},{\"date\":\"2025-06-27\",\"min_temp\":25.7,\"max_temp\":29.3,\"weather\":{\"code\":1,\"emoji\":\"🌤️\",\"description\":\"Mainly clear\",\"italian\":\"Prevalentemente sereno\"}}]",
       "mountingplace": "free",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
@@ -43525,7 +43525,7 @@
       "tipo": "industriali",
       "pr": "",
       "garanzia": 1000,
-      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":24,\"max_temp\":34.7,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":23.1,\"max_temp\":35.7,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-26\",\"min_temp\":24.3,\"max_temp\":36.8,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.7,\"max_temp\":33.2,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}}]",
+      "weather_data": "[{\"date\":\"2025-06-24\",\"min_temp\":24,\"max_temp\":34.6,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-25\",\"min_temp\":23,\"max_temp\":35.5,\"weather\":{\"code\":2,\"emoji\":\"🌥️\",\"description\":\"Partly cloudy\",\"italian\":\"Parzialmente nuvoloso\"}},{\"date\":\"2025-06-26\",\"min_temp\":24.3,\"max_temp\":36.8,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}},{\"date\":\"2025-06-27\",\"min_temp\":23.7,\"max_temp\":33.2,\"weather\":{\"code\":3,\"emoji\":\"☁️\",\"description\":\"Overcast\",\"italian\":\"Coperto\"}}]",
       "mountingplace": "building",
       "pvtechchoice": "crystSi",
       "raddatabase": "PVGIS-SARAH3",
