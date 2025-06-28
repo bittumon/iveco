@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-06-28 17:58:50",
+    "last_update": "2025-06-28 18:01:02",
     "ac_power": 1745.6,
     "month_name": "JUNE",
     "current_year": 2025,
-    "carbon": 7452,
-    "alberi": 10191,
-    "t_evita": 6278,
-    "total_dayenergy": 20441.2999999999,
-    "life_energy": 15694909,
+    "carbon": 7457,
+    "alberi": 10198,
+    "t_evita": 6282,
+    "total_dayenergy": [
+        "23108.199999999862"
+    ],
+    "life_energy": 15705484,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -19,7 +21,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "20.899999999877764",
@@ -32,7 +35,8 @@
         "3012.600000000006",
         "3081.500000000058",
         "2940.499999999884",
-        "2665.200000000099"
+        "2665.200000000099",
+        "2202.399999999965"
     ],
     "all_years_list": [
         "2023",
@@ -42,7 +46,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "2592346.7"
+        "2602921.2"
     ],
     "all_daymonth_list": [
         "01",
@@ -150,11 +154,11 @@
         "443760.5",
         "526423.7000000001",
         "607625.2000000001",
-        "621323.1"
+        "631897.5999999999"
     ],
     "temperature_2m": "34.8 \u00b0C",
     "relative_humidity_2m": "33 %",
-    "apparent_temperature": "35.8 \u00b0C",
+    "apparent_temperature": "35.7 \u00b0C",
     "is_day": 1,
     "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
@@ -163,8 +167,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1019.0 hPa",
-    "surface_pressure": "1003.1 hPa",
-    "wind_speed_10m": "8.0 km/h",
-    "wind_direction_10m": "207 \u00b0"
+    "pressure_msl": "1018.9 hPa",
+    "surface_pressure": "1003.0 hPa",
+    "wind_speed_10m": "9.1 km/h",
+    "wind_direction_10m": "214 \u00b0"
 }
