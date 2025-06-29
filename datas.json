@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-06-29 15:58:51",
+    "last_update": "2025-06-29 16:01:03",
     "ac_power": 2903.45,
     "month_name": "JUNE",
     "current_year": 2025,
     "carbon": 7465,
     "alberi": 10208,
     "t_evita": 6288,
-    "total_dayenergy": 14908.999999999913,
+    "total_dayenergy": [
+        "18569.59999999989"
+    ],
     "life_energy": 15720930,
     "acEnergy_hour_day": [
         "5",
@@ -17,7 +19,8 @@
         "10",
         "11",
         "12",
-        "13"
+        "13",
+        "14"
     ],
     "acEnergy_hour": [
         "25.499999999825377",
@@ -28,7 +31,8 @@
         "2371.5",
         "2761.7999999999884",
         "3000.5000000001164",
-        "3085.499999999942"
+        "3085.499999999942",
+        "2959.5999999999185"
     ],
     "all_years_list": [
         "2023",
@@ -152,7 +156,7 @@
     ],
     "temperature_2m": "34.3 \u00b0C",
     "relative_humidity_2m": "39 %",
-    "apparent_temperature": "37.6 \u00b0C",
+    "apparent_temperature": "37.5 \u00b0C",
     "is_day": 1,
     "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
