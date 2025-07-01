@@ -201,12 +201,12 @@
           "10:15": 0,
           "10:20": 0,
           "10:25": 0,
-          "10:30": null,
-          "10:35": null,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
+          "10:30": 0,
+          "10:35": 0,
+          "10:40": 0,
+          "10:45": 0,
+          "10:50": 0,
+          "10:55": 0,
           "11:00": null,
           "11:05": null,
           "11:10": null,
@@ -924,13 +924,13 @@
           "10:20": 179.75,
           "10:25": 180.01,
           "10:30": 180,
-          "10:35": null,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:35": 180.02,
+          "10:40": 180.03,
+          "10:45": 180,
+          "10:50": 180.01,
+          "10:55": 179.98,
+          "11:00": 180.01,
+          "11:05": 179.98,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -1087,7 +1087,7 @@
           "23:55": null
         }
       },
-      "currentPower": "180"
+      "currentPower": "179.99"
     },
     "stationOverview": {
       "stationName": "Bennet - Castelletto Ticino",
@@ -1138,20 +1138,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 14017.7,
+      "co2ReductionByYear": 14060.4,
       "equivalentTreePlantingByYear": 20,
-      "standardCoalSavings": 11804.39,
+      "standardCoalSavings": 11840.35,
       "componentFlag": 0,
       "equivalentTreePlanting": 20,
-      "co2Reduction": 14017.72,
-      "standardCoalSavingsByYear": 11804.38
+      "co2Reduction": 14060.41,
+      "standardCoalSavingsByYear": 11840.34
     },
     "realKpi": {
-      "realTimePower": 180,
-      "cumulativeEnergy": 29510.98,
-      "monthEnergy": 373.15,
-      "dailyEnergy": 373.15,
-      "yearEnergy": 29510.95
+      "realTimePower": 179.99,
+      "cumulativeEnergy": 29600.87,
+      "monthEnergy": 463.04,
+      "dailyEnergy": 463.04,
+      "yearEnergy": 29600.84
     }
   },
   "Bennet Ciriè": {
@@ -1285,12 +1285,12 @@
           "10:20": 113.37,
           "10:25": 115.91,
           "10:30": 117.65,
-          "10:35": null,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
+          "10:35": 119.01,
+          "10:40": 121.03,
+          "10:45": 122.38,
+          "10:50": 124.25,
+          "10:55": 126.69,
+          "11:00": 127.98,
           "11:05": null,
           "11:10": null,
           "11:15": null,
@@ -1448,7 +1448,7 @@
           "23:55": null
         }
       },
-      "currentPower": "117.59"
+      "currentPower": "127.89"
     },
     "stationOverview": {
       "stationName": "Bennet_Ciriè",
@@ -1499,20 +1499,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 49774.53,
-      "equivalentTreePlantingByYear": 68,
-      "standardCoalSavings": 41915.37,
+      "co2ReductionByYear": 49803.65,
+      "equivalentTreePlantingByYear": 69,
+      "standardCoalSavings": 41939.9,
       "componentFlag": 0,
-      "equivalentTreePlanting": 68,
-      "co2Reduction": 49774.5,
-      "standardCoalSavingsByYear": 41915.39
+      "equivalentTreePlanting": 69,
+      "co2Reduction": 49803.63,
+      "standardCoalSavingsByYear": 41939.92
     },
     "realKpi": {
-      "realTimePower": 117.59,
-      "cumulativeEnergy": 104788.43,
-      "monthEnergy": 224.48,
-      "dailyEnergy": 224.48,
-      "yearEnergy": 104788.48
+      "realTimePower": 127.89,
+      "cumulativeEnergy": 104849.74,
+      "monthEnergy": 285.79,
+      "dailyEnergy": 285.79,
+      "yearEnergy": 104849.79
     }
   },
   "Bennet Cornaredo": {
@@ -3091,12 +3091,12 @@
           "10:25": 53.13,
           "10:30": 53.82,
           "10:35": 54.37,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 55.24,
+          "10:45": 55.9,
+          "10:50": 55.98,
+          "10:55": 56.75,
+          "11:00": 57.45,
+          "11:05": 57.91,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -3253,7 +3253,7 @@
           "23:55": null
         }
       },
-      "currentPower": "53.85"
+      "currentPower": "57.46"
     },
     "stationOverview": {
       "stationName": "Benner - Olgiate Comasco",
@@ -3304,20 +3304,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 7127.08,
+      "co2ReductionByYear": 7140.3,
       "equivalentTreePlantingByYear": 10,
-      "standardCoalSavings": 6001.74,
+      "standardCoalSavings": 6012.87,
       "componentFlag": 0,
       "equivalentTreePlanting": 10,
-      "co2Reduction": 7127.06,
-      "standardCoalSavingsByYear": 6001.75
+      "co2Reduction": 7140.29,
+      "standardCoalSavingsByYear": 6012.89
     },
     "realKpi": {
-      "realTimePower": 53.85,
-      "cumulativeEnergy": 15004.34,
-      "monthEnergy": 118.78,
-      "dailyEnergy": 118.78,
-      "yearEnergy": 15004.38
+      "realTimePower": 57.46,
+      "cumulativeEnergy": 15032.18,
+      "monthEnergy": 146.62,
+      "dailyEnergy": 146.62,
+      "yearEnergy": 15032.22
     }
   },
   "Bennet San Martino in Strada": {
@@ -6627,12 +6627,12 @@
           "10:20": 517.27,
           "10:25": 528.18,
           "10:30": 535.09,
-          "10:35": null,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
+          "10:35": 542.6,
+          "10:40": 550.93,
+          "10:45": 554.81,
+          "10:50": 565.03,
+          "10:55": 571.36,
+          "11:00": 575.84,
           "11:05": null,
           "11:10": null,
           "11:15": null,
@@ -6790,7 +6790,7 @@
           "23:55": null
         }
       },
-      "currentPower": "535.12"
+      "currentPower": "576.17"
     },
     "stationOverview": {
       "stationName": "CMP PALERMO - POSTE ITALIANE",
@@ -6841,20 +6841,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 283376.78,
+      "co2ReductionByYear": 283509.07,
       "equivalentTreePlantingByYear": 388,
-      "standardCoalSavings": 793014.16,
+      "standardCoalSavings": 793125.56,
       "componentFlag": 0,
       "equivalentTreePlanting": 1287,
-      "co2Reduction": 941704.31,
-      "standardCoalSavingsByYear": 238633.08
+      "co2Reduction": 941836.6,
+      "standardCoalSavingsByYear": 238744.48
     },
     "realKpi": {
-      "realTimePower": 535.12,
-      "cumulativeEnergy": 1982535.39,
-      "monthEnergy": 1082.69,
-      "dailyEnergy": 1082.69,
-      "yearEnergy": 596582.69
+      "realTimePower": 576.17,
+      "cumulativeEnergy": 1982813.89,
+      "monthEnergy": 1361.19,
+      "dailyEnergy": 1361.19,
+      "yearEnergy": 596861.19
     }
   },
   "CNH Modena": {
@@ -7566,12 +7566,12 @@
           "10:25": 43.7,
           "10:30": 43.76,
           "10:35": 49.07,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 50.6,
+          "10:45": 47.27,
+          "10:50": 47.22,
+          "10:55": 47.42,
+          "11:00": 49.55,
+          "11:05": 41.4,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -7728,7 +7728,7 @@
           "23:55": null
         }
       },
-      "currentPower": "49.01"
+      "currentPower": "53.33"
     },
     "stationOverview": {
       "stationName": "Istituto Leonarda Vaccari",
@@ -7779,20 +7779,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 21758.52,
+      "co2ReductionByYear": 21768.15,
       "equivalentTreePlantingByYear": 30,
-      "standardCoalSavings": 57966.82,
+      "standardCoalSavings": 57974.93,
       "componentFlag": 0,
       "equivalentTreePlanting": 95,
-      "co2Reduction": 68835.59,
-      "standardCoalSavingsByYear": 18322.96
+      "co2Reduction": 68845.23,
+      "standardCoalSavingsByYear": 18331.07
     },
     "realKpi": {
-      "realTimePower": 49.01,
-      "cumulativeEnergy": 144917.04,
-      "monthEnergy": 97.3,
-      "dailyEnergy": 97.3,
-      "yearEnergy": 45807.4
+      "realTimePower": 53.33,
+      "cumulativeEnergy": 144937.32,
+      "monthEnergy": 117.58,
+      "dailyEnergy": 117.58,
+      "yearEnergy": 45827.68
     }
   },
   "Iveco": {
@@ -12113,12 +12113,12 @@
           "10:25": 0,
           "10:30": 0,
           "10:35": 0,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 0,
+          "10:45": 0,
+          "10:50": 0,
+          "10:55": 0,
+          "11:00": 0,
+          "11:05": 0,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -13196,12 +13196,12 @@
           "10:25": 6.55,
           "10:30": 7.28,
           "10:35": 8.11,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 10.64,
+          "10:45": 11.46,
+          "10:50": 12.5,
+          "10:55": 11.47,
+          "11:00": 14.18,
+          "11:05": 9.61,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -13358,7 +13358,7 @@
           "23:55": null
         }
       },
-      "currentPower": "8.11"
+      "currentPower": "8.75"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - MARTELLAGO",
@@ -13409,20 +13409,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 7200.87,
+      "co2ReductionByYear": 7204.01,
       "equivalentTreePlantingByYear": 10,
-      "standardCoalSavings": 26179.82,
+      "standardCoalSavings": 26182.47,
       "componentFlag": 0,
       "equivalentTreePlanting": 43,
-      "co2Reduction": 31088.54,
-      "standardCoalSavingsByYear": 6063.89
+      "co2Reduction": 31091.68,
+      "standardCoalSavingsByYear": 6066.53
     },
     "realKpi": {
-      "realTimePower": 8.11,
-      "cumulativeEnergy": 65449.56,
-      "monthEnergy": 11.92,
-      "dailyEnergy": 11.92,
-      "yearEnergy": 15159.72
+      "realTimePower": 8.75,
+      "cumulativeEnergy": 65456.17,
+      "monthEnergy": 18.53,
+      "dailyEnergy": 18.53,
+      "yearEnergy": 15166.33
     }
   },
   "Poste Italiane - Mereto di Tomba": {
@@ -13918,12 +13918,12 @@
           "10:25": 77.99,
           "10:30": 81.92,
           "10:35": 86.01,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 90.98,
+          "10:45": 92.03,
+          "10:50": 99.05,
+          "10:55": 99.06,
+          "11:00": 106.17,
+          "11:05": 112.6,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -14080,7 +14080,7 @@
           "23:55": null
         }
       },
-      "currentPower": "86.09"
+      "currentPower": "113.21"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - POLIFUNZIONALE MESTRE",
@@ -14131,20 +14131,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 104183.92,
+      "co2ReductionByYear": 104206.99,
       "equivalentTreePlantingByYear": 143,
-      "standardCoalSavings": 404906.96,
+      "standardCoalSavings": 404926.38,
       "componentFlag": 0,
       "equivalentTreePlanting": 657,
-      "co2Reduction": 480827.01,
-      "standardCoalSavingsByYear": 87733.83
+      "co2Reduction": 480850.08,
+      "standardCoalSavingsByYear": 87753.25
     },
     "realKpi": {
-      "realTimePower": 86.09,
-      "cumulativeEnergy": 1012267.39,
-      "monthEnergy": 170.57,
-      "dailyEnergy": 170.57,
-      "yearEnergy": 219334.57
+      "realTimePower": 113.21,
+      "cumulativeEnergy": 1012315.95,
+      "monthEnergy": 219.13,
+      "dailyEnergy": 219.13,
+      "yearEnergy": 219383.13
     }
   },
   "Poste Italiane - Mira Oriago": {
@@ -14279,12 +14279,12 @@
           "10:25": 5.32,
           "10:30": 5.29,
           "10:35": 5.71,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 6.04,
+          "10:45": 5.85,
+          "10:50": 6.27,
+          "10:55": 16.82,
+          "11:00": 8.01,
+          "11:05": 10.67,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -14441,7 +14441,7 @@
           "23:55": null
         }
       },
-      "currentPower": "5.73"
+      "currentPower": "10.67"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - ORIAGO",
@@ -14492,20 +14492,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 6450.91,
+      "co2ReductionByYear": 6453.1,
       "equivalentTreePlantingByYear": 9,
-      "standardCoalSavings": 23912.49,
+      "standardCoalSavings": 23914.33,
       "componentFlag": 0,
       "equivalentTreePlanting": 39,
-      "co2Reduction": 28396.08,
-      "standardCoalSavingsByYear": 5432.35
+      "co2Reduction": 28398.26,
+      "standardCoalSavingsByYear": 5434.19
     },
     "realKpi": {
-      "realTimePower": 5.73,
-      "cumulativeEnergy": 59781.22,
-      "monthEnergy": 11.07,
-      "dailyEnergy": 11.07,
-      "yearEnergy": 13580.87
+      "realTimePower": 10.67,
+      "cumulativeEnergy": 59785.82,
+      "monthEnergy": 15.67,
+      "dailyEnergy": 15.67,
+      "yearEnergy": 13585.47
     }
   },
   "Poste Italiane - Osoppo": {
@@ -16806,12 +16806,12 @@
           "10:25": 3.12,
           "10:30": 3.5,
           "10:35": 4.08,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 3.3,
+          "10:45": 5.57,
+          "10:50": 5.9,
+          "10:55": 7,
+          "11:00": 7.15,
+          "11:05": 7.06,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -16968,7 +16968,7 @@
           "23:55": null
         }
       },
-      "currentPower": "4.08"
+      "currentPower": "6.54"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - SANTA MARIA SALA",
@@ -17019,20 +17019,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2785.76,
+      "co2ReductionByYear": 2787.18,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 10014.43,
+      "standardCoalSavings": 10015.62,
       "componentFlag": 0,
       "equivalentTreePlanting": 17,
-      "co2Reduction": 11892.13,
-      "standardCoalSavingsByYear": 2345.9
+      "co2Reduction": 11893.55,
+      "standardCoalSavingsByYear": 2347.1
     },
     "realKpi": {
-      "realTimePower": 4.08,
-      "cumulativeEnergy": 25036.07,
-      "monthEnergy": 5.14,
-      "dailyEnergy": 5.14,
-      "yearEnergy": 5864.76
+      "realTimePower": 6.54,
+      "cumulativeEnergy": 25039.06,
+      "monthEnergy": 8.13,
+      "dailyEnergy": 8.13,
+      "yearEnergy": 5867.75
     }
   },
   "Poste Italiane - Sequals": {
@@ -22654,12 +22654,12 @@
           "10:25": 5.65,
           "10:30": 5.71,
           "10:35": 5.82,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 5.89,
+          "10:45": 5.96,
+          "10:50": 5.98,
+          "10:55": 6.02,
+          "11:00": 6.16,
+          "11:05": 6.16,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -22816,7 +22816,7 @@
           "23:55": null
         }
       },
-      "currentPower": "5.73"
+      "currentPower": "6.15"
     },
     "stationOverview": {
       "stationName": "CASTROFILIPPO - POSTE ITALIANE",
@@ -22867,20 +22867,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3151.25,
+      "co2ReductionByYear": 3152.67,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 7517.92,
+      "standardCoalSavings": 7519.1,
       "componentFlag": 0,
       "equivalentTreePlanting": 13,
-      "co2Reduction": 8927.53,
-      "standardCoalSavingsByYear": 2653.69
+      "co2Reduction": 8928.94,
+      "standardCoalSavingsByYear": 2654.88
     },
     "realKpi": {
-      "realTimePower": 5.73,
-      "cumulativeEnergy": 18794.79,
-      "monthEnergy": 11.8,
-      "dailyEnergy": 11.8,
-      "yearEnergy": 6634.22
+      "realTimePower": 6.15,
+      "cumulativeEnergy": 18797.76,
+      "monthEnergy": 14.77,
+      "dailyEnergy": 14.77,
+      "yearEnergy": 6637.19
     }
   },
   "Poste Italiane Contessa Entellina": {
@@ -25181,12 +25181,12 @@
           "10:25": 10.79,
           "10:30": 10.9,
           "10:35": 11.08,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 11.17,
+          "10:45": 11.31,
+          "10:50": 11.42,
+          "10:55": 11.55,
+          "11:00": 11.66,
+          "11:05": 11.76,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -25343,7 +25343,7 @@
           "23:55": null
         }
       },
-      "currentPower": "11.08"
+      "currentPower": "11.66"
     },
     "stationOverview": {
       "stationName": "GIBELLINA - POSTE ITALIANE",
@@ -25394,20 +25394,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 5619.95,
+      "co2ReductionByYear": 5622.2,
       "equivalentTreePlantingByYear": 8,
-      "standardCoalSavings": 13441.16,
+      "standardCoalSavings": 13443.05,
       "componentFlag": 0,
       "equivalentTreePlanting": 22,
-      "co2Reduction": 15961.37,
-      "standardCoalSavingsByYear": 4732.59
+      "co2Reduction": 15963.62,
+      "standardCoalSavingsByYear": 4734.48
     },
     "realKpi": {
-      "realTimePower": 11.08,
-      "cumulativeEnergy": 33602.89,
-      "monthEnergy": 23.27,
-      "dailyEnergy": 23.27,
-      "yearEnergy": 11831.47
+      "realTimePower": 11.66,
+      "cumulativeEnergy": 33607.62,
+      "monthEnergy": 28,
+      "dailyEnergy": 28,
+      "yearEnergy": 11836.2
     }
   },
   "Poste Italiane Langhirano": {
@@ -28430,12 +28430,12 @@
           "10:25": 5.9,
           "10:30": 5.99,
           "10:35": 6.05,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 6.16,
+          "10:45": 6.21,
+          "10:50": 6.27,
+          "10:55": 6.35,
+          "11:00": 6.49,
+          "11:05": 6.56,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -28592,7 +28592,7 @@
           "23:55": null
         }
       },
-      "currentPower": "6.05"
+      "currentPower": "6.49"
     },
     "stationOverview": {
       "stationName": "MISTRETTA - POSTE ITALIANE",
@@ -28643,20 +28643,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2920.97,
+      "co2ReductionByYear": 2922.21,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 5484.83,
+      "standardCoalSavings": 5485.88,
       "componentFlag": 0,
       "equivalentTreePlanting": 9,
-      "co2Reduction": 6513.24,
-      "standardCoalSavingsByYear": 2459.77
+      "co2Reduction": 6514.48,
+      "standardCoalSavingsByYear": 2460.81
     },
     "realKpi": {
-      "realTimePower": 6.05,
-      "cumulativeEnergy": 13712.08,
-      "monthEnergy": 12.4,
-      "dailyEnergy": 12.4,
-      "yearEnergy": 6149.42
+      "realTimePower": 6.49,
+      "cumulativeEnergy": 13714.69,
+      "monthEnergy": 15.01,
+      "dailyEnergy": 15.01,
+      "yearEnergy": 6152.03
     }
   },
   "Poste Italiane Montevago": {
@@ -30235,12 +30235,12 @@
           "10:25": 9.23,
           "10:30": 21.45,
           "10:35": 8,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 9.52,
+          "10:45": 23.36,
+          "10:50": 22.73,
+          "10:55": 22.56,
+          "11:00": 21.81,
+          "11:05": 22.24,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -30397,7 +30397,7 @@
           "23:55": null
         }
       },
-      "currentPower": "8.08"
+      "currentPower": "21.84"
     },
     "stationOverview": {
       "stationName": "PEDARA - POSTE ITALIANE",
@@ -30448,20 +30448,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 9920.82,
+      "co2ReductionByYear": 9924.91,
       "equivalentTreePlantingByYear": 14,
-      "standardCoalSavings": 20471.42,
+      "standardCoalSavings": 20474.86,
       "componentFlag": 0,
       "equivalentTreePlanting": 34,
-      "co2Reduction": 24309.81,
-      "standardCoalSavingsByYear": 8354.38
+      "co2Reduction": 24313.9,
+      "standardCoalSavingsByYear": 8357.82
     },
     "realKpi": {
-      "realTimePower": 8.08,
-      "cumulativeEnergy": 51178.55,
-      "monthEnergy": 42.24,
-      "dailyEnergy": 42.24,
-      "yearEnergy": 20885.94
+      "realTimePower": 21.84,
+      "cumulativeEnergy": 51187.15,
+      "monthEnergy": 50.84,
+      "dailyEnergy": 50.84,
+      "yearEnergy": 20894.54
     }
   },
   "Poste Italiane Petrosino": {
@@ -31318,12 +31318,12 @@
           "10:25": 32.95,
           "10:30": 33.24,
           "10:35": 33.58,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 33.74,
+          "10:45": 34.42,
+          "10:50": 34.43,
+          "10:55": 34.66,
+          "11:00": 35.01,
+          "11:05": 35.19,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -31480,7 +31480,7 @@
           "23:55": null
         }
       },
-      "currentPower": "33.63"
+      "currentPower": "35.03"
     },
     "stationOverview": {
       "stationName": "PRIOLO GARGALLO - POSTE ITALIANE",
@@ -31531,20 +31531,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 17736.22,
+      "co2ReductionByYear": 17743,
       "equivalentTreePlantingByYear": 25,
-      "standardCoalSavings": 39298.18,
+      "standardCoalSavings": 39303.9,
       "componentFlag": 0,
       "equivalentTreePlanting": 64,
-      "co2Reduction": 46666.59,
-      "standardCoalSavingsByYear": 14935.76
+      "co2Reduction": 46673.38,
+      "standardCoalSavingsByYear": 14941.48
     },
     "realKpi": {
-      "realTimePower": 33.63,
-      "cumulativeEnergy": 98245.46,
-      "monthEnergy": 74.51,
-      "dailyEnergy": 74.51,
-      "yearEnergy": 37339.41
+      "realTimePower": 35.03,
+      "cumulativeEnergy": 98259.74,
+      "monthEnergy": 88.79,
+      "dailyEnergy": 88.79,
+      "yearEnergy": 37353.69
     }
   },
   "Poste Italiane Raffadali": {
@@ -31679,12 +31679,12 @@
           "10:25": 13.64,
           "10:30": 13.93,
           "10:35": 14.21,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 14.38,
+          "10:45": 14.6,
+          "10:50": 14.83,
+          "10:55": 14.96,
+          "11:00": 15.09,
+          "11:05": 15.2,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -31841,7 +31841,7 @@
           "23:55": null
         }
       },
-      "currentPower": "13.95"
+      "currentPower": "15.08"
     },
     "stationOverview": {
       "stationName": "RAFFADALI - POSTE ITALIANE",
@@ -31892,20 +31892,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 7666.59,
+      "co2ReductionByYear": 7670.05,
       "equivalentTreePlantingByYear": 11,
-      "standardCoalSavings": 17626.3,
+      "standardCoalSavings": 17629.21,
       "componentFlag": 0,
       "equivalentTreePlanting": 29,
-      "co2Reduction": 20931.23,
-      "standardCoalSavingsByYear": 6456.07
+      "co2Reduction": 20934.69,
+      "standardCoalSavingsByYear": 6458.99
     },
     "realKpi": {
-      "realTimePower": 13.95,
-      "cumulativeEnergy": 44065.74,
-      "monthEnergy": 26.98,
-      "dailyEnergy": 26.98,
-      "yearEnergy": 16140.18
+      "realTimePower": 15.08,
+      "cumulativeEnergy": 44073.03,
+      "monthEnergy": 34.27,
+      "dailyEnergy": 34.27,
+      "yearEnergy": 16147.47
     }
   },
   "Poste Italiane Ramacca": {
@@ -32040,12 +32040,12 @@
           "10:25": 22.16,
           "10:30": 22.49,
           "10:35": 22.7,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 23.14,
+          "10:45": 23.33,
+          "10:50": 23.52,
+          "10:55": 23.95,
+          "11:00": 24.23,
+          "11:05": 24.32,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -32202,7 +32202,7 @@
           "23:55": null
         }
       },
-      "currentPower": "22.72"
+      "currentPower": "24.32"
     },
     "stationOverview": {
       "stationName": "RAMACCA - POSTE ITALIANE",
@@ -32253,20 +32253,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 11009.55,
+      "co2ReductionByYear": 11015.16,
       "equivalentTreePlantingByYear": 16,
-      "standardCoalSavings": 25109.64,
+      "standardCoalSavings": 25114.36,
       "componentFlag": 0,
       "equivalentTreePlanting": 41,
-      "co2Reduction": 29817.7,
-      "standardCoalSavingsByYear": 9271.2
+      "co2Reduction": 29823.31,
+      "standardCoalSavingsByYear": 9275.92
     },
     "realKpi": {
-      "realTimePower": 22.72,
-      "cumulativeEnergy": 62774.11,
-      "monthEnergy": 47.11,
-      "dailyEnergy": 47.11,
-      "yearEnergy": 23178.01
+      "realTimePower": 24.32,
+      "cumulativeEnergy": 62785.91,
+      "monthEnergy": 58.91,
+      "dailyEnergy": 58.91,
+      "yearEnergy": 23189.81
     }
   },
   "Poste Italiane Randazzo": {
@@ -33123,12 +33123,12 @@
           "10:25": 36.53,
           "10:30": 37.05,
           "10:35": 37.52,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 37.95,
+          "10:45": 38.33,
+          "10:50": 38.96,
+          "10:55": 39.37,
+          "11:00": 39.74,
+          "11:05": 40.17,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -33285,7 +33285,7 @@
           "23:55": null
         }
       },
-      "currentPower": "37.34"
+      "currentPower": "39.73"
     },
     "stationOverview": {
       "stationName": "RIESI - POSTE ITALIANE",
@@ -33336,20 +33336,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 19122.97,
+      "co2ReductionByYear": 19130.63,
       "equivalentTreePlantingByYear": 27,
-      "standardCoalSavings": 44125.73,
+      "standardCoalSavings": 44132.18,
       "componentFlag": 0,
       "equivalentTreePlanting": 72,
-      "co2Reduction": 52399.3,
-      "standardCoalSavingsByYear": 16103.56
+      "co2Reduction": 52406.96,
+      "standardCoalSavingsByYear": 16110
     },
     "realKpi": {
-      "realTimePower": 37.34,
-      "cumulativeEnergy": 110314.32,
-      "monthEnergy": 75.29,
-      "dailyEnergy": 75.29,
-      "yearEnergy": 40258.89
+      "realTimePower": 39.73,
+      "cumulativeEnergy": 110330.44,
+      "monthEnergy": 91.41,
+      "dailyEnergy": 91.41,
+      "yearEnergy": 40275.01
     }
   },
   "Poste Italiane Roccamena": {
@@ -37094,12 +37094,12 @@
           "10:25": 22.18,
           "10:30": 19.89,
           "10:35": 7.26,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 21.3,
+          "10:45": 22.22,
+          "10:50": 24.55,
+          "10:55": 22.33,
+          "11:00": 22.32,
+          "11:05": 21.54,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -37256,7 +37256,7 @@
           "23:55": null
         }
       },
-      "currentPower": "6.47"
+      "currentPower": "22.4"
     },
     "stationOverview": {
       "stationName": "SANTA  AGATA LI BATTIATI - POSTE ITALIANE",
@@ -37307,20 +37307,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 7195.53,
+      "co2ReductionByYear": 7199.84,
       "equivalentTreePlantingByYear": 10,
-      "standardCoalSavings": 14550.66,
+      "standardCoalSavings": 14554.29,
       "componentFlag": 0,
       "equivalentTreePlanting": 24,
-      "co2Reduction": 17278.91,
-      "standardCoalSavingsByYear": 6059.39
+      "co2Reduction": 17283.22,
+      "standardCoalSavingsByYear": 6063.02
     },
     "realKpi": {
-      "realTimePower": 6.47,
-      "cumulativeEnergy": 36376.66,
-      "monthEnergy": 44.98,
-      "dailyEnergy": 44.98,
-      "yearEnergy": 15148.48
+      "realTimePower": 22.4,
+      "cumulativeEnergy": 36385.73,
+      "monthEnergy": 54.05,
+      "dailyEnergy": 54.05,
+      "yearEnergy": 15157.55
     }
   },
   "Poste Italiane Santa Lucia del Mela": {
@@ -41426,12 +41426,12 @@
           "10:25": 13.71,
           "10:30": 5.4,
           "10:35": 10.49,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 12.63,
+          "10:45": 11.91,
+          "10:50": 7.17,
+          "10:55": 15.38,
+          "11:00": 15.67,
+          "11:05": 9.83,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -41588,7 +41588,7 @@
           "23:55": null
         }
       },
-      "currentPower": "12.19"
+      "currentPower": "13.39"
     },
     "stationOverview": {
       "stationName": "ZAFFERANA ETNEA",
@@ -41639,20 +41639,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 4651.69,
+      "co2ReductionByYear": 4654.58,
       "equivalentTreePlantingByYear": 7,
-      "standardCoalSavings": 7101.96,
+      "standardCoalSavings": 7104.39,
       "componentFlag": 0,
       "equivalentTreePlanting": 12,
-      "co2Reduction": 8433.58,
-      "standardCoalSavingsByYear": 3917.22
+      "co2Reduction": 8436.47,
+      "standardCoalSavingsByYear": 3919.64
     },
     "realKpi": {
-      "realTimePower": 12.19,
-      "cumulativeEnergy": 17754.91,
-      "monthEnergy": 23.95,
-      "dailyEnergy": 23.95,
-      "yearEnergy": 9793.04
+      "realTimePower": 13.39,
+      "cumulativeEnergy": 17760.98,
+      "monthEnergy": 30.02,
+      "dailyEnergy": 30.02,
+      "yearEnergy": 9799.11
     }
   },
   "POSTE SETTIMO MILANESE": {
@@ -42148,12 +42148,12 @@
           "10:25": 378.5,
           "10:30": 383.81,
           "10:35": 389.49,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 393.9,
+          "10:45": 397.97,
+          "10:50": 401.3,
+          "10:55": 405.7,
+          "11:00": 408.86,
+          "11:05": 413.52,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -42310,7 +42310,7 @@
           "23:55": null
         }
       },
-      "currentPower": "389.68"
+      "currentPower": "413.53"
     },
     "stationOverview": {
       "stationName": " Postel MELZO",
@@ -42361,20 +42361,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 193817.22,
+      "co2ReductionByYear": 193912.56,
       "equivalentTreePlantingByYear": 265,
-      "standardCoalSavings": 505099.77,
+      "standardCoalSavings": 505180.05,
       "componentFlag": 0,
       "equivalentTreePlanting": 820,
-      "co2Reduction": 599805.97,
-      "standardCoalSavingsByYear": 163214.5
+      "co2Reduction": 599901.31,
+      "standardCoalSavingsByYear": 163294.78
     },
     "realKpi": {
-      "realTimePower": 389.68,
-      "cumulativeEnergy": 1262749.42,
-      "monthEnergy": 859.26,
-      "dailyEnergy": 859.26,
-      "yearEnergy": 408036.26
+      "realTimePower": 413.53,
+      "cumulativeEnergy": 1262950.12,
+      "monthEnergy": 1059.96,
+      "dailyEnergy": 1059.96,
+      "yearEnergy": 408236.96
     }
   },
   "PRATICO ANTONIO": {
@@ -42870,12 +42870,12 @@
           "10:25": 15.94,
           "10:30": 16.11,
           "10:35": 16.22,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 16.48,
+          "10:45": 16.69,
+          "10:50": 16.86,
+          "10:55": 17.05,
+          "11:00": 17.04,
+          "11:05": 17.2,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -43032,7 +43032,7 @@
           "23:55": null
         }
       },
-      "currentPower": "16.11"
+      "currentPower": "17.04"
     },
     "stationOverview": {
       "stationName": "ROCCOPIRRI - POSTE ITALIANE",
@@ -43083,20 +43083,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 9124.65,
+      "co2ReductionByYear": 9128.59,
       "equivalentTreePlantingByYear": 13,
-      "standardCoalSavings": 20665.69,
+      "standardCoalSavings": 20669.01,
       "componentFlag": 0,
       "equivalentTreePlanting": 34,
-      "co2Reduction": 24540.5,
-      "standardCoalSavingsByYear": 7683.91
+      "co2Reduction": 24544.45,
+      "standardCoalSavingsByYear": 7687.24
     },
     "realKpi": {
-      "realTimePower": 16.11,
-      "cumulativeEnergy": 51664.22,
-      "monthEnergy": 37.28,
-      "dailyEnergy": 37.28,
-      "yearEnergy": 19209.78
+      "realTimePower": 17.04,
+      "cumulativeEnergy": 51672.53,
+      "monthEnergy": 45.59,
+      "dailyEnergy": 45.59,
+      "yearEnergy": 19218.09
     }
   },
   "Rossi Giants": {
@@ -44304,7 +44304,7 @@
       "Coeff parameters": "",
       "Coeff correc": "",
       "Confronto NREL": "{\"powerCurveTheoretical\":{\"currentDateP\":{\"2025-06-30\":{\"00:09\":0,\"01:09\":0,\"02:09\":0,\"03:09\":0,\"04:09\":500.73,\"05:09\":51190.96,\"06:09\":151233.85,\"07:09\":280373.89,\"08:09\":387036,\"09:09\":462357.98,\"10:09\":501222.77,\"11:09\":0,\"12:09\":494644.7,\"13:09\":449558.52,\"14:09\":372590.32,\"15:09\":266531.82,\"16:09\":144978.16,\"17:09\":42157.26,\"18:09\":0,\"19:09\":0,\"20:09\":0,\"21:09\":0,\"22:09\":0,\"23:09\":0}},\"dailyPmax\":{\"2025-06\":{\"1\":533008.77,\"2\":540245.33,\"3\":514269.16,\"4\":557729.68,\"5\":496668.19,\"6\":311960.96,\"7\":544889.07,\"8\":523570.37,\"9\":537741.68,\"10\":345290.3,\"11\":503760.71,\"12\":559067.25,\"13\":521389.11,\"14\":525566.43,\"15\":501833.25,\"16\":560590.01,\"17\":576983.74,\"18\":542447.16,\"19\":543592.67,\"20\":519736.02,\"21\":520483.68,\"22\":531856.4,\"23\":525950.55,\"24\":545190.88,\"25\":553113.37,\"26\":530217.03,\"27\":537549.62,\"28\":537556.48,\"29\":524125.97,\"30\":501222.77}},\"avgDailyPmax\":518920.2203333333},\"coordinates\":{\"lat\":36.0204,\"lon\":14.2495},\"lastUpdated\":\"2025-06-30T09:43:18.161Z\"}",
-      "Confronto NREL year": "",
+      "Confronto NREL year": "{\"seriescalc\":{\"monthly_seriescalc\":{\"2023-01\":{\"1\":381493.69,\"2\":361395.94,\"3\":396007.97,\"4\":365538.96,\"5\":357787.95,\"6\":388867.44,\"7\":388757.69,\"8\":394642.97,\"9\":410734.88,\"10\":382625.47,\"11\":426696.48,\"12\":336544.7,\"13\":414123.38,\"14\":380581.4,\"15\":437259.8,\"16\":429385.32,\"17\":445868.22,\"18\":429762.58,\"19\":130422.73,\"20\":432334.82,\"21\":423472.6,\"22\":173444.26,\"23\":439578.24,\"24\":405597.27,\"25\":395493.52,\"26\":384155.1,\"27\":379463.34,\"28\":360017.22,\"29\":466260.92,\"30\":459833.75,\"31\":439550.8},\"2023-02\":{\"1\":445758.47,\"2\":328601.63,\"3\":440010.38,\"4\":447733.95,\"5\":496668.19,\"6\":463503.48,\"7\":117252.87,\"8\":139799.39,\"9\":43885.8,\"10\":362438.55,\"11\":485103.41,\"12\":478449.89,\"13\":472194.21,\"14\":485871.66,\"15\":330419.34,\"16\":379147.81,\"17\":490734.9,\"18\":484012.79,\"19\":489294.45,\"20\":475795.34,\"21\":481913.84,\"22\":489609.97,\"23\":497148.35,\"24\":494843.62,\"25\":165658.95,\"26\":454462.92,\"27\":517218.66,\"28\":498383.02},\"2023-03\":{\"1\":519749.74,\"2\":484060.8,\"3\":265845.89,\"4\":511539.16,\"5\":490824.07,\"6\":467276.09,\"7\":497717.67,\"8\":530738.34,\"9\":522719.82,\"10\":499638.27,\"11\":539991.53,\"12\":460355.06,\"13\":517479.31,\"14\":537563.34,\"15\":553909.05,\"16\":551720.94,\"17\":440565.98,\"18\":532487.46,\"19\":525923.11,\"20\":333142.48,\"21\":465911.09,\"22\":517026.6,\"23\":474279.44,\"24\":565686.47,\"25\":564369.49,\"26\":572806.42,\"27\":576675.07,\"28\":580454.54,\"29\":562387.15,\"30\":562229.38,\"31\":559266.17},\"2023-04\":{\"1\":527589.92,\"2\":546960.58,\"3\":537714.25,\"4\":588589.67,\"5\":446842.24,\"6\":598192.69,\"7\":396597.87,\"8\":507629.36,\"9\":509755.74,\"10\":597239.25,\"11\":587965.48,\"12\":574665.29,\"13\":574157.71,\"14\":455807.34,\"15\":488361.58,\"16\":553572.95,\"17\":566283.23,\"18\":557928.6,\"19\":547625.93,\"20\":571455.14,\"21\":493876.46,\"22\":581943.01,\"23\":550870.38,\"24\":576565.32,\"25\":570014.69,\"26\":571256.22,\"27\":562071.62,\"28\":556666.49,\"29\":550534.28,\"30\":386151.15},\"2023-05\":{\"1\":502327.12,\"2\":537426.15,\"3\":561570.89,\"4\":493396.31,\"5\":534250.3,\"6\":553977.65,\"7\":565027.98,\"8\":221431.92,\"9\":184604.34,\"10\":397777.67,\"11\":563923.63,\"12\":488183.24,\"13\":244060.75,\"14\":333293.39,\"15\":511504.86,\"16\":590290.78,\"17\":583122.81,\"18\":551467.14,\"19\":545204.6,\"20\":559746.32,\"21\":396392.09,\"22\":524640.42,\"23\":535004.82,\"24\":572449.74,\"25\":535670.17,\"26\":523645.82,\"27\":545767.06,\"28\":526567.88,\"29\":522610.07,\"30\":441121.58,\"31\":552262.82},\"2023-06\":{\"1\":533008.77,\"2\":540245.33,\"3\":514269.16,\"4\":557729.68,\"5\":496668.19,\"6\":311960.96,\"7\":544889.07,\"8\":523570.37,\"9\":537741.68,\"10\":345290.3,\"11\":503760.71,\"12\":559067.25,\"13\":521389.11,\"14\":525566.43,\"15\":501833.25,\"16\":560590.01,\"17\":576983.74,\"18\":542447.16,\"19\":543592.67,\"20\":519736.02,\"21\":520483.68,\"22\":531856.4,\"23\":525950.55,\"24\":545190.88,\"25\":553113.37,\"26\":530217.03,\"27\":537549.62,\"28\":537556.48,\"29\":524125.97,\"30\":501222.77},\"2023-07\":{\"1\":540108.14,\"2\":560157.88,\"3\":538448.19,\"4\":540025.83,\"5\":538653.97,\"6\":496332.09,\"7\":519489.09,\"8\":516121.17,\"9\":499151.26,\"10\":499110.11,\"11\":492820.13,\"12\":521265.64,\"13\":527473.31,\"14\":531197.91,\"15\":518432.75,\"16\":520120.14,\"17\":489205.28,\"18\":506566.16,\"19\":490227.31,\"20\":519907.5,\"21\":497443.3,\"22\":505214.88,\"23\":502491.74,\"24\":499892.07,\"25\":516203.48,\"26\":533193.97,\"27\":503548.07,\"28\":519537.1,\"29\":500804.35,\"30\":493279.7,\"31\":514742.45},\"2023-08\":{\"1\":518713.98,\"2\":510352.5,\"3\":510565.14,\"4\":506744.51,\"5\":529935.8,\"6\":538983.22,\"7\":554183.42,\"8\":514900.21,\"9\":507684.23,\"10\":503712.7,\"11\":481618.89,\"12\":493979.35,\"13\":506031.14,\"14\":501202.19,\"15\":506867.97,\"16\":513363.73,\"17\":520908.96,\"18\":516025.14,\"19\":507457.87,\"20\":502930.74,\"21\":491283.64,\"22\":511978.15,\"23\":486015.7,\"24\":479657.13,\"25\":505139.43,\"26\":526993.16,\"27\":522603.21,\"28\":531780.95,\"29\":516347.53,\"30\":500001.81,\"31\":217288.91},\"2023-09\":{\"1\":483361.15,\"2\":513253.98,\"3\":496016.56,\"4\":517362.7,\"5\":505427.52,\"6\":375711.3,\"7\":472159.92,\"8\":448406.16,\"9\":374757.86,\"10\":479835.47,\"11\":473902.18,\"12\":455484.96,\"13\":481955,\"14\":491846.11,\"15\":482579.19,\"16\":484232.28,\"17\":479389.62,\"18\":472324.54,\"19\":491002.41,\"20\":487476.73,\"21\":459614.26,\"22\":500941.54,\"23\":476693.91,\"24\":499796.04,\"25\":482586.05,\"26\":500529.98,\"27\":477777.68,\"28\":485871.66,\"29\":492003.87,\"30\":404822.17},\"2023-10\":{\"1\":365333.18,\"2\":385574.97,\"3\":413588.35,\"4\":463304.56,\"5\":440017.24,\"6\":343630.35,\"7\":442198.49,\"8\":439982.94,\"9\":449009.78,\"10\":451808.37,\"11\":432643.49,\"12\":444551.23,\"13\":426634.74,\"14\":439235.28,\"15\":460094.41,\"16\":461322.22,\"17\":467975.74,\"18\":440716.88,\"19\":461747.5,\"20\":449092.09,\"21\":395987.39,\"22\":441018.69,\"23\":449078.37,\"24\":418259.54,\"25\":298859.7,\"26\":433061.91,\"27\":433089.34,\"28\":423417.73,\"29\":406886.82,\"30\":433939.9,\"31\":410110.69},\"2023-11\":{\"1\":376157.15,\"2\":427889.99,\"3\":379511.35,\"4\":427114.89,\"5\":429241.28,\"6\":401474.83,\"7\":449956.36,\"8\":405871.64,\"9\":211259.58,\"10\":417799.96,\"11\":422608.33,\"12\":410350.76,\"13\":384182.53,\"14\":420228.16,\"15\":415687.3,\"16\":404801.59,\"17\":393277.97,\"18\":411976.42,\"19\":423966.47,\"20\":371369.36,\"21\":369208.68,\"22\":370573.68,\"23\":229086.9,\"24\":323676.65,\"25\":191271.58,\"26\":427636.2,\"27\":363138.2,\"28\":390595.98,\"29\":359955.49,\"30\":409685.41},\"2023-12\":{\"1\":383956.18,\"2\":326845.64,\"3\":377871.98,\"4\":380478.51,\"5\":283337.11,\"6\":351113.85,\"7\":378674.52,\"8\":348349.55,\"9\":356765.91,\"10\":400384.2,\"11\":406166.59,\"12\":395212.29,\"13\":385259.44,\"14\":386555.85,\"15\":322023.56,\"16\":329013.18,\"17\":160487.04,\"18\":152269.6,\"19\":390143.27,\"20\":207342.92,\"21\":176764.16,\"22\":328478.16,\"23\":341099.27,\"24\":288591.33,\"25\":317064.28,\"26\":282733.49,\"27\":299538.77,\"28\":123830.94,\"29\":281265.6,\"30\":369174.39,\"31\":346847.36}},\"monthly_seriescalc_Pmax\":{\"1\":387667.72290322575,\"2\":409139.8514285715,\"3\":509172.2558064518,\"4\":537829.4813333333,\"5\":490281.3006451614,\"6\":518920.2203333333,\"7\":514553.70870967745,\"8\":501137.1390322582,\"9\":474904.0933333333,\"10\":426521.67387096776,\"11\":380651.82300000003,\"12\":318633.5141935484}}}",
       "forecast_week": "{\"global_tilted_irradiance\":{\"2025-07-01\":{\"2025-07-01T00:00\":0,\"2025-07-01T00:15\":0,\"2025-07-01T00:30\":0,\"2025-07-01T00:45\":0,\"2025-07-01T01:00\":0,\"2025-07-01T01:15\":0,\"2025-07-01T01:30\":0,\"2025-07-01T01:45\":0,\"2025-07-01T02:00\":0,\"2025-07-01T02:15\":0,\"2025-07-01T02:30\":0,\"2025-07-01T02:45\":0,\"2025-07-01T03:00\":0,\"2025-07-01T03:15\":0,\"2025-07-01T03:30\":0,\"2025-07-01T03:45\":0,\"2025-07-01T04:00\":0,\"2025-07-01T04:15\":22,\"2025-07-01T04:30\":49,\"2025-07-01T04:45\":78,\"2025-07-01T05:00\":113,\"2025-07-01T05:15\":156,\"2025-07-01T05:30\":202,\"2025-07-01T05:45\":249,\"2025-07-01T06:00\":296,\"2025-07-01T06:15\":344,\"2025-07-01T06:30\":393,\"2025-07-01T06:45\":441,\"2025-07-01T07:00\":488,\"2025-07-01T07:15\":533,\"2025-07-01T07:30\":578,\"2025-07-01T07:45\":622,\"2025-07-01T08:00\":664,\"2025-07-01T08:15\":703,\"2025-07-01T08:30\":739,\"2025-07-01T08:45\":773,\"2025-07-01T09:00\":802,\"2025-07-01T09:15\":828,\"2025-07-01T09:30\":850,\"2025-07-01T09:45\":870,\"2025-07-01T10:00\":885,\"2025-07-01T10:15\":898,\"2025-07-01T10:30\":908,\"2025-07-01T10:45\":915,\"2025-07-01T11:00\":919,\"2025-07-01T11:15\":921,\"2025-07-01T11:30\":918,\"2025-07-01T11:45\":910,\"2025-07-01T12:00\":895,\"2025-07-01T12:15\":877,\"2025-07-01T12:30\":856,\"2025-07-01T12:45\":838,\"2025-07-01T13:00\":820,\"2025-07-01T13:15\":801,\"2025-07-01T13:30\":779,\"2025-07-01T13:45\":752,\"2025-07-01T14:00\":720,\"2025-07-01T14:15\":687,\"2025-07-01T14:30\":650,\"2025-07-01T14:45\":609,\"2025-07-01T15:00\":567,\"2025-07-01T15:15\":523,\"2025-07-01T15:30\":476,\"2025-07-01T15:45\":429,\"2025-07-01T16:00\":381,\"2025-07-01T16:15\":333,\"2025-07-01T16:30\":285,\"2025-07-01T16:45\":237,\"2025-07-01T17:00\":192,\"2025-07-01T17:15\":149,\"2025-07-01T17:30\":108,\"2025-07-01T17:45\":69,\"2025-07-01T18:00\":33,\"2025-07-01T18:15\":10,\"2025-07-01T18:30\":0,\"2025-07-01T18:45\":0,\"2025-07-01T19:00\":0,\"2025-07-01T19:15\":0,\"2025-07-01T19:30\":0,\"2025-07-01T19:45\":0,\"2025-07-01T20:00\":0,\"2025-07-01T20:15\":0,\"2025-07-01T20:30\":0,\"2025-07-01T20:45\":0,\"2025-07-01T21:00\":0,\"2025-07-01T21:15\":0,\"2025-07-01T21:30\":0,\"2025-07-01T21:45\":0,\"2025-07-01T22:00\":0,\"2025-07-01T22:15\":0,\"2025-07-01T22:30\":0,\"2025-07-01T22:45\":0,\"2025-07-01T23:00\":0,\"2025-07-01T23:15\":0,\"2025-07-01T23:30\":0,\"2025-07-01T23:45\":0},\"2025-07-02\":{\"2025-07-02T00:00\":0,\"2025-07-02T00:15\":0,\"2025-07-02T00:30\":0,\"2025-07-02T00:45\":0,\"2025-07-02T01:00\":0,\"2025-07-02T01:15\":0,\"2025-07-02T01:30\":0,\"2025-07-02T01:45\":0,\"2025-07-02T02:00\":0,\"2025-07-02T02:15\":0,\"2025-07-02T02:30\":0,\"2025-07-02T02:45\":0,\"2025-07-02T03:00\":0,\"2025-07-02T03:15\":0,\"2025-07-02T03:30\":0,\"2025-07-02T03:45\":0,\"2025-07-02T04:00\":0,\"2025-07-02T04:15\":21,\"2025-07-02T04:30\":47,\"2025-07-02T04:45\":76,\"2025-07-02T05:00\":110,\"2025-07-02T05:15\":148,\"2025-07-02T05:30\":191,\"2025-07-02T05:45\":236,\"2025-07-02T06:00\":284,\"2025-07-02T06:15\":333,\"2025-07-02T06:30\":383,\"2025-07-02T06:45\":433,\"2025-07-02T07:00\":482,\"2025-07-02T07:15\":530,\"2025-07-02T07:30\":575,\"2025-07-02T07:45\":620,\"2025-07-02T08:00\":663,\"2025-07-02T08:15\":704,\"2025-07-02T08:30\":742,\"2025-07-02T08:45\":779,\"2025-07-02T09:00\":811,\"2025-07-02T09:15\":840,\"2025-07-02T09:30\":867,\"2025-07-02T09:45\":890,\"2025-07-02T10:00\":910,\"2025-07-02T10:15\":926,\"2025-07-02T10:30\":939,\"2025-07-02T10:45\":948,\"2025-07-02T11:00\":953,\"2025-07-02T11:15\":954,\"2025-07-02T11:30\":952,\"2025-07-02T11:45\":946,\"2025-07-02T12:00\":937,\"2025-07-02T12:15\":923,\"2025-07-02T12:30\":907,\"2025-07-02T12:45\":887,\"2025-07-02T13:00\":862,\"2025-07-02T13:15\":835,\"2025-07-02T13:30\":805,\"2025-07-02T13:45\":773,\"2025-07-02T14:00\":738,\"2025-07-02T14:15\":700,\"2025-07-02T14:30\":660,\"2025-07-02T14:45\":617,\"2025-07-02T15:00\":573,\"2025-07-02T15:15\":528,\"2025-07-02T15:30\":480,\"2025-07-02T15:45\":433,\"2025-07-02T16:00\":384,\"2025-07-02T16:15\":336,\"2025-07-02T16:30\":288,\"2025-07-02T16:45\":240,\"2025-07-02T17:00\":193,\"2025-07-02T17:15\":150,\"2025-07-02T17:30\":107,\"2025-07-02T17:45\":69,\"2025-07-02T18:00\":34,\"2025-07-02T18:15\":11,\"2025-07-02T18:30\":0,\"2025-07-02T18:45\":0,\"2025-07-02T19:00\":0,\"2025-07-02T19:15\":0,\"2025-07-02T19:30\":0,\"2025-07-02T19:45\":0,\"2025-07-02T20:00\":0,\"2025-07-02T20:15\":0,\"2025-07-02T20:30\":0,\"2025-07-02T20:45\":0,\"2025-07-02T21:00\":0,\"2025-07-02T21:15\":0,\"2025-07-02T21:30\":0,\"2025-07-02T21:45\":0,\"2025-07-02T22:00\":0,\"2025-07-02T22:15\":0,\"2025-07-02T22:30\":0,\"2025-07-02T22:45\":0,\"2025-07-02T23:00\":0,\"2025-07-02T23:15\":0,\"2025-07-02T23:30\":0,\"2025-07-02T23:45\":0},\"2025-07-03\":{\"2025-07-03T00:00\":0,\"2025-07-03T00:15\":0,\"2025-07-03T00:30\":0,\"2025-07-03T00:45\":0,\"2025-07-03T01:00\":0,\"2025-07-03T01:15\":0,\"2025-07-03T01:30\":0,\"2025-07-03T01:45\":0,\"2025-07-03T02:00\":0,\"2025-07-03T02:15\":0,\"2025-07-03T02:30\":0,\"2025-07-03T02:45\":0,\"2025-07-03T03:00\":0,\"2025-07-03T03:15\":0,\"2025-07-03T03:30\":0,\"2025-07-03T03:45\":0,\"2025-07-03T04:00\":0,\"2025-07-03T04:15\":21,\"2025-07-03T04:30\":47,\"2025-07-03T04:45\":76,\"2025-07-03T05:00\":111,\"2025-07-03T05:15\":151,\"2025-07-03T05:30\":196,\"2025-07-03T05:45\":240,\"2025-07-03T06:00\":285,\"2025-07-03T06:15\":332,\"2025-07-03T06:30\":379,\"2025-07-03T06:45\":427,\"2025-07-03T07:00\":476,\"2025-07-03T07:15\":526,\"2025-07-03T07:30\":575,\"2025-07-03T07:45\":621,\"2025-07-03T08:00\":665,\"2025-07-03T08:15\":706,\"2025-07-03T08:30\":745,\"2025-07-03T08:45\":781,\"2025-07-03T09:00\":813,\"2025-07-03T09:15\":842,\"2025-07-03T09:30\":868,\"2025-07-03T09:45\":891,\"2025-07-03T10:00\":910,\"2025-07-03T10:15\":925,\"2025-07-03T10:30\":937,\"2025-07-03T10:45\":946,\"2025-07-03T11:00\":952,\"2025-07-03T11:15\":953,\"2025-07-03T11:30\":952,\"2025-07-03T11:45\":946,\"2025-07-03T12:00\":936,\"2025-07-03T12:15\":923,\"2025-07-03T12:30\":906,\"2025-07-03T12:45\":887,\"2025-07-03T13:00\":864,\"2025-07-03T13:15\":837,\"2025-07-03T13:30\":808,\"2025-07-03T13:45\":776,\"2025-07-03T14:00\":740,\"2025-07-03T14:15\":702,\"2025-07-03T14:30\":661,\"2025-07-03T14:45\":619,\"2025-07-03T15:00\":575,\"2025-07-03T15:15\":529,\"2025-07-03T15:30\":481,\"2025-07-03T15:45\":434,\"2025-07-03T16:00\":384,\"2025-07-03T16:15\":335,\"2025-07-03T16:30\":287,\"2025-07-03T16:45\":239,\"2025-07-03T17:00\":193,\"2025-07-03T17:15\":149,\"2025-07-03T17:30\":107,\"2025-07-03T17:45\":69,\"2025-07-03T18:00\":34,\"2025-07-03T18:15\":11,\"2025-07-03T18:30\":0,\"2025-07-03T18:45\":0,\"2025-07-03T19:00\":0,\"2025-07-03T19:15\":0,\"2025-07-03T19:30\":0,\"2025-07-03T19:45\":0,\"2025-07-03T20:00\":0,\"2025-07-03T20:15\":0,\"2025-07-03T20:30\":0,\"2025-07-03T20:45\":0,\"2025-07-03T21:00\":0,\"2025-07-03T21:15\":0,\"2025-07-03T21:30\":0,\"2025-07-03T21:45\":0,\"2025-07-03T22:00\":0,\"2025-07-03T22:15\":0,\"2025-07-03T22:30\":0,\"2025-07-03T22:45\":0,\"2025-07-03T23:00\":0,\"2025-07-03T23:15\":0,\"2025-07-03T23:30\":0,\"2025-07-03T23:45\":0}},\"coordinates\":{\"lat\":36.0204,\"lon\":14.2495},\"azimuth\":0,\"tilt\":0,\"coefficients\":{\"params\":1,\"correc\":1,\"total\":1},\"lastUpdated\":\"2025-07-01T09:01:04.896Z\"}",
       "Address": ""
     },
@@ -44376,7 +44376,7 @@
       "Coeff parameters": "",
       "Coeff correc": "",
       "Confronto NREL": "{\"powerCurveTheoretical\":{\"currentDateP\":{\"2025-06-30\":{\"00:10\":0,\"01:10\":0,\"02:10\":0,\"03:10\":0,\"04:10\":15247.05,\"05:10\":91031.43,\"06:10\":240989.9,\"07:10\":392880.72,\"08:10\":440250.55,\"09:10\":492718.08,\"10:10\":368965.76,\"11:10\":0,\"12:10\":414973.76,\"13:10\":42833.45,\"14:10\":35656.2,\"15:10\":30926.58,\"16:10\":92742.93,\"17:10\":68837.17,\"18:10\":15320.66,\"19:10\":0,\"20:10\":0,\"21:10\":0,\"22:10\":0,\"23:10\":0}},\"dailyPmax\":{\"2025-06\":{\"1\":496371.11,\"2\":636640.3,\"3\":616185.14,\"4\":517866.05,\"5\":382482.91,\"6\":593411.18,\"7\":571594.19,\"8\":582893.76,\"9\":676290,\"10\":410004.89,\"11\":549896.82,\"12\":554479.21,\"13\":579065.89,\"14\":505940.77,\"15\":505434.69,\"16\":743213.23,\"17\":708311.56,\"18\":687957.62,\"19\":660518.45,\"20\":659993.96,\"21\":651298.45,\"22\":630512.04,\"23\":691445.03,\"24\":638176.97,\"25\":723172.15,\"26\":719519.11,\"27\":684000.94,\"28\":516973.49,\"29\":708652.02,\"30\":492718.08}},\"avgDailyPmax\":603167.3336666665},\"coordinates\":{\"lat\":43.4385915319511,\"lon\":13.025166490822665},\"lastUpdated\":\"2025-06-30T09:43:20.972Z\"}",
-      "Confronto NREL year": "",
+      "Confronto NREL year": "{\"seriescalc\":{\"monthly_seriescalc\":{\"2023-01\":{\"1\":449838.62,\"2\":413041.42,\"3\":184777.33,\"4\":395567.58,\"5\":464828.03,\"6\":461957.13,\"7\":71073.16,\"8\":422601.88,\"9\":226644.61,\"10\":507817.9,\"11\":407897.73,\"12\":386734.05,\"13\":356589.6,\"14\":490583.3,\"15\":224923.91,\"16\":469750.88,\"17\":38177.44,\"18\":467910.56,\"19\":427119.87,\"20\":364245.34,\"21\":125160.16,\"22\":248535.22,\"23\":256899.47,\"24\":62120,\"25\":180967.87,\"26\":141897.87,\"27\":57298.36,\"28\":247265.4,\"29\":80532.4,\"30\":488172.48,\"31\":514093.39},\"2023-02\":{\"1\":438999.13,\"2\":538440.83,\"3\":525788.63,\"4\":521730.72,\"5\":478556.81,\"6\":328027.84,\"7\":528999.98,\"8\":129512.52,\"9\":239536.05,\"10\":530959.92,\"11\":570241.56,\"12\":446038.36,\"13\":526276.31,\"14\":595049.07,\"15\":584954.91,\"16\":554433.21,\"17\":601048.51,\"18\":602447.16,\"19\":571189.32,\"20\":527997.01,\"21\":581706.75,\"22\":236655.95,\"23\":436827.56,\"24\":391712.11,\"25\":114495.51,\"26\":84185.44,\"27\":99211.65,\"28\":66711.6},\"2023-03\":{\"1\":379483.19,\"2\":153068.62,\"3\":86642.27,\"4\":325074.12,\"5\":646090.34,\"6\":620804.35,\"7\":676970.91,\"8\":600698.85,\"9\":639676.83,\"10\":421083.62,\"11\":630631.66,\"12\":647884.66,\"13\":634533.13,\"14\":553825.9,\"15\":242287.33,\"16\":703011.44,\"17\":709608.99,\"18\":650571.52,\"19\":454467.02,\"20\":270214.19,\"21\":389982.21,\"22\":677716.24,\"23\":669766.06,\"24\":658153.64,\"25\":712360.27,\"26\":589518.91,\"27\":582314.05,\"28\":736698.5,\"29\":666094.62,\"30\":708587.61,\"31\":273627.98},\"2023-04\":{\"1\":707050.94,\"2\":604434.7,\"3\":370962.5,\"4\":259761.17,\"5\":236628.35,\"6\":731508.8,\"7\":721552.67,\"8\":442449.73,\"9\":299456.87,\"10\":544753.12,\"11\":634514.73,\"12\":515712.87,\"13\":552086.8,\"14\":615715.86,\"15\":454743.07,\"16\":153188.24,\"17\":300183.8,\"18\":209879.29,\"19\":614096.38,\"20\":538201.58,\"21\":625175.11,\"22\":699947.31,\"23\":715148.35,\"24\":751338.24,\"25\":440121.73,\"26\":726043.05,\"27\":716013.3,\"28\":726484.72,\"29\":367281.86,\"30\":259917.6},\"2023-05\":{\"1\":288276.93,\"2\":366435.32,\"3\":165776.03,\"4\":600330.79,\"5\":733165.08,\"6\":658199.65,\"7\":664419.93,\"8\":418037.89,\"9\":497263.67,\"10\":282507.52,\"11\":683522.45,\"12\":662110.33,\"13\":549390.73,\"14\":310498.79,\"15\":328736.36,\"16\":387691.01,\"17\":151587.16,\"18\":326150.71,\"19\":230398.86,\"20\":206732.35,\"21\":647387.77,\"22\":690552.48,\"23\":697527.29,\"24\":635076.03,\"25\":688509.72,\"26\":664373.92,\"27\":741538.54,\"28\":639041.92,\"29\":592748.67,\"30\":705854.74,\"31\":504100.45},\"2023-06\":{\"1\":496371.11,\"2\":636640.3,\"3\":616185.14,\"4\":517866.05,\"5\":382482.91,\"6\":593411.18,\"7\":571594.19,\"8\":582893.76,\"9\":676290,\"10\":410004.89,\"11\":549896.82,\"12\":554479.21,\"13\":579065.89,\"14\":505940.77,\"15\":505434.69,\"16\":743213.23,\"17\":708311.56,\"18\":687957.62,\"19\":660518.45,\"20\":659993.96,\"21\":651298.45,\"22\":630512.04,\"23\":691445.03,\"24\":638176.97,\"25\":723172.15,\"26\":719519.11,\"27\":684000.94,\"28\":516973.49,\"29\":708652.02,\"30\":492718.08},\"2023-07\":{\"1\":611878.8,\"2\":577492.42,\"3\":597763.54,\"4\":502002.49,\"5\":686485.37,\"6\":657196.68,\"7\":705127.81,\"8\":668303.01,\"9\":684847.48,\"10\":656469.75,\"11\":642556.93,\"12\":613627.1,\"13\":514249.82,\"14\":498542.69,\"15\":611823.59,\"16\":653506.83,\"17\":648915.24,\"18\":648979.65,\"19\":667033.19,\"20\":648556.37,\"21\":657307.09,\"22\":616994.88,\"23\":669646.44,\"24\":637753.69,\"25\":558012.63,\"26\":554405.6,\"27\":669508.42,\"28\":666416.68,\"29\":629021.38,\"30\":647001.3,\"31\":587853.42},\"2023-08\":{\"1\":585083.74,\"2\":657776.38,\"3\":665054.84,\"4\":430091.99,\"5\":670548.2,\"6\":684957.9,\"7\":527316.09,\"8\":688518.92,\"9\":648077.89,\"10\":670226.14,\"11\":677900.28,\"12\":679805.01,\"13\":674256.44,\"14\":666692.73,\"15\":663693,\"16\":663674.6,\"17\":654196.95,\"18\":645814.3,\"19\":659837.53,\"20\":650074.64,\"21\":628496.88,\"22\":652301.42,\"23\":649062.46,\"24\":636750.72,\"25\":607664.46,\"26\":619286.08,\"27\":600293.98,\"28\":535100.64,\"29\":355549.82,\"30\":617344.55,\"31\":618273.91},\"2023-09\":{\"1\":627162.65,\"2\":626251.69,\"3\":600349.19,\"4\":622313.41,\"5\":593429.59,\"6\":562576.62,\"7\":570011.52,\"8\":611464.72,\"9\":641342.32,\"10\":630769.68,\"11\":608115.34,\"12\":605566.5,\"13\":476247.21,\"14\":540253.54,\"15\":584844.49,\"16\":580133.28,\"17\":578237.75,\"18\":458009.64,\"19\":624356.16,\"20\":345593.69,\"21\":601223.34,\"22\":551359.87,\"23\":601471.79,\"24\":123632.7,\"25\":104336.94,\"26\":308952.92,\"27\":610848.22,\"28\":611676.36,\"29\":619580.53,\"30\":605952.96},\"2023-10\":{\"1\":612946.18,\"2\":598057.99,\"3\":562861.87,\"4\":553549.85,\"5\":524537.21,\"6\":532984.28,\"7\":575136.81,\"8\":559116.82,\"9\":552813.72,\"10\":545388.03,\"11\":551479.49,\"12\":548627,\"13\":546676.26,\"14\":549059.47,\"15\":511544.55,\"16\":425951.27,\"17\":235312.52,\"18\":139772.3,\"19\":274391.71,\"20\":368450.47,\"21\":215455.46,\"22\":481436.91,\"23\":511084.47,\"24\":383191.43,\"25\":439836.48,\"26\":474002.02,\"27\":469686.47,\"28\":501919.68,\"29\":422500.67,\"30\":412268.49,\"31\":513394.07},\"2023-11\":{\"1\":253688.11,\"2\":208333.43,\"3\":493767.06,\"4\":491779.51,\"5\":508195.17,\"6\":442403.73,\"7\":364926.25,\"8\":514903.13,\"9\":500677.46,\"10\":168196.05,\"11\":522439.24,\"12\":149765.24,\"13\":488678.57,\"14\":318936.66,\"15\":481584.14,\"16\":472658.59,\"17\":486608.21,\"18\":497622.53,\"19\":479651.8,\"20\":453408.84,\"21\":89660.39,\"22\":81710.21,\"23\":311722.6,\"24\":498800.33,\"25\":157319.76,\"26\":504238.48,\"27\":227785.61,\"28\":430708.49,\"29\":496141.07,\"30\":46072.41},\"2023-12\":{\"1\":297625.75,\"2\":369941.13,\"3\":271603.63,\"4\":326049.49,\"5\":201404.62,\"6\":322175.62,\"7\":484675.88,\"8\":310609.21,\"9\":381433.92,\"10\":479191.72,\"11\":295693.42,\"12\":364079.71,\"13\":124874.91,\"14\":400380.02,\"15\":371763.04,\"16\":111164.53,\"17\":326831.63,\"18\":448909.26,\"19\":437398.06,\"20\":444078.42,\"21\":440637.02,\"22\":431012.15,\"23\":426420.55,\"24\":444069.22,\"25\":433165.32,\"26\":334082.49,\"27\":431113.36,\"28\":404437.92,\"29\":402146.73,\"30\":273572.77,\"31\":177866.93}},\"monthly_seriescalc_Pmax\":{\"1\":310807.1922580645,\"2\":423276.2292857144,\"3\":539079.0009677418,\"4\":517811.75800000003,\"5\":507030.42225806444,\"6\":603167.3336666669,\"7\":625460.6545161292,\"8\":625281.3706451614,\"9\":540868.8206666666,\"10\":470755.93387096765,\"11\":371412.7690000001,\"12\":353819.6267741936}}}",
       "forecast_week": "{\"global_tilted_irradiance\":{\"2025-07-01\":{\"2025-07-01T00:00\":0,\"2025-07-01T00:15\":0,\"2025-07-01T00:30\":0,\"2025-07-01T00:45\":0,\"2025-07-01T01:00\":0,\"2025-07-01T01:15\":0,\"2025-07-01T01:30\":0,\"2025-07-01T01:45\":0,\"2025-07-01T02:00\":0,\"2025-07-01T02:15\":0,\"2025-07-01T02:30\":0,\"2025-07-01T02:45\":0,\"2025-07-01T03:00\":0,\"2025-07-01T03:15\":0,\"2025-07-01T03:30\":0,\"2025-07-01T03:45\":1,\"2025-07-01T04:00\":16,\"2025-07-01T04:15\":39,\"2025-07-01T04:30\":70,\"2025-07-01T04:45\":104,\"2025-07-01T05:00\":141,\"2025-07-01T05:15\":180,\"2025-07-01T05:30\":221,\"2025-07-01T05:45\":264,\"2025-07-01T06:00\":307,\"2025-07-01T06:15\":352,\"2025-07-01T06:30\":396,\"2025-07-01T06:45\":441,\"2025-07-01T07:00\":485,\"2025-07-01T07:15\":527,\"2025-07-01T07:30\":570,\"2025-07-01T07:45\":609,\"2025-07-01T08:00\":648,\"2025-07-01T08:15\":683,\"2025-07-01T08:30\":717,\"2025-07-01T08:45\":749,\"2025-07-01T09:00\":779,\"2025-07-01T09:15\":805,\"2025-07-01T09:30\":830,\"2025-07-01T09:45\":851,\"2025-07-01T10:00\":869,\"2025-07-01T10:15\":883,\"2025-07-01T10:30\":895,\"2025-07-01T10:45\":903,\"2025-07-01T11:00\":909,\"2025-07-01T11:15\":911,\"2025-07-01T11:30\":911,\"2025-07-01T11:45\":907,\"2025-07-01T12:00\":900,\"2025-07-01T12:15\":891,\"2025-07-01T12:30\":878,\"2025-07-01T12:45\":861,\"2025-07-01T13:00\":841,\"2025-07-01T13:15\":817,\"2025-07-01T13:30\":792,\"2025-07-01T13:45\":762,\"2025-07-01T14:00\":731,\"2025-07-01T14:15\":697,\"2025-07-01T14:30\":660,\"2025-07-01T14:45\":623,\"2025-07-01T15:00\":584,\"2025-07-01T15:15\":542,\"2025-07-01T15:30\":500,\"2025-07-01T15:45\":456,\"2025-07-01T16:00\":411,\"2025-07-01T16:15\":366,\"2025-07-01T16:30\":322,\"2025-07-01T16:45\":277,\"2025-07-01T17:00\":234,\"2025-07-01T17:15\":193,\"2025-07-01T17:30\":153,\"2025-07-01T17:45\":115,\"2025-07-01T18:00\":79,\"2025-07-01T18:15\":49,\"2025-07-01T18:30\":26,\"2025-07-01T18:45\":9,\"2025-07-01T19:00\":0,\"2025-07-01T19:15\":0,\"2025-07-01T19:30\":0,\"2025-07-01T19:45\":0,\"2025-07-01T20:00\":0,\"2025-07-01T20:15\":0,\"2025-07-01T20:30\":0,\"2025-07-01T20:45\":0,\"2025-07-01T21:00\":0,\"2025-07-01T21:15\":0,\"2025-07-01T21:30\":0,\"2025-07-01T21:45\":0,\"2025-07-01T22:00\":0,\"2025-07-01T22:15\":0,\"2025-07-01T22:30\":0,\"2025-07-01T22:45\":0,\"2025-07-01T23:00\":0,\"2025-07-01T23:15\":0,\"2025-07-01T23:30\":0,\"2025-07-01T23:45\":0},\"2025-07-02\":{\"2025-07-02T00:00\":0,\"2025-07-02T00:15\":0,\"2025-07-02T00:30\":0,\"2025-07-02T00:45\":0,\"2025-07-02T01:00\":0,\"2025-07-02T01:15\":0,\"2025-07-02T01:30\":0,\"2025-07-02T01:45\":0,\"2025-07-02T02:00\":0,\"2025-07-02T02:15\":0,\"2025-07-02T02:30\":0,\"2025-07-02T02:45\":0,\"2025-07-02T03:00\":0,\"2025-07-02T03:15\":0,\"2025-07-02T03:30\":0,\"2025-07-02T03:45\":1,\"2025-07-02T04:00\":13,\"2025-07-02T04:15\":35,\"2025-07-02T04:30\":63,\"2025-07-02T04:45\":95,\"2025-07-02T05:00\":132,\"2025-07-02T05:15\":172,\"2025-07-02T05:30\":213,\"2025-07-02T05:45\":257,\"2025-07-02T06:00\":301,\"2025-07-02T06:15\":346,\"2025-07-02T06:30\":389,\"2025-07-02T06:45\":434,\"2025-07-02T07:00\":477,\"2025-07-02T07:15\":519,\"2025-07-02T07:30\":561,\"2025-07-02T07:45\":600,\"2025-07-02T08:00\":640,\"2025-07-02T08:15\":676,\"2025-07-02T08:30\":711,\"2025-07-02T08:45\":743,\"2025-07-02T09:00\":773,\"2025-07-02T09:15\":799,\"2025-07-02T09:30\":823,\"2025-07-02T09:45\":844,\"2025-07-02T10:00\":862,\"2025-07-02T10:15\":878,\"2025-07-02T10:30\":890,\"2025-07-02T10:45\":899,\"2025-07-02T11:00\":905,\"2025-07-02T11:15\":908,\"2025-07-02T11:30\":907,\"2025-07-02T11:45\":902,\"2025-07-02T12:00\":894,\"2025-07-02T12:15\":883,\"2025-07-02T12:30\":869,\"2025-07-02T12:45\":852,\"2025-07-02T13:00\":833,\"2025-07-02T13:15\":811,\"2025-07-02T13:30\":785,\"2025-07-02T13:45\":754,\"2025-07-02T14:00\":721,\"2025-07-02T14:15\":685,\"2025-07-02T14:30\":645,\"2025-07-02T14:45\":604,\"2025-07-02T15:00\":560,\"2025-07-02T15:15\":516,\"2025-07-02T15:30\":472,\"2025-07-02T15:45\":432,\"2025-07-02T16:00\":396,\"2025-07-02T16:15\":359,\"2025-07-02T16:30\":320,\"2025-07-02T16:45\":277,\"2025-07-02T17:00\":231,\"2025-07-02T17:15\":188,\"2025-07-02T17:30\":146,\"2025-07-02T17:45\":109,\"2025-07-02T18:00\":73,\"2025-07-02T18:15\":45,\"2025-07-02T18:30\":23,\"2025-07-02T18:45\":8,\"2025-07-02T19:00\":0,\"2025-07-02T19:15\":0,\"2025-07-02T19:30\":0,\"2025-07-02T19:45\":0,\"2025-07-02T20:00\":0,\"2025-07-02T20:15\":0,\"2025-07-02T20:30\":0,\"2025-07-02T20:45\":0,\"2025-07-02T21:00\":0,\"2025-07-02T21:15\":0,\"2025-07-02T21:30\":0,\"2025-07-02T21:45\":0,\"2025-07-02T22:00\":0,\"2025-07-02T22:15\":0,\"2025-07-02T22:30\":0,\"2025-07-02T22:45\":0,\"2025-07-02T23:00\":0,\"2025-07-02T23:15\":0,\"2025-07-02T23:30\":0,\"2025-07-02T23:45\":0},\"2025-07-03\":{\"2025-07-03T00:00\":0,\"2025-07-03T00:15\":0,\"2025-07-03T00:30\":0,\"2025-07-03T00:45\":0,\"2025-07-03T01:00\":0,\"2025-07-03T01:15\":0,\"2025-07-03T01:30\":0,\"2025-07-03T01:45\":0,\"2025-07-03T02:00\":0,\"2025-07-03T02:15\":0,\"2025-07-03T02:30\":0,\"2025-07-03T02:45\":0,\"2025-07-03T03:00\":0,\"2025-07-03T03:15\":0,\"2025-07-03T03:30\":0,\"2025-07-03T03:45\":1,\"2025-07-03T04:00\":14,\"2025-07-03T04:15\":36,\"2025-07-03T04:30\":68,\"2025-07-03T04:45\":102,\"2025-07-03T05:00\":139,\"2025-07-03T05:15\":176,\"2025-07-03T05:30\":216,\"2025-07-03T05:45\":258,\"2025-07-03T06:00\":301,\"2025-07-03T06:15\":344,\"2025-07-03T06:30\":389,\"2025-07-03T06:45\":432,\"2025-07-03T07:00\":477,\"2025-07-03T07:15\":520,\"2025-07-03T07:30\":562,\"2025-07-03T07:45\":603,\"2025-07-03T08:00\":642,\"2025-07-03T08:15\":678,\"2025-07-03T08:30\":713,\"2025-07-03T08:45\":745,\"2025-07-03T09:00\":775,\"2025-07-03T09:15\":802,\"2025-07-03T09:30\":827,\"2025-07-03T09:45\":849,\"2025-07-03T10:00\":867,\"2025-07-03T10:15\":881,\"2025-07-03T10:30\":893,\"2025-07-03T10:45\":902,\"2025-07-03T11:00\":908,\"2025-07-03T11:15\":909,\"2025-07-03T11:30\":908,\"2025-07-03T11:45\":902,\"2025-07-03T12:00\":894,\"2025-07-03T12:15\":880,\"2025-07-03T12:30\":860,\"2025-07-03T12:45\":833,\"2025-07-03T13:00\":800,\"2025-07-03T13:15\":760,\"2025-07-03T13:30\":715,\"2025-07-03T13:45\":663,\"2025-07-03T14:00\":600,\"2025-07-03T14:15\":536,\"2025-07-03T14:30\":479,\"2025-07-03T14:45\":438,\"2025-07-03T15:00\":411,\"2025-07-03T15:15\":388,\"2025-07-03T15:30\":366,\"2025-07-03T15:45\":340,\"2025-07-03T16:00\":316,\"2025-07-03T16:15\":290,\"2025-07-03T16:30\":260,\"2025-07-03T16:45\":227,\"2025-07-03T17:00\":190,\"2025-07-03T17:15\":154,\"2025-07-03T17:30\":122,\"2025-07-03T17:45\":92,\"2025-07-03T18:00\":64,\"2025-07-03T18:15\":42,\"2025-07-03T18:30\":22,\"2025-07-03T18:45\":8,\"2025-07-03T19:00\":0,\"2025-07-03T19:15\":0,\"2025-07-03T19:30\":0,\"2025-07-03T19:45\":0,\"2025-07-03T20:00\":0,\"2025-07-03T20:15\":0,\"2025-07-03T20:30\":0,\"2025-07-03T20:45\":0,\"2025-07-03T21:00\":0,\"2025-07-03T21:15\":0,\"2025-07-03T21:30\":0,\"2025-07-03T21:45\":0,\"2025-07-03T22:00\":0,\"2025-07-03T22:15\":0,\"2025-07-03T22:30\":0,\"2025-07-03T22:45\":0,\"2025-07-03T23:00\":0,\"2025-07-03T23:15\":0,\"2025-07-03T23:30\":0,\"2025-07-03T23:45\":0}},\"coordinates\":{\"lat\":43.4385915319511,\"lon\":13.025166490822665},\"azimuth\":0,\"tilt\":0,\"coefficients\":{\"params\":1,\"correc\":1,\"total\":1},\"lastUpdated\":\"2025-07-01T09:01:05.293Z\"}",
       "Address": ""
     },
@@ -44448,7 +44448,7 @@
       "Coeff parameters": "",
       "Coeff correc": "",
       "Confronto NREL": "{\"powerCurveTheoretical\":{\"currentDateP\":{\"2025-06-30\":{\"00:10\":0,\"01:10\":0,\"02:10\":0,\"03:10\":0,\"04:10\":0,\"05:10\":6832.84,\"06:10\":9702.32,\"07:10\":21017.4,\"08:10\":6560.52,\"09:10\":4598.16,\"10:10\":5807.96,\"11:10\":0,\"12:10\":9705.08,\"13:10\":8987.48,\"14:10\":7012.24,\"15:10\":11486.2,\"16:10\":15983.16,\"17:10\":12609.52,\"18:10\":2856.6,\"19:10\":0,\"20:10\":0,\"21:10\":0,\"22:10\":0,\"23:10\":0}},\"dailyPmax\":{\"2025-06\":{\"1\":65554.6,\"2\":67643.92,\"3\":71588.88,\"4\":60899.4,\"5\":51531.04,\"6\":60128.44,\"7\":68835.32,\"8\":66030.24,\"9\":61175.4,\"10\":58257.16,\"11\":68357.84,\"12\":65998.96,\"13\":35043.72,\"14\":65457.08,\"15\":65712.84,\"16\":66941.96,\"17\":67589.64,\"18\":66518.76,\"19\":66933.68,\"20\":57314.16,\"21\":63236.2,\"22\":60775.2,\"23\":67444.28,\"24\":68678.92,\"25\":68619.12,\"26\":65604.28,\"27\":62611.52,\"28\":67466.36,\"29\":67173.8,\"30\":21017.4}},\"avgDailyPmax\":62338.00399999998},\"coordinates\":{\"lat\":45.285101,\"lon\":9.534624},\"lastUpdated\":\"2025-06-30T09:43:24.223Z\"}",
-      "Confronto NREL year": "",
+      "Confronto NREL year": "{\"seriescalc\":{\"monthly_seriescalc\":{\"2023-01\":{\"1\":14057.6,\"2\":8711.48,\"3\":14635.36,\"4\":35594.8,\"5\":28892.6,\"6\":10156.8,\"7\":3759.12,\"8\":5213.64,\"9\":29641.48,\"10\":47976.16,\"11\":24387.36,\"12\":42146.12,\"13\":38281.2,\"14\":46056.12,\"15\":4761,\"16\":14605,\"17\":6486.92,\"18\":13312.4,\"19\":4025,\"20\":50809.76,\"21\":50332.28,\"22\":42399.12,\"23\":11344.52,\"24\":48643.16,\"25\":32269,\"26\":37339.12,\"27\":14288.52,\"28\":52171.36,\"29\":51181.44,\"30\":52604.68,\"31\":52434.48},\"2023-02\":{\"1\":50517.2,\"2\":50792.28,\"3\":49510.72,\"4\":49135.36,\"5\":50324.92,\"6\":31133.72,\"7\":51713.2,\"8\":54758.4,\"9\":55155.84,\"10\":53803.44,\"11\":54087.72,\"12\":52569.72,\"13\":51918.36,\"14\":53458.44,\"15\":53361.84,\"16\":52109.72,\"17\":53679.24,\"18\":54311.28,\"19\":45431.44,\"20\":35270.04,\"21\":54639.72,\"22\":9619.52,\"23\":41687.04,\"24\":49118.8,\"25\":52598.24,\"26\":6083.96,\"27\":28419.72,\"28\":57163.28},\"2023-03\":{\"1\":44817.8,\"2\":19108.4,\"3\":60478.96,\"4\":59299.52,\"5\":59769.64,\"6\":55469.56,\"7\":54961.72,\"8\":51841.08,\"9\":60572.8,\"10\":56647.16,\"11\":63248.16,\"12\":63383.4,\"13\":59333.56,\"14\":46215.28,\"15\":68817.84,\"16\":65066.08,\"17\":62996.08,\"18\":63283.12,\"19\":58434.72,\"20\":49731.52,\"21\":62892.12,\"22\":62970.32,\"23\":65009.96,\"24\":63627.2,\"25\":67336.64,\"26\":62296.88,\"27\":72362.6,\"28\":69447.12,\"29\":67235.44,\"30\":33101.6,\"31\":30753.76},\"2023-04\":{\"1\":69853.76,\"2\":68617.28,\"3\":67770.88,\"4\":72801.44,\"5\":70702.92,\"6\":68535.4,\"7\":40502.08,\"8\":68192.24,\"9\":60429.28,\"10\":67973.28,\"11\":55896.44,\"12\":67476.48,\"13\":24046.04,\"14\":75595.48,\"15\":64126.76,\"16\":71091.16,\"17\":65367.84,\"18\":68507.8,\"19\":69248.4,\"20\":31353.6,\"21\":55069.36,\"22\":65636.48,\"23\":63010.8,\"24\":72467.48,\"25\":69612.72,\"26\":69126.04,\"27\":67127.8,\"28\":66401.92,\"29\":59129.32,\"30\":48582.44},\"2023-05\":{\"1\":35320.64,\"2\":60306.92,\"3\":70484.88,\"4\":71362.56,\"5\":65630.96,\"6\":67531.68,\"7\":65998.96,\"8\":62527.8,\"9\":71937.56,\"10\":34638.92,\"11\":65406.48,\"12\":50262.36,\"13\":66589.6,\"14\":50855.76,\"15\":71947.68,\"16\":32361.92,\"17\":53801.6,\"18\":65778.16,\"19\":26669.88,\"20\":12236.92,\"21\":69851.92,\"22\":69186.76,\"23\":70132.52,\"24\":68625.56,\"25\":65612.56,\"26\":68412.12,\"27\":71631.2,\"28\":63562.8,\"29\":64186.56,\"30\":68613.6,\"31\":61705.32},\"2023-06\":{\"1\":65554.6,\"2\":67643.92,\"3\":71588.88,\"4\":60899.4,\"5\":51531.04,\"6\":60128.44,\"7\":68835.32,\"8\":66030.24,\"9\":61175.4,\"10\":58257.16,\"11\":68357.84,\"12\":65998.96,\"13\":35043.72,\"14\":65457.08,\"15\":65712.84,\"16\":66941.96,\"17\":67589.64,\"18\":66518.76,\"19\":66933.68,\"20\":57314.16,\"21\":63236.2,\"22\":60775.2,\"23\":67444.28,\"24\":68678.92,\"25\":68619.12,\"26\":65604.28,\"27\":62611.52,\"28\":67466.36,\"29\":67173.8,\"30\":21017.4},\"2023-07\":{\"1\":58166.08,\"2\":64003.48,\"3\":63477.24,\"4\":66430.44,\"5\":63400.88,\"6\":70840.92,\"7\":68364.28,\"8\":66780.04,\"9\":64365.96,\"10\":63844.32,\"11\":63231.6,\"12\":55077.64,\"13\":64775.36,\"14\":58379.52,\"15\":64767.08,\"16\":63619.84,\"17\":64508.56,\"18\":63809.36,\"19\":61956.48,\"20\":65321.84,\"21\":65863.72,\"22\":63755.08,\"23\":62250.88,\"24\":57946.2,\"25\":68270.44,\"26\":67643,\"27\":67634.72,\"28\":65370.6,\"29\":61767.88,\"30\":64434.96,\"31\":64860.92},\"2023-08\":{\"1\":55821,\"2\":64996.16,\"3\":62803.8,\"4\":38516.72,\"5\":65809.44,\"6\":69447.12,\"7\":71394.76,\"8\":67404.72,\"9\":61236.12,\"10\":66130.52,\"11\":63811.2,\"12\":62546.2,\"13\":61479.92,\"14\":61447.72,\"15\":60993.24,\"16\":60573.72,\"17\":59191.88,\"18\":59403.48,\"19\":58535.92,\"20\":59684.08,\"21\":59371.28,\"22\":59245.24,\"23\":56723.52,\"24\":58640.8,\"25\":58305,\"26\":57224.92,\"27\":9230.36,\"28\":19588.64,\"29\":32669.2,\"30\":61891.16,\"31\":60880.08},\"2023-09\":{\"1\":60359.36,\"2\":59072.28,\"3\":61186.44,\"4\":55798,\"5\":58332.6,\"6\":62423.84,\"7\":62578.4,\"8\":60674.92,\"9\":60025.4,\"10\":58888.28,\"11\":58117.32,\"12\":56629.68,\"13\":49310.16,\"14\":50254.08,\"15\":54058.28,\"16\":58314.2,\"17\":45907.08,\"18\":56089.64,\"19\":58075.92,\"20\":53165.88,\"21\":57177.08,\"22\":27548.48,\"23\":58030.84,\"24\":60647.32,\"25\":58564.44,\"26\":56237.76,\"27\":55993.04,\"28\":54574.4,\"29\":55024.28,\"30\":53819.08},\"2023-10\":{\"1\":55487.04,\"2\":54866.04,\"3\":54874.32,\"4\":49601.8,\"5\":51706.76,\"6\":53716.96,\"7\":54335.2,\"8\":53371.96,\"9\":53475,\"10\":51910.08,\"11\":47684.52,\"12\":49101.32,\"13\":43671.48,\"14\":42408.32,\"15\":51658.92,\"16\":40252.76,\"17\":51030.56,\"18\":4329.52,\"19\":15297.76,\"20\":12850.56,\"21\":50725.12,\"22\":50543.88,\"23\":30823.68,\"24\":4866.8,\"25\":26731.52,\"26\":13106.32,\"27\":53382.08,\"28\":50732.48,\"29\":12134.8,\"30\":20162.72,\"31\":53432.68},\"2023-11\":{\"1\":15271.08,\"2\":6914.72,\"3\":53863.24,\"4\":30831.04,\"5\":51934,\"6\":50182.32,\"7\":49370.88,\"8\":50428.88,\"9\":12271.88,\"10\":16028.24,\"11\":50708.56,\"12\":23955.88,\"13\":45160.04,\"14\":26716.8,\"15\":46836.28,\"16\":42545.4,\"17\":46635.72,\"18\":44975.12,\"19\":43609.84,\"20\":21097.44,\"21\":31018.72,\"22\":42818.64,\"23\":42942.84,\"24\":43597.88,\"25\":45504.12,\"26\":43082.68,\"27\":18670.48,\"28\":46255.76,\"29\":44059.72,\"30\":4232},\"2023-12\":{\"1\":2343.24,\"2\":11741.04,\"3\":46102.12,\"4\":6643.32,\"5\":14540.6,\"6\":46454.48,\"7\":45539.08,\"8\":11803.6,\"9\":13513.88,\"10\":45864.76,\"11\":9196.32,\"12\":10168.76,\"13\":11902.96,\"14\":39546.2,\"15\":44803.08,\"16\":40299.68,\"17\":22399.24,\"18\":43079.92,\"19\":44142.52,\"20\":27987.32,\"21\":28006.64,\"22\":41513.16,\"23\":40890.32,\"24\":42607.04,\"25\":38151.48,\"26\":11083.24,\"27\":7140.12,\"28\":25793.12,\"29\":3565,\"30\":12707.04,\"31\":2806.92}},\"monthly_seriescalc_Pmax\":{\"1\":28661.85806451613,\"2\":46513.32714285714,\"3\":57435.807741935474,\"4\":62808.43066666667,\"5\":59457.16645161291,\"6\":62338.003999999986,\"7\":64029.655483870956,\"8\":56935.416774193545,\"9\":55895.94933333333,\"10\":40589.450322580655,\"11\":36384.00666666666,\"12\":25559.232258064516}}}",
       "forecast_week": "{\"global_tilted_irradiance\":{\"2025-07-01\":{\"2025-07-01T00:00\":0,\"2025-07-01T00:15\":0,\"2025-07-01T00:30\":0,\"2025-07-01T00:45\":0,\"2025-07-01T01:00\":0,\"2025-07-01T01:15\":0,\"2025-07-01T01:30\":0,\"2025-07-01T01:45\":0,\"2025-07-01T02:00\":0,\"2025-07-01T02:15\":0,\"2025-07-01T02:30\":0,\"2025-07-01T02:45\":0,\"2025-07-01T03:00\":0,\"2025-07-01T03:15\":0,\"2025-07-01T03:30\":0,\"2025-07-01T03:45\":0,\"2025-07-01T04:00\":10,\"2025-07-01T04:15\":25,\"2025-07-01T04:30\":46,\"2025-07-01T04:45\":73,\"2025-07-01T05:00\":103,\"2025-07-01T05:15\":137,\"2025-07-01T05:30\":177,\"2025-07-01T05:45\":216,\"2025-07-01T06:00\":259,\"2025-07-01T06:15\":300,\"2025-07-01T06:30\":339,\"2025-07-01T06:45\":378,\"2025-07-01T07:00\":417,\"2025-07-01T07:15\":456,\"2025-07-01T07:30\":506,\"2025-07-01T07:45\":551,\"2025-07-01T08:00\":589,\"2025-07-01T08:15\":625,\"2025-07-01T08:30\":659,\"2025-07-01T08:45\":693,\"2025-07-01T09:00\":725,\"2025-07-01T09:15\":753,\"2025-07-01T09:30\":779,\"2025-07-01T09:45\":805,\"2025-07-01T10:00\":824,\"2025-07-01T10:15\":844,\"2025-07-01T10:30\":857,\"2025-07-01T10:45\":869,\"2025-07-01T11:00\":878,\"2025-07-01T11:15\":885,\"2025-07-01T11:30\":888,\"2025-07-01T11:45\":888,\"2025-07-01T12:00\":884,\"2025-07-01T12:15\":873,\"2025-07-01T12:30\":862,\"2025-07-01T12:45\":851,\"2025-07-01T13:00\":837,\"2025-07-01T13:15\":817,\"2025-07-01T13:30\":798,\"2025-07-01T13:45\":771,\"2025-07-01T14:00\":696,\"2025-07-01T14:15\":695,\"2025-07-01T14:30\":653,\"2025-07-01T14:45\":612,\"2025-07-01T15:00\":604,\"2025-07-01T15:15\":573,\"2025-07-01T15:30\":536,\"2025-07-01T15:45\":495,\"2025-07-01T16:00\":453,\"2025-07-01T16:15\":410,\"2025-07-01T16:30\":369,\"2025-07-01T16:45\":325,\"2025-07-01T17:00\":274,\"2025-07-01T17:15\":230,\"2025-07-01T17:30\":167,\"2025-07-01T17:45\":144,\"2025-07-01T18:00\":123,\"2025-07-01T18:15\":89,\"2025-07-01T18:30\":57,\"2025-07-01T18:45\":31,\"2025-07-01T19:00\":12,\"2025-07-01T19:15\":2,\"2025-07-01T19:30\":0,\"2025-07-01T19:45\":0,\"2025-07-01T20:00\":0,\"2025-07-01T20:15\":0,\"2025-07-01T20:30\":0,\"2025-07-01T20:45\":0,\"2025-07-01T21:00\":0,\"2025-07-01T21:15\":0,\"2025-07-01T21:30\":0,\"2025-07-01T21:45\":0,\"2025-07-01T22:00\":0,\"2025-07-01T22:15\":0,\"2025-07-01T22:30\":0,\"2025-07-01T22:45\":0,\"2025-07-01T23:00\":0,\"2025-07-01T23:15\":0,\"2025-07-01T23:30\":0,\"2025-07-01T23:45\":0},\"2025-07-02\":{\"2025-07-02T00:00\":0,\"2025-07-02T00:15\":0,\"2025-07-02T00:30\":0,\"2025-07-02T00:45\":0,\"2025-07-02T01:00\":0,\"2025-07-02T01:15\":0,\"2025-07-02T01:30\":0,\"2025-07-02T01:45\":0,\"2025-07-02T02:00\":0,\"2025-07-02T02:15\":0,\"2025-07-02T02:30\":0,\"2025-07-02T02:45\":0,\"2025-07-02T03:00\":0,\"2025-07-02T03:15\":0,\"2025-07-02T03:30\":0,\"2025-07-02T03:45\":0,\"2025-07-02T04:00\":9,\"2025-07-02T04:15\":25,\"2025-07-02T04:30\":46,\"2025-07-02T04:45\":73,\"2025-07-02T05:00\":105,\"2025-07-02T05:15\":139,\"2025-07-02T05:30\":175,\"2025-07-02T05:45\":215,\"2025-07-02T06:00\":257,\"2025-07-02T06:15\":297,\"2025-07-02T06:30\":339,\"2025-07-02T06:45\":383,\"2025-07-02T07:00\":426,\"2025-07-02T07:15\":468,\"2025-07-02T07:30\":508,\"2025-07-02T07:45\":551,\"2025-07-02T08:00\":586,\"2025-07-02T08:15\":618,\"2025-07-02T08:30\":654,\"2025-07-02T08:45\":692,\"2025-07-02T09:00\":724,\"2025-07-02T09:15\":756,\"2025-07-02T09:30\":782,\"2025-07-02T09:45\":809,\"2025-07-02T10:00\":829,\"2025-07-02T10:15\":847,\"2025-07-02T10:30\":862,\"2025-07-02T10:45\":874,\"2025-07-02T11:00\":883,\"2025-07-02T11:15\":888,\"2025-07-02T11:30\":892,\"2025-07-02T11:45\":892,\"2025-07-02T12:00\":888,\"2025-07-02T12:15\":879,\"2025-07-02T12:30\":851,\"2025-07-02T12:45\":854,\"2025-07-02T13:00\":791,\"2025-07-02T13:15\":632,\"2025-07-02T13:30\":732,\"2025-07-02T13:45\":769,\"2025-07-02T14:00\":685,\"2025-07-02T14:15\":655,\"2025-07-02T14:30\":676,\"2025-07-02T14:45\":653,\"2025-07-02T15:00\":578,\"2025-07-02T15:15\":525,\"2025-07-02T15:30\":537,\"2025-07-02T15:45\":497,\"2025-07-02T16:00\":396,\"2025-07-02T16:15\":226,\"2025-07-02T16:30\":256,\"2025-07-02T16:45\":271,\"2025-07-02T17:00\":205,\"2025-07-02T17:15\":182,\"2025-07-02T17:30\":154,\"2025-07-02T17:45\":71,\"2025-07-02T18:00\":44,\"2025-07-02T18:15\":28,\"2025-07-02T18:30\":7,\"2025-07-02T18:45\":15,\"2025-07-02T19:00\":9,\"2025-07-02T19:15\":2,\"2025-07-02T19:30\":0,\"2025-07-02T19:45\":0,\"2025-07-02T20:00\":0,\"2025-07-02T20:15\":0,\"2025-07-02T20:30\":0,\"2025-07-02T20:45\":0,\"2025-07-02T21:00\":0,\"2025-07-02T21:15\":0,\"2025-07-02T21:30\":0,\"2025-07-02T21:45\":0,\"2025-07-02T22:00\":0,\"2025-07-02T22:15\":0,\"2025-07-02T22:30\":0,\"2025-07-02T22:45\":0,\"2025-07-02T23:00\":0,\"2025-07-02T23:15\":0,\"2025-07-02T23:30\":0,\"2025-07-02T23:45\":0},\"2025-07-03\":{\"2025-07-03T00:00\":0,\"2025-07-03T00:15\":0,\"2025-07-03T00:30\":0,\"2025-07-03T00:45\":0,\"2025-07-03T01:00\":0,\"2025-07-03T01:15\":0,\"2025-07-03T01:30\":0,\"2025-07-03T01:45\":0,\"2025-07-03T02:00\":0,\"2025-07-03T02:15\":0,\"2025-07-03T02:30\":0,\"2025-07-03T02:45\":0,\"2025-07-03T03:00\":0,\"2025-07-03T03:15\":0,\"2025-07-03T03:30\":0,\"2025-07-03T03:45\":0,\"2025-07-03T04:00\":9,\"2025-07-03T04:15\":22,\"2025-07-03T04:30\":43,\"2025-07-03T04:45\":68,\"2025-07-03T05:00\":96,\"2025-07-03T05:15\":131,\"2025-07-03T05:30\":164,\"2025-07-03T05:45\":193,\"2025-07-03T06:00\":221,\"2025-07-03T06:15\":246,\"2025-07-03T06:30\":269,\"2025-07-03T06:45\":363,\"2025-07-03T07:00\":400,\"2025-07-03T07:15\":438,\"2025-07-03T07:30\":475,\"2025-07-03T07:45\":515,\"2025-07-03T08:00\":555,\"2025-07-03T08:15\":597,\"2025-07-03T08:30\":636,\"2025-07-03T08:45\":673,\"2025-07-03T09:00\":708,\"2025-07-03T09:15\":740,\"2025-07-03T09:30\":769,\"2025-07-03T09:45\":793,\"2025-07-03T10:00\":811,\"2025-07-03T10:15\":825,\"2025-07-03T10:30\":837,\"2025-07-03T10:45\":847,\"2025-07-03T11:00\":856,\"2025-07-03T11:15\":863,\"2025-07-03T11:30\":867,\"2025-07-03T11:45\":868,\"2025-07-03T12:00\":868,\"2025-07-03T12:15\":865,\"2025-07-03T12:30\":858,\"2025-07-03T12:45\":847,\"2025-07-03T13:00\":831,\"2025-07-03T13:15\":812,\"2025-07-03T13:30\":790,\"2025-07-03T13:45\":766,\"2025-07-03T14:00\":739,\"2025-07-03T14:15\":709,\"2025-07-03T14:30\":677,\"2025-07-03T14:45\":642,\"2025-07-03T15:00\":607,\"2025-07-03T15:15\":570,\"2025-07-03T15:30\":531,\"2025-07-03T15:45\":491,\"2025-07-03T16:00\":451,\"2025-07-03T16:15\":411,\"2025-07-03T16:30\":368,\"2025-07-03T16:45\":319,\"2025-07-03T17:00\":269,\"2025-07-03T17:15\":219,\"2025-07-03T17:30\":175,\"2025-07-03T17:45\":135,\"2025-07-03T18:00\":99,\"2025-07-03T18:15\":69,\"2025-07-03T18:30\":46,\"2025-07-03T18:45\":28,\"2025-07-03T19:00\":14,\"2025-07-03T19:15\":1,\"2025-07-03T19:30\":0,\"2025-07-03T19:45\":0,\"2025-07-03T20:00\":0,\"2025-07-03T20:15\":0,\"2025-07-03T20:30\":0,\"2025-07-03T20:45\":0,\"2025-07-03T21:00\":0,\"2025-07-03T21:15\":0,\"2025-07-03T21:30\":0,\"2025-07-03T21:45\":0,\"2025-07-03T22:00\":0,\"2025-07-03T22:15\":0,\"2025-07-03T22:30\":0,\"2025-07-03T22:45\":0,\"2025-07-03T23:00\":0,\"2025-07-03T23:15\":0,\"2025-07-03T23:30\":0,\"2025-07-03T23:45\":0}},\"coordinates\":{\"lat\":45.285101,\"lon\":9.534624},\"azimuth\":0,\"tilt\":0,\"coefficients\":{\"params\":1,\"correc\":1,\"total\":1},\"lastUpdated\":\"2025-07-01T09:01:05.678Z\"}",
       "Address": ""
     },
@@ -44602,12 +44602,12 @@
           "10:25": 185.02,
           "10:30": 187.61,
           "10:35": 189.56,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
-          "11:05": null,
+          "10:40": 192.76,
+          "10:45": 194.84,
+          "10:50": 198.62,
+          "10:55": 201.49,
+          "11:00": 202.66,
+          "11:05": 205.88,
           "11:10": null,
           "11:15": null,
           "11:20": null,
@@ -44764,7 +44764,7 @@
           "23:55": null
         }
       },
-      "currentPower": "189.5"
+      "currentPower": "205.86"
     },
     "stationOverview": {
       "stationName": "Verwerkaf",
@@ -44801,7 +44801,7 @@
       "Coeff parameters": "",
       "Coeff correc": "",
       "Confronto NREL": "{\"powerCurveTheoretical\":{\"currentDateP\":{\"2025-06-30\":{\"00:10\":0,\"01:10\":0,\"02:10\":0,\"03:10\":0,\"04:10\":0,\"05:10\":14143.85,\"06:10\":36122.81,\"07:10\":38412.36,\"08:10\":30584.92,\"09:10\":28111.28,\"10:10\":38435.37,\"11:10\":0,\"12:10\":65913.86,\"13:10\":32540.82,\"14:10\":31397.96,\"15:10\":21001.01,\"16:10\":28602.18,\"17:10\":30903.24,\"18:10\":7532.14,\"19:10\":0,\"20:10\":0,\"21:10\":0,\"22:10\":0,\"23:10\":0}},\"dailyPmax\":{\"2025-06\":{\"1\":265734.08,\"2\":277308.41,\"3\":273642.06,\"4\":249776.23,\"5\":135267.81,\"6\":273212.52,\"7\":211126.09,\"8\":281642.07,\"9\":272131.03,\"10\":215271.83,\"11\":280012.16,\"12\":254662.15,\"13\":118631.15,\"14\":257415.75,\"15\":283927.79,\"16\":282796.44,\"17\":280341.97,\"18\":273101.31,\"19\":275279.64,\"20\":234888.37,\"21\":263793.52,\"22\":264299.75,\"23\":282313.22,\"24\":288717.83,\"25\":286282.54,\"26\":273419.62,\"27\":262585.46,\"28\":250600.77,\"29\":286504.98,\"30\":65913.86}},\"avgDailyPmax\":250686.6803333333},\"coordinates\":{\"lat\":44.801509,\"lon\":10.1748196},\"lastUpdated\":\"2025-06-30T09:43:26.507Z\"}",
-      "Confronto NREL year": "",
+      "Confronto NREL year": "{\"seriescalc\":{\"monthly_seriescalc\":{\"2023-01\":{\"1\":71079.74,\"2\":43321.29,\"3\":47125.71,\"4\":35524.53,\"5\":107693.44,\"6\":35355.79,\"7\":36245.53,\"8\":71451.75,\"9\":194309.18,\"10\":199095.38,\"11\":155613.02,\"12\":147375.22,\"13\":122707.86,\"14\":195041.68,\"15\":47444.02,\"16\":72652.13,\"17\":38496.73,\"18\":179294.76,\"19\":55187.09,\"20\":135682,\"21\":139444.24,\"22\":126865.11,\"23\":48801.65,\"24\":138980.19,\"25\":162964.9,\"26\":209231.55,\"27\":168487.45,\"28\":220629.47,\"29\":215034.06,\"30\":224176.94,\"31\":218830.81},\"2023-02\":{\"1\":204199.9,\"2\":209411.8,\"3\":199260.29,\"4\":206876.8,\"5\":195359.99,\"6\":216924.76,\"7\":222017.77,\"8\":230635.24,\"9\":235421.45,\"10\":231421.44,\"11\":220851.9,\"12\":219946.82,\"13\":223037.91,\"14\":225561.41,\"15\":224234.46,\"16\":219018.73,\"17\":223912.31,\"18\":223624.68,\"19\":158723.28,\"20\":203152.92,\"21\":206420.42,\"22\":62297.36,\"23\":61231.21,\"24\":178539.25,\"25\":213542.2,\"26\":59106.56,\"27\":91528.5,\"28\":234458.84},\"2023-03\":{\"1\":81342.47,\"2\":167547.85,\"3\":253220.15,\"4\":254129.07,\"5\":258286.31,\"6\":197097.29,\"7\":242838.53,\"8\":243824.15,\"9\":243214.37,\"10\":262919.12,\"11\":262842.41,\"12\":259275.77,\"13\":247402.3,\"14\":166228.57,\"15\":280127.21,\"16\":272552.89,\"17\":265139.64,\"18\":269772.44,\"19\":107068.32,\"20\":198734.88,\"21\":263287.29,\"22\":268311.27,\"23\":248606.52,\"24\":274608.5,\"25\":280453.19,\"26\":220959.29,\"27\":306225.06,\"28\":290723.59,\"29\":283333.35,\"30\":264771.47,\"31\":146504.66},\"2023-04\":{\"1\":287306.52,\"2\":284526.07,\"3\":281201.04,\"4\":310949.91,\"5\":306961.4,\"6\":289952.74,\"7\":223989.02,\"8\":287398.56,\"9\":281124.34,\"10\":293373.64,\"11\":276959.42,\"12\":119068.35,\"13\":244426.26,\"14\":310861.7,\"15\":286919.17,\"16\":293791.67,\"17\":278712.06,\"18\":274869.29,\"19\":289576.9,\"20\":248265.2,\"21\":245220.13,\"22\":260683.25,\"23\":279149.26,\"24\":302397.64,\"25\":288288.3,\"26\":297998.78,\"27\":289948.9,\"28\":254815.55,\"29\":251486.68,\"30\":208015.82},\"2023-05\":{\"1\":171333.09,\"2\":100483.46,\"3\":312706.38,\"4\":299268.19,\"5\":288322.82,\"6\":280863.55,\"7\":267528.91,\"8\":279517.43,\"9\":291034.23,\"10\":59259.97,\"11\":251429.16,\"12\":289059.16,\"13\":234585.4,\"14\":175003.28,\"15\":295893.31,\"16\":94592.74,\"17\":111302.27,\"18\":287107.09,\"19\":57353.92,\"20\":46258.98,\"21\":287555.8,\"22\":291325.7,\"23\":282689.06,\"24\":286259.53,\"25\":235087.79,\"26\":289005.47,\"27\":295939.33,\"28\":280679.46,\"29\":284648.79,\"30\":267107.04,\"31\":269032.26},\"2023-06\":{\"1\":265734.08,\"2\":277308.41,\"3\":273642.06,\"4\":249776.23,\"5\":135267.81,\"6\":273212.52,\"7\":211126.09,\"8\":281642.07,\"9\":272131.03,\"10\":215271.83,\"11\":280012.16,\"12\":254662.15,\"13\":118631.15,\"14\":257415.75,\"15\":283927.79,\"16\":282796.44,\"17\":280341.97,\"18\":273101.31,\"19\":275279.64,\"20\":234888.37,\"21\":263793.52,\"22\":264299.75,\"23\":282313.22,\"24\":288717.83,\"25\":286282.54,\"26\":273419.62,\"27\":262585.46,\"28\":250600.77,\"29\":286504.98,\"30\":65913.86},\"2023-07\":{\"1\":265998.7,\"2\":275268.14,\"3\":243785.8,\"4\":265193.33,\"5\":274819.43,\"6\":265918.16,\"7\":283110.92,\"8\":278792.59,\"9\":269902.83,\"10\":266347.7,\"11\":263471.37,\"12\":256944.03,\"13\":270178.96,\"14\":273235.53,\"15\":261408.09,\"16\":263406.17,\"17\":267900.91,\"18\":260326.59,\"19\":259187.56,\"20\":268284.42,\"21\":263080.19,\"22\":233979.45,\"23\":264652.58,\"24\":217300.6,\"25\":277158.84,\"26\":282267.2,\"27\":272491.53,\"28\":270631.5,\"29\":254424.37,\"30\":269442.62,\"31\":270708.2},\"2023-08\":{\"1\":255574.9,\"2\":263912.41,\"3\":251034.14,\"4\":229197.08,\"5\":270083.08,\"6\":288395.68,\"7\":296081.23,\"8\":276809.85,\"9\":263973.77,\"10\":271655.47,\"11\":268226.89,\"12\":261933.49,\"13\":258029.36,\"14\":259778.17,\"15\":258125.24,\"16\":257937.32,\"17\":244092.61,\"18\":253515.45,\"19\":253611.33,\"20\":253515.45,\"21\":253277.67,\"22\":250570.09,\"23\":245024.54,\"24\":246639.12,\"25\":239996.72,\"26\":251214.39,\"27\":120874.68,\"28\":164406.9,\"29\":252092.63,\"30\":271594.11,\"31\":240652.52},\"2023-09\":{\"1\":253776.24,\"2\":258121.41,\"3\":256142.49,\"4\":254712,\"5\":265304.55,\"6\":262815.57,\"7\":259628.6,\"8\":255774.32,\"9\":252395.6,\"10\":248035.09,\"11\":244579.67,\"12\":227452.11,\"13\":202876.79,\"14\":234616.08,\"15\":232280.5,\"16\":247594.06,\"17\":221565.23,\"18\":164464.43,\"19\":239624.72,\"20\":225300.62,\"21\":211103.08,\"22\":82872.68,\"23\":250389.84,\"24\":248096.45,\"25\":249327.52,\"26\":244138.63,\"27\":240844.28,\"28\":237672.65,\"29\":235126.15,\"30\":232173.12},\"2023-10\":{\"1\":234408.98,\"2\":233542.25,\"3\":228107.91,\"4\":234715.79,\"5\":228019.71,\"6\":234389.81,\"7\":228180.78,\"8\":222489.49,\"9\":220740.69,\"10\":214270.87,\"11\":221304.45,\"12\":173768.38,\"13\":208184.57,\"14\":198757.89,\"15\":197983.2,\"16\":142788.44,\"17\":214911.33,\"18\":35988.58,\"19\":102826.7,\"20\":59973.29,\"21\":202934.32,\"22\":216882.58,\"23\":172537.31,\"24\":84479.58,\"25\":106688.65,\"26\":70266.7,\"27\":223908.48,\"28\":204299.61,\"29\":39513.04,\"30\":17695.15,\"31\":227693.72},\"2023-11\":{\"1\":134305.2,\"2\":59052.87,\"3\":229799.19,\"4\":204894.05,\"5\":213722.45,\"6\":210205.67,\"7\":192633.24,\"8\":206125.12,\"9\":146266.88,\"10\":41173.63,\"11\":209941.04,\"12\":173921.78,\"13\":181649.51,\"14\":102401.01,\"15\":193910.33,\"16\":161703.16,\"17\":191609.27,\"18\":185319.7,\"19\":168295.69,\"20\":114723.18,\"21\":65503.51,\"22\":184203.69,\"23\":180291.89,\"24\":176318.72,\"25\":192383.96,\"26\":187064.67,\"27\":114945.62,\"28\":186608.3,\"29\":186355.18,\"30\":15689.39},\"2023-12\":{\"1\":41361.55,\"2\":55585.94,\"3\":197595.86,\"4\":63451.73,\"5\":43018.32,\"6\":196023.47,\"7\":192920.87,\"8\":38209.1,\"9\":46074.89,\"10\":189845.12,\"11\":51221.6,\"12\":53534.16,\"13\":37073.91,\"14\":156023.37,\"15\":184717.59,\"16\":184763.61,\"17\":181634.17,\"18\":159777.94,\"19\":175432.81,\"20\":124387.63,\"21\":119712.65,\"22\":168897.8,\"23\":159892.99,\"24\":160920.8,\"25\":161143.23,\"26\":119520.89,\"27\":32951.18,\"28\":116705.93,\"29\":40299.23,\"30\":19635.71,\"31\":18696.11}},\"monthly_seriescalc_Pmax\":{\"1\":124649.78129032259,\"2\":192882.79285714283,\"3\":238107.99774193548,\"4\":271607.919,\"5\":234265.59903225806,\"6\":250686.68033333338,\"7\":264826.3970967742,\"8\":250704.07387096772,\"9\":234626.81600000005,\"10\":174266.20161290324,\"11\":160367.26333333334,\"12\":112613.87612903226}}}",
       "forecast_week": "{\"global_tilted_irradiance\":{\"2025-07-01\":{\"2025-07-01T00:00\":0,\"2025-07-01T00:15\":0,\"2025-07-01T00:30\":0,\"2025-07-01T00:45\":0,\"2025-07-01T01:00\":0,\"2025-07-01T01:15\":0,\"2025-07-01T01:30\":0,\"2025-07-01T01:45\":0,\"2025-07-01T02:00\":0,\"2025-07-01T02:15\":0,\"2025-07-01T02:30\":0,\"2025-07-01T02:45\":0,\"2025-07-01T03:00\":0,\"2025-07-01T03:15\":0,\"2025-07-01T03:30\":0,\"2025-07-01T03:45\":0,\"2025-07-01T04:00\":10,\"2025-07-01T04:15\":26,\"2025-07-01T04:30\":49,\"2025-07-01T04:45\":76,\"2025-07-01T05:00\":108,\"2025-07-01T05:15\":140,\"2025-07-01T05:30\":173,\"2025-07-01T05:45\":189,\"2025-07-01T06:00\":180,\"2025-07-01T06:15\":224,\"2025-07-01T06:30\":299,\"2025-07-01T06:45\":335,\"2025-07-01T07:00\":367,\"2025-07-01T07:15\":409,\"2025-07-01T07:30\":475,\"2025-07-01T07:45\":524,\"2025-07-01T08:00\":553,\"2025-07-01T08:15\":598,\"2025-07-01T08:30\":649,\"2025-07-01T08:45\":656,\"2025-07-01T09:00\":683,\"2025-07-01T09:15\":667,\"2025-07-01T09:30\":744,\"2025-07-01T09:45\":794,\"2025-07-01T10:00\":813,\"2025-07-01T10:15\":835,\"2025-07-01T10:30\":856,\"2025-07-01T10:45\":869,\"2025-07-01T11:00\":873,\"2025-07-01T11:15\":860,\"2025-07-01T11:30\":855,\"2025-07-01T11:45\":864,\"2025-07-01T12:00\":881,\"2025-07-01T12:15\":866,\"2025-07-01T12:30\":861,\"2025-07-01T12:45\":850,\"2025-07-01T13:00\":795,\"2025-07-01T13:15\":666,\"2025-07-01T13:30\":632,\"2025-07-01T13:45\":487,\"2025-07-01T14:00\":547,\"2025-07-01T14:15\":506,\"2025-07-01T14:30\":525,\"2025-07-01T14:45\":540,\"2025-07-01T15:00\":491,\"2025-07-01T15:15\":457,\"2025-07-01T15:30\":409,\"2025-07-01T15:45\":383,\"2025-07-01T16:00\":381,\"2025-07-01T16:15\":354,\"2025-07-01T16:30\":336,\"2025-07-01T16:45\":302,\"2025-07-01T17:00\":272,\"2025-07-01T17:15\":226,\"2025-07-01T17:30\":182,\"2025-07-01T17:45\":150,\"2025-07-01T18:00\":114,\"2025-07-01T18:15\":82,\"2025-07-01T18:30\":53,\"2025-07-01T18:45\":27,\"2025-07-01T19:00\":11,\"2025-07-01T19:15\":0,\"2025-07-01T19:30\":0,\"2025-07-01T19:45\":0,\"2025-07-01T20:00\":0,\"2025-07-01T20:15\":0,\"2025-07-01T20:30\":0,\"2025-07-01T20:45\":0,\"2025-07-01T21:00\":0,\"2025-07-01T21:15\":0,\"2025-07-01T21:30\":0,\"2025-07-01T21:45\":0,\"2025-07-01T22:00\":0,\"2025-07-01T22:15\":0,\"2025-07-01T22:30\":0,\"2025-07-01T22:45\":0,\"2025-07-01T23:00\":0,\"2025-07-01T23:15\":0,\"2025-07-01T23:30\":0,\"2025-07-01T23:45\":0},\"2025-07-02\":{\"2025-07-02T00:00\":0,\"2025-07-02T00:15\":0,\"2025-07-02T00:30\":0,\"2025-07-02T00:45\":0,\"2025-07-02T01:00\":0,\"2025-07-02T01:15\":0,\"2025-07-02T01:30\":0,\"2025-07-02T01:45\":0,\"2025-07-02T02:00\":0,\"2025-07-02T02:15\":0,\"2025-07-02T02:30\":0,\"2025-07-02T02:45\":0,\"2025-07-02T03:00\":0,\"2025-07-02T03:15\":0,\"2025-07-02T03:30\":0,\"2025-07-02T03:45\":0,\"2025-07-02T04:00\":9,\"2025-07-02T04:15\":26,\"2025-07-02T04:30\":48,\"2025-07-02T04:45\":76,\"2025-07-02T05:00\":110,\"2025-07-02T05:15\":142,\"2025-07-02T05:30\":180,\"2025-07-02T05:45\":220,\"2025-07-02T06:00\":261,\"2025-07-02T06:15\":303,\"2025-07-02T06:30\":345,\"2025-07-02T06:45\":391,\"2025-07-02T07:00\":433,\"2025-07-02T07:15\":475,\"2025-07-02T07:30\":516,\"2025-07-02T07:45\":557,\"2025-07-02T08:00\":596,\"2025-07-02T08:15\":635,\"2025-07-02T08:30\":669,\"2025-07-02T08:45\":703,\"2025-07-02T09:00\":735,\"2025-07-02T09:15\":762,\"2025-07-02T09:30\":790,\"2025-07-02T09:45\":813,\"2025-07-02T10:00\":833,\"2025-07-02T10:15\":851,\"2025-07-02T10:30\":867,\"2025-07-02T10:45\":878,\"2025-07-02T11:00\":887,\"2025-07-02T11:15\":893,\"2025-07-02T11:30\":895,\"2025-07-02T11:45\":895,\"2025-07-02T12:00\":890,\"2025-07-02T12:15\":884,\"2025-07-02T12:30\":877,\"2025-07-02T12:45\":857,\"2025-07-02T13:00\":835,\"2025-07-02T13:15\":816,\"2025-07-02T13:30\":790,\"2025-07-02T13:45\":716,\"2025-07-02T14:00\":466,\"2025-07-02T14:15\":519,\"2025-07-02T14:30\":591,\"2025-07-02T14:45\":608,\"2025-07-02T15:00\":596,\"2025-07-02T15:15\":529,\"2025-07-02T15:30\":484,\"2025-07-02T15:45\":476,\"2025-07-02T16:00\":432,\"2025-07-02T16:15\":360,\"2025-07-02T16:30\":318,\"2025-07-02T16:45\":267,\"2025-07-02T17:00\":231,\"2025-07-02T17:15\":222,\"2025-07-02T17:30\":184,\"2025-07-02T17:45\":148,\"2025-07-02T18:00\":113,\"2025-07-02T18:15\":80,\"2025-07-02T18:30\":50,\"2025-07-02T18:45\":27,\"2025-07-02T19:00\":11,\"2025-07-02T19:15\":0,\"2025-07-02T19:30\":0,\"2025-07-02T19:45\":0,\"2025-07-02T20:00\":0,\"2025-07-02T20:15\":0,\"2025-07-02T20:30\":0,\"2025-07-02T20:45\":0,\"2025-07-02T21:00\":0,\"2025-07-02T21:15\":0,\"2025-07-02T21:30\":0,\"2025-07-02T21:45\":0,\"2025-07-02T22:00\":0,\"2025-07-02T22:15\":0,\"2025-07-02T22:30\":0,\"2025-07-02T22:45\":0,\"2025-07-02T23:00\":0,\"2025-07-02T23:15\":0,\"2025-07-02T23:30\":0,\"2025-07-02T23:45\":0},\"2025-07-03\":{\"2025-07-03T00:00\":0,\"2025-07-03T00:15\":0,\"2025-07-03T00:30\":0,\"2025-07-03T00:45\":0,\"2025-07-03T01:00\":0,\"2025-07-03T01:15\":0,\"2025-07-03T01:30\":0,\"2025-07-03T01:45\":0,\"2025-07-03T02:00\":0,\"2025-07-03T02:15\":0,\"2025-07-03T02:30\":0,\"2025-07-03T02:45\":0,\"2025-07-03T03:00\":0,\"2025-07-03T03:15\":0,\"2025-07-03T03:30\":0,\"2025-07-03T03:45\":0,\"2025-07-03T04:00\":9,\"2025-07-03T04:15\":26,\"2025-07-03T04:30\":45,\"2025-07-03T04:45\":75,\"2025-07-03T05:00\":107,\"2025-07-03T05:15\":141,\"2025-07-03T05:30\":176,\"2025-07-03T05:45\":219,\"2025-07-03T06:00\":248,\"2025-07-03T06:15\":275,\"2025-07-03T06:30\":302,\"2025-07-03T06:45\":390,\"2025-07-03T07:00\":432,\"2025-07-03T07:15\":474,\"2025-07-03T07:30\":514,\"2025-07-03T07:45\":554,\"2025-07-03T08:00\":593,\"2025-07-03T08:15\":628,\"2025-07-03T08:30\":663,\"2025-07-03T08:45\":695,\"2025-07-03T09:00\":726,\"2025-07-03T09:15\":755,\"2025-07-03T09:30\":780,\"2025-07-03T09:45\":798,\"2025-07-03T10:00\":810,\"2025-07-03T10:15\":818,\"2025-07-03T10:30\":822,\"2025-07-03T10:45\":822,\"2025-07-03T11:00\":819,\"2025-07-03T11:15\":813,\"2025-07-03T11:30\":805,\"2025-07-03T11:45\":796,\"2025-07-03T12:00\":785,\"2025-07-03T12:15\":774,\"2025-07-03T12:30\":761,\"2025-07-03T12:45\":744,\"2025-07-03T13:00\":728,\"2025-07-03T13:15\":709,\"2025-07-03T13:30\":688,\"2025-07-03T13:45\":663,\"2025-07-03T14:00\":634,\"2025-07-03T14:15\":604,\"2025-07-03T14:30\":573,\"2025-07-03T14:45\":541,\"2025-07-03T15:00\":512,\"2025-07-03T15:15\":482,\"2025-07-03T15:30\":449,\"2025-07-03T15:45\":409,\"2025-07-03T16:00\":366,\"2025-07-03T16:15\":322,\"2025-07-03T16:30\":282,\"2025-07-03T16:45\":249,\"2025-07-03T17:00\":222,\"2025-07-03T17:15\":195,\"2025-07-03T17:30\":168,\"2025-07-03T17:45\":137,\"2025-07-03T18:00\":105,\"2025-07-03T18:15\":76,\"2025-07-03T18:30\":51,\"2025-07-03T18:45\":30,\"2025-07-03T19:00\":12,\"2025-07-03T19:15\":0,\"2025-07-03T19:30\":0,\"2025-07-03T19:45\":0,\"2025-07-03T20:00\":0,\"2025-07-03T20:15\":0,\"2025-07-03T20:30\":0,\"2025-07-03T20:45\":0,\"2025-07-03T21:00\":0,\"2025-07-03T21:15\":0,\"2025-07-03T21:30\":0,\"2025-07-03T21:45\":0,\"2025-07-03T22:00\":0,\"2025-07-03T22:15\":0,\"2025-07-03T22:30\":0,\"2025-07-03T22:45\":0,\"2025-07-03T23:00\":0,\"2025-07-03T23:15\":0,\"2025-07-03T23:30\":0,\"2025-07-03T23:45\":0}},\"coordinates\":{\"lat\":44.801509,\"lon\":10.1748196},\"azimuth\":0,\"tilt\":0,\"coefficients\":{\"params\":1,\"correc\":1,\"total\":1},\"lastUpdated\":\"2025-07-01T09:01:06.129Z\"}",
       "problemi": "",
       "Allaciato": "2022-07-08",
@@ -44815,20 +44815,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 98306.82,
+      "co2ReductionByYear": 98353.83,
       "equivalentTreePlantingByYear": 135,
-      "standardCoalSavings": 597157.1,
+      "standardCoalSavings": 597196.69,
       "componentFlag": 0,
       "equivalentTreePlanting": 969,
-      "co2Reduction": 709124.06,
-      "standardCoalSavingsByYear": 82784.69
+      "co2Reduction": 709171.07,
+      "standardCoalSavingsByYear": 82824.28
     },
     "realKpi": {
-      "realTimePower": 189.5,
-      "cumulativeEnergy": 1492892.76,
-      "monthEnergy": 424.72,
-      "dailyEnergy": 424.72,
-      "yearEnergy": 206961.72
+      "realTimePower": 205.86,
+      "cumulativeEnergy": 1492991.73,
+      "monthEnergy": 523.69,
+      "dailyEnergy": 523.69,
+      "yearEnergy": 207060.69
     }
   },
   "Gelco": {
@@ -44881,7 +44881,7 @@
       "Coeff parameters": "",
       "Coeff correc": "",
       "Confronto NREL": "{\"powerCurveTheoretical\":{\"currentDateP\":{\"2025-06-30\":{\"00:10\":0,\"01:10\":0,\"02:10\":0,\"03:10\":0,\"04:10\":21748.5,\"05:10\":138199.5,\"06:10\":367686,\"07:10\":580608,\"08:10\":765153,\"09:10\":904891.5,\"10:10\":993627,\"11:10\":0,\"12:10\":990576,\"13:10\":892890,\"14:10\":420295.5,\"15:10\":188284.5,\"16:10\":110160,\"17:10\":89221.5,\"18:10\":15052.5,\"19:10\":0,\"20:10\":0,\"21:10\":0,\"22:10\":0,\"23:10\":0}},\"dailyPmax\":{\"2025-06\":{\"1\":910332,\"2\":1021018.5,\"3\":903582,\"4\":910858.5,\"5\":823689,\"6\":901759.5,\"7\":837364.5,\"8\":972418.5,\"9\":950764.5,\"10\":689674.5,\"11\":928570.5,\"12\":913801.5,\"13\":856858.5,\"14\":707656.5,\"15\":479871,\"16\":1000687.5,\"17\":1030536,\"18\":1014646.5,\"19\":893632.5,\"20\":960106.5,\"21\":997542,\"22\":964251,\"23\":1008855,\"24\":985257,\"25\":881239.5,\"26\":1052149.5,\"27\":997245,\"28\":999702,\"29\":1032156,\"30\":993627}},\"avgDailyPmax\":920661.75},\"coordinates\":{\"lat\":42.626791899239045,\"lon\":13.844608819571869},\"lastUpdated\":\"2025-06-30T09:43:30.249Z\"}",
-      "Confronto NREL year": "",
+      "Confronto NREL year": "{\"seriescalc\":{\"monthly_seriescalc\":{\"2023-01\":{\"1\":648931.5,\"2\":431284.5,\"3\":618205.5,\"4\":629302.5,\"5\":670774.5,\"6\":670248,\"7\":202945.5,\"8\":679684.5,\"9\":286578,\"10\":574951.5,\"11\":728622,\"12\":537097.5,\"13\":654655.5,\"14\":727150.5,\"15\":548910,\"16\":642073.5,\"17\":692442,\"18\":485325,\"19\":759253.5,\"20\":493735.5,\"21\":164578.5,\"22\":564961.5,\"23\":689350.5,\"24\":734602.5,\"25\":192699,\"26\":312201,\"27\":104341.5,\"28\":215176.5,\"29\":263641.5,\"30\":814576.5,\"31\":811809},\"2023-02\":{\"1\":759523.5,\"2\":783027,\"3\":792004.5,\"4\":797026.5,\"5\":596457,\"6\":538933.5,\"7\":776790,\"8\":410980.5,\"9\":104719.5,\"10\":847678.5,\"11\":873261,\"12\":680197.5,\"13\":832491,\"14\":862636.5,\"15\":854037,\"16\":837243,\"17\":859086,\"18\":861151.5,\"19\":859923,\"20\":853335,\"21\":866835,\"22\":394686,\"23\":878634,\"24\":766462.5,\"25\":300969,\"26\":236790,\"27\":446418,\"28\":178024.5},\"2023-03\":{\"1\":928125,\"2\":244890,\"3\":444771,\"4\":713502,\"5\":976293,\"6\":742176,\"7\":958149,\"8\":883683,\"9\":906619.5,\"10\":867294,\"11\":885910.5,\"12\":497245.5,\"13\":973296,\"14\":970906.5,\"15\":228744,\"16\":1039041,\"17\":1017481.5,\"18\":1000809,\"19\":891783,\"20\":440586,\"21\":772740,\"22\":943879.5,\"23\":977454,\"24\":959931,\"25\":979600.5,\"26\":795730.5,\"27\":997123.5,\"28\":1041268.5,\"29\":942394.5,\"30\":985473,\"31\":790708.5},\"2023-04\":{\"1\":987970.5,\"2\":853753.5,\"3\":824809.5,\"4\":219402,\"5\":361368,\"6\":1119717,\"7\":1073169,\"8\":539352,\"9\":615870,\"10\":826875,\"11\":1010812.5,\"12\":1055808,\"13\":1023232.5,\"14\":1023610.5,\"15\":623821.5,\"16\":294111,\"17\":180346.5,\"18\":453195,\"19\":916312.5,\"20\":927882,\"21\":912694.5,\"22\":1049949,\"23\":977346,\"24\":1039405.5,\"25\":937602,\"26\":1091974.5,\"27\":1087357.5,\"28\":1061073,\"29\":764343,\"30\":464791.5},\"2023-05\":{\"1\":211612.5,\"2\":605880,\"3\":170505,\"4\":851323.5,\"5\":1076031,\"6\":1010488.5,\"7\":1052649,\"8\":267138,\"9\":1038352.5,\"10\":283432.5,\"11\":732402,\"12\":1044184.5,\"13\":623052,\"14\":561546,\"15\":323136,\"16\":724680,\"17\":454518,\"18\":587695.5,\"19\":418216.5,\"20\":171544.5,\"21\":929974.5,\"22\":1054525.5,\"23\":1041849,\"24\":1036665,\"25\":1049098.5,\"26\":1028268,\"27\":1070010,\"28\":1065082.5,\"29\":1009773,\"30\":828616.5,\"31\":927828},\"2023-06\":{\"1\":910332,\"2\":1021018.5,\"3\":903582,\"4\":910858.5,\"5\":823689,\"6\":901759.5,\"7\":837364.5,\"8\":972418.5,\"9\":950764.5,\"10\":689674.5,\"11\":928570.5,\"12\":913801.5,\"13\":856858.5,\"14\":707656.5,\"15\":479871,\"16\":1000687.5,\"17\":1030536,\"18\":1014646.5,\"19\":893632.5,\"20\":960106.5,\"21\":997542,\"22\":964251,\"23\":1008855,\"24\":985257,\"25\":881239.5,\"26\":1052149.5,\"27\":997245,\"28\":999702,\"29\":1032156,\"30\":993627},\"2023-07\":{\"1\":852147,\"2\":954328.5,\"3\":943717.5,\"4\":963859.5,\"5\":978628.5,\"6\":1022476.5,\"7\":851904,\"8\":981963,\"9\":1006155,\"10\":988713,\"11\":984042,\"12\":960484.5,\"13\":807408,\"14\":944298,\"15\":954477,\"16\":972135,\"17\":968895,\"18\":978439.5,\"19\":965925,\"20\":985324.5,\"21\":934821,\"22\":948537,\"23\":961335,\"24\":955746,\"25\":935779.5,\"26\":969300,\"27\":991899,\"28\":927112.5,\"29\":972837,\"30\":953019,\"31\":930690},\"2023-08\":{\"1\":962779.5,\"2\":961807.5,\"3\":957042,\"4\":974632.5,\"5\":892242,\"6\":968841,\"7\":995679,\"8\":946309.5,\"9\":967369.5,\"10\":980923.5,\"11\":992223,\"12\":991426.5,\"13\":987336,\"14\":978709.5,\"15\":967666.5,\"16\":959391,\"17\":952897.5,\"18\":951858,\"19\":953991,\"20\":914800.5,\"21\":924858,\"22\":946620,\"23\":927315,\"24\":925006.5,\"25\":894780,\"26\":899869.5,\"27\":903015,\"28\":725746.5,\"29\":711733.5,\"30\":900787.5,\"31\":914031},\"2023-09\":{\"1\":942921,\"2\":930271.5,\"3\":923305.5,\"4\":868333.5,\"5\":905188.5,\"6\":833247,\"7\":917203.5,\"8\":902083.5,\"9\":924804,\"10\":918783,\"11\":905539.5,\"12\":891351,\"13\":815116.5,\"14\":819274.5,\"15\":541120.5,\"16\":747184.5,\"17\":861718.5,\"18\":851013,\"19\":787914,\"20\":492858,\"21\":684571.5,\"22\":393889.5,\"23\":399856.5,\"24\":449887.5,\"25\":503955,\"26\":898236,\"27\":914517,\"28\":892147.5,\"29\":892957.5,\"30\":878040},\"2023-10\":{\"1\":891081,\"2\":865377,\"3\":846747,\"4\":846180,\"5\":835879.5,\"6\":833071.5,\"7\":844303.5,\"8\":830101.5,\"9\":809446.5,\"10\":817965,\"11\":824890.5,\"12\":816966,\"13\":807327,\"14\":779814,\"15\":753732,\"16\":358668,\"17\":648418.5,\"18\":787158,\"19\":718564.5,\"20\":559993.5,\"21\":123579,\"22\":728028,\"23\":756850.5,\"24\":671355,\"25\":693117,\"26\":742648.5,\"27\":611820,\"28\":750627,\"29\":737356.5,\"30\":668047.5,\"31\":740191.5},\"2023-11\":{\"1\":353065.5,\"2\":349893,\"3\":783378,\"4\":754609.5,\"5\":727326,\"6\":644422.5,\"7\":325147.5,\"8\":760198.5,\"9\":759280.5,\"10\":516402,\"11\":751180.5,\"12\":377595,\"13\":719401.5,\"14\":671976,\"15\":600291,\"16\":707994,\"17\":689728.5,\"18\":713461.5,\"19\":688095,\"20\":652806,\"21\":169992,\"22\":49059,\"23\":295326,\"24\":709357.5,\"25\":340740,\"26\":746158.5,\"27\":666616.5,\"28\":703552.5,\"29\":706765.5,\"30\":392661},\"2023-12\":{\"1\":634621.5,\"2\":697086,\"3\":589977,\"4\":520438.5,\"5\":281137.5,\"6\":652725,\"7\":694683,\"8\":638428.5,\"9\":624456,\"10\":630436.5,\"11\":323784,\"12\":615546,\"13\":416596.5,\"14\":295920,\"15\":692239.5,\"16\":679050,\"17\":700677,\"18\":673312.5,\"19\":648634.5,\"20\":591597,\"21\":650052,\"22\":650173.5,\"23\":640399.5,\"24\":658327.5,\"25\":644166,\"26\":647041.5,\"27\":652887,\"28\":608485.5,\"29\":567418.5,\"30\":656302.5,\"31\":643342.5}},\"monthly_seriescalc_Pmax\":{\"1\":533874.4838709678,\"2\":673190.0357142857,\"3\":832180.9354838709,\"4\":810598.5,\"5\":750002.5161290322,\"6\":920661.75,\"7\":953109.5806451613,\"8\":933280.2580645161,\"9\":789576.3,\"10\":732235.6451612903,\"11\":577549.35,\"12\":600643.3064516129}}}",
       "forecast_week": "{\"global_tilted_irradiance\":{\"2025-07-01\":{\"2025-07-01T00:00\":0,\"2025-07-01T00:15\":0,\"2025-07-01T00:30\":0,\"2025-07-01T00:45\":0,\"2025-07-01T01:00\":0,\"2025-07-01T01:15\":0,\"2025-07-01T01:30\":0,\"2025-07-01T01:45\":0,\"2025-07-01T02:00\":0,\"2025-07-01T02:15\":0,\"2025-07-01T02:30\":0,\"2025-07-01T02:45\":0,\"2025-07-01T03:00\":0,\"2025-07-01T03:15\":0,\"2025-07-01T03:30\":0,\"2025-07-01T03:45\":1,\"2025-07-01T04:00\":15,\"2025-07-01T04:15\":39,\"2025-07-01T04:30\":70,\"2025-07-01T04:45\":106,\"2025-07-01T05:00\":142,\"2025-07-01T05:15\":181,\"2025-07-01T05:30\":221,\"2025-07-01T05:45\":264,\"2025-07-01T06:00\":308,\"2025-07-01T06:15\":352,\"2025-07-01T06:30\":397,\"2025-07-01T06:45\":442,\"2025-07-01T07:00\":486,\"2025-07-01T07:15\":530,\"2025-07-01T07:30\":572,\"2025-07-01T07:45\":613,\"2025-07-01T08:00\":651,\"2025-07-01T08:15\":689,\"2025-07-01T08:30\":724,\"2025-07-01T08:45\":756,\"2025-07-01T09:00\":785,\"2025-07-01T09:15\":812,\"2025-07-01T09:30\":835,\"2025-07-01T09:45\":856,\"2025-07-01T10:00\":874,\"2025-07-01T10:15\":888,\"2025-07-01T10:30\":900,\"2025-07-01T10:45\":907,\"2025-07-01T11:00\":912,\"2025-07-01T11:15\":913,\"2025-07-01T11:30\":911,\"2025-07-01T11:45\":906,\"2025-07-01T12:00\":898,\"2025-07-01T12:15\":886,\"2025-07-01T12:30\":871,\"2025-07-01T12:45\":854,\"2025-07-01T13:00\":832,\"2025-07-01T13:15\":808,\"2025-07-01T13:30\":782,\"2025-07-01T13:45\":752,\"2025-07-01T14:00\":720,\"2025-07-01T14:15\":685,\"2025-07-01T14:30\":648,\"2025-07-01T14:45\":609,\"2025-07-01T15:00\":569,\"2025-07-01T15:15\":527,\"2025-07-01T15:30\":484,\"2025-07-01T15:45\":440,\"2025-07-01T16:00\":395,\"2025-07-01T16:15\":351,\"2025-07-01T16:30\":306,\"2025-07-01T16:45\":262,\"2025-07-01T17:00\":218,\"2025-07-01T17:15\":176,\"2025-07-01T17:30\":137,\"2025-07-01T17:45\":101,\"2025-07-01T18:00\":66,\"2025-07-01T18:15\":38,\"2025-07-01T18:30\":18,\"2025-07-01T18:45\":2,\"2025-07-01T19:00\":0,\"2025-07-01T19:15\":0,\"2025-07-01T19:30\":0,\"2025-07-01T19:45\":0,\"2025-07-01T20:00\":0,\"2025-07-01T20:15\":0,\"2025-07-01T20:30\":0,\"2025-07-01T20:45\":0,\"2025-07-01T21:00\":0,\"2025-07-01T21:15\":0,\"2025-07-01T21:30\":0,\"2025-07-01T21:45\":0,\"2025-07-01T22:00\":0,\"2025-07-01T22:15\":0,\"2025-07-01T22:30\":0,\"2025-07-01T22:45\":0,\"2025-07-01T23:00\":0,\"2025-07-01T23:15\":0,\"2025-07-01T23:30\":0,\"2025-07-01T23:45\":0},\"2025-07-02\":{\"2025-07-02T00:00\":0,\"2025-07-02T00:15\":0,\"2025-07-02T00:30\":0,\"2025-07-02T00:45\":0,\"2025-07-02T01:00\":0,\"2025-07-02T01:15\":0,\"2025-07-02T01:30\":0,\"2025-07-02T01:45\":0,\"2025-07-02T02:00\":0,\"2025-07-02T02:15\":0,\"2025-07-02T02:30\":0,\"2025-07-02T02:45\":0,\"2025-07-02T03:00\":0,\"2025-07-02T03:15\":0,\"2025-07-02T03:30\":0,\"2025-07-02T03:45\":1,\"2025-07-02T04:00\":15,\"2025-07-02T04:15\":38,\"2025-07-02T04:30\":67,\"2025-07-02T04:45\":101,\"2025-07-02T05:00\":138,\"2025-07-02T05:15\":177,\"2025-07-02T05:30\":216,\"2025-07-02T05:45\":260,\"2025-07-02T06:00\":303,\"2025-07-02T06:15\":347,\"2025-07-02T06:30\":391,\"2025-07-02T06:45\":436,\"2025-07-02T07:00\":480,\"2025-07-02T07:15\":523,\"2025-07-02T07:30\":566,\"2025-07-02T07:45\":606,\"2025-07-02T08:00\":645,\"2025-07-02T08:15\":681,\"2025-07-02T08:30\":716,\"2025-07-02T08:45\":748,\"2025-07-02T09:00\":779,\"2025-07-02T09:15\":806,\"2025-07-02T09:30\":831,\"2025-07-02T09:45\":852,\"2025-07-02T10:00\":869,\"2025-07-02T10:15\":883,\"2025-07-02T10:30\":895,\"2025-07-02T10:45\":902,\"2025-07-02T11:00\":906,\"2025-07-02T11:15\":906,\"2025-07-02T11:30\":903,\"2025-07-02T11:45\":897,\"2025-07-02T12:00\":889,\"2025-07-02T12:15\":878,\"2025-07-02T12:30\":863,\"2025-07-02T12:45\":846,\"2025-07-02T13:00\":826,\"2025-07-02T13:15\":804,\"2025-07-02T13:30\":775,\"2025-07-02T13:45\":740,\"2025-07-02T14:00\":701,\"2025-07-02T14:15\":659,\"2025-07-02T14:30\":611,\"2025-07-02T14:45\":557,\"2025-07-02T15:00\":494,\"2025-07-02T15:15\":430,\"2025-07-02T15:30\":374,\"2025-07-02T15:45\":332,\"2025-07-02T16:00\":301,\"2025-07-02T16:15\":275,\"2025-07-02T16:30\":246,\"2025-07-02T16:45\":213,\"2025-07-02T17:00\":180,\"2025-07-02T17:15\":147,\"2025-07-02T17:30\":115,\"2025-07-02T17:45\":85,\"2025-07-02T18:00\":56,\"2025-07-02T18:15\":33,\"2025-07-02T18:30\":15,\"2025-07-02T18:45\":2,\"2025-07-02T19:00\":0,\"2025-07-02T19:15\":0,\"2025-07-02T19:30\":0,\"2025-07-02T19:45\":0,\"2025-07-02T20:00\":0,\"2025-07-02T20:15\":0,\"2025-07-02T20:30\":0,\"2025-07-02T20:45\":0,\"2025-07-02T21:00\":0,\"2025-07-02T21:15\":0,\"2025-07-02T21:30\":0,\"2025-07-02T21:45\":0,\"2025-07-02T22:00\":0,\"2025-07-02T22:15\":0,\"2025-07-02T22:30\":0,\"2025-07-02T22:45\":0,\"2025-07-02T23:00\":0,\"2025-07-02T23:15\":0,\"2025-07-02T23:30\":0,\"2025-07-02T23:45\":0},\"2025-07-03\":{\"2025-07-03T00:00\":0,\"2025-07-03T00:15\":0,\"2025-07-03T00:30\":0,\"2025-07-03T00:45\":0,\"2025-07-03T01:00\":0,\"2025-07-03T01:15\":0,\"2025-07-03T01:30\":0,\"2025-07-03T01:45\":0,\"2025-07-03T02:00\":0,\"2025-07-03T02:15\":0,\"2025-07-03T02:30\":0,\"2025-07-03T02:45\":0,\"2025-07-03T03:00\":0,\"2025-07-03T03:15\":0,\"2025-07-03T03:30\":0,\"2025-07-03T03:45\":1,\"2025-07-03T04:00\":15,\"2025-07-03T04:15\":37,\"2025-07-03T04:30\":66,\"2025-07-03T04:45\":98,\"2025-07-03T05:00\":133,\"2025-07-03T05:15\":169,\"2025-07-03T05:30\":207,\"2025-07-03T05:45\":248,\"2025-07-03T06:00\":291,\"2025-07-03T06:15\":335,\"2025-07-03T06:30\":380,\"2025-07-03T06:45\":425,\"2025-07-03T07:00\":469,\"2025-07-03T07:15\":512,\"2025-07-03T07:30\":555,\"2025-07-03T07:45\":596,\"2025-07-03T08:00\":634,\"2025-07-03T08:15\":672,\"2025-07-03T08:30\":707,\"2025-07-03T08:45\":740,\"2025-07-03T09:00\":770,\"2025-07-03T09:15\":797,\"2025-07-03T09:30\":821,\"2025-07-03T09:45\":843,\"2025-07-03T10:00\":860,\"2025-07-03T10:15\":874,\"2025-07-03T10:30\":883,\"2025-07-03T10:45\":884,\"2025-07-03T11:00\":879,\"2025-07-03T11:15\":868,\"2025-07-03T11:30\":854,\"2025-07-03T11:45\":840,\"2025-07-03T12:00\":824,\"2025-07-03T12:15\":807,\"2025-07-03T12:30\":787,\"2025-07-03T12:45\":766,\"2025-07-03T13:00\":744,\"2025-07-03T13:15\":720,\"2025-07-03T13:30\":690,\"2025-07-03T13:45\":654,\"2025-07-03T14:00\":613,\"2025-07-03T14:15\":568,\"2025-07-03T14:30\":522,\"2025-07-03T14:45\":477,\"2025-07-03T15:00\":429,\"2025-07-03T15:15\":382,\"2025-07-03T15:30\":340,\"2025-07-03T15:45\":304,\"2025-07-03T16:00\":276,\"2025-07-03T16:15\":249,\"2025-07-03T16:30\":223,\"2025-07-03T16:45\":195,\"2025-07-03T17:00\":169,\"2025-07-03T17:15\":143,\"2025-07-03T17:30\":115,\"2025-07-03T17:45\":87,\"2025-07-03T18:00\":58,\"2025-07-03T18:15\":34,\"2025-07-03T18:30\":16,\"2025-07-03T18:45\":2,\"2025-07-03T19:00\":0,\"2025-07-03T19:15\":0,\"2025-07-03T19:30\":0,\"2025-07-03T19:45\":0,\"2025-07-03T20:00\":0,\"2025-07-03T20:15\":0,\"2025-07-03T20:30\":0,\"2025-07-03T20:45\":0,\"2025-07-03T21:00\":0,\"2025-07-03T21:15\":0,\"2025-07-03T21:30\":0,\"2025-07-03T21:45\":0,\"2025-07-03T22:00\":0,\"2025-07-03T22:15\":0,\"2025-07-03T22:30\":0,\"2025-07-03T22:45\":0,\"2025-07-03T23:00\":0,\"2025-07-03T23:15\":0,\"2025-07-03T23:30\":0,\"2025-07-03T23:45\":0}},\"coordinates\":{\"lat\":42.626791899239045,\"lon\":13.844608819571869},\"azimuth\":0,\"tilt\":0,\"coefficients\":{\"params\":1,\"correc\":1,\"total\":1},\"lastUpdated\":\"2025-07-01T09:01:06.501Z\"}",
       "Address": ""
     },
