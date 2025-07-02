@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-07-02 17:58:51",
+    "last_update": "2025-07-02 18:01:02",
     "ac_power": 2228.5,
     "month_name": "JULY",
     "current_year": 2025,
-    "carbon": 7499,
-    "alberi": 10256,
-    "t_evita": 6317,
-    "total_dayenergy": 20255.400000000023,
-    "life_energy": 15793588,
+    "carbon": 7504,
+    "alberi": 10262,
+    "t_evita": 6321,
+    "total_dayenergy": [
+        "22583.40000000008"
+    ],
+    "life_energy": 15803720,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -19,7 +21,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "21.199999999982538",
@@ -32,7 +35,8 @@
         "3000.400000000081",
         "3037.999999999971",
         "2756.8999999998778",
-        "2766.3000000000466"
+        "2766.3000000000466",
+        "2133.4000000000524"
     ],
     "all_years_list": [
         "2023",
@@ -42,7 +46,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "2691024.9"
+        "2701157.2"
     ],
     "all_daymonth_list": [
         "01",
@@ -100,11 +104,11 @@
         "526423.7000000001",
         "607625.2000000001",
         "684489.0000000001",
-        "35512.29999999993"
+        "45644.60000000004"
     ],
     "temperature_2m": "33.7 \u00b0C",
     "relative_humidity_2m": "37 %",
-    "apparent_temperature": "34.7 \u00b0C",
+    "apparent_temperature": "34.6 \u00b0C",
     "is_day": 1,
     "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
@@ -112,9 +116,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "52 %",
-    "pressure_msl": "1015.5 hPa",
-    "surface_pressure": "999.6 hPa",
-    "wind_speed_10m": "9.8 km/h",
+    "cloud_cover": "54 %",
+    "pressure_msl": "1015.4 hPa",
+    "surface_pressure": "999.5 hPa",
+    "wind_speed_10m": "10.1 km/h",
     "wind_direction_10m": "186 \u00b0"
 }
