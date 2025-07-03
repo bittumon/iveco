@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-07-03 17:58:50",
+    "last_update": "2025-07-03 18:01:04",
     "ac_power": 153.2,
     "month_name": "JULY",
     "current_year": 2025,
-    "carbon": 7510,
-    "alberi": 10270,
-    "t_evita": 6326,
-    "total_dayenergy": 16240.60000000021,
-    "life_energy": 15815150,
+    "carbon": 7513,
+    "alberi": 10275,
+    "t_evita": 6329,
+    "total_dayenergy": [
+        "17162.60000000015"
+    ],
+    "life_energy": 15822905,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -19,7 +21,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "10.70000000006985",
@@ -32,7 +35,8 @@
         "2511.6000000001804",
         "3063.399999999965",
         "2961.8000000000466",
-        "1836.800000000076"
+        "1836.800000000076",
+        "766.4999999999709"
     ],
     "all_years_list": [
         "2023",
@@ -42,7 +46,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "2712587.0"
+        "2720341.9000000004"
     ],
     "all_daymonth_list": [
         "01",
@@ -102,11 +106,11 @@
         "526423.7000000001",
         "607625.2000000001",
         "684489.0000000001",
-        "57074.40000000005"
+        "64829.30000000005"
     ],
     "temperature_2m": "34.2 \u00b0C",
     "relative_humidity_2m": "35 %",
-    "apparent_temperature": "35.2 \u00b0C",
+    "apparent_temperature": "35.5 \u00b0C",
     "is_day": 1,
     "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
@@ -117,6 +121,6 @@
     "cloud_cover": "100 %",
     "pressure_msl": "1016.7 hPa",
     "surface_pressure": "1000.8 hPa",
-    "wind_speed_10m": "8.0 km/h",
-    "wind_direction_10m": "352 \u00b0"
+    "wind_speed_10m": "6.9 km/h",
+    "wind_direction_10m": "354 \u00b0"
 }
