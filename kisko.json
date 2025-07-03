@@ -227,12 +227,12 @@
           "12:15": 0,
           "12:20": 0,
           "12:25": 0,
-          "12:30": null,
-          "12:35": null,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
+          "12:30": 0,
+          "12:35": 0,
+          "12:40": 0,
+          "12:45": 0,
+          "12:50": 0,
+          "12:55": 0,
           "13:00": null,
           "13:05": null,
           "13:10": null,
@@ -955,12 +955,12 @@
           "12:25": 180.01,
           "12:30": 180.01,
           "12:35": 180.03,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 180.02,
+          "12:45": 179.99,
+          "12:50": 180.05,
+          "12:55": 180.03,
+          "13:00": 180.02,
+          "13:05": 180.01,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -1093,7 +1093,7 @@
           "23:55": null
         }
       },
-      "currentPower": "180.03"
+      "currentPower": "180.01"
     },
     "stationOverview": {
       "stationName": "Bennet - Castelletto Ticino",
@@ -1146,20 +1146,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 15744.02,
+      "co2ReductionByYear": 15786.74,
       "equivalentTreePlantingByYear": 22,
-      "standardCoalSavings": 13258.12,
+      "standardCoalSavings": 13294.09,
       "componentFlag": 0,
       "equivalentTreePlanting": 22,
-      "co2Reduction": 15744.01,
-      "standardCoalSavingsByYear": 13258.12
+      "co2Reduction": 15786.73,
+      "standardCoalSavingsByYear": 13294.1
     },
     "realKpi": {
-      "realTimePower": 180.03,
-      "cumulativeEnergy": 33145.29,
-      "monthEnergy": 4007.46,
-      "dailyEnergy": 736.3,
-      "yearEnergy": 33145.3
+      "realTimePower": 180.01,
+      "cumulativeEnergy": 33235.23,
+      "monthEnergy": 4097.4,
+      "dailyEnergy": 826.24,
+      "yearEnergy": 33235.24
     }
   },
   "Bennet Ciriè": {
@@ -1317,12 +1317,12 @@
           "12:20": 146.86,
           "12:25": 147.44,
           "12:30": 147.84,
-          "12:35": null,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
+          "12:35": 148.99,
+          "12:40": 149.9,
+          "12:45": 149.03,
+          "12:50": 149.43,
+          "12:55": 149.75,
+          "13:00": 151.45,
           "13:05": null,
           "13:10": null,
           "13:15": null,
@@ -1456,7 +1456,7 @@
           "23:55": null
         }
       },
-      "currentPower": "147.67"
+      "currentPower": "151.37"
     },
     "stationOverview": {
       "stationName": "Bennet_Ciriè",
@@ -1509,20 +1509,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 50958.95,
+      "co2ReductionByYear": 50994.37,
       "equivalentTreePlantingByYear": 70,
-      "standardCoalSavings": 42912.8,
+      "standardCoalSavings": 42942.63,
       "componentFlag": 0,
       "equivalentTreePlanting": 70,
-      "co2Reduction": 50958.95,
-      "standardCoalSavingsByYear": 42912.8
+      "co2Reduction": 50994.38,
+      "standardCoalSavingsByYear": 42942.63
     },
     "realKpi": {
-      "realTimePower": 147.67,
-      "cumulativeEnergy": 107282.01,
-      "monthEnergy": 2718.06,
-      "dailyEnergy": 491,
-      "yearEnergy": 107282
+      "realTimePower": 151.37,
+      "cumulativeEnergy": 107356.58,
+      "monthEnergy": 2792.63,
+      "dailyEnergy": 565.57,
+      "yearEnergy": 107356.57
     }
   },
   "Bennet Cornaredo": {
@@ -1680,12 +1680,12 @@
           "12:20": 192.67,
           "12:25": 193.02,
           "12:30": 193.38,
-          "12:35": null,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
+          "12:35": 193.83,
+          "12:40": 194.58,
+          "12:45": 193.89,
+          "12:50": 195,
+          "12:55": 194.6,
+          "13:00": 195.31,
           "13:05": null,
           "13:10": null,
           "13:15": null,
@@ -1819,7 +1819,7 @@
           "23:55": null
         }
       },
-      "currentPower": "193.36"
+      "currentPower": "195.19"
     },
     "stationOverview": {
       "stationName": " Bennet - Cornaredo",
@@ -1872,20 +1872,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 67973.89,
+      "co2ReductionByYear": 68020.1,
       "equivalentTreePlantingByYear": 93,
-      "standardCoalSavings": 60172.32,
+      "standardCoalSavings": 60211.24,
       "componentFlag": 0,
       "equivalentTreePlanting": 98,
-      "co2Reduction": 71454.63,
-      "standardCoalSavingsByYear": 57241.17
+      "co2Reduction": 71500.84,
+      "standardCoalSavingsByYear": 57280.09
     },
     "realKpi": {
-      "realTimePower": 193.36,
-      "cumulativeEnergy": 150430.8,
-      "monthEnergy": 3854.5,
-      "dailyEnergy": 706.93,
-      "yearEnergy": 143102.93
+      "realTimePower": 195.19,
+      "cumulativeEnergy": 150528.09,
+      "monthEnergy": 3951.79,
+      "dailyEnergy": 804.22,
+      "yearEnergy": 143200.22
     }
   },
   "Bennet Lentate sul Seveso": {
@@ -2769,12 +2769,12 @@
           "12:20": 247.87,
           "12:25": 249.17,
           "12:30": 250.15,
-          "12:35": null,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
+          "12:35": 250.45,
+          "12:40": 250.69,
+          "12:45": 251.43,
+          "12:50": 252.15,
+          "12:55": 253.09,
+          "13:00": 252.84,
           "13:05": null,
           "13:10": null,
           "13:15": null,
@@ -2908,7 +2908,7 @@
           "23:55": null
         }
       },
-      "currentPower": "250.11"
+      "currentPower": "253.09"
     },
     "stationOverview": {
       "stationName": "Bennet - Novi Ligure",
@@ -2961,20 +2961,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 120983.4,
+      "co2ReductionByYear": 121043.11,
       "equivalentTreePlantingByYear": 166,
-      "standardCoalSavings": 104411.41,
+      "standardCoalSavings": 104461.7,
       "componentFlag": 0,
       "equivalentTreePlanting": 170,
-      "co2Reduction": 123988.55,
-      "standardCoalSavingsByYear": 101880.76
+      "co2Reduction": 124048.26,
+      "standardCoalSavingsByYear": 101931.04
     },
     "realKpi": {
-      "realTimePower": 250.11,
-      "cumulativeEnergy": 261028.53,
-      "monthEnergy": 4939.01,
-      "dailyEnergy": 865.89,
-      "yearEnergy": 254701.89
+      "realTimePower": 253.09,
+      "cumulativeEnergy": 261154.24,
+      "monthEnergy": 5064.72,
+      "dailyEnergy": 991.6,
+      "yearEnergy": 254827.6
     }
   },
   "Bennet Olgiate Comasco": {
@@ -3133,12 +3133,12 @@
           "12:25": 60,
           "12:30": 60.01,
           "12:35": 60,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 60,
+          "12:45": 60,
+          "12:50": 60.01,
+          "12:55": 60.01,
+          "13:00": 60,
+          "13:05": 60,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -3271,7 +3271,7 @@
           "23:55": null
         }
       },
-      "currentPower": "60.01"
+      "currentPower": "60"
     },
     "stationOverview": {
       "stationName": "Benner - Olgiate Comasco",
@@ -3324,20 +3324,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 7650.02,
+      "co2ReductionByYear": 7664.27,
       "equivalentTreePlantingByYear": 11,
-      "standardCoalSavings": 6442.14,
+      "standardCoalSavings": 6454.14,
       "componentFlag": 0,
       "equivalentTreePlanting": 11,
-      "co2Reduction": 7650.04,
-      "standardCoalSavingsByYear": 6442.12
+      "co2Reduction": 7664.29,
+      "standardCoalSavingsByYear": 6454.12
     },
     "realKpi": {
-      "realTimePower": 60.01,
-      "cumulativeEnergy": 16105.35,
-      "monthEnergy": 1219.79,
-      "dailyEnergy": 232.41,
-      "yearEnergy": 16105.31
+      "realTimePower": 60,
+      "cumulativeEnergy": 16135.35,
+      "monthEnergy": 1249.79,
+      "dailyEnergy": 262.41,
+      "yearEnergy": 16135.31
     }
   },
   "Bennet San Martino in Strada": {
@@ -6695,12 +6695,12 @@
           "12:20": 641.17,
           "12:25": 635.01,
           "12:30": 635.41,
-          "12:35": null,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
+          "12:35": 638.05,
+          "12:40": 638.99,
+          "12:45": 642.78,
+          "12:50": 641.26,
+          "12:55": 646.61,
+          "13:00": 648.49,
           "13:05": null,
           "13:10": null,
           "13:15": null,
@@ -6834,7 +6834,7 @@
           "23:55": null
         }
       },
-      "currentPower": "636.81"
+      "currentPower": "649.89"
     },
     "stationOverview": {
       "stationName": "CMP PALERMO - POSTE ITALIANE",
@@ -6887,20 +6887,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 289064.73,
-      "equivalentTreePlantingByYear": 395,
-      "standardCoalSavings": 797803.89,
+      "co2ReductionByYear": 289217.18,
+      "equivalentTreePlantingByYear": 396,
+      "standardCoalSavings": 797932.27,
       "componentFlag": 0,
       "equivalentTreePlanting": 1295,
-      "co2Reduction": 947392.12,
-      "standardCoalSavingsByYear": 243422.93
+      "co2Reduction": 947544.57,
+      "standardCoalSavingsByYear": 243551.31
     },
     "realKpi": {
-      "realTimePower": 636.81,
-      "cumulativeEnergy": 1994509.72,
-      "monthEnergy": 13057.03,
-      "dailyEnergy": 2205.33,
-      "yearEnergy": 608557.33
+      "realTimePower": 649.89,
+      "cumulativeEnergy": 1994830.67,
+      "monthEnergy": 13377.98,
+      "dailyEnergy": 2526.28,
+      "yearEnergy": 608878.28
     }
   },
   "CNH Modena": {
@@ -7643,13 +7643,13 @@
           "12:20": 41.18,
           "12:25": 41.3,
           "12:30": 41.22,
-          "12:35": null,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:35": 57.19,
+          "12:40": 48.59,
+          "12:45": 44.47,
+          "12:50": 44.47,
+          "12:55": 44.42,
+          "13:00": 45.56,
+          "13:05": 41.49,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -7782,7 +7782,7 @@
           "23:55": null
         }
       },
-      "currentPower": "41.17"
+      "currentPower": "49.64"
     },
     "stationOverview": {
       "stationName": "Istituto Leonarda Vaccari",
@@ -7835,20 +7835,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 22198.16,
+      "co2ReductionByYear": 22209.35,
       "equivalentTreePlantingByYear": 31,
-      "standardCoalSavings": 58337.06,
+      "standardCoalSavings": 58346.48,
       "componentFlag": 0,
       "equivalentTreePlanting": 95,
-      "co2Reduction": 69275.25,
-      "standardCoalSavingsByYear": 18693.18
+      "co2Reduction": 69286.45,
+      "standardCoalSavingsByYear": 18702.61
     },
     "realKpi": {
-      "realTimePower": 41.17,
-      "cumulativeEnergy": 145842.64,
-      "monthEnergy": 1022.9,
-      "dailyEnergy": 171.16,
-      "yearEnergy": 46732.96
+      "realTimePower": 49.64,
+      "cumulativeEnergy": 145866.21,
+      "monthEnergy": 1046.47,
+      "dailyEnergy": 194.73,
+      "yearEnergy": 46756.53
     }
   },
   "Iveco": {
@@ -11429,12 +11429,12 @@
           "12:25": 230.77,
           "12:30": 223.79,
           "12:35": 151.78,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 250.11,
+          "12:45": 251.46,
+          "12:50": 239.81,
+          "12:55": 148.8,
+          "13:00": 109.95,
+          "13:05": 168.79,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -11567,7 +11567,7 @@
           "23:55": null
         }
       },
-      "currentPower": "151.75"
+      "currentPower": "168.77"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - BRESCIA",
@@ -11620,20 +11620,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 95901.57,
+      "co2ReductionByYear": 95947.07,
       "equivalentTreePlantingByYear": 132,
-      "standardCoalSavings": 358883.97,
+      "standardCoalSavings": 358922.29,
       "componentFlag": 0,
       "equivalentTreePlanting": 583,
-      "co2Reduction": 426174.71,
-      "standardCoalSavingsByYear": 80759.22
+      "co2Reduction": 426220.22,
+      "standardCoalSavingsByYear": 80797.54
     },
     "realKpi": {
-      "realTimePower": 151.75,
-      "cumulativeEnergy": 897209.92,
-      "monthEnergy": 4509.25,
-      "dailyEnergy": 595.04,
-      "yearEnergy": 201898.04
+      "realTimePower": 168.77,
+      "cumulativeEnergy": 897305.72,
+      "monthEnergy": 4605.05,
+      "dailyEnergy": 690.84,
+      "yearEnergy": 201993.84
     }
   },
   "Poste Italiane - Laives": {
@@ -12228,13 +12228,13 @@
           "12:20": 54.99,
           "12:25": 55.47,
           "12:30": 55.57,
-          "12:35": null,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:35": 55.98,
+          "12:40": 56.27,
+          "12:45": 56.57,
+          "12:50": 56.56,
+          "12:55": 56.74,
+          "13:00": 56.54,
+          "13:05": 56.93,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -12367,7 +12367,7 @@
           "23:55": null
         }
       },
-      "currentPower": "55.51"
+      "currentPower": "56.5"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - LODI",
@@ -12420,20 +12420,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 21759.94,
+      "co2ReductionByYear": 21773.32,
       "equivalentTreePlantingByYear": 30,
-      "standardCoalSavings": 54005.09,
+      "standardCoalSavings": 54016.36,
       "componentFlag": 0,
       "equivalentTreePlanting": 88,
-      "co2Reduction": 64131.04,
-      "standardCoalSavingsByYear": 18324.16
+      "co2Reduction": 64144.42,
+      "standardCoalSavingsByYear": 18335.43
     },
     "realKpi": {
-      "realTimePower": 55.51,
-      "cumulativeEnergy": 135012.72,
-      "monthEnergy": 881.71,
-      "dailyEnergy": 175.6,
-      "yearEnergy": 45810.4
+      "realTimePower": 56.5,
+      "cumulativeEnergy": 135040.89,
+      "monthEnergy": 909.88,
+      "dailyEnergy": 203.77,
+      "yearEnergy": 45838.57
     }
   },
   "Poste Italiane - Mantova": {
@@ -13318,12 +13318,12 @@
           "12:25": 16.88,
           "12:30": 14.36,
           "12:35": 17.21,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 18.43,
+          "12:45": 14.15,
+          "12:50": 18.18,
+          "12:55": 18.84,
+          "13:00": 18.11,
+          "13:05": 18.12,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -13456,7 +13456,7 @@
           "23:55": null
         }
       },
-      "currentPower": "17.23"
+      "currentPower": "18.03"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - MARTELLAGO",
@@ -13509,20 +13509,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 7362.38,
+      "co2ReductionByYear": 7366.56,
       "equivalentTreePlantingByYear": 11,
-      "standardCoalSavings": 26315.85,
+      "standardCoalSavings": 26319.37,
       "componentFlag": 0,
       "equivalentTreePlanting": 43,
-      "co2Reduction": 31250.07,
-      "standardCoalSavingsByYear": 6199.9
+      "co2Reduction": 31254.25,
+      "standardCoalSavingsByYear": 6203.42
     },
     "realKpi": {
-      "realTimePower": 17.23,
-      "cumulativeEnergy": 65789.62,
-      "monthEnergy": 351.98,
-      "dailyEnergy": 63.04,
-      "yearEnergy": 15499.74
+      "realTimePower": 18.03,
+      "cumulativeEnergy": 65798.43,
+      "monthEnergy": 360.79,
+      "dailyEnergy": 71.85,
+      "yearEnergy": 15508.55
     }
   },
   "Poste Italiane - Mereto di Tomba": {
@@ -14044,12 +14044,12 @@
           "12:25": 206.13,
           "12:30": 253.65,
           "12:35": 250.57,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 249.54,
+          "12:45": 249.81,
+          "12:50": 249.19,
+          "12:55": 248.85,
+          "13:00": 251.03,
+          "13:05": 249.92,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -14182,7 +14182,7 @@
           "23:55": null
         }
       },
-      "currentPower": "249.95"
+      "currentPower": "250.29"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - POLIFUNZIONALE MESTRE",
@@ -14235,20 +14235,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 106366.78,
+      "co2ReductionByYear": 106426.05,
       "equivalentTreePlantingByYear": 146,
-      "standardCoalSavings": 406745.26,
+      "standardCoalSavings": 406795.17,
       "componentFlag": 0,
       "equivalentTreePlanting": 660,
-      "co2Reduction": 483010,
-      "standardCoalSavingsByYear": 89572.03
+      "co2Reduction": 483069.27,
+      "standardCoalSavingsByYear": 89621.94
     },
     "realKpi": {
-      "realTimePower": 249.95,
-      "cumulativeEnergy": 1016863.15,
-      "monthEnergy": 4766.33,
-      "dailyEnergy": 830.07,
-      "yearEnergy": 223930.07
+      "realTimePower": 250.29,
+      "cumulativeEnergy": 1016987.93,
+      "monthEnergy": 4891.11,
+      "dailyEnergy": 954.85,
+      "yearEnergy": 224054.85
     }
   },
   "Poste Italiane - Mira Oriago": {
@@ -14407,12 +14407,12 @@
           "12:25": 16.76,
           "12:30": 16.97,
           "12:35": 16.92,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 16.88,
+          "12:45": 16.83,
+          "12:50": 16.86,
+          "12:55": 16.91,
+          "13:00": 17.05,
+          "13:05": 16.67,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -14545,7 +14545,7 @@
           "23:55": null
         }
       },
-      "currentPower": "16.92"
+      "currentPower": "16.59"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - ORIAGO",
@@ -14598,20 +14598,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 6593.08,
+      "co2ReductionByYear": 6597.09,
       "equivalentTreePlantingByYear": 10,
-      "standardCoalSavings": 24032.22,
+      "standardCoalSavings": 24035.6,
       "componentFlag": 0,
       "equivalentTreePlanting": 39,
-      "co2Reduction": 28538.26,
-      "standardCoalSavingsByYear": 5552.07
+      "co2Reduction": 28542.28,
+      "standardCoalSavingsByYear": 5555.45
     },
     "realKpi": {
-      "realTimePower": 16.92,
-      "cumulativeEnergy": 60080.55,
-      "monthEnergy": 310.4,
-      "dailyEnergy": 62.67,
-      "yearEnergy": 13880.17
+      "realTimePower": 16.59,
+      "cumulativeEnergy": 60089,
+      "monthEnergy": 318.85,
+      "dailyEnergy": 71.12,
+      "yearEnergy": 13888.62
     }
   },
   "Poste Italiane - Osoppo": {
@@ -16948,12 +16948,12 @@
           "12:25": 6.89,
           "12:30": 7.19,
           "12:35": 7.6,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 7.75,
+          "12:45": 5.85,
+          "12:50": 6.57,
+          "12:55": 5.41,
+          "13:00": 4.12,
+          "13:05": 6.1,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -17086,7 +17086,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.62"
+      "currentPower": "6.1"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - SANTA MARIA SALA",
@@ -17139,20 +17139,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2850.85,
+      "co2ReductionByYear": 2852.27,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 10069.24,
+      "standardCoalSavings": 10070.44,
       "componentFlag": 0,
       "equivalentTreePlanting": 17,
-      "co2Reduction": 11957.22,
-      "standardCoalSavingsByYear": 2400.72
+      "co2Reduction": 11958.64,
+      "standardCoalSavingsByYear": 2401.91
     },
     "realKpi": {
-      "realTimePower": 7.62,
-      "cumulativeEnergy": 25173.1,
-      "monthEnergy": 142.17,
-      "dailyEnergy": 25.65,
-      "yearEnergy": 6001.79
+      "realTimePower": 6.1,
+      "cumulativeEnergy": 25176.09,
+      "monthEnergy": 145.16,
+      "dailyEnergy": 28.64,
+      "yearEnergy": 6004.78
     }
   },
   "Poste Italiane - Sequals": {
@@ -22829,13 +22829,13 @@
           "12:20": 6.78,
           "12:25": 6.74,
           "12:30": 6.75,
-          "12:35": null,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:35": 6.79,
+          "12:40": 6.75,
+          "12:45": 6.74,
+          "12:50": 6.76,
+          "12:55": 6.78,
+          "13:00": 6.78,
+          "13:05": 6.76,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -22968,7 +22968,7 @@
           "23:55": null
         }
       },
-      "currentPower": "6.81"
+      "currentPower": "6.8"
     },
     "stationOverview": {
       "stationName": "CASTROFILIPPO - POSTE ITALIANE",
@@ -23021,20 +23021,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3209.24,
+      "co2ReductionByYear": 3210.85,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 7566.74,
+      "standardCoalSavings": 7568.1,
       "componentFlag": 0,
       "equivalentTreePlanting": 13,
-      "co2Reduction": 8985.51,
-      "standardCoalSavingsByYear": 2702.52
+      "co2Reduction": 8987.12,
+      "standardCoalSavingsByYear": 2703.87
     },
     "realKpi": {
-      "realTimePower": 6.81,
-      "cumulativeEnergy": 18916.86,
-      "monthEnergy": 133.87,
-      "dailyEnergy": 23.51,
-      "yearEnergy": 6756.29
+      "realTimePower": 6.8,
+      "cumulativeEnergy": 18920.25,
+      "monthEnergy": 137.26,
+      "dailyEnergy": 26.9,
+      "yearEnergy": 6759.68
     }
   },
   "Poste Italiane Contessa Entellina": {
@@ -25370,13 +25370,13 @@
           "12:20": 12.98,
           "12:25": 13.25,
           "12:30": 11.63,
-          "12:35": null,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:35": 2.74,
+          "12:40": 3.74,
+          "12:45": 14.6,
+          "12:50": 3.12,
+          "12:55": 3.25,
+          "13:00": 5.14,
+          "13:05": 2.59,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -25509,7 +25509,7 @@
           "23:55": null
         }
       },
-      "currentPower": "12.14"
+      "currentPower": "6.6"
     },
     "stationOverview": {
       "stationName": "GIBELLINA - POSTE ITALIANE",
@@ -25562,20 +25562,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 5726.92,
+      "co2ReductionByYear": 5728.22,
       "equivalentTreePlantingByYear": 8,
-      "standardCoalSavings": 13531.26,
+      "standardCoalSavings": 13532.36,
       "componentFlag": 0,
       "equivalentTreePlanting": 22,
-      "co2Reduction": 16068.37,
-      "standardCoalSavingsByYear": 4822.67
+      "co2Reduction": 16069.67,
+      "standardCoalSavingsByYear": 4823.76
     },
     "realKpi": {
-      "realTimePower": 12.14,
-      "cumulativeEnergy": 33828.15,
-      "monthEnergy": 248.53,
-      "dailyEnergy": 44.67,
-      "yearEnergy": 12056.67
+      "realTimePower": 6.6,
+      "cumulativeEnergy": 33830.89,
+      "monthEnergy": 251.27,
+      "dailyEnergy": 47.41,
+      "yearEnergy": 12059.41
     }
   },
   "Poste Italiane Langhirano": {
@@ -26460,12 +26460,12 @@
           "12:25": 12.36,
           "12:30": 12.38,
           "12:35": 12.39,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 12.41,
+          "12:45": 12.5,
+          "12:50": 12.51,
+          "12:55": 12.55,
+          "13:00": 12.58,
+          "13:05": 12.54,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -26598,7 +26598,7 @@
           "23:55": null
         }
       },
-      "currentPower": "12.39"
+      "currentPower": "12.55"
     },
     "stationOverview": {
       "stationName": "LINGUAGLOSSA - POSTE ITALIANE",
@@ -26651,20 +26651,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 5129.71,
+      "co2ReductionByYear": 5132.69,
       "equivalentTreePlantingByYear": 8,
-      "standardCoalSavings": 12567.17,
+      "standardCoalSavings": 12569.67,
       "componentFlag": 0,
       "equivalentTreePlanting": 21,
-      "co2Reduction": 14923.51,
-      "standardCoalSavingsByYear": 4319.76
+      "co2Reduction": 14926.49,
+      "standardCoalSavingsByYear": 4322.26
     },
     "realKpi": {
-      "realTimePower": 12.39,
-      "cumulativeEnergy": 31417.92,
-      "monthEnergy": 252.84,
-      "dailyEnergy": 46.9,
-      "yearEnergy": 10799.4
+      "realTimePower": 12.55,
+      "cumulativeEnergy": 31424.18,
+      "monthEnergy": 259.1,
+      "dailyEnergy": 53.16,
+      "yearEnergy": 10805.66
     }
   },
   "Poste Italiane Lucca Sicula": {
@@ -28638,12 +28638,12 @@
           "12:25": 7.49,
           "12:30": 3.29,
           "12:35": 6.12,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 7.59,
+          "12:45": 7.6,
+          "12:50": 3.31,
+          "12:55": 8.36,
+          "13:00": 7.97,
+          "13:05": 7.99,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -28776,7 +28776,7 @@
           "23:55": null
         }
       },
-      "currentPower": "3.9"
+      "currentPower": "7.97"
     },
     "stationOverview": {
       "stationName": "MISTRETTA - POSTE ITALIANE",
@@ -28829,20 +28829,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 2981.12,
+      "co2ReductionByYear": 2982.67,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 5535.48,
+      "standardCoalSavings": 5536.78,
       "componentFlag": 0,
       "equivalentTreePlanting": 9,
-      "co2Reduction": 6573.38,
-      "standardCoalSavingsByYear": 2510.42
+      "co2Reduction": 6574.93,
+      "standardCoalSavingsByYear": 2511.72
     },
     "realKpi": {
-      "realTimePower": 3.9,
-      "cumulativeEnergy": 13838.7,
-      "monthEnergy": 139.02,
-      "dailyEnergy": 25.54,
-      "yearEnergy": 6276.04
+      "realTimePower": 7.97,
+      "cumulativeEnergy": 13841.96,
+      "monthEnergy": 142.28,
+      "dailyEnergy": 28.8,
+      "yearEnergy": 6279.3
     }
   },
   "Poste Italiane Montevago": {
@@ -30453,12 +30453,12 @@
           "12:25": 21.9,
           "12:30": 21.58,
           "12:35": 22.23,
-          "12:40": null,
+          "12:40": 21.9,
           "12:45": null,
           "12:50": null,
           "12:55": null,
           "13:00": null,
-          "13:05": null,
+          "13:05": 21.46,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -30591,7 +30591,7 @@
           "23:55": null
         }
       },
-      "currentPower": "21.39"
+      "currentPower": "22"
     },
     "stationOverview": {
       "stationName": "PEDARA - POSTE ITALIANE",
@@ -30644,20 +30644,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 10113.86,
+      "co2ReductionByYear": 10115.58,
       "equivalentTreePlantingByYear": 14,
-      "standardCoalSavings": 20633.98,
+      "standardCoalSavings": 20635.43,
       "componentFlag": 0,
       "equivalentTreePlanting": 34,
-      "co2Reduction": 24502.85,
-      "standardCoalSavingsByYear": 8516.94
+      "co2Reduction": 24504.57,
+      "standardCoalSavingsByYear": 8518.38
     },
     "realKpi": {
-      "realTimePower": 21.39,
-      "cumulativeEnergy": 51584.95,
-      "monthEnergy": 448.64,
-      "dailyEnergy": 88.14,
-      "yearEnergy": 21292.34
+      "realTimePower": 22,
+      "cumulativeEnergy": 51588.57,
+      "monthEnergy": 452.26,
+      "dailyEnergy": 91.76,
+      "yearEnergy": 21295.96
     }
   },
   "Poste Italiane Petrosino": {
@@ -31542,12 +31542,12 @@
           "12:25": 37.35,
           "12:30": 37.66,
           "12:35": 37.53,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 37.52,
+          "12:45": 37.78,
+          "12:50": 37.51,
+          "12:55": 37.59,
+          "13:00": 38.03,
+          "13:05": 37.86,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -31680,7 +31680,7 @@
           "23:55": null
         }
       },
-      "currentPower": "37.75"
+      "currentPower": "38.01"
     },
     "stationOverview": {
       "stationName": "PRIOLO GARGALLO - POSTE ITALIANE",
@@ -31733,20 +31733,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 18072.73,
+      "co2ReductionByYear": 18081.68,
       "equivalentTreePlantingByYear": 25,
-      "standardCoalSavings": 39581.54,
+      "standardCoalSavings": 39589.07,
       "componentFlag": 0,
       "equivalentTreePlanting": 65,
-      "co2Reduction": 47003.07,
-      "standardCoalSavingsByYear": 15219.14
+      "co2Reduction": 47012.02,
+      "standardCoalSavingsByYear": 15226.68
     },
     "realKpi": {
-      "realTimePower": 37.75,
-      "cumulativeEnergy": 98953.84,
-      "monthEnergy": 782.89,
-      "dailyEnergy": 142.26,
-      "yearEnergy": 38047.86
+      "realTimePower": 38.01,
+      "cumulativeEnergy": 98972.67,
+      "monthEnergy": 801.72,
+      "dailyEnergy": 161.09,
+      "yearEnergy": 38066.69
     }
   },
   "Poste Italiane Raffadali": {
@@ -31904,13 +31904,13 @@
           "12:20": 16.81,
           "12:25": 16.82,
           "12:30": 17.02,
-          "12:35": null,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:35": 17.06,
+          "12:40": 17.18,
+          "12:45": 17.25,
+          "12:50": 17.19,
+          "12:55": 17.2,
+          "13:00": 17,
+          "13:05": 17.1,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -32043,7 +32043,7 @@
           "23:55": null
         }
       },
-      "currentPower": "17"
+      "currentPower": "17.01"
     },
     "stationOverview": {
       "stationName": "RAFFADALI - POSTE ITALIANE",
@@ -32096,20 +32096,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 7815.18,
+      "co2ReductionByYear": 7819.26,
       "equivalentTreePlantingByYear": 11,
-      "standardCoalSavings": 17751.44,
+      "standardCoalSavings": 17754.87,
       "componentFlag": 0,
       "equivalentTreePlanting": 29,
-      "co2Reduction": 21079.84,
-      "standardCoalSavingsByYear": 6581.2
+      "co2Reduction": 21083.91,
+      "standardCoalSavingsByYear": 6584.64
     },
     "realKpi": {
-      "realTimePower": 17,
-      "cumulativeEnergy": 44378.6,
-      "monthEnergy": 339.84,
-      "dailyEnergy": 56.21,
-      "yearEnergy": 16453.01
+      "realTimePower": 17.01,
+      "cumulativeEnergy": 44387.18,
+      "monthEnergy": 348.42,
+      "dailyEnergy": 64.79,
+      "yearEnergy": 16461.59
     }
   },
   "Poste Italiane Ramacca": {
@@ -32267,13 +32267,13 @@
           "12:20": 27.1,
           "12:25": 27.13,
           "12:30": 27.2,
-          "12:35": null,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:35": 27.44,
+          "12:40": 27.34,
+          "12:45": 27.32,
+          "12:50": 27.55,
+          "12:55": 27.57,
+          "13:00": 27.65,
+          "13:05": 27.68,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -32406,7 +32406,7 @@
           "23:55": null
         }
       },
-      "currentPower": "27.13"
+      "currentPower": "27.69"
     },
     "stationOverview": {
       "stationName": "RAMACCA - POSTE ITALIANE",
@@ -32459,20 +32459,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 11238.87,
+      "co2ReductionByYear": 11246.48,
       "equivalentTreePlantingByYear": 16,
-      "standardCoalSavings": 25302.73,
+      "standardCoalSavings": 25309.14,
       "componentFlag": 0,
       "equivalentTreePlanting": 42,
-      "co2Reduction": 30046.99,
-      "standardCoalSavingsByYear": 9464.31
+      "co2Reduction": 30054.61,
+      "standardCoalSavingsByYear": 9470.72
     },
     "realKpi": {
-      "realTimePower": 27.13,
-      "cumulativeEnergy": 63256.83,
-      "monthEnergy": 529.83,
-      "dailyEnergy": 94.47,
-      "yearEnergy": 23660.77
+      "realTimePower": 27.69,
+      "cumulativeEnergy": 63272.86,
+      "monthEnergy": 545.86,
+      "dailyEnergy": 110.5,
+      "yearEnergy": 23676.8
     }
   },
   "Poste Italiane Randazzo": {
@@ -32631,12 +32631,12 @@
           "12:25": 12.24,
           "12:30": 12.24,
           "12:35": 12.23,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 11.92,
+          "12:45": 12.29,
+          "12:50": 12.3,
+          "12:55": 12.35,
+          "13:00": 12.29,
+          "13:05": 12.24,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -32769,7 +32769,7 @@
           "23:55": null
         }
       },
-      "currentPower": "12.23"
+      "currentPower": "12.24"
     },
     "stationOverview": {
       "stationName": "RANDAZZO - POSTE ITALIANE",
@@ -32822,20 +32822,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3224.06,
+      "co2ReductionByYear": 3226.89,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 10102.84,
+      "standardCoalSavings": 10105.22,
       "componentFlag": 0,
       "equivalentTreePlanting": 17,
-      "co2Reduction": 11997.12,
-      "standardCoalSavingsByYear": 2715
+      "co2Reduction": 11999.95,
+      "standardCoalSavingsByYear": 2717.38
     },
     "realKpi": {
-      "realTimePower": 12.23,
-      "cumulativeEnergy": 25257.1,
-      "monthEnergy": 219.65,
-      "dailyEnergy": 46.48,
-      "yearEnergy": 6787.49
+      "realTimePower": 12.24,
+      "cumulativeEnergy": 25263.06,
+      "monthEnergy": 225.61,
+      "dailyEnergy": 52.44,
+      "yearEnergy": 6793.45
     }
   },
   "Poste Italiane Resuttano": {
@@ -33357,12 +33357,12 @@
           "12:25": 42.96,
           "12:30": 42.89,
           "12:35": 42.81,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 42.76,
+          "12:45": 43.18,
+          "12:50": 43.36,
+          "12:55": 43.49,
+          "13:00": 43.72,
+          "13:05": 43.57,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -33495,7 +33495,7 @@
           "23:55": null
         }
       },
-      "currentPower": "42.88"
+      "currentPower": "43.74"
     },
     "stationOverview": {
       "stationName": "RIESI - POSTE ITALIANE",
@@ -33548,20 +33548,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 19478.19,
+      "co2ReductionByYear": 19488.44,
       "equivalentTreePlantingByYear": 27,
-      "standardCoalSavings": 44424.87,
+      "standardCoalSavings": 44433.5,
       "componentFlag": 0,
       "equivalentTreePlanting": 73,
-      "co2Reduction": 52754.53,
-      "standardCoalSavingsByYear": 16402.69
+      "co2Reduction": 52764.78,
+      "standardCoalSavingsByYear": 16411.32
     },
     "realKpi": {
-      "realTimePower": 42.88,
-      "cumulativeEnergy": 111062.17,
-      "monthEnergy": 823.14,
-      "dailyEnergy": 152.12,
-      "yearEnergy": 41006.72
+      "realTimePower": 43.74,
+      "cumulativeEnergy": 111083.75,
+      "monthEnergy": 844.72,
+      "dailyEnergy": 173.7,
+      "yearEnergy": 41028.3
     }
   },
   "Poste Italiane Roccamena": {
@@ -37350,12 +37350,12 @@
           "12:25": 24.72,
           "12:30": 24.49,
           "12:35": 24.15,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 24.4,
+          "12:45": 24.48,
+          "12:50": 24.59,
+          "12:55": 24.78,
+          "13:00": 24.66,
+          "13:05": 24.17,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -37488,7 +37488,7 @@
           "23:55": null
         }
       },
-      "currentPower": "24.43"
+      "currentPower": "24.66"
     },
     "stationOverview": {
       "stationName": "SANTA  AGATA LI BATTIATI - POSTE ITALIANE",
@@ -37541,20 +37541,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 7402.88,
+      "co2ReductionByYear": 7408.68,
       "equivalentTreePlantingByYear": 11,
-      "standardCoalSavings": 14725.26,
+      "standardCoalSavings": 14730.16,
       "componentFlag": 0,
       "equivalentTreePlanting": 24,
-      "co2Reduction": 17486.25,
-      "standardCoalSavingsByYear": 6234
+      "co2Reduction": 17492.06,
+      "standardCoalSavingsByYear": 6238.89
     },
     "realKpi": {
-      "realTimePower": 24.43,
-      "cumulativeEnergy": 36813.16,
-      "monthEnergy": 481.48,
-      "dailyEnergy": 88.4,
-      "yearEnergy": 15585
+      "realTimePower": 24.66,
+      "cumulativeEnergy": 36825.39,
+      "monthEnergy": 493.71,
+      "dailyEnergy": 100.63,
+      "yearEnergy": 15597.23
     }
   },
   "Poste Italiane Santa Lucia del Mela": {
@@ -38439,12 +38439,12 @@
           "12:25": 21.34,
           "12:30": 19.8,
           "12:35": 6.01,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 19.81,
+          "12:45": 15.36,
+          "12:50": 21.5,
+          "12:55": 21.06,
+          "13:00": 20.97,
+          "13:05": 21.17,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -38577,7 +38577,7 @@
           "23:55": null
         }
       },
-      "currentPower": "6.13"
+      "currentPower": "21.07"
     },
     "stationOverview": {
       "stationName": "SERRADIFALCO - POSTE ITALIANE",
@@ -38630,20 +38630,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 8359.5,
+      "co2ReductionByYear": 8363.67,
       "equivalentTreePlantingByYear": 12,
-      "standardCoalSavings": 18730.06,
+      "standardCoalSavings": 18733.56,
       "componentFlag": 0,
       "equivalentTreePlanting": 31,
-      "co2Reduction": 22241.94,
-      "standardCoalSavingsByYear": 7039.58
+      "co2Reduction": 22246.11,
+      "standardCoalSavingsByYear": 7043.09
     },
     "realKpi": {
-      "realTimePower": 6.13,
-      "cumulativeEnergy": 46825.14,
-      "monthEnergy": 327.01,
-      "dailyEnergy": 54.15,
-      "yearEnergy": 17598.95
+      "realTimePower": 21.07,
+      "cumulativeEnergy": 46833.91,
+      "monthEnergy": 335.78,
+      "dailyEnergy": 62.92,
+      "yearEnergy": 17607.72
     }
   },
   "Poste Italiane Sommatino": {
@@ -40254,12 +40254,12 @@
           "12:25": 2.38,
           "12:30": 2.44,
           "12:35": 10.56,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 2.21,
+          "12:45": 2.49,
+          "12:50": 10.59,
+          "12:55": 6.73,
+          "13:00": 9.86,
+          "13:05": 2.29,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -40392,7 +40392,7 @@
           "23:55": null
         }
       },
-      "currentPower": "10.56"
+      "currentPower": "2.29"
     },
     "stationOverview": {
       "stationName": "VALLEDOLMO - POSTE ITALIANE",
@@ -40445,20 +40445,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3976,
+      "co2ReductionByYear": 3977.41,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 8297.01,
+      "standardCoalSavings": 8298.2,
       "componentFlag": 0,
       "equivalentTreePlanting": 14,
-      "co2Reduction": 9852.7,
-      "standardCoalSavingsByYear": 3348.21
+      "co2Reduction": 9854.11,
+      "standardCoalSavingsByYear": 3349.4
     },
     "realKpi": {
-      "realTimePower": 10.56,
-      "cumulativeEnergy": 20742.52,
-      "monthEnergy": 161.09,
-      "dailyEnergy": 24.65,
-      "yearEnergy": 8370.52
+      "realTimePower": 2.29,
+      "cumulativeEnergy": 20745.49,
+      "monthEnergy": 164.06,
+      "dailyEnergy": 27.62,
+      "yearEnergy": 8373.49
     }
   },
   "Poste Italiane Villalba": {
@@ -41705,12 +41705,12 @@
           "12:20": 14.53,
           "12:25": 14.61,
           "12:30": 14.61,
-          "12:35": null,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
+          "12:35": 14.62,
+          "12:40": 14.65,
+          "12:45": 14.73,
+          "12:50": 14.77,
+          "12:55": 14.74,
+          "13:00": 14.74,
           "13:05": null,
           "13:10": null,
           "13:15": null,
@@ -41844,7 +41844,7 @@
           "23:55": null
         }
       },
-      "currentPower": "14.6"
+      "currentPower": "14.74"
     },
     "stationOverview": {
       "stationName": "ZAFFERANA ETNEA",
@@ -41897,20 +41897,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 4758.33,
+      "co2ReductionByYear": 4761.82,
       "equivalentTreePlantingByYear": 7,
-      "standardCoalSavings": 7191.76,
+      "standardCoalSavings": 7194.7,
       "componentFlag": 0,
       "equivalentTreePlanting": 12,
-      "co2Reduction": 8540.22,
-      "standardCoalSavingsByYear": 4007.02
+      "co2Reduction": 8543.71,
+      "standardCoalSavingsByYear": 4009.95
     },
     "realKpi": {
-      "realTimePower": 14.6,
-      "cumulativeEnergy": 17979.41,
-      "monthEnergy": 248.45,
-      "dailyEnergy": 49.04,
-      "yearEnergy": 10017.54
+      "realTimePower": 14.74,
+      "cumulativeEnergy": 17986.75,
+      "monthEnergy": 255.79,
+      "dailyEnergy": 56.38,
+      "yearEnergy": 10024.88
     }
   },
   "POSTE SETTIMO MILANESE": {
@@ -42432,12 +42432,12 @@
           "12:25": 452.18,
           "12:30": 452.68,
           "12:35": 451.16,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 455.88,
+          "12:45": 454,
+          "12:50": 458.57,
+          "12:55": 456.32,
+          "13:00": 457.63,
+          "13:05": 462.13,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -42570,7 +42570,7 @@
           "23:55": null
         }
       },
-      "currentPower": "451.32"
+      "currentPower": "462.26"
     },
     "stationOverview": {
       "stationName": " Postel MELZO",
@@ -42623,20 +42623,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 198065.03,
+      "co2ReductionByYear": 198173.32,
       "equivalentTreePlantingByYear": 271,
-      "standardCoalSavings": 508676.61,
+      "standardCoalSavings": 508767.8,
       "componentFlag": 0,
       "equivalentTreePlanting": 826,
-      "co2Reduction": 604053.47,
-      "standardCoalSavingsByYear": 166791.6
+      "co2Reduction": 604161.77,
+      "standardCoalSavingsByYear": 166882.8
     },
     "realKpi": {
-      "realTimePower": 451.32,
-      "cumulativeEnergy": 1271691.52,
-      "monthEnergy": 9801.36,
-      "dailyEnergy": 1623,
-      "yearEnergy": 416979
+      "realTimePower": 462.26,
+      "cumulativeEnergy": 1271919.51,
+      "monthEnergy": 10029.35,
+      "dailyEnergy": 1850.99,
+      "yearEnergy": 417206.99
     }
   },
   "PRATICO ANTONIO": {
@@ -43158,12 +43158,12 @@
           "12:25": 18.41,
           "12:30": 18.49,
           "12:35": 18.61,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 18.7,
+          "12:45": 18.73,
+          "12:50": 18.74,
+          "12:55": 18.7,
+          "13:00": 18.75,
+          "13:05": 18.57,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -43296,7 +43296,7 @@
           "23:55": null
         }
       },
-      "currentPower": "18.49"
+      "currentPower": "18.75"
     },
     "stationOverview": {
       "stationName": "ROCCOPIRRI - POSTE ITALIANE",
@@ -43349,20 +43349,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 9295.58,
+      "co2ReductionByYear": 9300.01,
       "equivalentTreePlantingByYear": 13,
-      "standardCoalSavings": 20809.63,
+      "standardCoalSavings": 20813.36,
       "componentFlag": 0,
       "equivalentTreePlanting": 34,
-      "co2Reduction": 24711.44,
-      "standardCoalSavingsByYear": 7827.86
+      "co2Reduction": 24715.86,
+      "standardCoalSavingsByYear": 7831.58
     },
     "realKpi": {
-      "realTimePower": 18.49,
-      "cumulativeEnergy": 52024.08,
-      "monthEnergy": 397.14,
-      "dailyEnergy": 70.25,
-      "yearEnergy": 19569.65
+      "realTimePower": 18.75,
+      "cumulativeEnergy": 52033.39,
+      "monthEnergy": 406.45,
+      "dailyEnergy": 79.56,
+      "yearEnergy": 19578.96
     }
   },
   "Rossi Giants": {
@@ -44906,12 +44906,12 @@
           "12:25": 230.83,
           "12:30": 232.53,
           "12:35": 233.75,
-          "12:40": null,
-          "12:45": null,
-          "12:50": null,
-          "12:55": null,
-          "13:00": null,
-          "13:05": null,
+          "12:40": 235.87,
+          "12:45": 233.56,
+          "12:50": 235.73,
+          "12:55": 236.86,
+          "13:00": 237.18,
+          "13:05": 237.18,
           "13:10": null,
           "13:15": null,
           "13:20": null,
@@ -45044,7 +45044,7 @@
           "23:55": null
         }
       },
-      "currentPower": "233.32"
+      "currentPower": "237.56"
     },
     "stationOverview": {
       "stationName": "Verwerkaf",
@@ -45097,20 +45097,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 100349.82,
+      "co2ReductionByYear": 100405.75,
       "equivalentTreePlantingByYear": 138,
-      "standardCoalSavings": 598877.68,
+      "standardCoalSavings": 598924.78,
       "componentFlag": 0,
       "equivalentTreePlanting": 972,
-      "co2Reduction": 711167.24,
-      "standardCoalSavingsByYear": 84505.11
+      "co2Reduction": 711223.17,
+      "standardCoalSavingsByYear": 84552.21
     },
     "realKpi": {
-      "realTimePower": 233.32,
-      "cumulativeEnergy": 1497194.19,
-      "monthEnergy": 4726.15,
-      "dailyEnergy": 855.78,
-      "yearEnergy": 211262.78
+      "realTimePower": 237.56,
+      "cumulativeEnergy": 1497311.94,
+      "monthEnergy": 4843.9,
+      "dailyEnergy": 973.53,
+      "yearEnergy": 211380.53
     }
   },
   "Gelco": {
