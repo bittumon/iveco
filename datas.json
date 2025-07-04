@@ -1,26 +1,30 @@
 {
-    "last_update": "2025-07-04 11:58:50",
+    "last_update": "2025-07-04 12:01:05",
     "ac_power": 2436.5,
     "month_name": "JULY",
     "current_year": 2025,
     "carbon": 7515,
     "alberi": 10277,
     "t_evita": 6330,
-    "total_dayenergy": 3532.600000000093,
+    "total_dayenergy": [
+        "4069.100000000093"
+    ],
     "life_energy": 15826055,
     "acEnergy_hour_day": [
         "5",
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10"
     ],
     "acEnergy_hour": [
         "21.29999999995925",
         "177.00000000014552",
         "478.9999999998836",
         "1093.6999999999534",
-        "1761.600000000151"
+        "1761.600000000151",
+        "2313.499999999884"
     ],
     "all_years_list": [
         "2023",
@@ -94,19 +98,19 @@
         "684489.0000000001",
         "67980.09999999995"
     ],
-    "temperature_2m": "32.1 \u00b0C",
+    "temperature_2m": "32.3 \u00b0C",
     "relative_humidity_2m": "43 %",
-    "apparent_temperature": "35.4 \u00b0C",
+    "apparent_temperature": "35.9 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Partly Cloudy",
+    "weather_exp": "Mainly Sunny",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "71 %",
+    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
+    "cloud_cover": "48 %",
     "pressure_msl": "1018.6 hPa",
     "surface_pressure": "1002.6 hPa",
-    "wind_speed_10m": "5.6 km/h",
-    "wind_direction_10m": "255 \u00b0"
+    "wind_speed_10m": "5.5 km/h",
+    "wind_direction_10m": "259 \u00b0"
 }
