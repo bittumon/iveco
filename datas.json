@@ -1,20 +1,24 @@
 {
-    "last_update": "2025-07-06 08:58:50",
+    "last_update": "2025-07-06 09:01:04",
     "ac_power": 826.4,
     "month_name": "JULY",
     "current_year": 2025,
     "carbon": 7530,
     "alberi": 10298,
     "t_evita": 6344,
-    "total_dayenergy": 371.19999999995343,
+    "total_dayenergy": [
+        "1123.6999999999823"
+    ],
     "life_energy": 15859181,
     "acEnergy_hour_day": [
         "5",
-        "6"
+        "6",
+        "7"
     ],
     "acEnergy_hour": [
         "32.10000000000582",
-        "339.0999999999476"
+        "339.0999999999476",
+        "514.6999999999534"
     ],
     "all_years_list": [
         "2023",
@@ -40,7 +44,7 @@
         "18163.2000000001",
         "23445.999999999916",
         "11829.500000000058",
-        "470.7000000001572"
+        "1123.6999999999823"
     ],
     "all_monthyear_list": [
         "September",
@@ -92,9 +96,9 @@
         "684489.0000000001",
         "101105.39999999997"
     ],
-    "temperature_2m": "24.5 \u00b0C",
+    "temperature_2m": "24.6 \u00b0C",
     "relative_humidity_2m": "78 %",
-    "apparent_temperature": "28.4 \u00b0C",
+    "apparent_temperature": "28.5 \u00b0C",
     "is_day": 1,
     "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
@@ -103,8 +107,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1012.8 hPa",
-    "surface_pressure": "996.5 hPa",
-    "wind_speed_10m": "1.1 km/h",
-    "wind_direction_10m": "162 \u00b0"
+    "pressure_msl": "1012.7 hPa",
+    "surface_pressure": "996.4 hPa",
+    "wind_speed_10m": "1.6 km/h",
+    "wind_direction_10m": "153 \u00b0"
 }
