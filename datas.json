@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-07-15 17:58:50",
+    "last_update": "2025-07-15 18:01:05",
     "ac_power": 829.9,
     "month_name": "JULY",
     "current_year": 2025,
     "carbon": 7638,
     "alberi": 10445,
     "t_evita": 6434,
-    "total_dayenergy": 20377.800000000047,
+    "total_dayenergy": [
+        "22829.399999999998"
+    ],
     "life_energy": 16085552,
     "acEnergy_hour_day": [
         "5",
@@ -19,7 +21,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "12.999999999883585",
@@ -32,7 +35,8 @@
         "2990.4000000000524",
         "3114.299999999872",
         "2956.700000000012",
-        "2776.90000000014"
+        "2776.90000000014",
+        "2010.7999999997555"
     ],
     "all_years_list": [
         "2023",
@@ -76,7 +80,7 @@
         "24860.099999999948",
         "20991.300000000017",
         "22707.20000000004",
-        "20534.5"
+        "22829.399999999998"
     ],
     "all_monthyear_list": [
         "September",
@@ -129,8 +133,8 @@
         "327476.8999999999"
     ],
     "temperature_2m": "31.5 \u00b0C",
-    "relative_humidity_2m": "46 %",
-    "apparent_temperature": "33.6 \u00b0C",
+    "relative_humidity_2m": "45 %",
+    "apparent_temperature": "33.4 \u00b0C",
     "is_day": 1,
     "weather_exp": "Mainly Sunny",
     "precipitation": "0.0 mm",
@@ -138,9 +142,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "29 %",
+    "cloud_cover": "11 %",
     "pressure_msl": "1012.6 hPa",
     "surface_pressure": "996.6 hPa",
-    "wind_speed_10m": "7.2 km/h",
-    "wind_direction_10m": "267 \u00b0"
+    "wind_speed_10m": "7.6 km/h",
+    "wind_direction_10m": "270 \u00b0"
 }
