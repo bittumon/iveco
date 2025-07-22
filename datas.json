@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-07-22 19:58:50",
+    "last_update": "2025-07-22 20:01:03",
     "ac_power": 466.65,
     "month_name": "JULY",
     "current_year": 2025,
     "carbon": 7719,
     "alberi": 10556,
     "t_evita": 6502,
-    "total_dayenergy": 23728.300000000105,
+    "total_dayenergy": [
+        "24654.200000000128"
+    ],
     "life_energy": 16255607,
     "acEnergy_hour_day": [
         "5",
@@ -21,7 +23,8 @@
         "14",
         "15",
         "16",
-        "17"
+        "17",
+        "18"
     ],
     "acEnergy_hour": [
         "7.300000000133878",
@@ -36,7 +39,8 @@
         "2917.399999999994",
         "2731.0000000000878",
         "2366.399999999907",
-        "1693.6000000000058"
+        "1693.6000000000058",
+        "925.9000000000232"
     ],
     "all_years_list": [
         "2023",
@@ -146,9 +150,9 @@
         "684489.0000000001",
         "497531.4"
     ],
-    "temperature_2m": "30.2 \u00b0C",
-    "relative_humidity_2m": "36 %",
-    "apparent_temperature": "30.5 \u00b0C",
+    "temperature_2m": "30.0 \u00b0C",
+    "relative_humidity_2m": "37 %",
+    "apparent_temperature": "30.4 \u00b0C",
     "is_day": 1,
     "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
@@ -159,6 +163,6 @@
     "cloud_cover": "0 %",
     "pressure_msl": "1009.2 hPa",
     "surface_pressure": "993.2 hPa",
-    "wind_speed_10m": "6.3 km/h",
-    "wind_direction_10m": "246 \u00b0"
+    "wind_speed_10m": "5.9 km/h",
+    "wind_direction_10m": "256 \u00b0"
 }
