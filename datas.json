@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-07-23 12:58:50",
+    "last_update": "2025-07-23 13:01:03",
     "ac_power": 1093.2,
     "month_name": "JULY",
     "current_year": 2025,
     "carbon": 7721,
     "alberi": 10558,
     "t_evita": 6504,
-    "total_dayenergy": 4985.499999999913,
+    "total_dayenergy": [
+        "8423.79999999996"
+    ],
     "life_energy": 16259821,
     "acEnergy_hour_day": [
         "5",
@@ -14,7 +16,8 @@
         "7",
         "8",
         "9",
-        "10"
+        "10",
+        "11"
     ],
     "acEnergy_hour": [
         "7.80000000007567",
@@ -22,7 +25,8 @@
         "462.9000000000233",
         "854.3999999999651",
         "1540.2999999999593",
-        "1947.700000000128"
+        "1947.700000000128",
+        "2680.699999999953"
     ],
     "all_years_list": [
         "2023",
@@ -82,7 +86,7 @@
         "19404.300000000105",
         "21480.099999999715",
         "24901.400000000285",
-        "5633.399999999703"
+        "8423.79999999996"
     ],
     "all_monthyear_list": [
         "September",
@@ -134,19 +138,19 @@
         "684489.0000000001",
         "501745.8"
     ],
-    "temperature_2m": "28.6 \u00b0C",
-    "relative_humidity_2m": "53 %",
-    "apparent_temperature": "30.9 \u00b0C",
+    "temperature_2m": "28.8 \u00b0C",
+    "relative_humidity_2m": "51 %",
+    "apparent_temperature": "31.4 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Cloudy",
+    "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
-    "cloud_cover": "88 %",
-    "pressure_msl": "1011.6 hPa",
-    "surface_pressure": "995.5 hPa",
-    "wind_speed_10m": "5.4 km/h",
-    "wind_direction_10m": "127 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
+    "cloud_cover": "72 %",
+    "pressure_msl": "1011.5 hPa",
+    "surface_pressure": "995.4 hPa",
+    "wind_speed_10m": "5.0 km/h",
+    "wind_direction_10m": "120 \u00b0"
 }
