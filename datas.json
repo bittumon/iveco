@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-07-28 17:58:50",
+    "last_update": "2025-07-28 18:01:04",
     "ac_power": 544.3,
     "month_name": "JULY",
     "current_year": 2025,
-    "carbon": 7766,
-    "alberi": 10620,
-    "t_evita": 6542,
-    "total_dayenergy": 5267.199999999808,
-    "life_energy": 16355201,
+    "carbon": 7767,
+    "alberi": 10622,
+    "t_evita": 6543,
+    "total_dayenergy": [
+        "5747.000000000058"
+    ],
+    "life_energy": 16357794,
     "acEnergy_hour_day": [
         "7",
         "8",
@@ -17,7 +19,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "49.50000000008731",
@@ -28,7 +31,8 @@
         "1234.5999999998894",
         "943.9000000001396",
         "765.5999999999185",
-        "640.0999999998894"
+        "640.0999999998894",
+        "557.7000000001281"
     ],
     "all_years_list": [
         "2023",
@@ -38,7 +42,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "3252638.7"
+        "3255231.2"
     ],
     "all_daymonth_list": [
         "01",
@@ -148,21 +152,21 @@
         "526423.7000000001",
         "607625.2000000001",
         "684489.0000000001",
-        "597126.0999999999"
+        "599718.6"
     ],
     "temperature_2m": "21.8 \u00b0C",
-    "relative_humidity_2m": "76 %",
-    "apparent_temperature": "23.7 \u00b0C",
+    "relative_humidity_2m": "77 %",
+    "apparent_temperature": "23.6 \u00b0C",
     "is_day": 1,
     "weather_exp": "Light Rain",
-    "precipitation": "0.1 mm",
-    "rain": "0.1 mm",
+    "precipitation": "0.0 mm",
+    "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/10d@2x.png",
     "cloud_cover": "100 %",
     "pressure_msl": "1007.7 hPa",
     "surface_pressure": "991.3 hPa",
-    "wind_speed_10m": "5.0 km/h",
-    "wind_direction_10m": "249 \u00b0"
+    "wind_speed_10m": "5.9 km/h",
+    "wind_direction_10m": "256 \u00b0"
 }
