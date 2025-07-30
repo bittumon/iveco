@@ -4595,12 +4595,12 @@
           "10:00": 185.26,
           "10:05": 191.45,
           "10:10": 200.22,
-          "10:15": null,
-          "10:20": null,
-          "10:25": null,
-          "10:30": null,
-          "10:35": null,
-          "10:40": null,
+          "10:15": 216.49,
+          "10:20": 230.39,
+          "10:25": 235.94,
+          "10:30": 251.4,
+          "10:35": 153.74,
+          "10:40": 99.01,
           "10:45": null,
           "10:50": null,
           "10:55": null,
@@ -4762,7 +4762,7 @@
           "23:55": null
         }
       },
-      "currentPower": "200.44"
+      "currentPower": "98.9"
     },
     "stationOverview": {
       "stationName": "Bobbio",
@@ -4818,20 +4818,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 17199.59,
+      "co2ReductionByYear": 17250.02,
       "equivalentTreePlantingByYear": 24,
-      "standardCoalSavings": 14483.87,
+      "standardCoalSavings": 14526.34,
       "componentFlag": 0,
       "equivalentTreePlanting": 24,
-      "co2Reduction": 17199.6,
-      "standardCoalSavingsByYear": 14483.87
+      "co2Reduction": 17250.02,
+      "standardCoalSavingsByYear": 14526.33
     },
     "realKpi": {
-      "realTimePower": 200.44,
-      "cumulativeEnergy": 36209.68,
-      "monthEnergy": 36209.67,
-      "dailyEnergy": 344.47,
-      "yearEnergy": 36209.67
+      "realTimePower": 98.9,
+      "cumulativeEnergy": 36315.84,
+      "monthEnergy": 36315.83,
+      "dailyEnergy": 450.63,
+      "yearEnergy": 36315.83
     }
   },
   "Bomocaf": {
@@ -45031,14 +45031,14 @@
       "station_code": "",
       "Potenza": 92,
       "Stato": "",
-      "problemi": "",
+      "problemi": "Impianto Tosca non comunica da mattina il 30/07/2025. ",
       "Allaciato": "",
       "portal": "Meteocontrol",
       "id": 132,
-      "tck": "",
-      "stat_tckt": "",
+      "tck": 1883,
+      "stat_tckt": "Disconnesso 📶",
       "details": "",
-      "json_data": "{\"Tosca\":{\"4020\":{\"Data\":\"25/02/2025\",\"TCK\":\"4020\",\"IMPIANTO\":\"Tosca\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"28/02/2025\",\"DISPOSITIVO\":\"Altri📋\",\"PROBLEMI\":\"Tosca non comunica da 12:40 il 25/02/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"Sun Mar 02 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Spento 🚩\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-02-25 14:28:19</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-26 10:02:16</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Marco Rubio ha confermato che Tosca spento per motivo lavori e impianto tornerà visibili dopo settimana prossima.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-03 10:20:24</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto tornato visibile sul portale FIMER e FUSION Solar. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Impianto tornato visibile sul portale FIMER e FUSION Solar. \",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1V5hMHnZHB78VSAoP-Ie20EQuufeNah4w\"},\"9716\":{\"Data\":\"13/03/2025\",\"TCK\":\"9716\",\"IMPIANTO\":\"Tosca\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"21/03/2025\",\"DISPOSITIVO\":\"Comunicazione📶\",\"PROBLEMI\":\"Inverter di 20 KW sul portale FIMER non comunica\",\"ULTIMO AGGIORNAMENTO DATA\":\"14/03/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-13 16:09:50</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-14 10:54:46</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tornato visibile da solo.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Tornato visibile da solo.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/15THP4MFPu9HeV8qqiMDKNf5Db93p8eS6\"}}}",
+      "json_data": "{\"Tosca\":{\"1883\":{\"Data\":\"30/07/2025\",\"TCK\":\"1883\",\"IMPIANTO\":\"Tosca\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"Sat Jun 07 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"DISPOSITIVO\":\"Comunicazione📶\",\"PROBLEMI\":\"Impianto Tosca non comunica da mattina il 30/07/2025. \",\"ULTIMO AGGIORNAMENTO DATA\":\"30/07/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"Aperto ❌\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-07-30 10:44:06</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\",\"ULTMIO AGGIORNAMENTO\":\"Avvisato Alberto Giuliano\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1RCYJ6j68ZMuUVrCpXwR9bBHg1GnN9Jhr\"},\"4020\":{\"Data\":\"25/02/2025\",\"TCK\":\"4020\",\"IMPIANTO\":\"Tosca\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"28/02/2025\",\"DISPOSITIVO\":\"Altri📋\",\"PROBLEMI\":\"Tosca non comunica da 12:40 il 25/02/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"Sun Mar 02 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Spento 🚩\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-02-25 14:28:19</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-26 10:02:16</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Marco Rubio ha confermato che Tosca spento per motivo lavori e impianto tornerà visibili dopo settimana prossima.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-03 10:20:24</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto tornato visibile sul portale FIMER e FUSION Solar. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Impianto tornato visibile sul portale FIMER e FUSION Solar. \",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1V5hMHnZHB78VSAoP-Ie20EQuufeNah4w\"},\"9716\":{\"Data\":\"13/03/2025\",\"TCK\":\"9716\",\"IMPIANTO\":\"Tosca\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"21/03/2025\",\"DISPOSITIVO\":\"Comunicazione📶\",\"PROBLEMI\":\"Inverter di 20 KW sul portale FIMER non comunica\",\"ULTIMO AGGIORNAMENTO DATA\":\"14/03/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-13 16:09:50</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-14 10:54:46</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tornato visibile da solo.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Tornato visibile da solo.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/15THP4MFPu9HeV8qqiMDKNf5Db93p8eS6\"}}}",
       "group": "MYENERGY",
       "tipo": "industriali",
       "allaccio": "2021-05-19",
