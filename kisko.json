@@ -7179,12 +7179,12 @@
           "10:15": 18.57,
           "10:20": 19.03,
           "10:25": 16.12,
-          "10:30": null,
-          "10:35": null,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
+          "10:30": 17.34,
+          "10:35": 15.25,
+          "10:40": 37.25,
+          "10:45": 21.12,
+          "10:50": 38.88,
+          "10:55": 12.58,
           "11:00": null,
           "11:05": null,
           "11:10": null,
@@ -7343,7 +7343,7 @@
           "23:55": null
         }
       },
-      "currentPower": "16.12"
+      "currentPower": "12.58"
     },
     "stationOverview": {
       "stationName": "Danesi",
@@ -7399,20 +7399,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 19915.82,
+      "co2ReductionByYear": 19921.24,
       "equivalentTreePlantingByYear": 28,
-      "standardCoalSavings": 134985.33,
+      "standardCoalSavings": 134989.9,
       "componentFlag": 0,
       "equivalentTreePlanting": 219,
-      "co2Reduction": 160295.08,
-      "standardCoalSavingsByYear": 16771.22
+      "co2Reduction": 160300.5,
+      "standardCoalSavingsByYear": 16775.78
     },
     "realKpi": {
-      "realTimePower": 16.12,
-      "cumulativeEnergy": 337463.33,
-      "monthEnergy": 8273.06,
-      "dailyEnergy": 28.64,
-      "yearEnergy": 41928.04
+      "realTimePower": 12.58,
+      "cumulativeEnergy": 337474.74,
+      "monthEnergy": 8284.47,
+      "dailyEnergy": 40.05,
+      "yearEnergy": 41939.45
     }
   },
   "G.E. Srl": {
@@ -7880,7 +7880,7 @@
       "tck": "1762; 5748",
       "stat_tckt": "Dispositivo guasto 💢; Dispositivo guasto 💢",
       "details": "",
-      "json_data": "{\"Iveco\":{\"1752\":{\"Data\":\"15/04/2025\",\"TCK\":\"1752\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"18/04/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"SEZ 14 inverter A e B non comunica il 15/04/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"16/05/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-15 15:14:27</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-05-16 11:31:52</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tutti due inverter tornato visibile da solo.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Tutti due inverter tornato visibile da solo.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1EPnfz2uaT3S__dXa9MxNyFveNchMgQhz\"},\"1762\":{\"Data\":\"Thu Jul 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TCK\":\"1762\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"Mon Nov 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter R di Sez.4 spento da 06/04/2024 alle 16:00. Non ancora partito.\",\"ULTIMO AGGIORNAMENTO DATA\":\"Thu Jul 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Aperto ❌\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-07 09:54:38</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\",\"ULTMIO AGGIORNAMENTO\":\"Avvisato Interno\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/18HW5vrs-NGquVKi7z4bKJfKutY0ygQ1r\"},\"3430\":{\"Data\":\"29/05/2025\",\"TCK\":\"3430\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"Thu Jun 05 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"ED 4 INV I, Spento da 10:00 il 29/05/2025. Inverter anche spento e riavviato due volte automaticamente il 28/05/2025. \\r\\n\\r\\nED 4 INV R era spento da 06/04/2025. Tckt : 1762\",\"ULTIMO AGGIORNAMENTO DATA\":\"30/07/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-05-29 10:26:52</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-07-30 10:37:05</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tornato visibile il 29/05/2025.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Tornato visibile il 29/05/2025.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/179fre1oaDz4YagfbmehvIVH7DXiu96Hb\"},\"5748\":{\"Data\":\"20/02/2025\",\"TCK\":\"5748\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"28/02/2025\",\"DISPOSITIVO\":\"Altri📋\",\"PROBLEMI\":\"Sensore di irraggiamento - FV Plant Brescia 1 - SUNMETER_ED14_SUD 32° non comunica da 28/10/2024,\",\"ULTIMO AGGIORNAMENTO DATA\":\"25/02/2025\",\"TECNICO ASSEGNATO\":\"Alberto Giuliano\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Da programmare 🔜\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-02-20 16:52:46</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> simona.ciace</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-22 13:17:13</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Alberto Giulaino confermato che il problema al sensore verrà risolvera nel prossimo intervento presso IVECO Brescia.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-25 12:38:55</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Cambiato stato ticket a Da programmare.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Da programmare 🔜</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Cambiato stato ticket a Da programmare.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1fvbF1RkFP4twP5klN6B-WRxMCns4FUVL\"},\"6658\":{\"Data\":\"16/06/2025\",\"TCK\":\"6658\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"27/06/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"SEZ 14 inverter I e L non comunica o spento da mattina 16/06/2025 .\",\"ULTIMO AGGIORNAMENTO DATA\":\"17/06/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-06-16 13:11:32</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-06-17 14:43:47</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tutti due inverter tornato visibile da mattina.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Tutti due inverter tornato visibile da mattina.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1eIFxOiEkdkqWlBE0Unj2Etm77X4xYqEM\"},\"9033\":{\"Data\":\"Mon Mar 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TCK\":\"9033\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"Mon Nov 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Due Inverter L, M di sezione 4 non comunica il 03/04/2025 .\",\"ULTIMO AGGIORNAMENTO DATA\":\"Thu Apr 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-03 15:19:56</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-04 11:44:52</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* tutti due inverter tornato visibile da solo dal mattina 04/04/2025.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"tutti due inverter tornato visibile da solo dal mattina 04/04/2025.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1SwfDAq-q-FhQRPpzO2rg89ZZUrXNk3oc\"}}}",
+      "json_data": "{\"Iveco\":{\"1752\":{\"Data\":\"15/04/2025\",\"TCK\":\"1752\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"18/04/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"SEZ 14 inverter A e B non comunica il 15/04/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"16/05/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-15 15:14:27</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-05-16 11:31:52</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tutti due inverter tornato visibile da solo.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Tutti due inverter tornato visibile da solo.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1EPnfz2uaT3S__dXa9MxNyFveNchMgQhz\"},\"1762\":{\"Data\":\"Thu Jul 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TCK\":\"1762\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"Mon Nov 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter R di Sez.4 spento da 06/04/2024 alle 16:00. Non ancora partito.\",\"ULTIMO AGGIORNAMENTO DATA\":\"Thu Jul 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Aperto ❌\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-07 09:54:38</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\",\"ULTMIO AGGIORNAMENTO\":\"Avvisato Interno\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/18HW5vrs-NGquVKi7z4bKJfKutY0ygQ1r\"},\"3430\":{\"Data\":\"29/05/2025\",\"TCK\":\"3430\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"Thu Jun 05 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"ED 4 INV I, Spento da 10:00 il 29/05/2025. Inverter anche spento e riavviato due volte automaticamente il 28/05/2025. \\r\\n\\r\\nED 4 INV R era spento da 06/04/2025. Tckt : 1762\",\"ULTIMO AGGIORNAMENTO DATA\":\"30/07/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-05-29 10:26:52</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-07-30 10:37:05</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tornato visibile il 29/05/2025.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Tornato visibile il 29/05/2025.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/179fre1oaDz4YagfbmehvIVH7DXiu96Hb\"},\"5748\":{\"Data\":\"20/02/2025\",\"TCK\":\"5748\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"28/02/2025\",\"DISPOSITIVO\":\"Altri📋\",\"PROBLEMI\":\"Sensore di irraggiamento - FV Plant Brescia 1 - SUNMETER_ED14_SUD 32° non comunica da 28/10/2024,\",\"ULTIMO AGGIORNAMENTO DATA\":\"30/07/2025\",\"TECNICO ASSEGNATO\":\"Alberto Giuliano\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Aperto ❌\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-02-20 16:52:46</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> simona.ciace</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-22 13:17:13</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Alberto Giulaino confermato che il problema al sensore verrà risolvera nel prossimo intervento presso IVECO Brescia.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-02-25 12:38:55</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Cambiato stato ticket a Da programmare.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Da programmare 🔜</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-07-30 10:51:12</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Cambiato stato di ticket.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Cambiato stato di ticket.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1fvbF1RkFP4twP5klN6B-WRxMCns4FUVL\"},\"6658\":{\"Data\":\"16/06/2025\",\"TCK\":\"6658\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"27/06/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"SEZ 14 inverter I e L non comunica o spento da mattina 16/06/2025 .\",\"ULTIMO AGGIORNAMENTO DATA\":\"17/06/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-06-16 13:11:32</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-06-17 14:43:47</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Tutti due inverter tornato visibile da mattina.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Tutti due inverter tornato visibile da mattina.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1eIFxOiEkdkqWlBE0Unj2Etm77X4xYqEM\"},\"9033\":{\"Data\":\"Mon Mar 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TCK\":\"9033\",\"IMPIANTO\":\"Iveco\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Alberto Giuliano\",\"SCADENZA IL\":\"Mon Nov 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Due Inverter L, M di sezione 4 non comunica il 03/04/2025 .\",\"ULTIMO AGGIORNAMENTO DATA\":\"Thu Apr 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-03 15:19:56</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-04 11:44:52</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* tutti due inverter tornato visibile da solo dal mattina 04/04/2025.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"tutti due inverter tornato visibile da solo dal mattina 04/04/2025.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1SwfDAq-q-FhQRPpzO2rg89ZZUrXNk3oc\"}}}",
       "group": "EDISON",
       "tipo": "industriali",
       "allaccio": "2021-01-28",
@@ -8220,12 +8220,12 @@
           "10:20": 4.61,
           "10:25": 4.82,
           "10:30": 1.2,
-          "10:35": null,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
+          "10:35": 1.54,
+          "10:40": 6.11,
+          "10:45": 4.79,
+          "10:50": 6.05,
+          "10:55": 1.12,
+          "11:00": 4.49,
           "11:05": null,
           "11:10": null,
           "11:15": null,
@@ -8383,7 +8383,7 @@
           "23:55": null
         }
       },
-      "currentPower": "4.82"
+      "currentPower": "1.12"
     },
     "stationOverview": {
       "stationName": "MAZARA DEL VALLO - POSTE ITALIANE",
@@ -8439,20 +8439,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 3284.29,
+      "co2ReductionByYear": 3285.18,
       "equivalentTreePlantingByYear": 5,
-      "standardCoalSavings": 10670.7,
+      "standardCoalSavings": 10671.44,
       "componentFlag": 0,
       "equivalentTreePlanting": 18,
-      "co2Reduction": 12671.45,
-      "standardCoalSavingsByYear": 2765.72
+      "co2Reduction": 12672.34,
+      "standardCoalSavingsByYear": 2766.47
     },
     "realKpi": {
-      "realTimePower": 4.82,
-      "cumulativeEnergy": 26676.74,
-      "monthEnergy": 1427.62,
-      "dailyEnergy": 4.64,
-      "yearEnergy": 6914.3
+      "realTimePower": 1.12,
+      "cumulativeEnergy": 26678.61,
+      "monthEnergy": 1429.49,
+      "dailyEnergy": 6.51,
+      "yearEnergy": 6916.17
     }
   },
   "MEL": {
@@ -8554,7 +8554,7 @@
       "tck": 7020,
       "stat_tckt": "Dispositivo guasto 💢",
       "details": "",
-      "json_data": "{\"MIA 1 MW\":{\"5373\":{\"Data\":\"Sun Nov 02 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TCK\":\"5373\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"14/03/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 3 non partito da mattina 11/03/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"Tue Dec 02 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-11 11:00:43</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-12 10:54:54</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Inverter era funzionando e tornato visibile. Risolto problemi di comunicazione.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Inverter era funzionando e tornato visibile. Risolto problemi di comunicazione.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1DxAHnurU1vzCbW8o_DSoI-yrlKEN1YP6\"},\"6734\":{\"Data\":\"23/03/2025\",\"TCK\":\"6734\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"24/03/2025\",\"DISPOSITIVO\":\"Impianto☀️\",\"PROBLEMI\":\"Impianto Spento da 10.00 il 23/03/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"16/05/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Attessa assistenza ⏰\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-23 12:07:05</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-23 13:51:53</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Problemi lato LV , impianto riavviato e funziona da 13:00 23/03/2025.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-24 12:27:03</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto era spento da nuovo questa mattina. L'aeroporto di MIA sta eseguendo un test con il generatore cuasa di spengimento. il relè non tornato perché l'UPS è difettoso e fuori garanzia quando verificato. Devo fare un preventivo per la sostituzione dell'UPS. Ian invierà un preventivo dopo aver verificato che decidiamo di procedere con quello o di spedire l'UPS da qui. Avvisato Adrian (cliente) la problemi. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Da programmare 🔜</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-24 12:30:47</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Stato di impianto - Impianto funziona</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Da programmare 🔜</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-03 15:50:47</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Inviato offerta cliente il 03/04/2025, In attesa di conferma.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Attessa cliente ✋🏼</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-08 15:22:38</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Il cliente ha accettato il preventivo il 04/08/2025, la sostituzione UPS programmata è prevista per il 04/09/2025.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In programma 👨‍🔧</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-05-16 11:54:15</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Installato UPS</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Installato UPS\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1IA5XhtLMKdJusUdTXk8If50Q27-APkwO\"},\"7020\":{\"Data\":\"23/07/2025\",\"TCK\":\"7020\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"30/07/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 3 spento da 22/07/2025 13:00\",\"ULTIMO AGGIORNAMENTO DATA\":\"23/07/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Aperto ❌\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-07-23 17:51:01</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\",\"ULTMIO AGGIORNAMENTO\":\"Avvisato Ian,Verificato inverter il 23/07/205. Problemi DC lach. Aprire ticket con FIMER. Inverter fuori di garanzia.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1gtN4guLj_IOg1wraYaSnugoYzOSlZ8Cy\"},\"9107\":{\"Data\":\"Thu Apr 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TCK\":\"9107\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"Mon Nov 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 2 spento il 04/04/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"Thu Apr 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-04 12:05:15</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-04 17:40:05</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Problemi di RISO, inverter riavviato e funziona. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-04 17:41:17</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Chiuso</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Chiuso\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1QDOTlI9ITqH04QHLhMzTgyzkWZDXfmFc\"},\"9490\":{\"Data\":\"Sat Sep 06 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TCK\":\"9490\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"21/07/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"MIA 1 MW inverter 3 spento da 08:00 il 08/07/2025.\",\"ULTIMO AGGIORNAMENTO DATA\":\"18/07/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-07-09 11:12:36</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-07-14 17:32:05</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Aperto Care con FIMER:CARE-02453812 anche avvisato Cliente</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-07-18 18:00:01</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Nuovo inverter installato il 18/07/2025. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Nuovo inverter installato il 18/07/2025. \",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1YkNTcRQwTUFBKYlXRsFfMx_3cVaW_jrD\"},\"9637\":{\"Data\":\"Sun Aug 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TCK\":\"9637\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"Mon Nov 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Impainto spento da 14:00 il 08/04/2025. \",\"ULTIMO AGGIORNAMENTO DATA\":\"Fri Oct 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Spento 🚩\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-08 15:03:44</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-08 15:27:18</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Problemi alla rete,Ian subito riarmara manualmente a causa di UPS guasto,anche installerà l'UPS il 09/04/2025. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-10 15:04:14</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Ian non è riuscito a installare l'UPS il 04/10/2025. Lo installerà il 04/11/2025. Impianto riavviato. funziona senza problemi.\\r\\n</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Ian non è riuscito a installare l'UPS il 04/10/2025. Lo installerà il 04/11/2025. Impianto riavviato. funziona senza problemi.\\r\\n\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1BV1vv0ENsNHyBR6mrxvg7NZ70L8nvYBE\"}}}",
+      "json_data": "{\"MIA 1 MW\":{\"5373\":{\"Data\":\"Sun Nov 02 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TCK\":\"5373\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"14/03/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 3 non partito da mattina 11/03/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"Tue Dec 02 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-11 11:00:43</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-12 10:54:54</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Inverter era funzionando e tornato visibile. Risolto problemi di comunicazione.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Inverter era funzionando e tornato visibile. Risolto problemi di comunicazione.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1DxAHnurU1vzCbW8o_DSoI-yrlKEN1YP6\"},\"6734\":{\"Data\":\"23/03/2025\",\"TCK\":\"6734\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"24/03/2025\",\"DISPOSITIVO\":\"Impianto☀️\",\"PROBLEMI\":\"Impianto Spento da 10.00 il 23/03/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"16/05/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Attessa assistenza ⏰\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-03-23 12:07:05</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-23 13:51:53</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Problemi lato LV , impianto riavviato e funziona da 13:00 23/03/2025.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-24 12:27:03</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Impianto era spento da nuovo questa mattina. L'aeroporto di MIA sta eseguendo un test con il generatore cuasa di spengimento. il relè non tornato perché l'UPS è difettoso e fuori garanzia quando verificato. Devo fare un preventivo per la sostituzione dell'UPS. Ian invierà un preventivo dopo aver verificato che decidiamo di procedere con quello o di spedire l'UPS da qui. Avvisato Adrian (cliente) la problemi. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Da programmare 🔜</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-03-24 12:30:47</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Stato di impianto - Impianto funziona</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Da programmare 🔜</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-03 15:50:47</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Inviato offerta cliente il 03/04/2025, In attesa di conferma.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Attessa cliente ✋🏼</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-08 15:22:38</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Il cliente ha accettato il preventivo il 04/08/2025, la sostituzione UPS programmata è prevista per il 04/09/2025.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In programma 👨‍🔧</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-05-16 11:54:15</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Installato UPS</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Installato UPS\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1IA5XhtLMKdJusUdTXk8If50Q27-APkwO\"},\"7020\":{\"Data\":\"23/07/2025\",\"TCK\":\"7020\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"30/07/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 3 spento da 22/07/2025 13:00\",\"ULTIMO AGGIORNAMENTO DATA\":\"30/07/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Aperto ❌\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-07-23 17:51:01</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-07-30 10:56:55</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Programmato intervento per installare inverter SG250Kw di Myenergy in posizione di inverter 3. Ian aspetto per ricevere permesso di accesso. Subito cambio portale monitoraggio da FIMER a meteocontrol.</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Programmato intervento per installare inverter SG250Kw di Myenergy in posizione di inverter 3. Ian aspetto per ricevere permesso di accesso. Subito cambio portale monitoraggio da FIMER a meteocontrol.\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1gtN4guLj_IOg1wraYaSnugoYzOSlZ8Cy\"},\"9107\":{\"Data\":\"Thu Apr 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TCK\":\"9107\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"Mon Nov 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Inverter 2 spento il 04/04/2025\",\"ULTIMO AGGIORNAMENTO DATA\":\"Thu Apr 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-04 12:05:15</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-04 17:40:05</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Problemi di RISO, inverter riavviato e funziona. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-04 17:41:17</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Chiuso</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Chiuso\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1QDOTlI9ITqH04QHLhMzTgyzkWZDXfmFc\"},\"9490\":{\"Data\":\"Sat Sep 06 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TCK\":\"9490\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"21/07/2025\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"MIA 1 MW inverter 3 spento da 08:00 il 08/07/2025.\",\"ULTIMO AGGIORNAMENTO DATA\":\"18/07/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Dispositivo guasto 💢\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-07-09 11:12:36</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-07-14 17:32:05</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Aperto Care con FIMER:CARE-02453812 anche avvisato Cliente</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-07-18 18:00:01</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Nuovo inverter installato il 18/07/2025. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Nuovo inverter installato il 18/07/2025. \",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1YkNTcRQwTUFBKYlXRsFfMx_3cVaW_jrD\"},\"9637\":{\"Data\":\"Sun Aug 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TCK\":\"9637\",\"IMPIANTO\":\"MIA 1 MW\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"Mon Nov 03 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"DISPOSITIVO\":\"Inverter🎚️\",\"PROBLEMI\":\"Impainto spento da 14:00 il 08/04/2025. \",\"ULTIMO AGGIORNAMENTO DATA\":\"Fri Oct 03 2025 20:30:00 GMT+0200 (Central European Summer Time)\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Spento 🚩\",\"STATO TCK\":\"Chiuso ✅️\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-04-08 15:03:44</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-08 15:27:18</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Problemi alla rete,Ian subito riarmara manualmente a causa di UPS guasto,anche installerà l'UPS il 09/04/2025. </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-04-10 15:04:14</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Ian non è riuscito a installare l'UPS il 04/10/2025. Lo installerà il 04/11/2025. Impianto riavviato. funziona senza problemi.\\r\\n</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Chiuso ✅️</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Ian non è riuscito a installare l'UPS il 04/10/2025. Lo installerà il 04/11/2025. Impianto riavviato. funziona senza problemi.\\r\\n\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/1BV1vv0ENsNHyBR6mrxvg7NZ70L8nvYBE\"}}}",
       "group": "MALTA",
       "tipo": "industriali",
       "allaccio": "2021-02-02",
@@ -8817,12 +8817,12 @@
           "10:20": 28.69,
           "10:25": 29.78,
           "10:30": 19.04,
-          "10:35": null,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
+          "10:35": 29.01,
+          "10:40": 29.02,
+          "10:45": 28.77,
+          "10:50": 29.36,
+          "10:55": 30.95,
+          "11:00": 8.95,
           "11:05": null,
           "11:10": null,
           "11:15": null,
@@ -8980,7 +8980,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.07"
+      "currentPower": "9.1"
     },
     "stationOverview": {
       "stationName": "Minervino ",
@@ -9036,20 +9036,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 16209.36,
+      "co2ReductionByYear": 16215.6,
       "equivalentTreePlantingByYear": 23,
-      "standardCoalSavings": 50072.76,
+      "standardCoalSavings": 50078.02,
       "componentFlag": 0,
       "equivalentTreePlanting": 82,
-      "co2Reduction": 59461.41,
-      "standardCoalSavingsByYear": 13649.98
+      "co2Reduction": 59467.65,
+      "standardCoalSavingsByYear": 13655.24
     },
     "realKpi": {
-      "realTimePower": 9.07,
-      "cumulativeEnergy": 125181.91,
-      "monthEnergy": 6080,
-      "dailyEnergy": 45.66,
-      "yearEnergy": 34124.96
+      "realTimePower": 9.1,
+      "cumulativeEnergy": 125195.05,
+      "monthEnergy": 6093.14,
+      "dailyEnergy": 58.8,
+      "yearEnergy": 34138.1
     }
   },
   "MISILMERI - POSTE ITALIANE": {
@@ -9183,12 +9183,12 @@
           "10:20": 6.81,
           "10:25": 7.04,
           "10:30": 7.4,
-          "10:35": null,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
+          "10:35": 7.38,
+          "10:40": 7.34,
+          "10:45": 7.42,
+          "10:50": 7.99,
+          "10:55": 7.93,
+          "11:00": 7.64,
           "11:05": null,
           "11:10": null,
           "11:15": null,
@@ -9346,7 +9346,7 @@
           "23:55": null
         }
       },
-      "currentPower": "7.4"
+      "currentPower": "7.93"
     },
     "stationOverview": {
       "stationName": "MISILMERI - POSTE ITALIANE",
@@ -9402,20 +9402,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 4236.85,
+      "co2ReductionByYear": 4238.34,
       "equivalentTreePlantingByYear": 6,
-      "standardCoalSavings": 14445.15,
+      "standardCoalSavings": 14446.4,
       "componentFlag": 0,
       "equivalentTreePlanting": 24,
-      "co2Reduction": 17153.61,
-      "standardCoalSavingsByYear": 3567.88
+      "co2Reduction": 17155.1,
+      "standardCoalSavingsByYear": 3569.13
     },
     "realKpi": {
-      "realTimePower": 7.4,
-      "cumulativeEnergy": 36112.87,
-      "monthEnergy": 1773.96,
-      "dailyEnergy": 12.86,
-      "yearEnergy": 8919.69
+      "realTimePower": 7.93,
+      "cumulativeEnergy": 36116,
+      "monthEnergy": 1777.09,
+      "dailyEnergy": 15.99,
+      "yearEnergy": 8922.82
     }
   },
   "MM - Depuratore San Rocco": {
@@ -9991,13 +9991,13 @@
           "10:15": 9.39,
           "10:20": 7.38,
           "10:25": 5.27,
-          "10:30": 4.35,
-          "10:35": null,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
+          "10:30": 4.97,
+          "10:35": 6.13,
+          "10:40": 8.71,
+          "10:45": 9.11,
+          "10:50": 7.63,
+          "10:55": 6.38,
+          "11:00": 5.3,
           "11:05": null,
           "11:10": null,
           "11:15": null,
@@ -10155,7 +10155,7 @@
           "23:55": null
         }
       },
-      "currentPower": "5.27"
+      "currentPower": "6.38"
     },
     "stationOverview": {
       "stationName": "Parrocchia san Lorenzo",
@@ -10211,20 +10211,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 25397.23,
+      "co2ReductionByYear": 25398.91,
       "equivalentTreePlantingByYear": 35,
-      "standardCoalSavings": 175559.6,
+      "standardCoalSavings": 175561,
       "componentFlag": 0,
       "equivalentTreePlanting": 285,
-      "co2Reduction": 208477.02,
-      "standardCoalSavingsByYear": 21387.14
+      "co2Reduction": 208478.69,
+      "standardCoalSavingsByYear": 21388.55
     },
     "realKpi": {
-      "realTimePower": 5.27,
-      "cumulativeEnergy": 438898.99,
-      "monthEnergy": 11973.46,
-      "dailyEnergy": 28.26,
-      "yearEnergy": 53467.86
+      "realTimePower": 6.38,
+      "cumulativeEnergy": 438902.51,
+      "monthEnergy": 11976.98,
+      "dailyEnergy": 31.78,
+      "yearEnergy": 53471.38
     }
   },
   "PARTINICO - POSTE ITALIANE": {
@@ -10358,12 +10358,12 @@
           "10:20": 6.54,
           "10:25": 6.63,
           "10:30": 6.76,
-          "10:35": null,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
+          "10:35": 6.82,
+          "10:40": 6.87,
+          "10:45": 7.15,
+          "10:50": 7.26,
+          "10:55": 7.91,
+          "11:00": 4.6,
           "11:05": null,
           "11:10": null,
           "11:15": null,
@@ -10521,7 +10521,7 @@
           "23:55": null
         }
       },
-      "currentPower": "6.63"
+      "currentPower": "7.91"
     },
     "stationOverview": {
       "stationName": "PARTINICO - POSTE ITALIANE",
@@ -10577,20 +10577,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 4431.02,
+      "co2ReductionByYear": 4432.68,
       "equivalentTreePlantingByYear": 7,
-      "standardCoalSavings": 14481.66,
+      "standardCoalSavings": 14483.06,
       "componentFlag": 0,
       "equivalentTreePlanting": 24,
-      "co2Reduction": 17196.97,
-      "standardCoalSavingsByYear": 3731.38
+      "co2Reduction": 17198.63,
+      "standardCoalSavingsByYear": 3732.78
     },
     "realKpi": {
-      "realTimePower": 6.63,
-      "cumulativeEnergy": 36204.15,
-      "monthEnergy": 1793.23,
-      "dailyEnergy": 7.8,
-      "yearEnergy": 9328.46
+      "realTimePower": 7.91,
+      "cumulativeEnergy": 36207.64,
+      "monthEnergy": 1796.72,
+      "dailyEnergy": 11.29,
+      "yearEnergy": 9331.95
     }
   },
   "Poste Italiane - Aviano": {
@@ -12631,12 +12631,12 @@
           "10:20": 47.62,
           "10:25": 79.13,
           "10:30": 63.35,
-          "10:35": null,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
+          "10:35": 82.77,
+          "10:40": 89.08,
+          "10:45": 67.44,
+          "10:50": 90.3,
+          "10:55": 93.23,
+          "11:00": 91.65,
           "11:05": null,
           "11:10": null,
           "11:15": null,
@@ -12794,7 +12794,7 @@
           "23:55": null
         }
       },
-      "currentPower": "64.61"
+      "currentPower": "94.05"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - MANTOVA",
@@ -12850,20 +12850,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 45992.24,
+      "co2ReductionByYear": 46009.54,
       "equivalentTreePlantingByYear": 63,
-      "standardCoalSavings": 101917.72,
+      "standardCoalSavings": 101932.29,
       "componentFlag": 0,
       "equivalentTreePlanting": 166,
-      "co2Reduction": 121027.29,
-      "standardCoalSavingsByYear": 38730.3
+      "co2Reduction": 121044.6,
+      "standardCoalSavingsByYear": 38744.88
     },
     "realKpi": {
-      "realTimePower": 64.61,
-      "cumulativeEnergy": 254794.3,
-      "monthEnergy": 19052.96,
-      "dailyEnergy": 126.26,
-      "yearEnergy": 96825.76
+      "realTimePower": 94.05,
+      "cumulativeEnergy": 254830.73,
+      "monthEnergy": 19089.39,
+      "dailyEnergy": 162.69,
+      "yearEnergy": 96862.19
     }
   },
   "Poste Italiane - Marcon": {
@@ -16290,12 +16290,12 @@
           "10:15": 79.31,
           "10:20": 65.86,
           "10:25": 67.29,
-          "10:30": null,
-          "10:35": null,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
+          "10:30": 60.06,
+          "10:35": 52.18,
+          "10:40": 52.65,
+          "10:45": 57.23,
+          "10:50": 65.68,
+          "10:55": 75.32,
           "11:00": null,
           "11:05": null,
           "11:10": null,
@@ -16454,7 +16454,7 @@
           "23:55": null
         }
       },
-      "currentPower": "67.29"
+      "currentPower": "75.32"
     },
     "stationOverview": {
       "stationName": "POSTE ITALIANE - ROSERIO",
@@ -16510,20 +16510,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 170170.51,
+      "co2ReductionByYear": 170184.7,
       "equivalentTreePlantingByYear": 233,
-      "standardCoalSavings": 552603.24,
+      "standardCoalSavings": 552615.19,
       "componentFlag": 0,
       "equivalentTreePlanting": 897,
-      "co2Reduction": 656216.35,
-      "standardCoalSavingsByYear": 143301.48
+      "co2Reduction": 656230.54,
+      "standardCoalSavingsByYear": 143313.43
     },
     "realKpi": {
-      "realTimePower": 67.29,
-      "cumulativeEnergy": 1381508.11,
-      "monthEnergy": 66989.81,
-      "dailyEnergy": 108.71,
-      "yearEnergy": 358253.71
+      "realTimePower": 75.32,
+      "cumulativeEnergy": 1381537.97,
+      "monthEnergy": 67019.67,
+      "dailyEnergy": 138.57,
+      "yearEnergy": 358283.57
     }
   },
   "Poste Italiane - San Pietro al Natisone": {
@@ -44550,12 +44550,12 @@
           "10:20": 52.05,
           "10:25": 53.06,
           "10:30": 53.99,
-          "10:35": null,
-          "10:40": null,
-          "10:45": null,
-          "10:50": null,
-          "10:55": null,
-          "11:00": null,
+          "10:35": 55,
+          "10:40": 55.95,
+          "10:45": 56.5,
+          "10:50": 57.41,
+          "10:55": 58.01,
+          "11:00": 58.53,
           "11:05": null,
           "11:10": null,
           "11:15": null,
@@ -44713,7 +44713,7 @@
           "23:55": null
         }
       },
-      "currentPower": "53.91"
+      "currentPower": "58"
     },
     "stationOverview": {
       "stationName": "SPERONE - POSTE ITALIANE",
@@ -44769,20 +44769,20 @@
     },
     "language": "en-US",
     "socialContribution": {
-      "co2ReductionByYear": 36634.01,
+      "co2ReductionByYear": 36645.13,
       "equivalentTreePlantingByYear": 51,
-      "standardCoalSavings": 109238.32,
+      "standardCoalSavings": 109247.68,
       "componentFlag": 0,
       "equivalentTreePlanting": 178,
-      "co2Reduction": 129720.51,
-      "standardCoalSavingsByYear": 30849.7
+      "co2Reduction": 129731.62,
+      "standardCoalSavingsByYear": 30859.06
     },
     "realKpi": {
-      "realTimePower": 53.91,
-      "cumulativeEnergy": 273095.8,
-      "monthEnergy": 14515.94,
-      "dailyEnergy": 101.14,
-      "yearEnergy": 77124.24
+      "realTimePower": 58,
+      "cumulativeEnergy": 273119.21,
+      "monthEnergy": 14539.35,
+      "dailyEnergy": 124.55,
+      "yearEnergy": 77147.65
     }
   },
   "T.M.E Spa": {
