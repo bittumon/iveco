@@ -4595,12 +4595,12 @@
           "10:00": 186.03,
           "10:05": 190,
           "10:10": 192.99,
-          "10:15": null,
-          "10:20": null,
-          "10:25": null,
-          "10:30": null,
-          "10:35": null,
-          "10:40": null,
+          "10:15": 196.16,
+          "10:20": 198.72,
+          "10:25": 202.01,
+          "10:30": 203.95,
+          "10:35": 206.94,
+          "10:40": 208.9,
           "10:45": null,
           "10:50": null,
           "10:55": null,
@@ -4762,7 +4762,7 @@
           "23:55": null
         }
       },
-      "currentPower": "192.99"
+      "currentPower": "208.86"
     },
     "stationOverview": {
       "stationName": "Bobbio",
@@ -4818,20 +4818,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 18044.03,
+      "co2ReductionByYear": 18091.85,
       "equivalentTreePlantingByYear": 25,
-      "standardCoalSavings": 15194.99,
+      "standardCoalSavings": 15235.26,
       "componentFlag": 0,
       "equivalentTreePlanting": 25,
-      "co2Reduction": 18044.05,
-      "standardCoalSavingsByYear": 15194.98
+      "co2Reduction": 18091.87,
+      "standardCoalSavingsByYear": 15235.24
     },
     "realKpi": {
-      "realTimePower": 192.99,
-      "cumulativeEnergy": 37987.48,
-      "monthEnergy": 37987.44,
-      "dailyEnergy": 344.34,
-      "yearEnergy": 37987.44
+      "realTimePower": 208.86,
+      "cumulativeEnergy": 38088.15,
+      "monthEnergy": 38088.11,
+      "dailyEnergy": 445.01,
+      "yearEnergy": 38088.11
     }
   },
   "Bomocaf": {
@@ -41471,7 +41471,7 @@
       "tck": 3715,
       "stat_tckt": "Disconnesso 📶",
       "details": "",
-      "json_data": "{\"Poste Italiane Villanova\":{\"3715\":{\"Data\":\"29/07/2025\",\"TCK\":\"3715\",\"IMPIANTO\":\"Poste Italiane Villanova\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"Sun Dec 07 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"DISPOSITIVO\":\"Comunicazione📶\",\"PROBLEMI\":\"Impianto visibile offline da 22/07/2025. \",\"ULTIMO AGGIORNAMENTO DATA\":\"31/07/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"Attessa cliente ✋🏼\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-07-29 09:18:47</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-07-31 08:48:44</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> alessia.giambelli</p>\\n              <p>* Inizio lavori Polis</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Attessa cliente ✋🏼</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Inizio lavori Polis\",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/13rUMWeQoN_pSSeaN1lqpdBGXYc7HuoBA\"}}}"
+      "json_data": "{\"Poste Italiane Villanova\":{\"3715\":{\"Data\":\"29/07/2025\",\"TCK\":\"3715\",\"IMPIANTO\":\"Poste Italiane Villanova\",\"SEVIORITA\":\"Alto⛔\",\"RESP.INTERNO\":\"Bittu\",\"SCADENZA IL\":\"Sun Dec 07 2025 19:30:00 GMT+0100 (Central European Standard Time)\",\"DISPOSITIVO\":\"Lavoro in corso 🚧\",\"PROBLEMI\":\"Impianto visibile offline da 22/07/2025. \",\"ULTIMO AGGIORNAMENTO DATA\":\"31/07/2025\",\"TECNICO ASSEGNATO\":\"\",\"STATO IMPAINTO\":\"Disconnesso 📶\",\"STATO TCK\":\"In Attessa ⏳\",\"ISOTICO\":\"<div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n                <p style=\\\"font-weight: bold; color: #555;\\\">Creato il 2025-07-29 09:18:47</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">by --> bittumon</p>\\n                <p style=\\\"font-style: italic; color: #777;\\\">Stato: Aperto ❌</p>\\n            </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-07-31 08:48:44</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> alessia.giambelli</p>\\n              <p>* Inizio lavori Polis</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: Attessa cliente ✋🏼</p>\\n          </div>\\n          <div style=\\\"border: 1px solid #ddd; border-radius: 5px; padding: 2px; margin-bottom: 5px; background-color: #f9f9f9;\\\">\\n              <p style=\\\"font-weight: bold; color: #555;\\\">Aggiornato il 2025-07-31 10:44:55</p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">By --> bittumon</p>\\n              <p>* Lavoro di polis in corso, cambiato stato </p>\\n              <p style=\\\"font-style: italic; color: #777;\\\">Stato: In Attessa ⏳</p>\\n          </div>\",\"ULTMIO AGGIORNAMENTO\":\"Lavoro di polis in corso, cambiato stato \",\"LINK CARTELLA TCK\":\"https://drive.google.com/drive/folders/13rUMWeQoN_pSSeaN1lqpdBGXYc7HuoBA\"}}}"
     },
     "language": "en-US",
     "socialContribution": {
@@ -45663,12 +45663,12 @@
           "10:00": 22.28,
           "10:05": 23.08,
           "10:10": 23.75,
-          "10:15": null,
-          "10:20": null,
-          "10:25": null,
-          "10:30": null,
-          "10:35": null,
-          "10:40": null,
+          "10:15": 24.53,
+          "10:20": 25.35,
+          "10:25": 26.26,
+          "10:30": 26.86,
+          "10:35": 25.13,
+          "10:40": 28.43,
           "10:45": null,
           "10:50": null,
           "10:55": null,
@@ -45830,7 +45830,7 @@
           "23:55": null
         }
       },
-      "currentPower": "23.75"
+      "currentPower": "28.42"
     },
     "stationOverview": {
       "stationName": "MC FIT",
@@ -45886,20 +45886,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 4885.53,
+      "co2ReductionByYear": 4891.64,
       "equivalentTreePlantingByYear": 7,
-      "standardCoalSavings": 4114.14,
+      "standardCoalSavings": 4119.28,
       "componentFlag": 0,
       "equivalentTreePlanting": 7,
-      "co2Reduction": 4885.54,
-      "standardCoalSavingsByYear": 4114.13
+      "co2Reduction": 4891.65,
+      "standardCoalSavingsByYear": 4119.27
     },
     "realKpi": {
-      "realTimePower": 23.75,
-      "cumulativeEnergy": 10285.35,
-      "monthEnergy": 7925.93,
-      "dailyEnergy": 29.93,
-      "yearEnergy": 10285.33
+      "realTimePower": 28.42,
+      "cumulativeEnergy": 10298.2,
+      "monthEnergy": 7938.78,
+      "dailyEnergy": 42.78,
+      "yearEnergy": 10298.18
     }
   },
   "POSTE ITALIANE - MARTIGNACCO": {
