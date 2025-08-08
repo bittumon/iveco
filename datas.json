@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-08-08 20:58:50",
+    "last_update": "2025-08-08 21:01:10",
     "ac_power": 0.0,
     "month_name": "AUGUST",
     "current_year": 2025,
     "carbon": 7881,
     "alberi": 10777,
     "t_evita": 6639,
-    "total_dayenergy": 24914.70000000001,
+    "total_dayenergy": [
+        "25046.899999999965"
+    ],
     "life_energy": 16596486,
     "acEnergy_hour_day": [
         "5",
@@ -22,7 +24,8 @@
         "15",
         "16",
         "17",
-        "18"
+        "18",
+        "19"
     ],
     "acEnergy_hour": [
         "0.10000000000582077",
@@ -38,7 +41,8 @@
         "2693.799999999872",
         "2210",
         "1546.6999999999823",
-        "740.1999999999825"
+        "740.1999999999825",
+        "132.19999999995343"
     ],
     "all_years_list": [
         "2023",
@@ -122,8 +126,8 @@
         "670171.4000000004",
         "168239"
     ],
-    "temperature_2m": "28.6 \u00b0C",
-    "relative_humidity_2m": "58 %",
+    "temperature_2m": "28.4 \u00b0C",
+    "relative_humidity_2m": "60 %",
     "apparent_temperature": "32.0 \u00b0C",
     "is_day": 0,
     "weather_exp": "Clear",
@@ -133,8 +137,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1018.8 hPa",
-    "surface_pressure": "1002.6 hPa",
-    "wind_speed_10m": "1.8 km/h",
-    "wind_direction_10m": "270 \u00b0"
+    "pressure_msl": "1018.9 hPa",
+    "surface_pressure": "1002.7 hPa",
+    "wind_speed_10m": "1.1 km/h",
+    "wind_direction_10m": "288 \u00b0"
 }
