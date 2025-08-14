@@ -1,26 +1,30 @@
 {
-    "last_update": "2025-08-14 17:58:51",
+    "last_update": "2025-08-14 18:01:01",
     "ac_power": 1108.1,
     "month_name": "AUGUST",
     "current_year": 2025,
-    "carbon": 7882,
-    "alberi": 10779,
-    "t_evita": 6640,
-    "total_dayenergy": 4411.300000000134,
-    "life_energy": 16599639,
+    "carbon": 7884,
+    "alberi": 10782,
+    "t_evita": 6642,
+    "total_dayenergy": [
+        "4976.100000000239"
+    ],
+    "life_energy": 16604096,
     "acEnergy_hour_day": [
         "11",
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "275.50000000023283",
         "1042.8999999999069",
         "1136.2000000000116",
         "1019.1000000000348",
-        "937.5999999999476"
+        "937.5999999999476",
+        "1405.8999999999069"
     ],
     "all_years_list": [
         "2023",
@@ -30,7 +34,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "3497076.4000000004"
+        "3501533.7000000007"
     ],
     "all_daymonth_list": [
         "01",
@@ -114,21 +118,21 @@
         "607625.2000000001",
         "684489.0000000001",
         "670171.4000000004",
-        "171392.39999999997"
+        "175849.69999999998"
     ],
-    "temperature_2m": "35.4 \u00b0C",
-    "relative_humidity_2m": "26 %",
-    "apparent_temperature": "35.0 \u00b0C",
+    "temperature_2m": "35.3 \u00b0C",
+    "relative_humidity_2m": "23 %",
+    "apparent_temperature": "34.0 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Partly Cloudy",
+    "weather_exp": "Mainly Sunny",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "57 %",
+    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
+    "cloud_cover": "6 %",
     "pressure_msl": "1014.6 hPa",
     "surface_pressure": "998.8 hPa",
-    "wind_speed_10m": "9.5 km/h",
-    "wind_direction_10m": "99 \u00b0"
+    "wind_speed_10m": "11.2 km/h",
+    "wind_direction_10m": "111 \u00b0"
 }
