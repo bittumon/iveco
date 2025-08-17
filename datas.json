@@ -1,20 +1,23 @@
 {
-    "last_update": "2025-08-17 13:58:50",
+    "last_update": "2025-08-17 14:01:02",
     "ac_power": 395.1,
     "month_name": "AUGUST",
     "current_year": 2025,
-    "carbon": 7906,
-    "alberi": 10812,
-    "t_evita": 6660,
-    "total_dayenergy": 8195.799999999901,
-    "life_energy": 16650421,
+    "carbon": 7911,
+    "alberi": 10819,
+    "t_evita": 6664,
+    "total_dayenergy": [
+        "10446.600000000122"
+    ],
+    "life_energy": 16660635,
     "acEnergy_hour_day": [
         "6",
         "7",
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "53.40000000008149",
@@ -22,7 +25,8 @@
         "974.6999999999824",
         "1719.499999999971",
         "2312.000000000058",
-        "2772.499999999767"
+        "2772.499999999767",
+        "3006.0000000001164"
     ],
     "all_years_list": [
         "2023",
@@ -32,7 +36,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "3547858.7"
+        "3558071.9000000004"
     ],
     "all_daymonth_list": [
         "01",
@@ -122,11 +126,11 @@
         "607625.2000000001",
         "684489.0000000001",
         "670171.4000000004",
-        "222174.69999999984"
+        "232387.9"
     ],
-    "temperature_2m": "32.3 \u00b0C",
-    "relative_humidity_2m": "36 %",
-    "apparent_temperature": "34.1 \u00b0C",
+    "temperature_2m": "32.5 \u00b0C",
+    "relative_humidity_2m": "35 %",
+    "apparent_temperature": "33.6 \u00b0C",
     "is_day": 1,
     "weather_exp": "Mainly Sunny",
     "precipitation": "0.0 mm",
@@ -134,9 +138,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "11 %",
-    "pressure_msl": "1011.0 hPa",
-    "surface_pressure": "995.1 hPa",
-    "wind_speed_10m": "10.2 km/h",
-    "wind_direction_10m": "162 \u00b0"
+    "cloud_cover": "7 %",
+    "pressure_msl": "1010.9 hPa",
+    "surface_pressure": "995.0 hPa",
+    "wind_speed_10m": "10.7 km/h",
+    "wind_direction_10m": "160 \u00b0"
 }
