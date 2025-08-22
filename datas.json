@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-08-22 13:58:51",
+    "last_update": "2025-08-22 14:01:02",
     "ac_power": 959.8,
     "month_name": "AUGUST",
     "current_year": 2025,
     "carbon": 7948,
     "alberi": 10868,
     "t_evita": 6695,
-    "total_dayenergy": 8468.299999999785,
+    "total_dayenergy": [
+        "11600.299999999845"
+    ],
     "life_energy": 16737459,
     "acEnergy_hour_day": [
         "6",
@@ -14,7 +16,8 @@
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "43.39999999999418",
@@ -22,7 +25,8 @@
         "994.5000000001746",
         "1814.8999999998775",
         "2443.500000000058",
-        "2859.899999999936"
+        "2859.899999999936",
+        "3132.000000000058"
     ],
     "all_years_list": [
         "2023",
@@ -134,9 +138,9 @@
         "670171.4000000004",
         "309212.6999999999"
     ],
-    "temperature_2m": "26.2 \u00b0C",
-    "relative_humidity_2m": "61 %",
-    "apparent_temperature": "29.6 \u00b0C",
+    "temperature_2m": "26.4 \u00b0C",
+    "relative_humidity_2m": "60 %",
+    "apparent_temperature": "29.5 \u00b0C",
     "is_day": 1,
     "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
@@ -144,7 +148,7 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "54 %",
+    "cloud_cover": "32 %",
     "pressure_msl": "1011.1 hPa",
     "surface_pressure": "994.9 hPa",
     "wind_speed_10m": "6.8 km/h",
