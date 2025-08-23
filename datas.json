@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-08-23 17:58:50",
+    "last_update": "2025-08-23 18:01:02",
     "ac_power": 2175.2,
     "month_name": "AUGUST",
     "current_year": 2025,
     "carbon": 7963,
     "alberi": 10889,
     "t_evita": 6708,
-    "total_dayenergy": 17145.800000000105,
+    "total_dayenergy": [
+        "19811.40000000008"
+    ],
     "life_energy": 16769578,
     "acEnergy_hour_day": [
         "6",
@@ -18,7 +20,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "49.60000000000582",
@@ -30,7 +33,8 @@
         "2452.9000000000237",
         "2767.1999999999243",
         "2319.79999999993",
-        "2305.4000000001106"
+        "2305.4000000001106",
+        "2239.9000000000524"
     ],
     "all_years_list": [
         "2023",
@@ -90,7 +94,7 @@
         "9448.200000000155",
         "9601.200000000155",
         "23518.499999999767",
-        "18033.600000000035"
+        "19811.40000000008"
     ],
     "all_monthyear_list": [
         "September",
@@ -144,19 +148,19 @@
         "670171.4000000004",
         "341331.0999999998"
     ],
-    "temperature_2m": "26.2 \u00b0C",
-    "relative_humidity_2m": "53 %",
-    "apparent_temperature": "27.1 \u00b0C",
+    "temperature_2m": "26.0 \u00b0C",
+    "relative_humidity_2m": "54 %",
+    "apparent_temperature": "27.0 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Partly Cloudy",
+    "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "57 %",
+    "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
+    "cloud_cover": "100 %",
     "pressure_msl": "1011.0 hPa",
     "surface_pressure": "994.8 hPa",
-    "wind_speed_10m": "7.2 km/h",
-    "wind_direction_10m": "174 \u00b0"
+    "wind_speed_10m": "7.6 km/h",
+    "wind_direction_10m": "175 \u00b0"
 }
