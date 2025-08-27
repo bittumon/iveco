@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-08-27 17:58:50",
+    "last_update": "2025-08-27 18:01:12",
     "ac_power": 395.3,
     "month_name": "AUGUST",
     "current_year": 2025,
     "carbon": 7996,
     "alberi": 10935,
     "t_evita": 6736,
-    "total_dayenergy": 10614.499999999884,
+    "total_dayenergy": [
+        "11164.400000000052"
+    ],
     "life_energy": 16839490,
     "acEnergy_hour_day": [
         "6",
@@ -18,7 +20,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "29.399999999877764",
@@ -30,7 +33,8 @@
         "1642.899999999965",
         "1297.7000000000698",
         "916.6999999999244",
-        "713.0999999999185"
+        "713.0999999999185",
+        "486.9000000000815"
     ],
     "all_years_list": [
         "2023",
@@ -98,7 +102,7 @@
         "11038.000000000058",
         "22475.899999999907",
         "17763.300000000134",
-        "10463.50000000003"
+        "11164.400000000052"
     ],
     "all_monthyear_list": [
         "September",
@@ -152,9 +156,9 @@
         "670171.4000000004",
         "411243.4"
     ],
-    "temperature_2m": "24.5 \u00b0C",
-    "relative_humidity_2m": "77 %",
-    "apparent_temperature": "27.6 \u00b0C",
+    "temperature_2m": "24.3 \u00b0C",
+    "relative_humidity_2m": "78 %",
+    "apparent_temperature": "27.4 \u00b0C",
     "is_day": 1,
     "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
@@ -163,8 +167,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1013.8 hPa",
-    "surface_pressure": "997.4 hPa",
-    "wind_speed_10m": "6.3 km/h",
-    "wind_direction_10m": "103 \u00b0"
+    "pressure_msl": "1013.9 hPa",
+    "surface_pressure": "997.5 hPa",
+    "wind_speed_10m": "6.0 km/h",
+    "wind_direction_10m": "107 \u00b0"
 }
