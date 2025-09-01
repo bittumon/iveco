@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-09-01 01:58:50",
+    "last_update": "2025-09-01 02:01:05",
     "ac_power": 0.0,
     "month_name": "SEPTEMBER",
     "current_year": 2025,
     "carbon": 8030,
     "alberi": 10981,
     "t_evita": 6764,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 16910939,
     "acEnergy_hour_day": [
         "0",
@@ -26,8 +28,12 @@
         "9652591.999999998",
         "3808376.3000000003"
     ],
-    "all_daymonth_list": [],
-    "all_daymonth_data": [],
+    "all_daymonth_list": [
+        "01"
+    ],
+    "all_daymonth_data": [
+        "0"
+    ],
     "all_monthyear_list": [
         "September",
         "October",
@@ -52,7 +58,8 @@
         "May",
         "June",
         "July",
-        "August"
+        "August",
+        "September"
     ],
     "all_monthyear_data": [
         "5535.099999999991",
@@ -78,21 +85,22 @@
         "607625.2000000001",
         "684489.0000000001",
         "670171.4000000004",
-        "482692.29999999993"
+        "482692.29999999993",
+        "None"
     ],
     "temperature_2m": "20.4 \u00b0C",
     "relative_humidity_2m": "70 %",
     "apparent_temperature": "21.7 \u00b0C",
     "is_day": 0,
-    "weather_exp": "Mainly Clear",
+    "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
-    "cloud_cover": "11 %",
-    "pressure_msl": "1012.4 hPa",
-    "surface_pressure": "995.8 hPa",
-    "wind_speed_10m": "1.9 km/h",
-    "wind_direction_10m": "68 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/03n@2x.png",
+    "cloud_cover": "95 %",
+    "pressure_msl": "1012.3 hPa",
+    "surface_pressure": "995.7 hPa",
+    "wind_speed_10m": "1.5 km/h",
+    "wind_direction_10m": "104 \u00b0"
 }
