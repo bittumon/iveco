@@ -1,20 +1,23 @@
 {
-    "last_update": "2025-09-11 13:50:35",
+    "last_update": "2025-09-11 14:01:02",
     "ac_power": 536.4,
     "month_name": "SEPTEMBER",
     "current_year": 2025,
-    "carbon": 8109,
-    "alberi": 11090,
-    "t_evita": 6831,
-    "total_dayenergy": 7489.099999999948,
-    "life_energy": 17077970,
+    "carbon": 8113,
+    "alberi": 11095,
+    "t_evita": 6835,
+    "total_dayenergy": [
+        "9637.700000000155"
+    ],
+    "life_energy": 17086839,
     "acEnergy_hour_day": [
         "6",
         "7",
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "12.600000000122236",
@@ -22,7 +25,8 @@
         "819.3999999999651",
         "1604.4999999998836",
         "2249.000000000145",
-        "2622.399999999936"
+        "2622.399999999936",
+        "2148.600000000209"
     ],
     "all_years_list": [
         "2023",
@@ -32,7 +36,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "3975407.2"
+        "3984276.5000000005"
     ],
     "all_daymonth_list": [
         "01",
@@ -112,10 +116,10 @@
         "684489.0000000001",
         "670171.4000000004",
         "482692.29999999993",
-        "167030.9"
+        "175900.2000000001"
     ],
-    "temperature_2m": "24.9 \u00b0C",
-    "relative_humidity_2m": "60 %",
+    "temperature_2m": "25.0 \u00b0C",
+    "relative_humidity_2m": "59 %",
     "apparent_temperature": "26.6 \u00b0C",
     "is_day": 1,
     "weather_exp": "Partly Cloudy",
@@ -124,7 +128,7 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "54 %",
+    "cloud_cover": "89 %",
     "pressure_msl": "1011.9 hPa",
     "surface_pressure": "995.6 hPa",
     "wind_speed_10m": "7.8 km/h",
