@@ -1,22 +1,26 @@
 {
-    "last_update": "2025-09-28 10:58:50",
+    "last_update": "2025-09-28 11:01:07",
     "ac_power": 2117.45,
     "month_name": "SEPTEMBER",
     "current_year": 2025,
     "carbon": 8232,
     "alberi": 11257,
     "t_evita": 6935,
-    "total_dayenergy": 915.9999999997963,
+    "total_dayenergy": [
+        "2791.8999999998778"
+    ],
     "life_energy": 17336530,
     "acEnergy_hour_day": [
         "6",
         "7",
-        "8"
+        "8",
+        "9"
     ],
     "acEnergy_hour": [
         "0.3999999999650754",
         "126.4000000001106",
-        "789.1999999997206"
+        "789.1999999997206",
+        "1487.6000000000931"
     ],
     "all_years_list": [
         "2023",
@@ -86,7 +90,7 @@
         "16815.100000000006",
         "4783.399999999965",
         "5001.900000000227",
-        "632.3000000000466"
+        "2791.8999999998778"
     ],
     "all_monthyear_list": [
         "September",
@@ -142,9 +146,9 @@
         "482692.29999999993",
         "425591.2"
     ],
-    "temperature_2m": "17.0 \u00b0C",
+    "temperature_2m": "17.2 \u00b0C",
     "relative_humidity_2m": "74 %",
-    "apparent_temperature": "17.1 \u00b0C",
+    "apparent_temperature": "17.5 \u00b0C",
     "is_day": 1,
     "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
@@ -155,6 +159,6 @@
     "cloud_cover": "0 %",
     "pressure_msl": "1019.0 hPa",
     "surface_pressure": "1002.1 hPa",
-    "wind_speed_10m": "3.6 km/h",
-    "wind_direction_10m": "264 \u00b0"
+    "wind_speed_10m": "4.0 km/h",
+    "wind_direction_10m": "265 \u00b0"
 }
