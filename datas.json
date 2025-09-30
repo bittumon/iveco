@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-09-30 17:58:59",
+    "last_update": "2025-09-30 18:01:03",
     "ac_power": 1204.35,
     "month_name": "SEPTEMBER",
     "current_year": 2025,
-    "carbon": 8254,
-    "alberi": 11287,
-    "t_evita": 6953,
-    "total_dayenergy": 9553.700000000012,
-    "life_energy": 17382537,
+    "carbon": 8256,
+    "alberi": 11290,
+    "t_evita": 6955,
+    "total_dayenergy": [
+        "10335.100000000064"
+    ],
+    "life_energy": 17387161,
     "acEnergy_hour_day": [
         "6",
         "7",
@@ -18,7 +20,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "2.6000000000058208",
@@ -30,7 +33,8 @@
         "1217.9000000000524",
         "1424.000000000262",
         "1512.8999999997611",
-        "1169.0999999999185"
+        "1169.0999999999185",
+        "781.4000000000524"
     ],
     "all_years_list": [
         "2023",
@@ -40,7 +44,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "4279974.5"
+        "4284598.7"
     ],
     "all_daymonth_list": [
         "01",
@@ -158,11 +162,11 @@
         "684489.0000000001",
         "670171.4000000004",
         "482692.29999999993",
-        "471598.2"
+        "476222.4000000001"
     ],
-    "temperature_2m": "18.9 \u00b0C",
-    "relative_humidity_2m": "68 %",
-    "apparent_temperature": "18.3 \u00b0C",
+    "temperature_2m": "18.6 \u00b0C",
+    "relative_humidity_2m": "69 %",
+    "apparent_temperature": "18.1 \u00b0C",
     "is_day": 1,
     "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
@@ -170,9 +174,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
-    "cloud_cover": "87 %",
+    "cloud_cover": "92 %",
     "pressure_msl": "1018.9 hPa",
     "surface_pressure": "1002.1 hPa",
-    "wind_speed_10m": "9.9 km/h",
-    "wind_direction_10m": "134 \u00b0"
+    "wind_speed_10m": "10.2 km/h",
+    "wind_direction_10m": "135 \u00b0"
 }
