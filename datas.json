@@ -1,13 +1,15 @@
 {
-    "last_update": "2025-10-02 17:58:59",
+    "last_update": "2025-10-02 18:01:03",
     "ac_power": 1542.9,
     "month_name": "OCTOBER",
     "current_year": 2025,
-    "carbon": 8266,
-    "alberi": 11303,
-    "t_evita": 6963,
-    "total_dayenergy": 14066.500000000087,
-    "life_energy": 17407251,
+    "carbon": 8269,
+    "alberi": 11308,
+    "t_evita": 6966,
+    "total_dayenergy": [
+        "15189.999999999942"
+    ],
+    "life_energy": 17414454,
     "acEnergy_hour_day": [
         "7",
         "8",
@@ -17,7 +19,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "137.5000000000291",
@@ -28,7 +31,8 @@
         "3083.499999999971",
         "2169.7999999999597",
         "2146.2999999999884",
-        "1995.3000000000463"
+        "1995.3000000000463",
+        "1344.399999999849"
     ],
     "all_years_list": [
         "2023",
@@ -38,7 +42,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "4304688.6"
+        "4311891.8"
     ],
     "all_daymonth_list": [
         "01",
@@ -102,21 +106,21 @@
         "670171.4000000004",
         "482692.29999999993",
         "476458.2",
-        "19854.099999999977"
+        "27057.300000000163"
     ],
-    "temperature_2m": "16.6 \u00b0C",
+    "temperature_2m": "16.5 \u00b0C",
     "relative_humidity_2m": "55 %",
-    "apparent_temperature": "14.9 \u00b0C",
+    "apparent_temperature": "14.8 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Partly Cloudy",
+    "weather_exp": "Mainly Sunny",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "71 %",
+    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
+    "cloud_cover": "31 %",
     "pressure_msl": "1022.2 hPa",
     "surface_pressure": "1005.3 hPa",
-    "wind_speed_10m": "7.3 km/h",
-    "wind_direction_10m": "259 \u00b0"
+    "wind_speed_10m": "7.4 km/h",
+    "wind_direction_10m": "256 \u00b0"
 }
