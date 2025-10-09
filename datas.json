@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-10-09 15:58:50",
+    "last_update": "2025-10-09 16:01:07",
     "ac_power": 2042.63,
     "month_name": "OCTOBER",
     "current_year": 2025,
     "carbon": 8317,
     "alberi": 11374,
     "t_evita": 7006,
-    "total_dayenergy": 11575.399999999936,
+    "total_dayenergy": [
+        "13353.399999999878"
+    ],
     "life_energy": 17516099,
     "acEnergy_hour_day": [
         "7",
@@ -15,7 +17,8 @@
         "10",
         "11",
         "12",
-        "13"
+        "13",
+        "14"
     ],
     "acEnergy_hour": [
         "45.89999999990687",
@@ -24,7 +27,8 @@
         "2063.600000000006",
         "2430.6999999999243",
         "2546.1999999999825",
-        "2491.29999999993"
+        "2491.29999999993",
+        "2123.5000000001164"
     ],
     "all_years_list": [
         "2023",
@@ -114,19 +118,19 @@
         "476458.2",
         "128702.0000000002"
     ],
-    "temperature_2m": "20.7 \u00b0C",
+    "temperature_2m": "20.6 \u00b0C",
     "relative_humidity_2m": "61 %",
-    "apparent_temperature": "20.8 \u00b0C",
+    "apparent_temperature": "20.6 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Partly Cloudy",
+    "weather_exp": "Mainly Sunny",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "38 %",
+    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
+    "cloud_cover": "41 %",
     "pressure_msl": "1019.4 hPa",
     "surface_pressure": "1002.7 hPa",
-    "wind_speed_10m": "6.0 km/h",
-    "wind_direction_10m": "205 \u00b0"
+    "wind_speed_10m": "6.3 km/h",
+    "wind_direction_10m": "204 \u00b0"
 }
