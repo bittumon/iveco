@@ -1,18 +1,22 @@
 {
-    "last_update": "2025-10-24 09:58:50",
+    "last_update": "2025-10-24 10:01:02",
     "ac_power": 1028.25,
     "month_name": "OCTOBER",
     "current_year": 2025,
     "carbon": 8385,
-    "alberi": 11466,
-    "t_evita": 7063,
-    "total_dayenergy": 31.79999999993015,
-    "life_energy": 17658164,
+    "alberi": 11467,
+    "t_evita": 7064,
+    "total_dayenergy": [
+        "318.39999999984866"
+    ],
+    "life_energy": 17658997,
     "acEnergy_hour_day": [
-        "7"
+        "7",
+        "8"
     ],
     "acEnergy_hour": [
-        "31.79999999993015"
+        "31.79999999993015",
+        "532.2000000000116"
     ],
     "all_years_list": [
         "2023",
@@ -22,7 +26,7 @@
     "all_years_data": [
         "3449970.699999999",
         "9652591.999999998",
-        "4555601.7"
+        "4556434.6"
     ],
     "all_daymonth_list": [
         "01",
@@ -130,21 +134,21 @@
         "670171.4000000004",
         "482692.29999999993",
         "476458.2",
-        "270767.2000000001"
+        "271600.1000000001"
     ],
-    "temperature_2m": "8.2 \u00b0C",
-    "relative_humidity_2m": "91 %",
-    "apparent_temperature": "7.2 \u00b0C",
+    "temperature_2m": "8.6 \u00b0C",
+    "relative_humidity_2m": "89 %",
+    "apparent_temperature": "7.6 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Foggy",
+    "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/50d@2x.png",
-    "cloud_cover": "69 %",
-    "pressure_msl": "1005.6 hPa",
-    "surface_pressure": "988.4 hPa",
-    "wind_speed_10m": "1.9 km/h",
-    "wind_direction_10m": "292 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
+    "cloud_cover": "0 %",
+    "pressure_msl": "1005.7 hPa",
+    "surface_pressure": "988.6 hPa",
+    "wind_speed_10m": "1.8 km/h",
+    "wind_direction_10m": "307 \u00b0"
 }
