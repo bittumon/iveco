@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-10-27 06:08:50",
+    "last_update": "2025-10-27 06:16:04",
     "ac_power": 0.0,
     "month_name": "OCTOBER",
     "current_year": 2025,
     "carbon": 8406,
     "alberi": 11495,
     "t_evita": 7081,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 17702587,
     "acEnergy_hour_day": [
         "0",
@@ -141,7 +143,7 @@
         "315190.1"
     ],
     "temperature_2m": "7.1 \u00b0C",
-    "relative_humidity_2m": "62 %",
+    "relative_humidity_2m": "63 %",
     "apparent_temperature": "4.2 \u00b0C",
     "is_day": 0,
     "weather_exp": "Mainly Clear",
@@ -151,8 +153,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1009.5 hPa",
-    "surface_pressure": "992.2 hPa",
+    "pressure_msl": "1009.6 hPa",
+    "surface_pressure": "992.3 hPa",
     "wind_speed_10m": "5.6 km/h",
     "wind_direction_10m": "27 \u00b0"
 }
