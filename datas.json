@@ -1,22 +1,26 @@
 {
-    "last_update": "2025-11-04 10:08:51",
+    "last_update": "2025-11-04 10:16:33",
     "ac_power": 1808.8,
     "month_name": "NOVEMBER",
     "current_year": 2025,
     "carbon": 8434,
     "alberi": 11533,
     "t_evita": 7104,
-    "total_dayenergy": 1343.7000000001572,
+    "total_dayenergy": [
+        "1224.300000000134"
+    ],
     "life_energy": 17760955,
     "acEnergy_hour_day": [
         "6",
         "7",
-        "8"
+        "8",
+        "9"
     ],
     "acEnergy_hour": [
         "10.399999999965075",
         "392.5",
-        "940.800000000192"
+        "1193.8999999998196",
+        "867.7000000002736"
     ],
     "all_years_list": [
         "2023",
@@ -98,9 +102,9 @@
         "352528.5000000002",
         "21029.400000000023"
     ],
-    "temperature_2m": "11.5 \u00b0C",
-    "relative_humidity_2m": "71 %",
-    "apparent_temperature": "10.1 \u00b0C",
+    "temperature_2m": "12.0 \u00b0C",
+    "relative_humidity_2m": "70 %",
+    "apparent_temperature": "10.7 \u00b0C",
     "is_day": 1,
     "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
@@ -109,8 +113,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1027.5 hPa",
-    "surface_pressure": "1010.2 hPa",
-    "wind_speed_10m": "3.1 km/h",
-    "wind_direction_10m": "201 \u00b0"
+    "pressure_msl": "1027.6 hPa",
+    "surface_pressure": "1010.3 hPa",
+    "wind_speed_10m": "3.4 km/h",
+    "wind_direction_10m": "198 \u00b0"
 }
