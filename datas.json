@@ -1,26 +1,30 @@
 {
-    "last_update": "2025-11-17 14:08:50",
+    "last_update": "2025-11-17 14:16:02",
     "ac_power": 1942.95,
     "month_name": "NOVEMBER",
     "current_year": 2025,
     "carbon": 8499,
     "alberi": 11623,
     "t_evita": 7160,
-    "total_dayenergy": 1997.5999999999185,
+    "total_dayenergy": [
+        "1846.899999999849"
+    ],
     "life_energy": 17899563,
     "acEnergy_hour_day": [
         "8",
         "9",
         "10",
         "11",
-        "12"
+        "12",
+        "13"
     ],
     "acEnergy_hour": [
         "70.49999999967986",
         "207.20000000018624",
         "374.9000000000233",
         "593.7999999999302",
-        "751.200000000099"
+        "1111.8000000000466",
+        "960.8000000000176"
     ],
     "all_years_list": [
         "2023",
@@ -128,19 +132,19 @@
         "352528.5000000002",
         "159637.49999999997"
     ],
-    "temperature_2m": "--",
-    "relative_humidity_2m": "--",
-    "apparent_temperature": "--",
-    "is_day": "--",
-    "weather_exp": "--",
-    "precipitation": "--",
-    "rain": "--",
-    "showers": "--",
-    "snowfall": "--",
-    "weather_code": "--",
-    "cloud_cover": "--",
-    "pressure_msl": "--",
-    "surface_pressure": "--",
-    "wind_speed_10m": "--",
-    "wind_direction_10m": "--"
+    "temperature_2m": "14.9 \u00b0C",
+    "relative_humidity_2m": "72 %",
+    "apparent_temperature": "13.5 \u00b0C",
+    "is_day": 1,
+    "weather_exp": "Mainly Sunny",
+    "precipitation": "0.0 mm",
+    "rain": "0.0 mm",
+    "showers": "0.0 mm",
+    "snowfall": "0.0 cm",
+    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
+    "cloud_cover": "6 %",
+    "pressure_msl": "1003.4 hPa",
+    "surface_pressure": "986.7 hPa",
+    "wind_speed_10m": "9.3 km/h",
+    "wind_direction_10m": "286 \u00b0"
 }
