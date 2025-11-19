@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-11-19 17:38:50",
+    "last_update": "2025-11-19 17:46:05",
     "ac_power": 0.0,
     "month_name": "NOVEMBER",
     "current_year": 2025,
     "carbon": 8509,
     "alberi": 11636,
     "t_evita": 7168,
-    "total_dayenergy": 9298.500000000262,
+    "total_dayenergy": [
+        "9298.500000000262"
+    ],
     "life_energy": 17919713,
     "acEnergy_hour_day": [
         "6",
@@ -82,7 +84,7 @@
         "771.7000000002154",
         "5172.999999999825",
         "7241.799999999872",
-        "9228.700000000304"
+        "9298.500000000262"
     ],
     "all_monthyear_list": [
         "September",
@@ -143,7 +145,7 @@
         "179787.40000000005"
     ],
     "temperature_2m": "7.9 \u00b0C",
-    "relative_humidity_2m": "68 %",
+    "relative_humidity_2m": "69 %",
     "apparent_temperature": "5.9 \u00b0C",
     "is_day": 0,
     "weather_exp": "Cloudy",
@@ -155,6 +157,6 @@
     "cloud_cover": "100 %",
     "pressure_msl": "1011.5 hPa",
     "surface_pressure": "994.2 hPa",
-    "wind_speed_10m": "2.5 km/h",
-    "wind_direction_10m": "172 \u00b0"
+    "wind_speed_10m": "1.8 km/h",
+    "wind_direction_10m": "143 \u00b0"
 }
