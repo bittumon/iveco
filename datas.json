@@ -1,26 +1,30 @@
 {
-    "last_update": "2025-11-26 13:40:56",
+    "last_update": "2025-11-26 13:46:02",
     "ac_power": 1908.3,
     "month_name": "NOVEMBER",
     "current_year": 2025,
     "carbon": 8525,
     "alberi": 11658,
     "t_evita": 7181,
-    "total_dayenergy": 4460.899999999849,
+    "total_dayenergy": [
+        "5580.999999999855"
+    ],
     "life_energy": 17952958,
     "acEnergy_hour_day": [
         "7",
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "85.0999999998603",
         "261.19999999998254",
         "1510.800000000134",
         "1763.899999999849",
-        "839.9000000000233"
+        "839.9000000000233",
+        "1120.1000000000058"
     ],
     "all_years_list": [
         "2023",
@@ -86,7 +90,7 @@
         "11580.59999999989",
         "751.1000000001513",
         "2072.100000000093",
-        "4213.899999999936"
+        "5580.999999999855"
     ],
     "all_monthyear_list": [
         "September",
@@ -146,9 +150,9 @@
         "352528.5000000002",
         "213032.1999999999"
     ],
-    "temperature_2m": "9.8 \u00b0C",
-    "relative_humidity_2m": "75 %",
-    "apparent_temperature": "8.1 \u00b0C",
+    "temperature_2m": "9.9 \u00b0C",
+    "relative_humidity_2m": "76 %",
+    "apparent_temperature": "8.3 \u00b0C",
     "is_day": 1,
     "weather_exp": "Mainly Sunny",
     "precipitation": "0.0 mm",
@@ -159,6 +163,6 @@
     "cloud_cover": "0 %",
     "pressure_msl": "1009.4 hPa",
     "surface_pressure": "992.3 hPa",
-    "wind_speed_10m": "4.2 km/h",
-    "wind_direction_10m": "211 \u00b0"
+    "wind_speed_10m": "3.6 km/h",
+    "wind_direction_10m": "217 \u00b0"
 }
