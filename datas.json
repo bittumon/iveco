@@ -1,12 +1,14 @@
 {
-    "last_update": "2025-12-03 00:58:50",
+    "last_update": "2025-12-03 01:01:03",
     "ac_power": 0.0,
     "month_name": "DECEMBER",
     "current_year": 2025,
     "carbon": 8547,
     "alberi": 11688,
     "t_evita": 7200,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "None"
+    ],
     "life_energy": 17998986,
     "acEnergy_hour_day": [
         "0",
@@ -28,11 +30,13 @@
     ],
     "all_daymonth_list": [
         "01",
-        "02"
+        "02",
+        "03"
     ],
     "all_daymonth_data": [
         "962.0000000000582",
-        "3336.499999999971"
+        "3336.499999999971",
+        "None"
     ],
     "all_monthyear_list": [
         "September",
