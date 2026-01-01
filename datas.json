@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-01-01 01:08:51",
+    "last_update": "2026-01-01 01:16:01",
     "ac_power": 0.0,
     "month_name": "JANUARY",
     "current_year": 2026,
     "carbon": 8625,
     "alberi": 11795,
     "t_evita": 7266,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "None"
+    ],
     "life_energy": 18164822,
     "acEnergy_hour_day": [
         "0",
@@ -60,7 +62,8 @@
         "September",
         "October",
         "November",
-        "December"
+        "December",
+        "January"
     ],
     "all_monthyear_data": [
         "5535.099999999991",
@@ -90,7 +93,8 @@
         "476458.2",
         "352528.5000000002",
         "254761.49999999988",
-        "170134.40000000002"
+        "170134.40000000002",
+        "None"
     ],
     "temperature_2m": "0.2 \u00b0C",
     "relative_humidity_2m": "88 %",
