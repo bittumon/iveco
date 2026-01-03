@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-01-03 16:38:51",
+    "last_update": "2026-01-03 16:46:01",
     "ac_power": 49.75,
     "month_name": "JANUARY",
     "current_year": 2026,
     "carbon": 8629,
     "alberi": 11800,
     "t_evita": 7269,
-    "total_dayenergy": 261.5999999999767,
+    "total_dayenergy": [
+        "210.39999999999415"
+    ],
     "life_energy": 18172203,
     "acEnergy_hour_day": [
         "13",
@@ -100,19 +102,19 @@
         "170134.40000000002",
         "7381.8000000000175"
     ],
-    "temperature_2m": "--",
-    "relative_humidity_2m": "--",
-    "apparent_temperature": "--",
-    "is_day": "--",
-    "weather_exp": "--",
-    "precipitation": "--",
-    "rain": "--",
-    "showers": "--",
-    "snowfall": "--",
-    "weather_code": "--",
-    "cloud_cover": "--",
-    "pressure_msl": "--",
-    "surface_pressure": "--",
-    "wind_speed_10m": "--",
-    "wind_direction_10m": "--"
+    "temperature_2m": "3.3 \u00b0C",
+    "relative_humidity_2m": "89 %",
+    "apparent_temperature": "1.0 \u00b0C",
+    "is_day": 1,
+    "weather_exp": "Cloudy",
+    "precipitation": "0.0 mm",
+    "rain": "0.0 mm",
+    "showers": "0.0 mm",
+    "snowfall": "0.0 cm",
+    "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
+    "cloud_cover": "93 %",
+    "pressure_msl": "1004.8 hPa",
+    "surface_pressure": "987.4 hPa",
+    "wind_speed_10m": "3.7 km/h",
+    "wind_direction_10m": "281 \u00b0"
 }
