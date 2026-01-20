@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-01-20 03:38:51",
+    "last_update": "2026-01-20 03:46:02",
     "ac_power": 0.0,
     "month_name": "JANUARY",
     "current_year": 2026,
     "carbon": 8670,
     "alberi": 11856,
     "t_evita": 7303,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 18258361,
     "acEnergy_hour_day": [
         "0",
@@ -134,9 +136,9 @@
         "170134.40000000002",
         "93539.20000000008"
     ],
-    "temperature_2m": "2.2 \u00b0C",
-    "relative_humidity_2m": "79 %",
-    "apparent_temperature": "-0.2 \u00b0C",
+    "temperature_2m": "2.0 \u00b0C",
+    "relative_humidity_2m": "82 %",
+    "apparent_temperature": "-0.3 \u00b0C",
     "is_day": 0,
     "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
@@ -148,5 +150,5 @@
     "pressure_msl": "1028.1 hPa",
     "surface_pressure": "1010.2 hPa",
     "wind_speed_10m": "0.8 km/h",
-    "wind_direction_10m": "27 \u00b0"
+    "wind_direction_10m": "153 \u00b0"
 }
