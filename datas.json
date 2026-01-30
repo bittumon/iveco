@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-01-30 07:38:51",
+    "last_update": "2026-01-30 07:46:04",
     "ac_power": 0.0,
     "month_name": "JANUARY",
     "current_year": 2026,
     "carbon": 8701,
     "alberi": 11899,
     "t_evita": 7330,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 18324609,
     "acEnergy_hour_day": [
         "0",
@@ -154,19 +156,19 @@
         "170134.40000000002",
         "159787.1"
     ],
-    "temperature_2m": "4.2 \u00b0C",
-    "relative_humidity_2m": "95 %",
+    "temperature_2m": "4.1 \u00b0C",
+    "relative_humidity_2m": "96 %",
     "apparent_temperature": "2.3 \u00b0C",
-    "is_day": 0,
+    "is_day": 1,
     "weather_exp": "Foggy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/50n@2x.png",
+    "weather_code": "http://openweathermap.org/img/wn/50d@2x.png",
     "cloud_cover": "68 %",
-    "pressure_msl": "1000.9 hPa",
-    "surface_pressure": "983.6 hPa",
-    "wind_speed_10m": "2.4 km/h",
-    "wind_direction_10m": "333 \u00b0"
+    "pressure_msl": "1001.0 hPa",
+    "surface_pressure": "983.7 hPa",
+    "wind_speed_10m": "1.8 km/h",
+    "wind_direction_10m": "360 \u00b0"
 }
