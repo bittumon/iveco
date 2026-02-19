@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-02-19 18:34:03",
+    "last_update": "2026-02-19 18:46:03",
     "ac_power": 0.0,
     "month_name": "FEBRUARY",
     "current_year": 2026,
     "carbon": 8780,
     "alberi": 12007,
     "t_evita": 7396,
-    "total_dayenergy": 1452.0999999998894,
+    "total_dayenergy": [
+        "1452.1999999999243"
+    ],
     "life_energy": 18490967,
     "acEnergy_hour_day": [
         "7",
@@ -18,7 +20,8 @@
         "13",
         "14",
         "15",
-        "16"
+        "16",
+        "17"
     ],
     "acEnergy_hour": [
         "17.499999999941792",
@@ -30,7 +33,8 @@
         "234.6999999997206",
         "250.6999999999825",
         "75.50000000008731",
-        "57.59999999994761"
+        "57.59999999994761",
+        "0.1000000000349246"
     ],
     "all_years_list": [
         "2023",
@@ -150,19 +154,19 @@
         "176082.80000000002",
         "150063.1"
     ],
-    "temperature_2m": "--",
-    "relative_humidity_2m": "--",
-    "apparent_temperature": "--",
-    "is_day": "--",
-    "weather_exp": "--",
-    "precipitation": "--",
-    "rain": "--",
-    "showers": "--",
-    "snowfall": "--",
-    "weather_code": "--",
-    "cloud_cover": "--",
-    "pressure_msl": "--",
-    "surface_pressure": "--",
-    "wind_speed_10m": "--",
-    "wind_direction_10m": "--"
+    "temperature_2m": "5.5 \u00b0C",
+    "relative_humidity_2m": "91 %",
+    "apparent_temperature": "3.5 \u00b0C",
+    "is_day": 0,
+    "weather_exp": "Cloudy",
+    "precipitation": "0.0 mm",
+    "rain": "0.0 mm",
+    "showers": "0.0 mm",
+    "snowfall": "0.0 cm",
+    "weather_code": "http://openweathermap.org/img/wn/03n@2x.png",
+    "cloud_cover": "100 %",
+    "pressure_msl": "1000.7 hPa",
+    "surface_pressure": "983.5 hPa",
+    "wind_speed_10m": "4.0 km/h",
+    "wind_direction_10m": "297 \u00b0"
 }
