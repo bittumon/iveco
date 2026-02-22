@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-02-22 13:38:51",
+    "last_update": "2026-02-22 13:46:04",
     "ac_power": 2754.47,
     "month_name": "FEBRUARY",
     "current_year": 2026,
     "carbon": 8799,
     "alberi": 12033,
     "t_evita": 7412,
-    "total_dayenergy": 7031.400000000198,
+    "total_dayenergy": [
+        "8986.700000000128"
+    ],
     "life_energy": 18531123,
     "acEnergy_hour_day": [
         "6",
@@ -14,7 +16,8 @@
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "10.70000000030268",
@@ -22,7 +25,8 @@
         "1078.399999999965",
         "1668.100000000035",
         "1826.7000000000407",
-        "2111.600000000064"
+        "2111.600000000064",
+        "1955.2999999999304"
     ],
     "all_years_list": [
         "2023",
@@ -82,7 +86,7 @@
         "1452.1999999999243",
         "16882.900000000052",
         "15958.59999999986",
-        "5510.800000000134"
+        "8986.700000000128"
     ],
     "all_monthyear_list": [
         "September",
@@ -148,8 +152,8 @@
         "176082.80000000002",
         "190218.5000000001"
     ],
-    "temperature_2m": "13.4 \u00b0C",
-    "relative_humidity_2m": "65 %",
+    "temperature_2m": "13.5 \u00b0C",
+    "relative_humidity_2m": "64 %",
     "apparent_temperature": "11.9 \u00b0C",
     "is_day": 1,
     "weather_exp": "Cloudy",
@@ -159,8 +163,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1025.1 hPa",
-    "surface_pressure": "1007.9 hPa",
-    "wind_speed_10m": "5.2 km/h",
-    "wind_direction_10m": "214 \u00b0"
+    "pressure_msl": "1024.7 hPa",
+    "surface_pressure": "1007.5 hPa",
+    "wind_speed_10m": "5.3 km/h",
+    "wind_direction_10m": "208 \u00b0"
 }
