@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-02-26 02:52:43",
+    "last_update": "2026-02-26 03:01:03",
     "ac_power": 0.0,
     "month_name": "FEBRUARY",
     "current_year": 2026,
     "carbon": 8820,
     "alberi": 12062,
     "t_evita": 7430,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 18574864,
     "acEnergy_hour_day": [
         "0",
@@ -158,7 +160,7 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
-    "cloud_cover": "15 %",
+    "cloud_cover": "0 %",
     "pressure_msl": "1027.5 hPa",
     "surface_pressure": "1009.8 hPa",
     "wind_speed_10m": "3.9 km/h",
