@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-02-26 13:38:50",
+    "last_update": "2026-02-26 13:46:04",
     "ac_power": 2631.85,
     "month_name": "FEBRUARY",
     "current_year": 2026,
     "carbon": 8824,
     "alberi": 12067,
     "t_evita": 7433,
-    "total_dayenergy": 6746.399999999965,
+    "total_dayenergy": [
+        "9714.000000000293"
+    ],
     "life_energy": 18582892,
     "acEnergy_hour_day": [
         "6",
@@ -14,7 +16,8 @@
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "23.90000000008149",
@@ -22,7 +25,8 @@
         "1016.6000000001512",
         "1668.0999999998894",
         "2236.600000000064",
-        "1454.199999999866"
+        "2514.200000000012",
+        "1907.6000000001804"
     ],
     "all_years_list": [
         "2023",
@@ -90,7 +94,7 @@
         "13825.299999999872",
         "14871.400000000283",
         "9630.599999999717",
-        "6746.399999999965"
+        "9714.000000000293"
     ],
     "all_monthyear_list": [
         "September",
@@ -156,9 +160,9 @@
         "176082.80000000002",
         "241987.3999999999"
     ],
-    "temperature_2m": "15.0 \u00b0C",
+    "temperature_2m": "15.1 \u00b0C",
     "relative_humidity_2m": "53 %",
-    "apparent_temperature": "12.9 \u00b0C",
+    "apparent_temperature": "13.0 \u00b0C",
     "is_day": 1.0,
     "weather_exp": "Mainly Sunny",
     "precipitation": "0.0 mm",
@@ -167,8 +171,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
     "cloud_cover": "11 %",
-    "pressure_msl": "1027.2 hPa",
-    "surface_pressure": "1010.1 hPa",
-    "wind_speed_10m": "6.6 km/h",
-    "wind_direction_10m": "257 \u00b0"
+    "pressure_msl": "1027.0 hPa",
+    "surface_pressure": "1009.9 hPa",
+    "wind_speed_10m": "7.0 km/h",
+    "wind_direction_10m": "258 \u00b0"
 }
