@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-03-01 07:38:51",
+    "last_update": "2026-03-01 07:46:05",
     "ac_power": 0.0,
     "month_name": "MARCH",
     "current_year": 2026,
     "carbon": 8840,
     "alberi": 12089,
     "t_evita": 7447,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 18617073,
     "acEnergy_hour_day": [
         "0",
@@ -101,7 +103,7 @@
         "0"
     ],
     "temperature_2m": "9.8 \u00b0C",
-    "relative_humidity_2m": "95 %",
+    "relative_humidity_2m": "94 %",
     "apparent_temperature": "8.5 \u00b0C",
     "is_day": 1,
     "weather_exp": "Cloudy",
