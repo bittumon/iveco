@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-03-03 15:48:50",
+    "last_update": "2026-03-03 16:01:04",
     "ac_power": 1983.8,
     "month_name": "MARCH",
     "current_year": 2026,
     "carbon": 8847,
     "alberi": 12099,
     "t_evita": 7453,
-    "total_dayenergy": 8504.199999999895,
+    "total_dayenergy": [
+        "8891.999999999825"
+    ],
     "life_energy": 18632696,
     "acEnergy_hour_day": [
         "6",
@@ -28,7 +30,7 @@
         "1427.3000000002212",
         "2264.9999999999127",
         "1261",
-        "362.8999999999651"
+        "1496.699999999808"
     ],
     "all_years_list": [
         "2023",
@@ -119,7 +121,7 @@
         "15623.40000000008"
     ],
     "temperature_2m": "14.8 \u00b0C",
-    "relative_humidity_2m": "58 %",
+    "relative_humidity_2m": "57 %",
     "apparent_temperature": "13.2 \u00b0C",
     "is_day": 1,
     "weather_exp": "Partly Cloudy",
@@ -128,9 +130,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "49 %",
-    "pressure_msl": "1026.7 hPa",
-    "surface_pressure": "1009.6 hPa",
+    "cloud_cover": "21 %",
+    "pressure_msl": "1026.6 hPa",
+    "surface_pressure": "1009.5 hPa",
     "wind_speed_10m": "4.6 km/h",
     "wind_direction_10m": "219 \u00b0"
 }
