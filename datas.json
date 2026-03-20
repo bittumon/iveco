@@ -1,42 +1,22 @@
 {
-    "last_update": "2026-03-20 23:48:50",
+    "last_update": "2026-03-21 00:01:03",
     "ac_power": 0.0,
     "month_name": "MARCH",
     "current_year": 2026,
     "carbon": 8962,
     "alberi": 12255,
     "t_evita": 7549,
-    "total_dayenergy": 20974.2000000001,
+    "total_dayenergy": [
+        "20974.2000000001"
+    ],
     "life_energy": 18873128,
     "acEnergy_hour_day": [
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "11",
-        "12",
-        "13",
-        "14",
-        "15",
-        "16",
-        "17"
+        "0",
+        "0"
     ],
     "acEnergy_hour": [
-        "2.599999999947613",
-        "158.9999999999709",
-        "752.2000000000698",
-        "1570.1000000002095",
-        "2273.799999999843",
-        "2743.399999999936",
-        "2991.200000000216",
-        "2997.199999999953",
-        "2799.2999999998137",
-        "2315.100000000006",
-        "1614.9000000000524",
-        "693.0000000000873",
-        "62.39999999999418"
+        "0",
+        "0"
     ],
     "all_years_list": [
         "2023",
@@ -160,19 +140,19 @@
         "276168.4000000001",
         "256055.5000000001"
     ],
-    "temperature_2m": "8.2 \u00b0C",
-    "relative_humidity_2m": "65 %",
-    "apparent_temperature": "5.7 \u00b0C",
+    "temperature_2m": "8.3 \u00b0C",
+    "relative_humidity_2m": "64 %",
+    "apparent_temperature": "5.9 \u00b0C",
     "is_day": 0,
-    "weather_exp": "Cloudy",
+    "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/03n@2x.png",
-    "cloud_cover": "100 %",
+    "weather_code": "http://openweathermap.org/img/wn/02n@2x.png",
+    "cloud_cover": "55 %",
     "pressure_msl": "1016.3 hPa",
     "surface_pressure": "999.0 hPa",
-    "wind_speed_10m": "4.6 km/h",
-    "wind_direction_10m": "39 \u00b0"
+    "wind_speed_10m": "4.3 km/h",
+    "wind_direction_10m": "42 \u00b0"
 }
