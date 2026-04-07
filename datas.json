@@ -1,20 +1,23 @@
 {
-    "last_update": "2026-04-07 13:48:50",
+    "last_update": "2026-04-07 14:01:03",
     "ac_power": 3007.38,
     "month_name": "APRIL",
     "current_year": 2026,
-    "carbon": 9105,
-    "alberi": 12451,
-    "t_evita": 7670,
-    "total_dayenergy": 8255.800000000221,
-    "life_energy": 19174629,
+    "carbon": 9109,
+    "alberi": 12457,
+    "t_evita": 7674,
+    "total_dayenergy": [
+        "9230.400000000198"
+    ],
+    "life_energy": 19184460,
     "acEnergy_hour_day": [
         "6",
         "7",
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "42.40000000031432",
@@ -22,7 +25,8 @@
         "994.7999999999884",
         "1755.2999999999884",
         "2365.0000000001164",
-        "2778.700000000012"
+        "2778.700000000012",
+        "2276.699999999953"
     ],
     "all_years_list": [
         "2023",
@@ -34,7 +38,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "1009807.1000000001"
+        "1019638.1000000002"
     ],
     "all_daymonth_list": [
         "01",
@@ -120,11 +124,11 @@
         "176082.80000000002",
         "276168.4000000001",
         "433928.00000000006",
-        "123627.8999999999"
+        "133458.90000000002"
     ],
-    "temperature_2m": "21.8 \u00b0C",
+    "temperature_2m": "22.0 \u00b0C",
     "relative_humidity_2m": "52 %",
-    "apparent_temperature": "22.9 \u00b0C",
+    "apparent_temperature": "23.1 \u00b0C",
     "is_day": 1,
     "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
@@ -133,8 +137,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1021.2 hPa",
-    "surface_pressure": "1004.6 hPa",
-    "wind_speed_10m": "6.0 km/h",
-    "wind_direction_10m": "213 \u00b0"
+    "pressure_msl": "1021.1 hPa",
+    "surface_pressure": "1004.5 hPa",
+    "wind_speed_10m": "5.9 km/h",
+    "wind_direction_10m": "218 \u00b0"
 }
