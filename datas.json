@@ -1,20 +1,23 @@
 {
-    "last_update": "2026-04-09 13:48:50",
+    "last_update": "2026-04-09 14:01:04",
     "ac_power": 2938.1,
     "month_name": "APRIL",
     "current_year": 2026,
-    "carbon": 9126,
-    "alberi": 12479,
-    "t_evita": 7687,
-    "total_dayenergy": 8426.70000000007,
-    "life_energy": 19218313,
+    "carbon": 9130,
+    "alberi": 12485,
+    "t_evita": 7691,
+    "total_dayenergy": [
+        "9396.900000000023"
+    ],
+    "life_energy": 19227431,
     "acEnergy_hour_day": [
         "6",
         "7",
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "37.40000000002328",
@@ -22,7 +25,8 @@
         "1053.5999999999185",
         "1836.0999999999767",
         "2397.700000000012",
-        "2763.4000000000237"
+        "2763.4000000000237",
+        "970.1999999999534"
     ],
     "all_years_list": [
         "2023",
@@ -34,7 +38,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "1053491.2000000002"
+        "1062609.8"
     ],
     "all_daymonth_list": [
         "01",
@@ -124,11 +128,11 @@
         "176082.80000000002",
         "276168.4000000001",
         "433928.00000000006",
-        "167311.99999999988"
+        "176430.59999999986"
     ],
-    "temperature_2m": "19.6 \u00b0C",
+    "temperature_2m": "19.7 \u00b0C",
     "relative_humidity_2m": "47 %",
-    "apparent_temperature": "19.5 \u00b0C",
+    "apparent_temperature": "19.7 \u00b0C",
     "is_day": 1,
     "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
@@ -136,9 +140,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "5 %",
-    "pressure_msl": "1017.3 hPa",
-    "surface_pressure": "1000.6 hPa",
+    "cloud_cover": "3 %",
+    "pressure_msl": "1017.2 hPa",
+    "surface_pressure": "1000.5 hPa",
     "wind_speed_10m": "7.3 km/h",
-    "wind_direction_10m": "169 \u00b0"
+    "wind_direction_10m": "171 \u00b0"
 }
