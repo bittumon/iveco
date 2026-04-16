@@ -1,20 +1,23 @@
 {
-    "last_update": "2026-04-16 13:48:51",
+    "last_update": "2026-04-16 14:01:03",
     "ac_power": 589.6,
     "month_name": "APRIL",
     "current_year": 2026,
-    "carbon": 9173,
-    "alberi": 12545,
-    "t_evita": 7727,
-    "total_dayenergy": 8445.099999999948,
-    "life_energy": 19318714,
+    "carbon": 9177,
+    "alberi": 12550,
+    "t_evita": 7731,
+    "total_dayenergy": [
+        "9807.600000000064"
+    ],
+    "life_energy": 19327702,
     "acEnergy_hour_day": [
         "6",
         "7",
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "65.7000000000844",
@@ -22,7 +25,8 @@
         "1154.5999999998894",
         "1761.8000000001048",
         "2390.0999999999767",
-        "2620.599999999962"
+        "2620.599999999962",
+        "1926.5999999999767"
     ],
     "all_years_list": [
         "2023",
@@ -34,7 +38,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "1153892.2"
+        "1162880.7000000002"
     ],
     "all_daymonth_list": [
         "01",
@@ -138,11 +142,11 @@
         "176082.80000000002",
         "276168.4000000001",
         "433928.00000000006",
-        "267712.99999999977"
+        "276701.50000000006"
     ],
-    "temperature_2m": "21.4 \u00b0C",
-    "relative_humidity_2m": "58 %",
-    "apparent_temperature": "22.1 \u00b0C",
+    "temperature_2m": "21.5 \u00b0C",
+    "relative_humidity_2m": "57 %",
+    "apparent_temperature": "21.9 \u00b0C",
     "is_day": 1,
     "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
@@ -150,9 +154,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "19 %",
-    "pressure_msl": "1018.6 hPa",
-    "surface_pressure": "1002.0 hPa",
-    "wind_speed_10m": "7.2 km/h",
-    "wind_direction_10m": "207 \u00b0"
+    "cloud_cover": "79 %",
+    "pressure_msl": "1018.5 hPa",
+    "surface_pressure": "1001.9 hPa",
+    "wind_speed_10m": "7.6 km/h",
+    "wind_direction_10m": "205 \u00b0"
 }
