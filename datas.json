@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-04-17 13:48:51",
+    "last_update": "2026-04-17 14:01:16",
     "ac_power": 572.4,
     "month_name": "APRIL",
     "current_year": 2026,
     "carbon": 9183,
     "alberi": 12558,
     "t_evita": 7736,
-    "total_dayenergy": 7040.600000000006,
+    "total_dayenergy": [
+        "8455.700000000128"
+    ],
     "life_energy": 19339473,
     "acEnergy_hour_day": [
         "5",
@@ -15,7 +17,8 @@
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "0.09999999997671694",
@@ -24,7 +27,8 @@
         "858.6000000001513",
         "1327.199999999706",
         "1646.6000000002532",
-        "2746.499999999884"
+        "2746.499999999884",
+        "2108.600000000195"
     ],
     "all_years_list": [
         "2023",
@@ -144,9 +148,9 @@
         "433928.00000000006",
         "288471.9"
     ],
-    "temperature_2m": "22.6 \u00b0C",
+    "temperature_2m": "22.7 \u00b0C",
     "relative_humidity_2m": "47 %",
-    "apparent_temperature": "23.4 \u00b0C",
+    "apparent_temperature": "23.1 \u00b0C",
     "is_day": 1,
     "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
@@ -154,9 +158,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "77 %",
-    "pressure_msl": "1019.2 hPa",
+    "cloud_cover": "37 %",
+    "pressure_msl": "1019.1 hPa",
     "surface_pressure": "1002.6 hPa",
-    "wind_speed_10m": "6.3 km/h",
-    "wind_direction_10m": "193 \u00b0"
+    "wind_speed_10m": "7.0 km/h",
+    "wind_direction_10m": "192 \u00b0"
 }
