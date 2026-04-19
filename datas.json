@@ -1,13 +1,15 @@
 {
-    "last_update": "2026-04-19 17:48:50",
+    "last_update": "2026-04-19 18:01:02",
     "ac_power": 633.1,
     "month_name": "APRIL",
     "current_year": 2026,
-    "carbon": 9204,
-    "alberi": 12586,
-    "t_evita": 7753,
-    "total_dayenergy": 12348.400000000038,
-    "life_energy": 19383103,
+    "carbon": 9207,
+    "alberi": 12591,
+    "t_evita": 7756,
+    "total_dayenergy": [
+        "13439.400000000198"
+    ],
+    "life_energy": 19389877,
     "acEnergy_hour_day": [
         "6",
         "8",
@@ -17,7 +19,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "1.400000000037835",
@@ -28,7 +31,8 @@
         "3037.0999999998603",
         "2813.5000000001164",
         "458.29999999990105",
-        "1536.5000000000873"
+        "1536.5000000000873",
+        "1745.2000000001865"
     ],
     "all_years_list": [
         "2023",
@@ -40,7 +44,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "1218281.6"
+        "1225055.2000000002"
     ],
     "all_daymonth_list": [
         "01",
@@ -150,21 +154,21 @@
         "176082.80000000002",
         "276168.4000000001",
         "433928.00000000006",
-        "332102.3999999998"
+        "338876.00000000006"
     ],
     "temperature_2m": "20.8 \u00b0C",
     "relative_humidity_2m": "59 %",
     "apparent_temperature": "21.0 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Cloudy",
+    "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
-    "cloud_cover": "100 %",
+    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
+    "cloud_cover": "0 %",
     "pressure_msl": "1013.0 hPa",
     "surface_pressure": "996.4 hPa",
-    "wind_speed_10m": "3.6 km/h",
-    "wind_direction_10m": "186 \u00b0"
+    "wind_speed_10m": "3.3 km/h",
+    "wind_direction_10m": "193 \u00b0"
 }
