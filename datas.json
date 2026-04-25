@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-04-26 00:48:51",
+    "last_update": "2026-04-26 01:01:01",
     "ac_power": 0.0,
     "month_name": "APRIL",
     "current_year": 2026,
     "carbon": 9430,
     "alberi": 12896,
     "t_evita": 7944,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "25192.800000000207"
+    ],
     "life_energy": 19860325,
     "acEnergy_hour_day": [
         "0",
@@ -150,9 +152,9 @@
         "433928.00000000006",
         "809324.2"
     ],
-    "temperature_2m": "16.1 \u00b0C",
-    "relative_humidity_2m": "61 %",
-    "apparent_temperature": "15.2 \u00b0C",
+    "temperature_2m": "15.8 \u00b0C",
+    "relative_humidity_2m": "62 %",
+    "apparent_temperature": "14.9 \u00b0C",
     "is_day": 0,
     "weather_exp": "Clear",
     "precipitation": "0.0 mm",
@@ -161,8 +163,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1015.0 hPa",
-    "surface_pressure": "998.1 hPa",
+    "pressure_msl": "1015.1 hPa",
+    "surface_pressure": "998.2 hPa",
     "wind_speed_10m": "3.6 km/h",
     "wind_direction_10m": "354 \u00b0"
 }
