@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-04-27 18:48:51",
+    "last_update": "2026-04-27 19:01:05",
     "ac_power": 240.2,
     "month_name": "APRIL",
     "current_year": 2026,
     "carbon": 9453,
     "alberi": 12927,
     "t_evita": 7963,
-    "total_dayenergy": 22650.600000000006,
+    "total_dayenergy": [
+        "23495.29999999992"
+    ],
     "life_energy": 19907001,
     "acEnergy_hour_day": [
         "5",
@@ -20,7 +22,8 @@
         "13",
         "14",
         "15",
-        "16"
+        "16",
+        "17"
     ],
     "acEnergy_hour": [
         "9.000000000087311",
@@ -34,7 +37,8 @@
         "2885.0999999998166",
         "2900.70000000023",
         "2475.9999999997817",
-        "1729.100000000064"
+        "1729.100000000064",
+        "1017.2000000000407"
     ],
     "all_years_list": [
         "2023",
@@ -104,7 +108,7 @@
         "359421.69999999984",
         "25192.800000000207",
         "23896.79999999983",
-        "17306.000000000276"
+        "23495.29999999992"
     ],
     "all_monthyear_list": [
         "September",
@@ -174,19 +178,19 @@
         "433928.00000000006",
         "856000.5999999999"
     ],
-    "temperature_2m": "24.5 \u00b0C",
+    "temperature_2m": "24.4 \u00b0C",
     "relative_humidity_2m": "43 %",
-    "apparent_temperature": "23.6 \u00b0C",
+    "apparent_temperature": "23.5 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Cloudy",
+    "weather_exp": "Mainly Sunny",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
-    "cloud_cover": "90 %",
-    "pressure_msl": "1014.7 hPa",
-    "surface_pressure": "998.3 hPa",
-    "wind_speed_10m": "7.9 km/h",
-    "wind_direction_10m": "177 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
+    "cloud_cover": "17 %",
+    "pressure_msl": "1014.6 hPa",
+    "surface_pressure": "998.2 hPa",
+    "wind_speed_10m": "8.0 km/h",
+    "wind_direction_10m": "175 \u00b0"
 }
