@@ -1,46 +1,22 @@
 {
-    "last_update": "2026-04-27 23:48:51",
+    "last_update": "2026-04-28 00:01:03",
     "ac_power": 0.0,
     "month_name": "APRIL",
     "current_year": 2026,
     "carbon": 9453,
     "alberi": 12927,
     "t_evita": 7963,
-    "total_dayenergy": 23945.300000000017,
+    "total_dayenergy": [
+        "23945.300000000017"
+    ],
     "life_energy": 19908167,
     "acEnergy_hour_day": [
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "11",
-        "12",
-        "13",
-        "14",
-        "15",
-        "16",
-        "17",
-        "18",
-        "19"
+        "0",
+        "0"
     ],
     "acEnergy_hour": [
-        "9.000000000087311",
-        "165.69999999992433",
-        "557.6000000000786",
-        "1271.2000000000262",
-        "1993.3000000001048",
-        "2546.89999999982",
-        "2951.300000000192",
-        "3164.6999999998807",
-        "2885.0999999998166",
-        "2900.70000000023",
-        "2475.9999999997817",
-        "1729.100000000064",
-        "1017.2000000000407",
-        "264.1000000000058",
-        "13.399999999965075"
+        "0",
+        "0"
     ],
     "all_years_list": [
         "2023",
@@ -181,18 +157,18 @@
         "857166.3"
     ],
     "temperature_2m": "19.8 \u00b0C",
-    "relative_humidity_2m": "58 %",
-    "apparent_temperature": "19.1 \u00b0C",
+    "relative_humidity_2m": "57 %",
+    "apparent_temperature": "19.0 \u00b0C",
     "is_day": 0,
-    "weather_exp": "Mainly Clear",
+    "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
-    "cloud_cover": "26 %",
+    "weather_code": "http://openweathermap.org/img/wn/03n@2x.png",
+    "cloud_cover": "100 %",
     "pressure_msl": "1015.7 hPa",
     "surface_pressure": "999.0 hPa",
-    "wind_speed_10m": "6.9 km/h",
-    "wind_direction_10m": "96 \u00b0"
+    "wind_speed_10m": "8.1 km/h",
+    "wind_direction_10m": "103 \u00b0"
 }
