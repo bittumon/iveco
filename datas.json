@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-05-07 12:48:50",
+    "last_update": "2026-05-07 13:01:11",
     "ac_power": 1340.2,
     "month_name": "MAY",
     "current_year": 2026,
     "carbon": 9530,
     "alberi": 13033,
     "t_evita": 8028,
-    "total_dayenergy": 6787.799999999988,
+    "total_dayenergy": [
+        "8133.299999999843"
+    ],
     "life_energy": 20070182,
     "acEnergy_hour_day": [
         "5",
@@ -14,7 +16,8 @@
         "7",
         "8",
         "9",
-        "10"
+        "10",
+        "11"
     ],
     "acEnergy_hour": [
         "51.69999999998254",
@@ -22,7 +25,8 @@
         "787.0000000000873",
         "1299.6000000001077",
         "2298.0999999998894",
-        "2050.499999999985"
+        "2050.499999999985",
+        "2444.399999999994"
     ],
     "all_years_list": [
         "2023",
@@ -124,9 +128,9 @@
         "902022.4999999997",
         "117158.50000000016"
     ],
-    "temperature_2m": "19.4 \u00b0C",
-    "relative_humidity_2m": "53 %",
-    "apparent_temperature": "19.4 \u00b0C",
+    "temperature_2m": "19.6 \u00b0C",
+    "relative_humidity_2m": "52 %",
+    "apparent_temperature": "19.5 \u00b0C",
     "is_day": 1,
     "weather_exp": "Mainly Sunny",
     "precipitation": "0.0 mm",
@@ -134,9 +138,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "31 %",
-    "pressure_msl": "1013.6 hPa",
-    "surface_pressure": "997.0 hPa",
-    "wind_speed_10m": "9.9 km/h",
-    "wind_direction_10m": "260 \u00b0"
+    "cloud_cover": "19 %",
+    "pressure_msl": "1013.5 hPa",
+    "surface_pressure": "996.9 hPa",
+    "wind_speed_10m": "9.6 km/h",
+    "wind_direction_10m": "257 \u00b0"
 }
