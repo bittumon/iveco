@@ -1,13 +1,15 @@
 {
-    "last_update": "2026-05-09 17:48:51",
+    "last_update": "2026-05-09 18:01:02",
     "ac_power": 1756.23,
     "month_name": "MAY",
     "current_year": 2026,
-    "carbon": 9555,
-    "alberi": 13067,
-    "t_evita": 8049,
-    "total_dayenergy": 21984.49999999994,
-    "life_energy": 20123646,
+    "carbon": 9560,
+    "alberi": 13074,
+    "t_evita": 8054,
+    "total_dayenergy": [
+        "22709.40000000001"
+    ],
+    "life_energy": 20134179,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -19,7 +21,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "24.699999999953437",
@@ -32,7 +35,8 @@
         "3210.19999999991",
         "3206.600000000064",
         "2960.900000000067",
-        "2516.39999999998"
+        "2516.39999999998",
+        "1630.8000000000177"
     ],
     "all_years_list": [
         "2023",
@@ -44,7 +48,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "1958824.4999999995"
+        "1969357.4"
     ],
     "all_daymonth_list": [
         "01",
@@ -136,11 +140,11 @@
         "276168.4000000001",
         "433928.00000000006",
         "902022.4999999997",
-        "170622.7999999999"
+        "181155.7000000001"
     ],
     "temperature_2m": "24.1 \u00b0C",
     "relative_humidity_2m": "37 %",
-    "apparent_temperature": "22.9 \u00b0C",
+    "apparent_temperature": "22.8 \u00b0C",
     "is_day": 1,
     "weather_exp": "Mainly Sunny",
     "precipitation": "0.0 mm",
@@ -148,9 +152,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "24 %",
-    "pressure_msl": "1014.2 hPa",
-    "surface_pressure": "997.8 hPa",
-    "wind_speed_10m": "5.9 km/h",
-    "wind_direction_10m": "227 \u00b0"
+    "cloud_cover": "25 %",
+    "pressure_msl": "1014.1 hPa",
+    "surface_pressure": "997.7 hPa",
+    "wind_speed_10m": "6.1 km/h",
+    "wind_direction_10m": "230 \u00b0"
 }
