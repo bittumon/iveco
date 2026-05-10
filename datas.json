@@ -1,22 +1,26 @@
 {
-    "last_update": "2026-05-10 09:48:50",
+    "last_update": "2026-05-10 10:01:02",
     "ac_power": 437.57,
     "month_name": "MAY",
     "current_year": 2026,
     "carbon": 9561,
-    "alberi": 13075,
-    "t_evita": 8054,
-    "total_dayenergy": 300.39999999976135,
-    "life_energy": 20135579,
+    "alberi": 13076,
+    "t_evita": 8055,
+    "total_dayenergy": [
+        "503.4999999997235"
+    ],
+    "life_energy": 20136281,
     "acEnergy_hour_day": [
         "5",
         "6",
-        "7"
+        "7",
+        "8"
     ],
     "acEnergy_hour": [
         "19.09999999990396",
         "132.5000000000873",
-        "148.79999999977008"
+        "148.79999999977008",
+        "356.0000000000291"
     ],
     "all_years_list": [
         "2023",
@@ -28,7 +32,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "1970757.9"
+        "1971459.7999999998"
     ],
     "all_daymonth_list": [
         "01",
@@ -122,10 +126,10 @@
         "276168.4000000001",
         "433928.00000000006",
         "902022.4999999997",
-        "182556.20000000024"
+        "183258.10000000012"
     ],
-    "temperature_2m": "16.5 \u00b0C",
-    "relative_humidity_2m": "80 %",
+    "temperature_2m": "16.6 \u00b0C",
+    "relative_humidity_2m": "81 %",
     "apparent_temperature": "16.5 \u00b0C",
     "is_day": 1,
     "weather_exp": "Light Rain",
@@ -135,8 +139,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/10d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1014.0 hPa",
-    "surface_pressure": "997.2 hPa",
-    "wind_speed_10m": "7.0 km/h",
-    "wind_direction_10m": "282 \u00b0"
+    "pressure_msl": "1014.1 hPa",
+    "surface_pressure": "997.3 hPa",
+    "wind_speed_10m": "7.8 km/h",
+    "wind_direction_10m": "292 \u00b0"
 }
