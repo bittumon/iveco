@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-05-11 17:48:50",
+    "last_update": "2026-05-11 18:01:05",
     "ac_power": 67.5,
     "month_name": "MAY",
     "current_year": 2026,
     "carbon": 9568,
     "alberi": 13084,
     "t_evita": 8060,
-    "total_dayenergy": 14372.199999999764,
+    "total_dayenergy": [
+        "14421.199999999984"
+    ],
     "life_energy": 20149551,
     "acEnergy_hour_day": [
         "5",
@@ -19,7 +21,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "30.799999999871943",
@@ -32,7 +35,8 @@
         "2206.599999999904",
         "2451.400000000169",
         "1908.3999999999069",
-        "936.1999999998224"
+        "936.1999999998224",
+        "55.9000000001688"
     ],
     "all_years_list": [
         "2023",
@@ -142,19 +146,19 @@
         "902022.4999999997",
         "196527.29999999996"
     ],
-    "temperature_2m": "15.6 \u00b0C",
-    "relative_humidity_2m": "69 %",
-    "apparent_temperature": "13.7 \u00b0C",
+    "temperature_2m": "15.0 \u00b0C",
+    "relative_humidity_2m": "67 %",
+    "apparent_temperature": "12.6 \u00b0C",
     "is_day": 1,
     "weather_exp": "Thunderstorm With Hail",
-    "precipitation": "1.7 mm",
-    "rain": "1.3 mm",
-    "showers": "0.4 mm",
+    "precipitation": "4.2 mm",
+    "rain": "4.2 mm",
+    "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/11d@2x.png",
-    "cloud_cover": "94 %",
-    "pressure_msl": "1003.6 hPa",
-    "surface_pressure": "986.9 hPa",
-    "wind_speed_10m": "12.6 km/h",
-    "wind_direction_10m": "87 \u00b0"
+    "cloud_cover": "100 %",
+    "pressure_msl": "1003.8 hPa",
+    "surface_pressure": "987.1 hPa",
+    "wind_speed_10m": "14.4 km/h",
+    "wind_direction_10m": "90 \u00b0"
 }
