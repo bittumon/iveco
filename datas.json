@@ -1,13 +1,15 @@
 {
-    "last_update": "2026-05-11 13:48:51",
+    "last_update": "2026-05-11 14:01:04",
     "ac_power": 1826.85,
     "month_name": "MAY",
     "current_year": 2026,
-    "carbon": 9564,
-    "alberi": 13079,
-    "t_evita": 8057,
-    "total_dayenergy": 6869.599999999962,
-    "life_energy": 20142062,
+    "carbon": 9568,
+    "alberi": 13084,
+    "t_evita": 8060,
+    "total_dayenergy": [
+        "7260.800000000032"
+    ],
+    "life_energy": 20149551,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -15,7 +17,8 @@
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "30.799999999871943",
@@ -24,7 +27,8 @@
         "858.5000000000582",
         "1423.0999999999913",
         "1817.0000000001164",
-        "2041.999999999971"
+        "2041.999999999971",
+        "1400.9999999999854"
     ],
     "all_years_list": [
         "2023",
@@ -36,7 +40,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "1977240.2999999996"
+        "1984728.9999999998"
     ],
     "all_daymonth_list": [
         "01",
@@ -132,11 +136,11 @@
         "276168.4000000001",
         "433928.00000000006",
         "902022.4999999997",
-        "189038.59999999995"
+        "196527.29999999996"
     ],
-    "temperature_2m": "18.9 \u00b0C",
+    "temperature_2m": "19.1 \u00b0C",
     "relative_humidity_2m": "75 %",
-    "apparent_temperature": "19.6 \u00b0C",
+    "apparent_temperature": "19.8 \u00b0C",
     "is_day": 1,
     "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
@@ -144,9 +148,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
-    "cloud_cover": "77 %",
-    "pressure_msl": "1005.8 hPa",
-    "surface_pressure": "989.3 hPa",
-    "wind_speed_10m": "9.3 km/h",
-    "wind_direction_10m": "144 \u00b0"
+    "cloud_cover": "80 %",
+    "pressure_msl": "1005.6 hPa",
+    "surface_pressure": "989.1 hPa",
+    "wind_speed_10m": "9.4 km/h",
+    "wind_direction_10m": "148 \u00b0"
 }
