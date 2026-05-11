@@ -1,20 +1,20 @@
 {
-    "last_update": "2026-05-11 06:48:50",
+    "last_update": "2026-05-11 07:01:03",
     "ac_power": 36.53,
     "month_name": "MAY",
     "current_year": 2026,
     "carbon": 9563,
     "alberi": 13078,
     "t_evita": 8056,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "25.89999999984866"
+    ],
     "life_energy": 20140474,
     "acEnergy_hour_day": [
-        "0",
-        "0"
+        "5"
     ],
     "acEnergy_hour": [
-        "0",
-        "0"
+        "19.49999999976717"
     ],
     "all_years_list": [
         "2023",
@@ -52,7 +52,7 @@
         "18232.89999999998",
         "25234.00000000016",
         "4894.899999999834",
-        "0"
+        "25.89999999984866"
     ],
     "all_monthyear_list": [
         "September",
@@ -124,9 +124,9 @@
         "902022.4999999997",
         "187451.1000000001"
     ],
-    "temperature_2m": "14.8 \u00b0C",
-    "relative_humidity_2m": "93 %",
-    "apparent_temperature": "15.1 \u00b0C",
+    "temperature_2m": "14.7 \u00b0C",
+    "relative_humidity_2m": "92 %",
+    "apparent_temperature": "14.9 \u00b0C",
     "is_day": 1,
     "weather_exp": "Light Showers",
     "precipitation": "0.0 mm",
@@ -135,8 +135,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/09d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1009.0 hPa",
-    "surface_pressure": "992.2 hPa",
+    "pressure_msl": "1009.1 hPa",
+    "surface_pressure": "992.3 hPa",
     "wind_speed_10m": "6.0 km/h",
     "wind_direction_10m": "155 \u00b0"
 }
