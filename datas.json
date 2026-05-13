@@ -1,46 +1,22 @@
 {
-    "last_update": "2026-05-13 23:48:51",
+    "last_update": "2026-05-14 00:01:03",
     "ac_power": 0.0,
     "month_name": "MAY",
     "current_year": 2026,
     "carbon": 9791,
     "alberi": 13389,
     "t_evita": 8248,
-    "total_dayenergy": 432906.6000000004,
+    "total_dayenergy": [
+        "435094.3000000003"
+    ],
     "life_energy": 20619399,
     "acEnergy_hour_day": [
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "11",
-        "12",
-        "13",
-        "14",
-        "15",
-        "16",
-        "17",
-        "18",
-        "19",
-        "20"
+        "0",
+        "0"
     ],
     "acEnergy_hour": [
-        "42.600000000195",
-        "295.5999999998894",
-        "878.6000000000058",
-        "1475.7000000000698",
-        "2059.199999999953",
-        "2677.6000000001222",
-        "3048.800000000061",
-        "3284.099999999933",
-        "3249.7999999999597",
-        "2599.699999999953",
-        "1337.3000000000757",
-        "1380.099999999802",
-        "531.7000000000553",
-        "56.10000000029686",
-        "409989.7"
+        "0",
+        "0"
     ],
     "all_years_list": [
         "2023",
@@ -154,9 +130,9 @@
         "902022.4999999997",
         "666376.1000000001"
     ],
-    "temperature_2m": "13.6 \u00b0C",
+    "temperature_2m": "13.4 \u00b0C",
     "relative_humidity_2m": "61 %",
-    "apparent_temperature": "11.8 \u00b0C",
+    "apparent_temperature": "11.6 \u00b0C",
     "is_day": 0,
     "weather_exp": "Clear",
     "precipitation": "0.0 mm",
@@ -165,8 +141,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1005.4 hPa",
-    "surface_pressure": "988.6 hPa",
+    "pressure_msl": "1005.3 hPa",
+    "surface_pressure": "988.5 hPa",
     "wind_speed_10m": "5.5 km/h",
     "wind_direction_10m": "32 \u00b0"
 }
