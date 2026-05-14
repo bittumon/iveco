@@ -1,13 +1,15 @@
 {
-    "last_update": "2026-05-14 13:48:50",
+    "last_update": "2026-05-14 14:01:04",
     "ac_power": 3372.23,
     "month_name": "MAY",
     "current_year": 2026,
-    "carbon": 9792,
-    "alberi": 13390,
-    "t_evita": 8248,
-    "total_dayenergy": 9283.79999999961,
-    "life_energy": 20621061,
+    "carbon": 9796,
+    "alberi": 13397,
+    "t_evita": 8253,
+    "total_dayenergy": [
+        "10190.099999999671"
+    ],
+    "life_energy": 20631314,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -15,7 +17,8 @@
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "50.89999999983411",
@@ -24,7 +27,8 @@
         "1069.2999999999593",
         "2138.100000000093",
         "2657.7999999998574",
-        "2825.799999999872"
+        "2825.799999999872",
+        "2465.0000000003347"
     ],
     "all_years_list": [
         "2023",
@@ -36,7 +40,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "2456239.8999999994"
+        "2466492.0"
     ],
     "all_daymonth_list": [
         "01",
@@ -138,11 +142,11 @@
         "276168.4000000001",
         "433928.00000000006",
         "902022.4999999997",
-        "668038.2"
+        "678290.3"
     ],
-    "temperature_2m": "18.7 \u00b0C",
-    "relative_humidity_2m": "55 %",
-    "apparent_temperature": "17.9 \u00b0C",
+    "temperature_2m": "18.8 \u00b0C",
+    "relative_humidity_2m": "54 %",
+    "apparent_temperature": "17.3 \u00b0C",
     "is_day": 1,
     "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
@@ -150,9 +154,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
-    "cloud_cover": "78 %",
-    "pressure_msl": "998.5 hPa",
-    "surface_pressure": "982.1 hPa",
-    "wind_speed_10m": "12.0 km/h",
+    "cloud_cover": "89 %",
+    "pressure_msl": "998.3 hPa",
+    "surface_pressure": "981.9 hPa",
+    "wind_speed_10m": "12.5 km/h",
     "wind_direction_10m": "131 \u00b0"
 }
