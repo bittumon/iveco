@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-05-16 18:48:50",
+    "last_update": "2026-05-16 19:01:03",
     "ac_power": 403.9,
     "month_name": "MAY",
     "current_year": 2026,
     "carbon": 9810,
     "alberi": 13415,
     "t_evita": 8264,
-    "total_dayenergy": 19409.300000000047,
+    "total_dayenergy": [
+        "20510.49999999994"
+    ],
     "life_energy": 20659714,
     "acEnergy_hour_day": [
         "5",
@@ -20,7 +22,8 @@
         "13",
         "14",
         "15",
-        "16"
+        "16",
+        "17"
     ],
     "acEnergy_hour": [
         "55.699999999895226",
@@ -34,7 +37,8 @@
         "1995.6999999998952",
         "3224.7000000000407",
         "1558.9000000000815",
-        "853.3999999999651"
+        "1041.0999999998603",
+        "913.5"
     ],
     "all_years_list": [
         "2023",
@@ -82,7 +86,7 @@
         "435094.3000000003",
         "13807.999999999767",
         "6909.800000000032",
-        "18940.300000000163"
+        "20510.49999999994"
     ],
     "all_monthyear_list": [
         "September",
@@ -154,19 +158,19 @@
         "902022.4999999997",
         "706690.9"
     ],
-    "temperature_2m": "19.2 \u00b0C",
-    "relative_humidity_2m": "38 %",
-    "apparent_temperature": "17.2 \u00b0C",
+    "temperature_2m": "18.8 \u00b0C",
+    "relative_humidity_2m": "35 %",
+    "apparent_temperature": "16.7 \u00b0C",
     "is_day": 1,
-    "weather_exp": "Sunny",
+    "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "9 %",
-    "pressure_msl": "1005.0 hPa",
-    "surface_pressure": "988.5 hPa",
-    "wind_speed_10m": "4.7 km/h",
-    "wind_direction_10m": "157 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
+    "cloud_cover": "64 %",
+    "pressure_msl": "1004.7 hPa",
+    "surface_pressure": "988.2 hPa",
+    "wind_speed_10m": "3.3 km/h",
+    "wind_direction_10m": "283 \u00b0"
 }
