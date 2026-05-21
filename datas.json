@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-05-21 03:08:50",
+    "last_update": "2026-05-21 03:16:03",
     "ac_power": 0.0,
     "month_name": "MAY",
     "current_year": 2026,
     "carbon": 10024,
     "alberi": 13707,
     "t_evita": 8444,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "0"
+    ],
     "life_energy": 21109498,
     "acEnergy_hour_day": [
         "0",
@@ -144,7 +146,7 @@
         "902022.4999999997",
         "1156474.9999999998"
     ],
-    "temperature_2m": "15.7 \u00b0C",
+    "temperature_2m": "15.6 \u00b0C",
     "relative_humidity_2m": "79 %",
     "apparent_temperature": "15.5 \u00b0C",
     "is_day": 0,
