@@ -1,13 +1,15 @@
 {
-    "last_update": "2026-05-23 13:48:50",
+    "last_update": "2026-05-23 14:01:02",
     "ac_power": 3201.0,
     "month_name": "MAY",
     "current_year": 2026,
-    "carbon": 10050,
-    "alberi": 13744,
-    "t_evita": 8466,
-    "total_dayenergy": 10688.500000000175,
-    "life_energy": 21165092,
+    "carbon": 10055,
+    "alberi": 13751,
+    "t_evita": 8471,
+    "total_dayenergy": [
+        "11480.60000000018"
+    ],
+    "life_energy": 21176527,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -15,7 +17,8 @@
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "68.00000000004366",
@@ -24,7 +27,8 @@
         "1532.8999999997611",
         "2212.400000000227",
         "2748.7999999999447",
-        "3028.400000000081"
+        "3028.400000000081",
+        "2391.2999999999884"
     ],
     "all_years_list": [
         "2023",
@@ -36,7 +40,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "3000270.0999999996"
+        "3011705.9"
     ],
     "all_daymonth_list": [
         "01",
@@ -156,11 +160,11 @@
         "276168.4000000001",
         "433928.00000000006",
         "902022.4999999997",
-        "1212068.4"
+        "1223504.2000000002"
     ],
-    "temperature_2m": "27.8 \u00b0C",
+    "temperature_2m": "28.0 \u00b0C",
     "relative_humidity_2m": "36 %",
-    "apparent_temperature": "29.2 \u00b0C",
+    "apparent_temperature": "29.3 \u00b0C",
     "is_day": 1,
     "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
@@ -169,8 +173,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1024.8 hPa",
-    "surface_pressure": "1008.4 hPa",
+    "pressure_msl": "1024.7 hPa",
+    "surface_pressure": "1008.3 hPa",
     "wind_speed_10m": "7.7 km/h",
     "wind_direction_10m": "217 \u00b0"
 }
