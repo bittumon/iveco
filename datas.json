@@ -1,18 +1,22 @@
 {
-    "last_update": "2026-06-02 07:48:50",
+    "last_update": "2026-06-02 08:01:10",
     "ac_power": 59.8,
     "month_name": "JUNE",
     "current_year": 2026,
     "carbon": 10339,
     "alberi": 14139,
     "t_evita": 8710,
-    "total_dayenergy": 10.000000000334694,
+    "total_dayenergy": [
+        "22.500000000130967"
+    ],
     "life_energy": 21774779,
     "acEnergy_hour_day": [
-        "5"
+        "5",
+        "6"
     ],
     "acEnergy_hour": [
-        "10.000000000334694"
+        "10.000000000334694",
+        "40.69999999963329"
     ],
     "all_years_list": [
         "2023",
@@ -119,6 +123,6 @@
     "cloud_cover": "100 %",
     "pressure_msl": "1013.4 hPa",
     "surface_pressure": "996.9 hPa",
-    "wind_speed_10m": "9.2 km/h",
-    "wind_direction_10m": "111 \u00b0"
+    "wind_speed_10m": "9.4 km/h",
+    "wind_direction_10m": "113 \u00b0"
 }
