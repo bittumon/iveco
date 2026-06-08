@@ -1,20 +1,26 @@
 {
-    "last_update": "2026-06-07 03:58:50",
-    "ac_power": 0.0,
+    "last_update": "2026-06-08 09:16:18",
+    "ac_power": 1442.1,
     "month_name": "JUNE",
     "current_year": 2026,
-    "carbon": 10382,
-    "alberi": 14198,
-    "t_evita": 8746,
-    "total_dayenergy": 0.0,
-    "life_energy": 21865122,
+    "carbon": 10570,
+    "alberi": 14454,
+    "t_evita": 8904,
+    "total_dayenergy": [
+        "535.699999999837"
+    ],
+    "life_energy": 22259745,
     "acEnergy_hour_day": [
-        "0",
-        "0"
+        "4",
+        "5",
+        "6",
+        "7"
     ],
     "acEnergy_hour": [
-        "0",
-        "0"
+        "0.4000000000232831",
+        "96.9999999999418",
+        "291.69999999995343",
+        "563.4000000000669"
     ],
     "all_years_list": [
         "2023",
@@ -26,7 +32,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "3700300.599999999"
+        "4094923.7999999993"
     ],
     "all_daymonth_list": [
         "01",
@@ -35,7 +41,8 @@
         "04",
         "05",
         "06",
-        "07"
+        "07",
+        "08"
     ],
     "all_daymonth_data": [
         "23196.299999999857",
@@ -44,7 +51,8 @@
         "21440.299999999886",
         "19611.099999999948",
         "19005.200000000084",
-        "0"
+        "394623.2",
+        "535.699999999837"
     ],
     "all_monthyear_list": [
         "September",
@@ -116,21 +124,21 @@
         "433928.00000000006",
         "902022.4999999997",
         "1798559.3999999994",
-        "113539.50000000006"
+        "508162.70000000007"
     ],
-    "temperature_2m": "17.4 \u00b0C",
-    "relative_humidity_2m": "79 %",
-    "apparent_temperature": "17.9 \u00b0C",
-    "is_day": 0,
-    "weather_exp": "Clear",
+    "temperature_2m": "24.2 \u00b0C",
+    "relative_humidity_2m": "57 %",
+    "apparent_temperature": "25.5 \u00b0C",
+    "is_day": 1,
+    "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
-    "cloud_cover": "0 %",
-    "pressure_msl": "1019.2 hPa",
-    "surface_pressure": "1002.4 hPa",
-    "wind_speed_10m": "4.8 km/h",
-    "wind_direction_10m": "27 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
+    "cloud_cover": "5 %",
+    "pressure_msl": "1019.8 hPa",
+    "surface_pressure": "1003.3 hPa",
+    "wind_speed_10m": "2.8 km/h",
+    "wind_direction_10m": "220 \u00b0"
 }
