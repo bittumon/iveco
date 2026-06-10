@@ -1,13 +1,15 @@
 {
-    "last_update": "2026-06-10 17:48:50",
+    "last_update": "2026-06-10 18:01:03",
     "ac_power": 1.0,
     "month_name": "JUNE",
     "current_year": 2026,
-    "carbon": 10597,
-    "alberi": 14491,
-    "t_evita": 8927,
-    "total_dayenergy": 14288.600000000122,
-    "life_energy": 22316856,
+    "carbon": 10600,
+    "alberi": 14496,
+    "t_evita": 8929,
+    "total_dayenergy": [
+        "14307.40000000008"
+    ],
+    "life_energy": 22323528,
     "acEnergy_hour_day": [
         "5",
         "6",
@@ -19,7 +21,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "36.40000000005239",
@@ -32,7 +35,8 @@
         "1286.4000000002998",
         "2190.49999999968",
         "2562.000000000145",
-        "1794.8000000000611"
+        "1794.8000000000611",
+        "28.09999999999127"
     ],
     "all_years_list": [
         "2023",
@@ -44,7 +48,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "4152033.999999999"
+        "4158706.099999999"
     ],
     "all_daymonth_list": [
         "01",
@@ -140,21 +144,21 @@
         "433928.00000000006",
         "902022.4999999997",
         "1798559.3999999994",
-        "565272.9000000001"
+        "571945"
     ],
-    "temperature_2m": "22.3 \u00b0C",
-    "relative_humidity_2m": "63 %",
-    "apparent_temperature": "22.3 \u00b0C",
+    "temperature_2m": "21.2 \u00b0C",
+    "relative_humidity_2m": "65 %",
+    "apparent_temperature": "20.9 \u00b0C",
     "is_day": 1,
     "weather_exp": "Light Thunderstorms With Hail",
-    "precipitation": "5.7 mm",
-    "rain": "5.6 mm",
+    "precipitation": "0.0 mm",
+    "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/11d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1007.7 hPa",
-    "surface_pressure": "991.3 hPa",
-    "wind_speed_10m": "10.6 km/h",
-    "wind_direction_10m": "66 \u00b0"
+    "pressure_msl": "1008.1 hPa",
+    "surface_pressure": "991.6 hPa",
+    "wind_speed_10m": "11.3 km/h",
+    "wind_direction_10m": "59 \u00b0"
 }
