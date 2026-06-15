@@ -1,13 +1,15 @@
 {
-    "last_update": "2026-06-15 21:48:51",
+    "last_update": "2026-06-15 22:01:02",
     "ac_power": 0.0,
     "month_name": "JUNE",
     "current_year": 2026,
-    "carbon": 10830,
-    "alberi": 14811,
-    "t_evita": 9123,
-    "total_dayenergy": 26036.199999999997,
-    "life_energy": 22808558,
+    "carbon": 10831,
+    "alberi": 14812,
+    "t_evita": 9124,
+    "total_dayenergy": [
+        "26038.19999999984"
+    ],
+    "life_energy": 22810584,
     "acEnergy_hour_day": [
         "4",
         "5",
@@ -24,7 +26,8 @@
         "16",
         "17",
         "18",
-        "19"
+        "19",
+        "20"
     ],
     "acEnergy_hour": [
         "1.0000000001455192",
@@ -42,7 +45,8 @@
         "1862.0000000001164",
         "1349.199999999837",
         "583.1999999998952",
-        "90.9000000001397"
+        "90.9000000001397",
+        "1.999999999839929"
     ],
     "all_years_list": [
         "2023",
@@ -54,7 +58,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "4643736.699999999"
+        "4645761.999999999"
     ],
     "all_daymonth_list": [
         "01",
@@ -160,11 +164,11 @@
         "433928.00000000006",
         "902022.4999999997",
         "1798559.3999999994",
-        "1056975.6000000003"
+        "1059000.8999999997"
     ],
-    "temperature_2m": "25.8 \u00b0C",
+    "temperature_2m": "25.6 \u00b0C",
     "relative_humidity_2m": "54 %",
-    "apparent_temperature": "26.7 \u00b0C",
+    "apparent_temperature": "26.4 \u00b0C",
     "is_day": 0,
     "weather_exp": "Clear",
     "precipitation": "0.0 mm",
@@ -173,8 +177,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1011.8 hPa",
-    "surface_pressure": "995.5 hPa",
+    "pressure_msl": "1012.0 hPa",
+    "surface_pressure": "995.7 hPa",
     "wind_speed_10m": "7.3 km/h",
     "wind_direction_10m": "101 \u00b0"
 }
