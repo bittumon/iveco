@@ -1,24 +1,28 @@
 {
-    "last_update": "2026-06-15 09:48:51",
+    "last_update": "2026-06-15 10:01:04",
     "ac_power": 1635.2,
     "month_name": "JUNE",
     "current_year": 2026,
-    "carbon": 10819,
-    "alberi": 14795,
-    "t_evita": 9114,
-    "total_dayenergy": 1309.3000000000466,
-    "life_energy": 22784545,
+    "carbon": 10820,
+    "alberi": 14797,
+    "t_evita": 9115,
+    "total_dayenergy": [
+        "1647.5000000002474"
+    ],
+    "life_energy": 22787228,
     "acEnergy_hour_day": [
         "4",
         "5",
         "6",
-        "7"
+        "7",
+        "8"
     ],
     "acEnergy_hour": [
         "1.0000000001455192",
         "92.39999999981956",
         "344.80000000014843",
-        "871.0999999999331"
+        "871.0999999999331",
+        "1152.7000000000262"
     ],
     "all_years_list": [
         "2023",
@@ -30,7 +34,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "4619723.899999999"
+        "4622406.6"
     ],
     "all_daymonth_list": [
         "01",
@@ -136,11 +140,11 @@
         "433928.00000000006",
         "902022.4999999997",
         "1798559.3999999994",
-        "1032962.8"
+        "1035645.5"
     ],
-    "temperature_2m": "24.4 \u00b0C",
-    "relative_humidity_2m": "67 %",
-    "apparent_temperature": "26.7 \u00b0C",
+    "temperature_2m": "25.0 \u00b0C",
+    "relative_humidity_2m": "64 %",
+    "apparent_temperature": "27.2 \u00b0C",
     "is_day": 1,
     "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
@@ -151,6 +155,6 @@
     "cloud_cover": "0 %",
     "pressure_msl": "1010.5 hPa",
     "surface_pressure": "994.2 hPa",
-    "wind_speed_10m": "5.7 km/h",
-    "wind_direction_10m": "145 \u00b0"
+    "wind_speed_10m": "6.6 km/h",
+    "wind_direction_10m": "139 \u00b0"
 }
