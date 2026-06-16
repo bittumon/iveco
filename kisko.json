@@ -861,13 +861,13 @@
           "07:50": 84.96,
           "07:55": 89.98,
           "08:00": 95.65,
-          "08:05": null,
-          "08:10": null,
-          "08:15": null,
-          "08:20": null,
-          "08:25": null,
-          "08:30": null,
-          "08:35": null,
+          "08:05": 100.56,
+          "08:10": 105.7,
+          "08:15": 111.05,
+          "08:20": 115.7,
+          "08:25": 120.91,
+          "08:30": 125.59,
+          "08:35": 130.43,
           "08:40": null,
           "08:45": null,
           "08:50": null,
@@ -1054,7 +1054,7 @@
           "23:55": null
         }
       },
-      "currentPower": "0"
+      "currentPower": "130.58"
     },
     "stationOverview": {
       "stationName": "Bobbio",
@@ -1110,20 +1110,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 91574.02,
+      "co2ReductionByYear": 91605.39,
       "equivalentTreePlantingByYear": 126,
-      "standardCoalSavings": 149765.66,
+      "standardCoalSavings": 149792.08,
       "componentFlag": 0,
-      "equivalentTreePlanting": 243,
-      "co2Reduction": 177846.72,
-      "standardCoalSavingsByYear": 77114.96
+      "equivalentTreePlanting": 244,
+      "co2Reduction": 177878.1,
+      "standardCoalSavingsByYear": 77141.38
     },
     "realKpi": {
-      "realTimePower": 0,
-      "cumulativeEnergy": 374414.15,
-      "monthEnergy": 32505.52,
-      "dailyEnergy": 82.63,
-      "yearEnergy": 192787.4
+      "realTimePower": 130.58,
+      "cumulativeEnergy": 374480.2,
+      "monthEnergy": 32571.57,
+      "dailyEnergy": 148.68,
+      "yearEnergy": 192853.45
     }
   },
   "Bomocaf": {
@@ -8868,11 +8868,11 @@
           "08:00": 7.29,
           "08:05": 9.54,
           "08:10": 9.59,
-          "08:15": null,
-          "08:20": null,
-          "08:25": null,
-          "08:30": null,
-          "08:35": null,
+          "08:15": 7.85,
+          "08:20": 8,
+          "08:25": 9.21,
+          "08:30": 10.16,
+          "08:35": 8.71,
           "08:40": null,
           "08:45": null,
           "08:50": null,
@@ -9059,7 +9059,7 @@
           "23:55": null
         }
       },
-      "currentPower": "9.54"
+      "currentPower": "9.14"
     },
     "stationOverview": {
       "stationName": "MC FIT",
@@ -9115,20 +9115,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 15412.7,
+      "co2ReductionByYear": 15414.8,
       "equivalentTreePlantingByYear": 22,
-      "standardCoalSavings": 27026.33,
+      "standardCoalSavings": 27028.09,
       "componentFlag": 0,
       "equivalentTreePlanting": 44,
-      "co2Reduction": 32093.76,
-      "standardCoalSavingsByYear": 12979.12
+      "co2Reduction": 32095.86,
+      "standardCoalSavingsByYear": 12980.88
     },
     "realKpi": {
-      "realTimePower": 9.54,
-      "cumulativeEnergy": 67565.82,
-      "monthEnergy": 4116.45,
-      "dailyEnergy": 7.48,
-      "yearEnergy": 32447.79
+      "realTimePower": 9.14,
+      "cumulativeEnergy": 67570.23,
+      "monthEnergy": 4120.86,
+      "dailyEnergy": 11.89,
+      "yearEnergy": 32452.2
     }
   },
   "POSTE ITALIANE - MARTIGNACCO": {
@@ -9965,12 +9965,12 @@
           "07:55": 1.23,
           "08:00": 1.33,
           "08:05": 1.32,
-          "08:10": null,
-          "08:15": null,
-          "08:20": null,
-          "08:25": null,
-          "08:30": null,
-          "08:35": null,
+          "08:10": 1.51,
+          "08:15": 1.62,
+          "08:20": 1.69,
+          "08:25": 1.7,
+          "08:30": 1.71,
+          "08:35": 1.78,
           "08:40": null,
           "08:45": null,
           "08:50": null,
@@ -10157,7 +10157,7 @@
           "23:55": null
         }
       },
-      "currentPower": "1.23"
+      "currentPower": "1.78"
     },
     "stationOverview": {
       "stationName": "Gallarati 6kw",
@@ -10213,20 +10213,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 1348.52,
+      "co2ReductionByYear": 1348.86,
       "equivalentTreePlantingByYear": 2,
-      "standardCoalSavings": 1826.47,
+      "standardCoalSavings": 1826.76,
       "componentFlag": 0,
       "equivalentTreePlanting": 3,
-      "co2Reduction": 2168.94,
-      "standardCoalSavingsByYear": 1135.59
+      "co2Reduction": 2169.28,
+      "standardCoalSavingsByYear": 1135.88
     },
     "realKpi": {
-      "realTimePower": 1.23,
-      "cumulativeEnergy": 4566.18,
-      "monthEnergy": 425.49,
-      "dailyEnergy": 0.31,
-      "yearEnergy": 2838.98
+      "realTimePower": 1.78,
+      "cumulativeEnergy": 4566.91,
+      "monthEnergy": 426.22,
+      "dailyEnergy": 1.04,
+      "yearEnergy": 2839.71
     }
   },
   "CARIDI": {
