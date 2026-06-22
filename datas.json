@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-06-22 11:48:50",
+    "last_update": "2026-06-22 12:01:06",
     "ac_power": 2797.2,
     "month_name": "JUNE",
     "current_year": 2026,
     "carbon": 11141,
     "alberi": 15235,
     "t_evita": 9385,
-    "total_dayenergy": 4891.400000000096,
+    "total_dayenergy": [
+        "6161.800000000338"
+    ],
     "life_energy": 23462553,
     "acEnergy_hour_day": [
         "4",
@@ -14,7 +16,8 @@
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10"
     ],
     "acEnergy_hour": [
         "0.5999999999912689",
@@ -22,7 +25,8 @@
         "340.49999999995634",
         "743.4999999999563",
         "1525.4999999998836",
-        "2181.70000000023"
+        "2181.70000000023",
+        "1270.4000000002416"
     ],
     "all_years_list": [
         "2023",
@@ -156,9 +160,9 @@
         "1798559.3999999994",
         "1710970.1999999993"
     ],
-    "temperature_2m": "32.0 \u00b0C",
-    "relative_humidity_2m": "41 %",
-    "apparent_temperature": "35.4 \u00b0C",
+    "temperature_2m": "32.3 \u00b0C",
+    "relative_humidity_2m": "40 %",
+    "apparent_temperature": "35.7 \u00b0C",
     "is_day": 1,
     "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
@@ -167,8 +171,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1022.0 hPa",
-    "surface_pressure": "1005.9 hPa",
-    "wind_speed_10m": "5.4 km/h",
+    "pressure_msl": "1021.9 hPa",
+    "surface_pressure": "1005.8 hPa",
+    "wind_speed_10m": "5.8 km/h",
     "wind_direction_10m": "270 \u00b0"
 }
