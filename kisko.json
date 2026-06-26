@@ -856,13 +856,13 @@
           "07:25": 51.49,
           "07:30": 55.48,
           "07:35": 59.71,
-          "07:40": null,
-          "07:45": null,
-          "07:50": null,
-          "07:55": null,
-          "08:00": null,
-          "08:05": null,
-          "08:10": null,
+          "07:40": 65.62,
+          "07:45": 69.99,
+          "07:50": 74.79,
+          "07:55": 79.76,
+          "08:00": 84.9,
+          "08:05": 17.33,
+          "08:10": 95.24,
           "08:15": null,
           "08:20": null,
           "08:25": null,
@@ -1054,7 +1054,7 @@
           "23:55": null
         }
       },
-      "currentPower": "59.78"
+      "currentPower": "95.32"
     },
     "stationOverview": {
       "stationName": "Bobbio",
@@ -1110,20 +1110,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 101440.17,
+      "co2ReductionByYear": 101461.63,
       "equivalentTreePlantingByYear": 139,
-      "standardCoalSavings": 158074,
+      "standardCoalSavings": 158092.08,
       "componentFlag": 0,
       "equivalentTreePlanting": 257,
-      "co2Reduction": 187712.88,
-      "standardCoalSavingsByYear": 85423.3
+      "co2Reduction": 187734.34,
+      "standardCoalSavingsByYear": 85441.38
     },
     "realKpi": {
-      "realTimePower": 59.78,
-      "cumulativeEnergy": 395185.01,
-      "monthEnergy": 53276.38,
-      "dailyEnergy": 41.27,
-      "yearEnergy": 213558.26
+      "realTimePower": 95.32,
+      "cumulativeEnergy": 395230.19,
+      "monthEnergy": 53321.56,
+      "dailyEnergy": 86.45,
+      "yearEnergy": 213603.44
     }
   },
   "Bomocaf": {
@@ -9650,13 +9650,13 @@
           "07:25": 0.21,
           "07:30": 0.24,
           "07:35": 0.23,
-          "07:40": null,
-          "07:45": null,
-          "07:50": null,
-          "07:55": null,
-          "08:00": null,
-          "08:05": null,
-          "08:10": null,
+          "07:40": 0.58,
+          "07:45": 0.64,
+          "07:50": 0.87,
+          "07:55": 0.65,
+          "08:00": 0.85,
+          "08:05": 1.05,
+          "08:10": 1.09,
           "08:15": null,
           "08:20": null,
           "08:25": null,
@@ -9848,7 +9848,7 @@
           "23:55": null
         }
       },
-      "currentPower": "0.26"
+      "currentPower": "1.1"
     },
     "stationOverview": {
       "stationName": "Gallarati 6kw",
@@ -9913,7 +9913,7 @@
       "standardCoalSavingsByYear": 1255.15
     },
     "realKpi": {
-      "realTimePower": 0.26,
+      "realTimePower": 1.1,
       "cumulativeEnergy": 4865.07,
       "monthEnergy": 724.38,
       "dailyEnergy": 0,
