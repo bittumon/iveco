@@ -1,20 +1,24 @@
 {
-    "last_update": "2026-06-27 07:48:50",
+    "last_update": "2026-06-27 08:01:03",
     "ac_power": 338.1,
     "month_name": "JUNE",
     "current_year": 2026,
     "carbon": 11195,
     "alberi": 15309,
     "t_evita": 9430,
-    "total_dayenergy": 191.30000000017756,
+    "total_dayenergy": [
+        "381.399999999936"
+    ],
     "life_energy": 23575676,
     "acEnergy_hour_day": [
         "4",
-        "5"
+        "5",
+        "6"
     ],
     "acEnergy_hour": [
         "5.200000000084401",
-        "186.10000000009316"
+        "186.10000000009316",
+        "190.09999999975844"
     ],
     "all_years_list": [
         "2023",
@@ -158,9 +162,9 @@
         "1798559.3999999994",
         "1824093.7"
     ],
-    "temperature_2m": "28.1 \u00b0C",
+    "temperature_2m": "28.5 \u00b0C",
     "relative_humidity_2m": "65 %",
-    "apparent_temperature": "32.2 \u00b0C",
+    "apparent_temperature": "32.9 \u00b0C",
     "is_day": 1,
     "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
@@ -170,7 +174,7 @@
     "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
     "cloud_cover": "100 %",
     "pressure_msl": "1019.7 hPa",
-    "surface_pressure": "1003.4 hPa",
-    "wind_speed_10m": "1.4 km/h",
-    "wind_direction_10m": "360 \u00b0"
+    "surface_pressure": "1003.5 hPa",
+    "wind_speed_10m": "0.8 km/h",
+    "wind_direction_10m": "333 \u00b0"
 }
