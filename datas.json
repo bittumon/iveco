@@ -1,13 +1,15 @@
 {
-    "last_update": "2026-06-30 17:48:50",
+    "last_update": "2026-06-30 18:02:31",
     "ac_power": 1419.35,
     "month_name": "JUNE",
     "current_year": 2026,
-    "carbon": 11234,
-    "alberi": 15362,
-    "t_evita": 9463,
-    "total_dayenergy": 20475.09999999986,
-    "life_energy": 23658127,
+    "carbon": 11238,
+    "alberi": 15368,
+    "t_evita": 9467,
+    "total_dayenergy": [
+        "20875.500000000087"
+    ],
+    "life_energy": 23667348,
     "acEnergy_hour_day": [
         "4",
         "5",
@@ -20,7 +22,8 @@
         "12",
         "13",
         "14",
-        "15"
+        "15",
+        "16"
     ],
     "acEnergy_hour": [
         "0.09999999997671694",
@@ -34,7 +37,8 @@
         "3058.899999999907",
         "3083.099999999962",
         "2932.800000000032",
-        "1633.1999999999243"
+        "1633.1999999999243",
+        "1176.100000000035"
     ],
     "all_years_list": [
         "2023",
@@ -46,7 +50,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "5493305.299999999"
+        "5502526.599999999"
     ],
     "all_daymonth_list": [
         "01",
@@ -182,11 +186,11 @@
         "433928.00000000006",
         "902022.4999999997",
         "1798559.3999999994",
-        "1906544.1999999997"
+        "1915765.4999999998"
     ],
-    "temperature_2m": "34.6 \u00b0C",
+    "temperature_2m": "34.5 \u00b0C",
     "relative_humidity_2m": "36 %",
-    "apparent_temperature": "36.0 \u00b0C",
+    "apparent_temperature": "35.8 \u00b0C",
     "is_day": 1,
     "weather_exp": "Mainly Sunny",
     "precipitation": "0.0 mm",
@@ -194,9 +198,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "36 %",
+    "cloud_cover": "15 %",
     "pressure_msl": "1015.0 hPa",
     "surface_pressure": "999.1 hPa",
-    "wind_speed_10m": "7.9 km/h",
-    "wind_direction_10m": "254 \u00b0"
+    "wind_speed_10m": "8.8 km/h",
+    "wind_direction_10m": "261 \u00b0"
 }
