@@ -1,20 +1,24 @@
 {
-    "last_update": "2026-07-07 08:48:50",
+    "last_update": "2026-07-07 09:01:05",
     "ac_power": 966.23,
     "month_name": "JULY",
     "current_year": 2026,
     "carbon": 2660,
     "alberi": 3637,
     "t_evita": 2241,
-    "total_dayenergy": 373.5999999999185,
+    "total_dayenergy": [
+        "650.399999999936"
+    ],
     "life_energy": 5601445,
     "acEnergy_hour_day": [
         "5",
-        "6"
+        "6",
+        "7"
     ],
     "acEnergy_hour": [
         "73.49999999978172",
-        "300.1000000001368"
+        "300.1000000001368",
+        "423.6000000000349"
     ],
     "all_years_list": [
         "2026"
@@ -58,9 +62,9 @@
         "1917635.6",
         "97048.4000000002"
     ],
-    "temperature_2m": "26.2 \u00b0C",
-    "relative_humidity_2m": "56 %",
-    "apparent_temperature": "28.3 \u00b0C",
+    "temperature_2m": "26.6 \u00b0C",
+    "relative_humidity_2m": "55 %",
+    "apparent_temperature": "28.6 \u00b0C",
     "is_day": 1,
     "weather_exp": "Sunny",
     "precipitation": "0.0 mm",
@@ -71,6 +75,6 @@
     "cloud_cover": "0 %",
     "pressure_msl": "1018.4 hPa",
     "surface_pressure": "1002.1 hPa",
-    "wind_speed_10m": "1.5 km/h",
-    "wind_direction_10m": "225 \u00b0"
+    "wind_speed_10m": "2.8 km/h",
+    "wind_direction_10m": "220 \u00b0"
 }
