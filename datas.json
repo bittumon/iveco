@@ -1,26 +1,48 @@
 {
-    "last_update": "2026-07-11 20:48:50",
+    "last_update": "2026-07-11 21:01:06",
     "ac_power": 2927.9,
     "month_name": "JULY",
     "current_year": 2026,
     "carbon": 11336,
     "alberi": 15503,
     "t_evita": 9550,
-    "total_dayenergy": 4459.900000000111,
+    "total_dayenergy": [
+        "4459.900000000111"
+    ],
     "life_energy": 23874142,
     "acEnergy_hour_day": [
         "5",
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
     ],
     "acEnergy_hour": [
         "81.29999999979918",
         "443.20000000015716",
         "688.700000000099",
         "1475.1000000000495",
-        "1771.6000000000058"
+        "2097.5000000000873",
+        "2628.9999999999272",
+        "2985.0000000000146",
+        "3302.799999999974",
+        "2690.2999999996828",
+        "2433.3000000003085",
+        "1787.3999999998778",
+        "1842.200000000128",
+        "587.2000000000698",
+        "234.79999999978463",
+        "20.39999999993597"
     ],
     "all_years_list": [
         "2023",
@@ -134,9 +156,9 @@
         "1917635.6",
         "204924.10000000027"
     ],
-    "temperature_2m": "26.4 \u00b0C",
-    "relative_humidity_2m": "61 %",
-    "apparent_temperature": "27.5 \u00b0C",
+    "temperature_2m": "25.7 \u00b0C",
+    "relative_humidity_2m": "62 %",
+    "apparent_temperature": "26.3 \u00b0C",
     "is_day": 1,
     "weather_exp": "Light Showers",
     "precipitation": "0.0 mm",
@@ -145,8 +167,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/09d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1015.7 hPa",
-    "surface_pressure": "999.4 hPa",
-    "wind_speed_10m": "12.7 km/h",
-    "wind_direction_10m": "15 \u00b0"
+    "pressure_msl": "1015.9 hPa",
+    "surface_pressure": "999.6 hPa",
+    "wind_speed_10m": "15.0 km/h",
+    "wind_direction_10m": "17 \u00b0"
 }
