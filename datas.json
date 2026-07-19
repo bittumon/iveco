@@ -1,20 +1,23 @@
 {
-    "last_update": "2026-07-19 13:48:51",
+    "last_update": "2026-07-19 14:01:17",
     "ac_power": 1346.53,
     "month_name": "JULY",
     "current_year": 2026,
-    "carbon": 11699,
-    "alberi": 15999,
-    "t_evita": 9855,
-    "total_dayenergy": 10453.799999999988,
-    "life_energy": 24638306,
+    "carbon": 11705,
+    "alberi": 16008,
+    "t_evita": 9861,
+    "total_dayenergy": [
+        "11634.599999999831"
+    ],
+    "life_energy": 24651579,
     "acEnergy_hour_day": [
         "6",
         "7",
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ],
     "acEnergy_hour": [
         "293.09999999978754",
@@ -22,7 +25,8 @@
         "1287.000000000262",
         "2227.2000000000553",
         "2751.7999999999156",
-        "3080.099999999933"
+        "3080.099999999933",
+        "1959.4999999998254"
     ],
     "all_years_list": [
         "2023",
@@ -34,7 +38,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "6473484.199999999"
+        "6486757.199999999"
     ],
     "all_daymonth_list": [
         "01",
@@ -150,10 +154,10 @@
         "902022.4999999997",
         "1798559.3999999994",
         "1917635.6",
-        "969087.5"
+        "982360.5"
     ],
-    "temperature_2m": "30.6 \u00b0C",
-    "relative_humidity_2m": "43 %",
+    "temperature_2m": "30.8 \u00b0C",
+    "relative_humidity_2m": "41 %",
     "apparent_temperature": "33.4 \u00b0C",
     "is_day": 1,
     "weather_exp": "Sunny",
@@ -163,8 +167,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
     "cloud_cover": "0 %",
-    "pressure_msl": "1011.5 hPa",
-    "surface_pressure": "995.5 hPa",
+    "pressure_msl": "1011.3 hPa",
+    "surface_pressure": "995.3 hPa",
     "wind_speed_10m": "10.1 km/h",
     "wind_direction_10m": "266 \u00b0"
 }
