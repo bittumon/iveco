@@ -1,26 +1,30 @@
 {
-    "last_update": "2026-07-23 11:48:50",
+    "last_update": "2026-07-23 12:01:04",
     "ac_power": 1256.7,
     "month_name": "JULY",
     "current_year": 2026,
     "carbon": 11748,
     "alberi": 16066,
     "t_evita": 9897,
-    "total_dayenergy": 4368.299999999974,
+    "total_dayenergy": [
+        "4508.999999999927"
+    ],
     "life_energy": 24741404,
     "acEnergy_hour_day": [
         "5",
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10"
     ],
     "acEnergy_hour": [
         "19.699999999880674",
         "206.80000000013388",
         "699.3999999997905",
         "1471.5000000002474",
-        "1970.8999999999214"
+        "1970.8999999999214",
+        "997.9999999998108"
     ],
     "all_years_list": [
         "2023",
@@ -158,9 +162,9 @@
         "1917635.6",
         "1072185.9999999995"
     ],
-    "temperature_2m": "26.9 \u00b0C",
+    "temperature_2m": "27.1 \u00b0C",
     "relative_humidity_2m": "41 %",
-    "apparent_temperature": "27.9 \u00b0C",
+    "apparent_temperature": "28.2 \u00b0C",
     "is_day": 1,
     "weather_exp": "Cloudy",
     "precipitation": "0.0 mm",
@@ -169,8 +173,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1014.2 hPa",
-    "surface_pressure": "998.0 hPa",
-    "wind_speed_10m": "8.0 km/h",
-    "wind_direction_10m": "162 \u00b0"
+    "pressure_msl": "1014.1 hPa",
+    "surface_pressure": "997.9 hPa",
+    "wind_speed_10m": "8.2 km/h",
+    "wind_direction_10m": "165 \u00b0"
 }
