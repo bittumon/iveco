@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-08-04 19:48:50",
+    "last_update": "2026-08-04 20:01:04",
     "ac_power": 1726.67,
     "month_name": "AUGUST",
     "current_year": 2026,
     "carbon": 11896,
     "alberi": 16268,
     "t_evita": 10021,
-    "total_dayenergy": 24039.70000000007,
+    "total_dayenergy": [
+        "24405.099999999977"
+    ],
     "life_energy": 25052638,
     "acEnergy_hour_day": [
         "5",
@@ -21,7 +23,8 @@
         "14",
         "15",
         "16",
-        "17"
+        "17",
+        "18"
     ],
     "acEnergy_hour": [
         "26.000000000116415",
@@ -36,7 +39,8 @@
         "2816.5000000001746",
         "2477.199999999895",
         "1901.5000000000582",
-        "1175.899999999965"
+        "1175.899999999965",
+        "365.39999999990687"
     ],
     "all_years_list": [
         "2023",
@@ -60,7 +64,7 @@
         "24320.399999999994",
         "20530.200000000157",
         "24589.39999999979",
-        "22012.699999999924"
+        "24405.099999999977"
     ],
     "all_monthyear_list": [
         "September",
@@ -138,9 +142,9 @@
         "1290746.8999999997",
         "92672.6999999999"
     ],
-    "temperature_2m": "36.0 \u00b0C",
-    "relative_humidity_2m": "26 %",
-    "apparent_temperature": "35.9 \u00b0C",
+    "temperature_2m": "35.6 \u00b0C",
+    "relative_humidity_2m": "28 %",
+    "apparent_temperature": "35.8 \u00b0C",
     "is_day": 1,
     "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
@@ -148,9 +152,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "56 %",
-    "pressure_msl": "1012.4 hPa",
-    "surface_pressure": "996.7 hPa",
+    "cloud_cover": "74 %",
+    "pressure_msl": "1012.6 hPa",
+    "surface_pressure": "996.8 hPa",
     "wind_speed_10m": "8.2 km/h",
-    "wind_direction_10m": "221 \u00b0"
+    "wind_direction_10m": "232 \u00b0"
 }
