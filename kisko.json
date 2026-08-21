@@ -8771,13 +8771,13 @@
           "11:25": 0,
           "11:30": 0,
           "11:35": 0,
-          "11:40": null,
-          "11:45": null,
-          "11:50": null,
-          "11:55": null,
-          "12:00": null,
-          "12:05": null,
-          "12:10": null,
+          "11:40": 0,
+          "11:45": 0,
+          "11:50": 0,
+          "11:55": 0.01,
+          "12:00": 0.03,
+          "12:05": 0.03,
+          "12:10": 0.03,
           "12:15": null,
           "12:20": null,
           "12:25": null,
@@ -8921,7 +8921,7 @@
           "23:55": null
         }
       },
-      "currentPower": "0"
+      "currentPower": "0.03"
     },
     "stationOverview": {
       "stationName": "Gallarati 6kw",
@@ -8986,7 +8986,7 @@
       "standardCoalSavingsByYear": 1853.98
     },
     "realKpi": {
-      "realTimePower": 0,
+      "realTimePower": 0.03,
       "cumulativeEnergy": 6362.15,
       "monthEnergy": 481.81,
       "dailyEnergy": 0,
