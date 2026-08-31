@@ -8723,12 +8723,12 @@
           "07:25": 0.02,
           "07:30": 0.05,
           "07:35": 0.05,
-          "07:40": null,
-          "07:45": null,
-          "07:50": null,
-          "07:55": null,
-          "08:00": null,
-          "08:05": null,
+          "07:40": 0.27,
+          "07:45": 0.33,
+          "07:50": 0.38,
+          "07:55": 0.42,
+          "08:00": 0.49,
+          "08:05": 0.55,
           "08:10": null,
           "08:15": null,
           "08:20": null,
@@ -8921,7 +8921,7 @@
           "23:55": null
         }
       },
-      "currentPower": "0.05"
+      "currentPower": "0.55"
     },
     "stationOverview": {
       "stationName": "Gallarati 6kw",
@@ -8977,20 +8977,20 @@
     },
     "language": "it-IT",
     "socialContribution": {
-      "co2ReductionByYear": 2257.63,
+      "co2ReductionByYear": 2257.65,
       "equivalentTreePlantingByYear": 4,
-      "standardCoalSavings": 2592.04,
+      "standardCoalSavings": 2592.06,
       "componentFlag": 0,
       "equivalentTreePlanting": 5,
-      "co2Reduction": 3078.05,
-      "standardCoalSavingsByYear": 1901.16
+      "co2Reduction": 3078.07,
+      "standardCoalSavingsByYear": 1901.18
     },
     "realKpi": {
-      "realTimePower": 0.05,
-      "cumulativeEnergy": 6480.11,
-      "monthEnergy": 599.77,
-      "dailyEnergy": 0,
-      "yearEnergy": 4752.91
+      "realTimePower": 0.55,
+      "cumulativeEnergy": 6480.14,
+      "monthEnergy": 599.8,
+      "dailyEnergy": 0.03,
+      "yearEnergy": 4752.94
     }
   },
   "CARIDI": {
