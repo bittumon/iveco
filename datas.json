@@ -1,13 +1,15 @@
 {
-    "last_update": "2026-10-26 16:48:51",
+    "last_update": "2026-10-26 17:01:04",
     "ac_power": 81.2,
     "month_name": "OCTOBER",
     "current_year": 2026,
-    "carbon": 12582,
-    "alberi": 17206,
-    "t_evita": 10599,
-    "total_dayenergy": 15444.000000000058,
-    "life_energy": 26497856,
+    "carbon": 12585,
+    "alberi": 17210,
+    "t_evita": 10602,
+    "total_dayenergy": [
+        "15478.500000000058"
+    ],
+    "life_energy": 26504085,
     "acEnergy_hour_day": [
         "6",
         "7",
@@ -17,7 +19,8 @@
         "11",
         "12",
         "13",
-        "14"
+        "14",
+        "15"
     ],
     "acEnergy_hour": [
         "120.79999999993015",
@@ -28,7 +31,8 @@
         "2553.8000000000757",
         "2468.1999999999825",
         "1945.199999999837",
-        "988.600000000064"
+        "988.600000000064",
+        "174.69999999983702"
     ],
     "all_years_list": [
         "2023",
@@ -40,7 +44,7 @@
         "3449970.699999999",
         "9652591.999999998",
         "5062258.9",
-        "8333034.799999999"
+        "8339263.599999999"
     ],
     "all_daymonth_list": [
         "01",
@@ -176,11 +180,11 @@
         "1290746.8999999997",
         "659529.4999999998",
         "525448.2",
-        "352913.5"
+        "359142.3"
     ],
-    "temperature_2m": "14.2 \u00b0C",
-    "relative_humidity_2m": "64 %",
-    "apparent_temperature": "13.1 \u00b0C",
+    "temperature_2m": "14.0 \u00b0C",
+    "relative_humidity_2m": "66 %",
+    "apparent_temperature": "12.9 \u00b0C",
     "is_day": 1,
     "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
@@ -188,9 +192,9 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/02d@2x.png",
-    "cloud_cover": "67 %",
-    "pressure_msl": "1020.5 hPa",
-    "surface_pressure": "1003.4 hPa",
-    "wind_speed_10m": "2.9 km/h",
-    "wind_direction_10m": "330 \u00b0"
+    "cloud_cover": "61 %",
+    "pressure_msl": "1020.6 hPa",
+    "surface_pressure": "1003.5 hPa",
+    "wind_speed_10m": "3.4 km/h",
+    "wind_direction_10m": "342 \u00b0"
 }
