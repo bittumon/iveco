@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-11-02 00:48:51",
+    "last_update": "2026-11-02 01:01:04",
     "ac_power": 0.0,
     "month_name": "NOVEMBER",
     "current_year": 2026,
     "carbon": 12620,
     "alberi": 17259,
     "t_evita": 10631,
-    "total_dayenergy": 0.0,
+    "total_dayenergy": [
+        "None"
+    ],
     "life_energy": 26578614,
     "acEnergy_hour_day": [
         "0",
@@ -29,10 +31,12 @@
         "8413792.399999999"
     ],
     "all_daymonth_list": [
-        "01"
+        "01",
+        "02"
     ],
     "all_daymonth_data": [
-        "13536.199999999924"
+        "13536.199999999924",
+        "None"
     ],
     "all_monthyear_list": [
         "September",
@@ -117,8 +121,8 @@
         "13536.199999999924"
     ],
     "temperature_2m": "7.7 \u00b0C",
-    "relative_humidity_2m": "72 %",
-    "apparent_temperature": "5.3 \u00b0C",
+    "relative_humidity_2m": "69 %",
+    "apparent_temperature": "5.2 \u00b0C",
     "is_day": 0,
     "weather_exp": "Partly Cloudy",
     "precipitation": "0.0 mm",
@@ -126,7 +130,7 @@
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/02n@2x.png",
-    "cloud_cover": "55 %",
+    "cloud_cover": "52 %",
     "pressure_msl": "1021.5 hPa",
     "surface_pressure": "1004.0 hPa",
     "wind_speed_10m": "5.3 km/h",
