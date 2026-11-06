@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-11-06 13:18:50",
-    "ac_power": 19.5,
+    "last_update": "2026-11-06 13:31:08",
+    "ac_power": 386.35,
     "month_name": "NOVEMBER",
     "current_year": 2026,
     "carbon": 12638,
     "alberi": 17283,
     "t_evita": 10646,
-    "total_dayenergy": 856.600000000064,
+    "total_dayenergy": [
+        "856.600000000064"
+    ],
     "life_energy": 26616171,
     "acEnergy_hour_day": [
         "6",
@@ -22,7 +24,7 @@
         "164.89999999996508",
         "241.50000000020373",
         "218.69999999989523",
-        "89.09999999991851"
+        "304.0000000000291"
     ],
     "all_years_list": [
         "2023",
@@ -135,7 +137,7 @@
         "51092.79999999996"
     ],
     "temperature_2m": "10.0 \u00b0C",
-    "relative_humidity_2m": "76 %",
+    "relative_humidity_2m": "77 %",
     "apparent_temperature": "8.5 \u00b0C",
     "is_day": 1,
     "weather_exp": "Cloudy",
@@ -145,8 +147,8 @@
     "snowfall": "0.0 cm",
     "weather_code": "http://openweathermap.org/img/wn/03d@2x.png",
     "cloud_cover": "100 %",
-    "pressure_msl": "1023.1 hPa",
+    "pressure_msl": "1023.0 hPa",
     "surface_pressure": "1005.7 hPa",
-    "wind_speed_10m": "3.4 km/h",
-    "wind_direction_10m": "212 \u00b0"
+    "wind_speed_10m": "3.9 km/h",
+    "wind_direction_10m": "202 \u00b0"
 }
