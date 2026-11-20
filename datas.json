@@ -1,12 +1,14 @@
 {
-    "last_update": "2026-11-20 16:28:51",
+    "last_update": "2026-11-20 16:46:06",
     "ac_power": 126.82,
     "month_name": "NOVEMBER",
     "current_year": 2026,
     "carbon": 12640,
     "alberi": 17286,
     "t_evita": 10648,
-    "total_dayenergy": 9869.699999999779,
+    "total_dayenergy": [
+        "9936.599999999977"
+    ],
     "life_energy": 26620336,
     "acEnergy_hour_day": [
         "6",
@@ -17,7 +19,8 @@
         "11",
         "12",
         "13",
-        "14"
+        "14",
+        "15"
     ],
     "acEnergy_hour": [
         "32.49999999979627",
@@ -28,7 +31,8 @@
         "2224.200000000332",
         "1125.4999999997963",
         "450.199999999837",
-        "208.89999999999418"
+        "231.60000000000582",
+        "55.40000000002328"
     ],
     "all_years_list": [
         "2023",
@@ -84,7 +88,7 @@
         "803.0000000001455",
         "3367.6999999999243",
         "3378.700000000157",
-        "9760.09999999986"
+        "9936.599999999977"
     ],
     "all_monthyear_list": [
         "September",
@@ -168,19 +172,19 @@
         "420134.9",
         "55258.600000006816"
     ],
-    "temperature_2m": "10.5 \u00b0C",
-    "relative_humidity_2m": "90 %",
-    "apparent_temperature": "9.9 \u00b0C",
-    "is_day": 1,
-    "weather_exp": "Mainly Sunny",
+    "temperature_2m": "10.3 \u00b0C",
+    "relative_humidity_2m": "91 %",
+    "apparent_temperature": "9.6 \u00b0C",
+    "is_day": 0,
+    "weather_exp": "Mainly Clear",
     "precipitation": "0.0 mm",
     "rain": "0.0 mm",
     "showers": "0.0 mm",
     "snowfall": "0.0 cm",
-    "weather_code": "http://openweathermap.org/img/wn/01d@2x.png",
-    "cloud_cover": "67 %",
-    "pressure_msl": "1009.2 hPa",
-    "surface_pressure": "992.1 hPa",
-    "wind_speed_10m": "2.6 km/h",
-    "wind_direction_10m": "304 \u00b0"
+    "weather_code": "http://openweathermap.org/img/wn/01n@2x.png",
+    "cloud_cover": "51 %",
+    "pressure_msl": "1009.3 hPa",
+    "surface_pressure": "992.2 hPa",
+    "wind_speed_10m": "2.9 km/h",
+    "wind_direction_10m": "277 \u00b0"
 }
